@@ -45,7 +45,7 @@ You can download my CV here (12 June 2021).
 * The president of PPI Osaka Nara (Indonesian student association in Osaka & Nara), 2016-2017
 
 ## Service
-* The 1st Indonesian Student Association Scientific Conference (ISASC), Ichokaikan, Osaka university, October 2017
+* The 1st Indonesian Student Association Scientific Conference (ISASC), Osaka university, October 2017
 
 ## Publications
   <ul>{% for post in site.publications %}
