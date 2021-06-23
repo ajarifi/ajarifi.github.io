@@ -48,8 +48,10 @@ You can download my CV here.
 * The president of Indonesian student association in Osaka & Nara, 2016-2017
 
 ## Service
-* The 1st Indonesian Student Association Scientific Conference (ISASC), Osaka university, October 2017
-* Host of hadron seminar series, 2021 - present
+* Supervisor, The 1st Indonesian Student Association Scientific Conference (ISASC)\
+  Osaka university, October 2017
+* Host, Hadron seminar series\
+  Online, Maay 2021 - present
 
 ## Publications
   <ul>{% for post in site.publications %}
