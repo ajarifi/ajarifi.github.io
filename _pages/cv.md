@@ -13,8 +13,8 @@ You can download my CV here.
 
 
 ## Education
-* B.Sc, University of Indonesia, 2015 
-  * Advisor: Prof. Terry Mart
+* B.Sc, University of Indonesia, 2015\
+  Advisor: Prof. Terry Mart
 * M.Sc, Osaka University, Japan, 2017 
   * Advisor: Prof. Atsushi Hosaka
 * Ph.D, Osaka University, Japan, 2020 
