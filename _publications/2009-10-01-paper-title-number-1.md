@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Nucleon resonances with spin 3/2 and 5/2 in the isobar model for kaon photoproduction"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/article-1
+excerpt: 'T. Mart, S. Clymton, and A. J. Arifi'
+date: 2015-11-18
+venue: 'Physical Review D'
+paperurl: 
+citation: 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We compare two different propagator and vertex factor formulations of spin-3/2 and -5/2 nucleon resonances by using isobar models for kaon photoproduction on the proton γ+p→K+Λ. All nucleon resonances listed in the Particle Data Group listing with spin up to 5/2 and with at least a two-star rating are included in the model. The unknown coupling constants are extracted from fitting to around 7400 data points. It is found that the gauge-invariant formulation of the spin-3/2 and −5/2 interactions leads to a better agreement with experimental data. An extensive comparison of model calculation with experimental data and comparison with the previous analyses are presented. A short discussion on the cross section near the production threshold is also provided.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019)
