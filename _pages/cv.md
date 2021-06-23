@@ -36,6 +36,17 @@ You can download my CV here (12 June 2021).
 * The best presenter at international SNP school, Japan, 2018
 * The 2nd best contributor at APFB2020 conference, Japan (Online), 2021
 
+## Language
+* Indonesian
+* English (fluent)
+* Japanese (N3 - intermediate level) 
+
+## Leadership
+* The president of PPI Osaka Nara (Indonesian student association in Osaka & Nara), 2016-2017
+
+## Service
+* The 1st Indonesian Student Association Scientific Conference (ISASC), Ichokaikan, Osaka university, October 2017
+
 ## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -50,11 +61,3 @@ You can download my CV here (12 June 2021).
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-## Language
-* Indonesian
-* English (fluent)
-* Japanese (N3 - intermediate level) 
-
-## Leadership
-* The president of PPI Osaka Nara (Indonesian student association in Osaka & Nara), 2017
