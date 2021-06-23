@@ -12,5 +12,5 @@ This is the front page of a website that is powered by the [academicpages templa
 
 
 Favourite quote:
-Stay positive good things will happen.
+> Stay positive good things will happen.
 
