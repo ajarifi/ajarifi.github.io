@@ -29,9 +29,10 @@ You can download my CV here (12 June 2021).
   * Asia Pacific Center for Theoretical Physics (APCTP), South Korea
 
 ## Awards
-* Tanoto Foundation (TF) scholarship), 2012-2015
-* MEXT scholarship, 2015-2017
-* MEXT scholarship, 2017-2020
+* Gold Medalist, National Physics Olympiad, Indonesia, 2014
+* Tanoto Foundation (TF) scholarship, 2012-2015
+* Japanese government MEXT scholarship, 2015-2017
+* Japanese government MEXT scholarship, 2017-2020
 * The best presenter at international SNP school, Japan, 2018
 * The 2nd best contributor at APFB2020 conference, Japan (Online), 2021
 
