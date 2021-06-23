@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hadron theory"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ahmad Jafar Arifi"
 description              : &description "personal description"
 url                      : https://ajarifi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,10 +83,10 @@ author:
   name             : "Ahmad Jafar Arifi"
   avatar           : "profile.png"
   bio              : "Theoretical physicist"
-  location         : "South Korea"
-  employer         : "APCTP"
+  location         : "APCTP, South Korea"
+  employer         : 
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao"
   email            :
   researchgate     :  
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9530-8993"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
