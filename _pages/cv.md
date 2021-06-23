@@ -24,10 +24,8 @@ You can download my CV here.
 
 * Oct 2019 - Mar 2020: Intern\
   JAEA, Japan
-  
 * Oct 2020 - Feb 2021: Postdoc\
   RCNP, Osaka University, Japan
-
 * Mar 2021 - Present : Postdoc (YST fellowship)\
   APCTP, South Korea
 
