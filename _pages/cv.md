@@ -14,8 +14,8 @@ You can download my CV here (12 June 2021).
 
 ## Education
 * B.Sc, University of Indonesia, 2015 (Advisor: Prof. Terry Mart)
-* M.Sc, RCNP, Osaka University, 2017 (Advisor: Prof. Atsushi Hosaka)
-* Ph.D, RCNP, Osaka University, 2020 (Advisor: Prof. Atsushi Hosaka)
+* M.Sc, Osaka University, Japan, 2017 (Advisor: Prof. Atsushi Hosaka)
+* Ph.D, Osaka University, Japan, 2020 (Advisor: Prof. Atsushi Hosaka)
 
 ## Work experience
 
