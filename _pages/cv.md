@@ -15,21 +15,21 @@ You can download my CV here.
 ## Education
 * B.Sc, University of Indonesia, 2015\
   Advisor: Prof. Terry Mart
-* M.Sc, Osaka University, Japan, 2017 
-  * Advisor: Prof. Atsushi Hosaka
-* Ph.D, Osaka University, Japan, 2020 
-  * Advisor: Prof. Atsushi Hosaka
+* M.Sc, Osaka University, Japan, 2017\
+  Advisor: Prof. Atsushi Hosaka
+* Ph.D, Osaka University, Japan, 2020\
+  Advisor: Prof. Atsushi Hosaka
 
 ## Work experience
 
-* Oct 2019 - Mar 2020: Intern
-  * JAEA, Japan
+* Oct 2019 - Mar 2020: Intern\
+  JAEA, Japan
   
-* Oct 2020 - Feb 2021: Postdoc
-  * RCNP, Osaka University, Japan
+* Oct 2020 - Feb 2021: Postdoc\
+  RCNP, Osaka University, Japan
 
-* Mar 2021 - Present : Postdoc (YST fellowship)
-  * APCTP, South Korea
+* Mar 2021 - Present : Postdoc (YST fellowship)\
+  APCTP, South Korea
 
 ## Awards
 * Gold Medalist, National Physics Olympiad, Indonesia, 2014
