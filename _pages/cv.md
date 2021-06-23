@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV here (12 June 2021).\
+You can download my CV here (12 June 2021).
 
 
 ## Education
