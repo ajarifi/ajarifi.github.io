@@ -3,7 +3,7 @@ title: "(2) Three-Body Decay of Λc(2595) and Λc(2625)with consideration of Σc
 collection: publications
 permalink: /publication/article-2
 excerpt: ''
-date: 2017
+date: 2017-06-23
 venue: 'Phys.Rev.D95 114018'
 paperurl: 
 citation: 
