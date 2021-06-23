@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV here (updated on 12 June 2021).\\
+You can download my CV here (12 June 2021).\
 
 
 ## Education
+* B.Sc, University of Indonesia, 2015 (Advisor: Prof. Terry Mart)
+* M.Sc, RCNP, Osaka University, 2017 
+* Ph.D, RCNP, Osaka University, 2020 (Advisor: Prof. Atsushi Hosaka)
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Work experience
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2019 - March 2020: Intern
+  * Japan Atomic Energy Agency (JAEA), Japan
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Oct 2020 - Feb 2021: Postdoc
+  * RCNP, Osaka University, Japan
 
-Publications
-======
+* March 2021 - Present: Postdoc (YST fellowship)
+  * Asia Pacific Center for Theoretical Physics (APCTP), South Korea
+
+## Awards
+* Tanoto Foundation (TF) scholarship), 2012-2015
+* MEXT scholarship, 2015-2017
+* MEXT scholarship, 2017-2020
+* The best presenter at international SNP school, Japan, 2018
+* The 2nd best contributor at APFB2020 conference, Japan (Online), 2021
+
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Language
+* Indonesian
+* English (fluent)
+* Japanese (N3 - intermediate level) 
+
+## Leadership
+* The president of PPI Osaka Nara (Indonesian student association in Osaka & Nara), 2017
