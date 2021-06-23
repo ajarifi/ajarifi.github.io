@@ -1,5 +1,5 @@
 ---
-title: "Three-body decay of Λc(2595) and Λc(2625)with consideration of Σc(2455)π and Σc(2520)π in intermediate states"
+title: "Three-body decay of Λc(2595) and Λc(2625) with consideration of Σc(2455)π and Σc(2520)π in intermediate states"
 collection: publications
 permalink: /publication/article-2
 excerpt: 'Three-body decay of charmed baryons Λc(2595) and Λc(2625) into Λcππ are studied with effective Lagrangians in which 
