@@ -24,3 +24,4 @@ can explain the experimental data nicely. We also show invariant mass distributi
 which are significantly different for various quark configurations.
  
 [Journal link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018)
+
