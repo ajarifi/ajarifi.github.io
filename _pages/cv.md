@@ -23,32 +23,33 @@ You can download my CV here.
 ## Work experience
 
 * Oct 2019 - Mar 2020: Intern
-  * Japan Atomic Energy Agency (JAEA), Japan
+  * JAEA, Japan
   
 * Oct 2020 - Feb 2021: Postdoc
   * RCNP, Osaka University, Japan
 
 * Mar 2021 - Present : Postdoc (YST fellowship)
-  * Asia Pacific Center for Theoretical Physics (APCTP), South Korea
+  * APCTP, South Korea
 
 ## Awards
 * Gold Medalist, National Physics Olympiad, Indonesia, 2014
-* Tanoto Foundation (TF) scholarship, 2012-2015
-* Japanese government MEXT scholarship, 2015-2017
-* Japanese government MEXT scholarship, 2017-2020
-* The best presenter at international SNP school, Japan, 2018
+* Tanoto Foundation scholarship, 2012-2015
+* Japanese government scholarship, 2015-2017
+* Japanese government scholarship, 2017-2020
+* The best presenter at SNP school, Japan, 2018
 * The 2nd best contributor at APFB2020 conference, Japan (Online), 2021
 
 ## Language
 * Indonesian
 * English (fluent)
-* Japanese (N3 - intermediate level) 
+* Japanese (N3-intermediate level) 
 
 ## Leadership
-* The president of PPI Osaka Nara (Indonesian student association in Osaka & Nara), 2016-2017
+* The president of Indonesian student association in Osaka & Nara, 2016-2017
 
 ## Service
 * The 1st Indonesian Student Association Scientific Conference (ISASC), Osaka university, October 2017
+* Host of hadron seminar series, 2021 - present
 
 ## Publications
   <ul>{% for post in site.publications %}
