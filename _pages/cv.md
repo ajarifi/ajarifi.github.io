@@ -14,18 +14,18 @@ You can download my CV here (12 June 2021).
 
 ## Education
 * B.Sc, University of Indonesia, 2015 (Advisor: Prof. Terry Mart)
-* M.Sc, RCNP, Osaka University, 2017 
+* M.Sc, RCNP, Osaka University, 2017 (Advisor: Prof. Atsushi Hosaka)
 * Ph.D, RCNP, Osaka University, 2020 (Advisor: Prof. Atsushi Hosaka)
 
 ## Work experience
 
-* Oct 2019 - March 2020: Intern
+* Oct 2019 - Mar 2020: Intern
   * Japan Atomic Energy Agency (JAEA), Japan
   
 * Oct 2020 - Feb 2021: Postdoc
   * RCNP, Osaka University, Japan
 
-* March 2021 - Present: Postdoc (YST fellowship)
+* Mar 2021 - Present : Postdoc (YST fellowship)
   * Asia Pacific Center for Theoretical Physics (APCTP), South Korea
 
 ## Awards
