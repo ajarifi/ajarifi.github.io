@@ -50,7 +50,7 @@ You can download my CV here.
 ## Service
 * Supervisor, The 1st Indonesian Student Association Scientific Conference (ISASC)\
   Osaka university, October 2017
-* Host, Hadron seminar series\
+* Host, Hadron theory seminar series\
   Online, Maay 2021 - present
 
 ## Publications
