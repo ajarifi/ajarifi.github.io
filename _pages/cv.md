@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+You can download my CV here (updated on 12 June 2021).\\
+
+
+## Education
 
 Education
 ======
