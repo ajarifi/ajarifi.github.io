@@ -30,6 +30,7 @@ You can download my CV here.
   APCTP, South Korea
 
 <h2 style="color:#900C3F"> Awards </h2>
+
 * Gold Medalist, National Physics Olympiad, Indonesia, 2014
 * Tanoto Foundation scholarship, 2012-2015
 * Japanese government scholarship, 2015-2017
@@ -38,15 +39,18 @@ You can download my CV here.
 * The 2nd best contributor at APFB2020 conference, Japan (Online), 2021
 
 <h2 style="color:#900C3F"> Language </h2>
+
 * Indonesian
 * English (fluent)
 * Japanese (N3-intermediate level) 
 
 <h2 style="color:#900C3F"> Leadership </h2>
-* The president of Indonesian student association in Osaka & Nara, 2016-2017
+
+* <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017
 
 <h2 style="color:#900C3F"> Service </h2>
-* Supervisor, The 1st Indonesian Student Association Scientific Conference (ISASC)\
+
+* <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC)\
   Osaka university, October 2017
-* Host, Hadron theory seminar series\
+* <b>Host</b>, Hadron theory seminar series\
   Online, Maay 2021 - present
