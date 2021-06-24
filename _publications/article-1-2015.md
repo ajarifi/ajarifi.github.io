@@ -3,8 +3,7 @@ title: "Nucleon resonances with spin 3/2 and 5/2 in the isobar model for kaon ph
 collection: publications
 permalink: /publication/article-1
 excerpt: '
-<b>Authors</b>: T. Mart, S. Clymton, and A. J. Arifi  <br>
-<b>Link</b>: <a href="https://doi.org/10.1103/PhysRevD.92.094019">Phys.Rev.D92 094019 (2015)</a>'
+T. Mart, S. Clymton, and A. J. Arifi, <a href="https://doi.org/10.1103/PhysRevD.92.094019">Phys. Rev. D92 094019 (2015).</a>'
 
 date: '2015-11-23'
 venue: 'Physical Review D'
