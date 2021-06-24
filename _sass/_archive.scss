@@ -52,7 +52,6 @@
 
 /* remove border*/
 .page__content {
-   border-style: solid;
 
   .archive__item-title {
     margin-top: 1em;
@@ -71,6 +70,7 @@
 
 .archive__item-teaser {
   border-radius: $border-radius;
+  border-style: solid;
   overflow: hidden;
   img {
     width: 100%;
