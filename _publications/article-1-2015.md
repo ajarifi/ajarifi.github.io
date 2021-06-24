@@ -6,7 +6,7 @@ excerpt: '
 <b>Authors</b>: T. Mart, S. Clymton, and A. J. Arifi  <br>
 <b>Link</b>: <a href="https://doi.org/10.1103/PhysRevD.92.094019">Phys.Rev.D92 094019 (2015)</a>'
 
-date: 2015-11-18
+date: ''
 venue: ''
 paperurl:
 citation: 
