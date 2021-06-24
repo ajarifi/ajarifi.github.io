@@ -2,7 +2,7 @@
 title: "Three-body decay of Λc(2595) and Λc(2625) with consideration of Σc(2455)π and Σc(2520)π in intermediate states"
 collection: publications
 permalink: /publication/article-2
-excerpt: 'A. J. Arifi, H. Nagahiro, and A. Hosaka, [Phys Rev D95 114018 (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018)'
+excerpt: 'A. J. Arifi, H. Nagahiro, and A. Hosaka, [Phys Rev D95 114018 (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018)\ <hr>'
 date: 2017-06-23
 venue: 'Physical Review D'
 paperurl:
