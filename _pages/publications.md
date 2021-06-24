@@ -17,6 +17,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <p style="margin-bottom:1.2cm;"></p>
 
+<hr>
 ## Journal articles
 {% include base_path %}
 
