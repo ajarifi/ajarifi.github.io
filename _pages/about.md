@@ -36,7 +36,7 @@ Research
 * Samson Clymton
 * Daiki Suenaga
 
-<h3 color="#900C3F"> Past and present institution</h3>
+<h3 style="color:#900C3F"> Past and present institution</h3>
 
 * Asia Pacific Center for Theoretical Physics (APCTP), South Korea
 * Japan Atomic Energy Agency (JAEA), Japan
