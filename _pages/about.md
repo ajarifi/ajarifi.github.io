@@ -12,7 +12,7 @@ redirect_from:
 
 > Stay positive, good things will happen.
 
-<img src="images/cover.jpg" alt="cover" width="500" height="333">
+<img src="images/cover.jpg" alt="cover" width="500" height="333" class="center">
 
 <p style="margin-bottom:2cm;"></p>
 
