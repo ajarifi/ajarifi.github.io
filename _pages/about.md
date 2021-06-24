@@ -10,7 +10,7 @@ redirect_from:
 
 <p align="justify"> 
  I was born in Bekasi, Indonesia in December 1993. I spent my undergraduate study in physics department, University Indonesia. After that, I moved to Osaka, Japan to pursue my graduate study in hadron theory. I work under supervision by Prof. Atsushi Hosaka during my stay in RCNP, Osaka. We have discovered many exciting results on heavy baryon decays. I had also an opportunity to visit Japan Atomic Energy Agency for half year. Unfortunately, I graduated in Covid-19 Pandemics, but I managed to find a job in APCTP, Korea, which is my current position. </p>
-
+<p align="justify"> I enjoy traveling, playing video games, badminton, footbal and podcast.</p>
 > Stay positive, good things will happen.
 
 <center><img src="images/cover.jpg" alt="cover" width="500" height="333" ></center>
