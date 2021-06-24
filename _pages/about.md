@@ -12,6 +12,8 @@ redirect_from:
 
 > Stay positive, good things will happen.
 
+<img src="cover.jpg" alt="Trulli" width="500" height="333">
+
 <p style="margin-bottom:2cm;"></p>
 
 Research
