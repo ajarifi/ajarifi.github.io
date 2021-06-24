@@ -19,6 +19,10 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <hr>
 
+| No.| Paper                                                                  |
+| -- | ---------------------------------------------------------------------- |
+| 1. | Nucleon resonance with spin-3/2 and -5/2 in kaon photoproduction       |
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
