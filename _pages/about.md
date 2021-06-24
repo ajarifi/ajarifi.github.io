@@ -17,7 +17,7 @@ redirect_from:
 
 <p style="margin-bottom:2cm;"></p>
 
-<h2 style="color:#000080">  Research </h2>
+<h2 style="color:#000080">  My research </h2>
 
 <p align="justify"> My research focuses on hadron spectroscopy. At the very beginning, I did some computation on the kaon photoproduction. Now, I have done numerous computation on heavy baryon decays. I am mainly working on three-body decays by using Dalitz plot. Also, I do some quark model computations for estimating the decay rates of heavy baryons. </p>
 
