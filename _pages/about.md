@@ -37,6 +37,7 @@ Research
 * Daiki Suenaga
 
 <h3 color="#900C3F"> Past and present institution</h3>
+
 * Asia Pacific Center for Theoretical Physics (APCTP), South Korea
 * Japan Atomic Energy Agency (JAEA), Japan
 * Research Center for Nuclear Physics (RCNP), Japan
