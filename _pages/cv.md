@@ -12,7 +12,7 @@ redirect_from:
 You can download my CV here.
 
 
-<h3 style="color:#900C3F"> Education </h3>
+<h2 style="color:#900C3F"> Education </h2>
 * B.Sc, University of Indonesia, 2015\
   Advisor: Prof. Terry Mart
 * M.Sc, Osaka University, Japan, 2017\
@@ -20,7 +20,7 @@ You can download my CV here.
 * Ph.D, Osaka University, Japan, 2020\
   Advisor: Prof. Atsushi Hosaka
 
-<h3 style="color:#900C3F"> Work experience </h3>
+<h2 style="color:#900C3F"> Work experience </h2>
 
 * Oct 2019 - Mar 2020: Intern\
   JAEA, Japan
@@ -29,7 +29,7 @@ You can download my CV here.
 * Mar 2021 - Present : Postdoc (YST fellowship)\
   APCTP, South Korea
 
-<h3 style="color:#900C3F"> Awards </h3>
+<h2 style="color:#900C3F"> Awards </h2>
 * Gold Medalist, National Physics Olympiad, Indonesia, 2014
 * Tanoto Foundation scholarship, 2012-2015
 * Japanese government scholarship, 2015-2017
@@ -37,15 +37,15 @@ You can download my CV here.
 * The best presenter at SNP school, Japan, 2018
 * The 2nd best contributor at APFB2020 conference, Japan (Online), 2021
 
-<h3 style="color:#900C3F"> Language </h3>
+<h2 style="color:#900C3F"> Language </h2>
 * Indonesian
 * English (fluent)
 * Japanese (N3-intermediate level) 
 
-<h3 style="color:#900C3F"> Leadership </h3>
+<h2 style="color:#900C3F"> Leadership </h2>
 * The president of Indonesian student association in Osaka & Nara, 2016-2017
 
-<h3 style="color:#900C3F"> Service </h3>
+<h2 style="color:#900C3F"> Service </h2>
 * Supervisor, The 1st Indonesian Student Association Scientific Conference (ISASC)\
   Osaka university, October 2017
 * Host, Hadron theory seminar series\
