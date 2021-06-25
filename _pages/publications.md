@@ -19,7 +19,12 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <hr>
 
+
 <ol reversed>
+    <li style="margin-bottom: 25px;"><b>Three-body decay of Λ<sub>c</sub>(2765) and determination of its spin-parity</b><br> 
+      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida (May 21, 2021)<br> 
+      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.094023"> Phys.Rev.D 101, 094023 (2020).</a></i> </li>  
+    
     <li style="margin-bottom: 25px;"><b>A systematic study of charmed baryon decays</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (2019)<br> 
       Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.26.022031">JPS Conf.Proc. 26. 022031 (2019).</a></i> Contribution to: QNP 2018 </li>  
