@@ -65,4 +65,5 @@ You can download my CV here.
 
 * Indonesian
 * English (fluent)
-* Japanese (N3-intermediate level) 
+* Japanese (N3-intermediate) 
+* Korean (Beginner)
