@@ -22,7 +22,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <ol reversed>
   <li style="margin-bottom: 10px;"><b>Electromagnetic Production of Kaon with Spin 3/2 and 5/2 Nucleon Resonances </b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; T.Mart, S.Clymton, and <b style="color:#900C3F"> A. J. Arifi</b>,<br>
-      Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.10.042001">JPS Conf. Proc. 10 042001 (2016).</a> Contribution to: NSTAR 2015 </i></li>
+      Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.10.042001">JPS Conf. Proc. 10 042001 (2016).</a></i> Contribution to: NSTAR 2015 </li>
   
   <li><b><a href="https://ajarifi.github.io/publication/article-1"> Nucleon resonances with spin-3/2 and -5/2 in the isobar model for kaon photoproduction </a></b>
     <br> 
