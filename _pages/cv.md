@@ -32,18 +32,18 @@ You can download my CV here.
 
 <h2 style="color:#900C3F"> Awards </h2>
 
-* Gold Medalist, National Physics Olympiad, Indonesia, 2014
-* Tanoto Foundation scholarship, 2012-2015
-* Japanese government scholarship, 2015-2017
-* Japanese government scholarship, 2017-2020
-* The best presenter at SNP school, Japan, 2018
-* The 2nd best contributor at APFB2020 conference, Japan (Online), 2021
+* <b>Bachelor,</b> Tanoto Foundation scholarship, 2012-2015
+* <b>Gold Medalist</b> National Physics Olympiad, Indonesia, 2014
+* <b>Master,</b> Japanese government MEXT scholarship, 2015-2017
+* <b>Doctor,</b> Japanese government MEXT scholarship, 2017-2020
+* <b>The best presenter,</b> SNP school, Japan, 2018
+* <b>The 2nd best contributor,</b> APFB2020 conference, Japan (Online), 2021
 
 
 
 <h2 style="color:#900C3F"> Research Funding </h2>
 
-* Young Scientist Training (YST) Fellowship, 2021-2022, 5.000.000 KRW/year
+* <b> Young Scientist Training (YST) Fellowship,</b> 2021-2022, 5.000.000 KRW/year
 
 
 
