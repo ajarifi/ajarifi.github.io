@@ -21,6 +21,13 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 
 <ol reversed>
+  <li style="margin-bottom: 25px;"><b>Study of heavy baryons from three-body decays/b><br> 
+      <button class="btn--article-black">Ph.D. Thesis</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, (Sep 25, 2021)<br> 
+      Graduated from: <i> <a href="https://japanlinkcenter.org/jalc/linkSakiAnnaiOto/mRRidirect/index?doi=10.18910/77474"> Osaka University.</a></i> </li>
+  
+  <li style="margin-bottom: 25px;"><b>Roper-like resonances with various flavor contents and their two-pion emission decays</b><br> 
+      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida (Jun 16, 2021)<br> 
+      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.111502"> Phys.Rev.D 101, 111502(R) (2020).</a></i> </li> 
   
   <li style="margin-bottom: 25px;"><b>Three-body decay of Λ<sub>c</sub>(2765) and determination of its spin-parity</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida (May 21, 2021)<br> 
