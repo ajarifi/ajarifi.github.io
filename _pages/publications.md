@@ -20,6 +20,10 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <hr>
 
 <ol reversed>
+  <li style="margin-bottom: 25px;"><b>Three-body decay of Λc(2595) and Λc(2625) with consideration of Σc(2455)π and Σc(2520)π in intermediate states </b><br> 
+      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (June 23, 2017)<br> 
+      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018"> Phys.Rev.D 95, 114018 (2017).</a></i> </li>
+  
   <li style="margin-bottom: 25px;"><b>Spin 3/2 Nucleon Resonances in Kaon Photoproduction </b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b> and T. Mart, (2017)<br> 
       Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.17.063003">JPS Conf.Proc. 17, 063003 (2017).</a></i> Contribution to: HYP 2015 </li>
@@ -35,6 +39,6 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   <li><b><a href="https://ajarifi.github.io/publication/article-1"> Nucleon resonances with spin-3/2 and -5/2 in the isobar model for kaon photoproduction </a></b>
     <br> 
     <button class="btn--article">Article</button>&nbsp; T.Mart, S.Clymton, and <b style="color:#900C3F"> A. J. Arifi</b>, (Nov 18, 2017)<br>
-    Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Phys.Rev. D 92 094019 (2015).</a> </i></li>
+    Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Phys.Rev. D 92, 094019 (2015).</a> </i></li>
   
 </ol>
