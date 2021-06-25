@@ -14,7 +14,7 @@ You can download my CV here.
 
 <h2 style="color:#900C3F"> Education </h2>
 
-* <b>B.Sc, University of Indonesia,</b> 2015\
+* <b>B.Sc, University of Indonesia,</b> Indonesia, 2015\
   Thesis: Spin-3/2 nucleon resonances in kaon photoproduction\
   Advisor: <a href="https://inspirehep.net/authors/998691">Prof. Terry Mart</a>
 * <b>M.Sc, Osaka University,</b> Japan, 2017\
@@ -47,7 +47,7 @@ You can download my CV here.
 
 <h2 style="color:#900C3F"> Research Funding </h2>
 
-* <b> Young Scientist Training (YST) Fellowship,</b> 2021-2022, 5.000.000 KRW/year
+* <b> Young Scientist Training (YST) Fellowship,</b> 2021-2022
 
 
 
