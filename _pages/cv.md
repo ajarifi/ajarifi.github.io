@@ -51,6 +51,6 @@ You can download my CV here.
 <h2 style="color:#900C3F"> Service </h2>
 
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC)\
-  Osaka university, October 2017
+  Osaka university, Oct 2017
 * <b>Host</b>, Hadron theory seminar series\
-  Online, Maay 2021 - present
+  Online, May 2021 - present
