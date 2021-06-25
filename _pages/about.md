@@ -25,8 +25,8 @@ redirect_from:
 
 <h3 style="color:#900C3F"> Research Interest </h3>
 <button class="btn--article">Hadron spectroscopy</button>
-<button class="btn--article1">Quark model</button>
-<button class="btn--article2">Dalitz plot</button>
+<button class="btn--article-blue">Quark model</button>
+<button class="btn--article-black">Dalitz plot</button>
 
 <h3 style="color:#900C3F"> Co-Authors </h3>
 * Atsushi Hosaka (Ph.D. Advisor)
