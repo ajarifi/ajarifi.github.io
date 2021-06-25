@@ -14,20 +14,23 @@ You can download my CV here.
 
 <h2 style="color:#900C3F"> Education </h2>
 * B.Sc, University of Indonesia, 2015\
-  Advisor: Prof. Terry Mart
+  Thesis: Spin-3/2 nucleon resonances in kaon photoproduction\
+  Advisor: <a href="https://inspirehep.net/authors/998691">Prof. Terry Mart</a>
 * M.Sc, Osaka University, Japan, 2017\
-  Advisor: Prof. Atsushi Hosaka
+  Thesis: Pion emission decay of the charmed baryons for the study of their structure\
+  Advisor: <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Prof. Atsushi Hosaka</a>
 * Ph.D, Osaka University, Japan, 2020\
-  Advisor: Prof. Atsushi Hosaka
+  Thesis: Study of heavy baryons from three-body decays\
+  Advisor: <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Prof. Atsushi Hosaka</a>
 
 <h2 style="color:#900C3F"> Work experience </h2>
 
 * Oct 2019 - Mar 2020: Intern\
-  JAEA, Japan
+  Japan Atomic Energy Agency (JAEA), Japan
 * Oct 2020 - Feb 2021: Postdoc\
-  RCNP, Osaka University, Japan
+  Research Center for Nuclear Physics (RCNP), Japan
 * Mar 2021 - Present : Postdoc\
-  APCTP, South Korea
+  Asia Pacific Center for Theoretical Physics (APCTP), South Korea
 
 
 <h2 style="color:#900C3F"> Awards </h2>
@@ -47,18 +50,13 @@ You can download my CV here.
 
 
 
-<h2 style="color:#900C3F"> Leadership </h2>
+<h2 style="color:#900C3F"> Service & Leadership </h2>
 
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017
-
-
-
-<h2 style="color:#900C3F"> Service </h2>
-
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC)\
   Osaka university, Oct 2017
-* <b>Host</b>, Hadron theory seminar series\
-  Online, May 2021 - present
+* <b>Host</b>, Hadron theory seminar series (APCTP seminar)\
+  Online, 2021 - present
 
 
 
