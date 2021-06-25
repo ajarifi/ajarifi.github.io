@@ -24,9 +24,9 @@ redirect_from:
 <p> You can also visit my profile in <a href="https://inspirehep.net/authors/1410710">Inspire-HEP</a>. </p>
 
 <h3 style="color:#900C3F"> Research Interest </h3>
-<button class="button">Hadron spectroscopy</button>
-<button class="button">Quark model</button>
-<button class="button">Dalitz plot</button>
+<button class="btn--article">Hadron spectroscopy</button>
+<button class="btn--article1">Quark model</button>
+<button class="btn--article2">Dalitz plot</button>
 
 <h3 style="color:#900C3F"> Co-Authors </h3>
 * Atsushi Hosaka (Ph.D. Advisor)
