@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify"> 
- I was born in Bekasi, Indonesia, in December 1993. I spent my undergraduate study in physics department, University Indonesia. After that, I moved to Osaka to pursue my graduate study in theoretical physics. I mainly worked with <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Prof. Atsushi Hosaka</a> during my stay in <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">RCNP, Osaka university</a>. We have discovered many exciting results on heavy baryon decays. I had also an opportunity to do an internship in <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html">JAEA</a> for half year. Unfortunately, I graduated in Covid-19 Pandemics, but I managed to find a job in APCTP, Korea, which is my current position. </p>
+ I was born in Bekasi, Indonesia, in December 1993. I spent my undergraduate study in <a href="https://physics.ui.ac.id/?lang=id">physics department, University Indonesia</a>. After that, I moved to Osaka to pursue my graduate study in theoretical physics. I mainly worked with <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Prof. Atsushi Hosaka</a> during my stay in <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">RCNP, Osaka university</a>. We have discovered many exciting results on heavy baryon decays. I had also an opportunity to do an internship in <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html">JAEA</a> for half year. Unfortunately, I graduated in Covid-19 Pandemics, but I managed to find a job in APCTP, Korea, which is my current position. </p>
 <p align="justify"> I enjoy traveling, playing video games, badminton, football and podcast.</p>
 > Stay positive, good things will happen.
 
@@ -41,5 +41,5 @@ redirect_from:
 * Asia Pacific Center for Theoretical Physics (APCTP), South Korea
 * <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html">Japan Atomic Energy Agency (JAEA)</a>, Japan
 * <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">Research Center for Nuclear Physics (RCNP)</a>, Japan
-* Physics department, University Indonesia, Indonesia
+* <a href="https://physics.ui.ac.id/?lang=id">Physics department, University Indonesia</a>, Indonesia
 
