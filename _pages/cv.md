@@ -26,8 +26,9 @@ You can download my CV here.
   JAEA, Japan
 * Oct 2020 - Feb 2021: Postdoc\
   RCNP, Osaka University, Japan
-* Mar 2021 - Present : Postdoc (YST fellowship)\
+* Mar 2021 - Present : Postdoc\
   APCTP, South Korea
+
 
 <h2 style="color:#900C3F"> Awards </h2>
 
@@ -38,15 +39,19 @@ You can download my CV here.
 * The best presenter at SNP school, Japan, 2018
 * The 2nd best contributor at APFB2020 conference, Japan (Online), 2021
 
-<h2 style="color:#900C3F"> Language </h2>
 
-* Indonesian
-* English (fluent)
-* Japanese (N3-intermediate level) 
+
+<h2 style="color:#900C3F"> Research Funding </h2>
+
+* Young Scientist Training (YST) Fellowship, 2021-2022, 5.000.000 KRW/year
+
+
 
 <h2 style="color:#900C3F"> Leadership </h2>
 
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017
+
+
 
 <h2 style="color:#900C3F"> Service </h2>
 
@@ -54,3 +59,11 @@ You can download my CV here.
   Osaka university, Oct 2017
 * <b>Host</b>, Hadron theory seminar series\
   Online, May 2021 - present
+
+
+
+<h2 style="color:#900C3F"> Language </h2>
+
+* Indonesian
+* English (fluent)
+* Japanese (N3-intermediate level) 
