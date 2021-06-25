@@ -27,11 +27,11 @@ You can download my CV here.
 <h2 style="color:#900C3F"> Work experience </h2>
 
 * Oct 2019 - Mar 2020: Intern\
-  Japan Atomic Energy Agency (JAEA), Japan
+  <b>Japan Atomic Energy Agency (JAEA),</b> Japan
 * Oct 2020 - Feb 2021: Postdoc\
-  Research Center for Nuclear Physics (RCNP), Japan
+  <b>Research Center for Nuclear Physics (RCNP),</b> Japan
 * Mar 2021 - Present : Postdoc\
-  Asia Pacific Center for Theoretical Physics (APCTP), South Korea
+  <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> South Korea
 
 
 <h2 style="color:#900C3F"> Awards </h2>
