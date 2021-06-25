@@ -42,7 +42,8 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   
   <li style="margin-bottom: 25px;"><b>Three-body decay of Λ<sub>c</sub>(2765) and determination of its spin-parity</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida (May 21, 2020)<br> 
-      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.094023"> Phys.Rev.D 101, 094023 (2020).</a></i> </li> 
+      <button class="btn--article-red">News</button>&nbsp; Also reported in <a href="https://asrc.jaea.go.jp/publication/note/pdf/41kagaku/41_06.pdf">JAEA science note.</a><br>
+    Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.094023"> Phys.Rev.D 101, 094023 (2020).</a></i> </li> 
   
   <h2> 2019 </h2>
   <li style="margin-bottom: 25px;"><b>A systematic study of charmed baryon decays</b><br> 
