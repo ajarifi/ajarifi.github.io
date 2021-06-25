@@ -42,7 +42,28 @@
     color: white;
     cursor: default; 
   }
+  
+  &--article-blue {
+    background-color: #008CBA; /* Blue */
+    border: none;
+    color: white;
+    cursor: default; 
+  }
 
+  &--article-black {
+    background-color: #555555; /* Black */
+    border: none;
+    color: white;
+    cursor: default; 
+  }
+  
+  &--article-red {
+    background-color: #f44336; /* red */
+    border: none;
+    color: white;
+    cursor: default; 
+  }
+   
   /* fills width of parent container */
 
   &--block {
