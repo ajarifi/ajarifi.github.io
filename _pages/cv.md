@@ -14,13 +14,13 @@ You can download my CV here.
 
 <h2 style="color:#900C3F"> Education </h2>
 
-* B.Sc, University of Indonesia, 2015\
+* <b>B.Sc, University of Indonesia,</b> 2015\
   Thesis: Spin-3/2 nucleon resonances in kaon photoproduction\
   Advisor: <a href="https://inspirehep.net/authors/998691">Prof. Terry Mart</a>
-* M.Sc, Osaka University, Japan, 2017\
+* <b>M.Sc, Osaka University,</b> Japan, 2017\
   Thesis: Pion emission decay of the charmed baryons for the study of their structure\
   Advisor: <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Prof. Atsushi Hosaka</a>
-* Ph.D, Osaka University, Japan, 2020\
+* <b>Ph.D, Osaka University,</b> Japan, 2020\
   Thesis: Study of heavy baryons from three-body decays\
   Advisor: <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Prof. Atsushi Hosaka</a>
 
