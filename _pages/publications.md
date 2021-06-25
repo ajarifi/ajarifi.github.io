@@ -19,7 +19,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <hr>
 
-<ol>
+<ol reversed>
   <li><b>Electromagnetic Production of Kaon with Spin 3/2 and 5/2 Nucleon Resonances </b><br> 
       <button class="btn--article">Proceeding</button>&nbsp; T.Mart, S.Clymton, and <b style="color:#900C3F"> A. J. Arifi</b>,<i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.10.042001">JPS Conf. Proc. 10 042001 (2016).</a> </i></li></li>
   
