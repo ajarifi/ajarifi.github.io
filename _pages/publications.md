@@ -20,12 +20,16 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <hr>
 
 <ol reversed>
+  <li style="margin-bottom: 25px;"><b>Spin 3/2 Nucleon Resonances in Kaon Photoproduction </b><br> 
+      <button class="btn--article-blue">Proceeding</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b> and T. Mart, (2017)<br> 
+      Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.17.063003">JPS Conf.Proc. 17, 063003 (2017).</a></i> Contribution to: HYP 2015 </li>
+  
   <li style="margin-bottom: 25px;"><b>Effect of the Spin 3/2 Nucleon Resonances in Kaon Photoproduction </b><br> 
-      <button class="btn--article-blue">Proceeding</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b> and T. Mart,<br>
+      <button class="btn--article-blue">Proceeding</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b> and T. Mart, (Sep 23, 2016)<br>
       Published in: <i> <a href="https://iopscience.iop.org/article/10.1088/1742-6596/739/1/012008">J.Phys.Conf.Ser. 739, 012008 (2016).</a></i> Contribution to: APS 2015 </li>
   
   <li style="margin-bottom: 25px;"><b>Electromagnetic Production of Kaon with Spin 3/2 and 5/2 Nucleon Resonances </b><br> 
-      <button class="btn--article-blue">Proceeding</button>&nbsp; T.Mart, S.Clymton, and <b style="color:#900C3F"> A. J. Arifi</b>,<br>
+      <button class="btn--article-blue">Proceeding</button>&nbsp; T.Mart, S.Clymton, and <b style="color:#900C3F"> A. J. Arifi</b>, (2016)<br>
       Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.10.042001">JPS Conf.Proc. 10, 042001 (2016).</a></i> Contribution to: NSTAR 2015 </li>
   
   <li><b><a href="https://ajarifi.github.io/publication/article-1"> Nucleon resonances with spin-3/2 and -5/2 in the isobar model for kaon photoproduction </a></b>
