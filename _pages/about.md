@@ -29,7 +29,8 @@ redirect_from:
 <button class="btn--article-black">Dalitz plot</button>
 
 <h3 style="color:#900C3F"> Co-Authors </h3>
-* Atsushi Hosaka (Ph.D. Advisor)
+
+* <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Atsushi Hosaka</a> (Ph.D. Advisor)
 * Terry Mart (B.S. Advisor)
 * Hideko Nagahiro
 * Kiyoshi Tanida
