@@ -17,13 +17,9 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <p style="margin-bottom:1.2cm;"></p>
 
-<table id="pub_table">
-  <tr>
-    <th>No.</th>
-    <th>Paper</th>
-  </tr>
-  <tr>
-    <td>1.</td>
-    <td><a href="https://ajarifi.github.io/publication/article-1"> Nucleon resonances with spin-3/2 and -5/2 in the isobar model for kaon photoproduction </a> <br> T. Mart, S. Clymton, A. J. Arifi </td>
-  </tr>
-</table>
+<hr>
+
+<ol>
+  <li><a href="https://ajarifi.github.io/publication/article-1"> Nucleon resonances with spin-3/2 and -5/2 in the isobar model for kaon photoproduction </a> <br> 
+    T.Mart, S.Clymton, and A. J. Arifi </li>
+</ol>
