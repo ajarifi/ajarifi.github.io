@@ -20,11 +20,11 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <hr>
 
 <ol reversed>
-  <li style="margin-bottom: 25px;"><b>Three-body decay of Three-body decay of Λc(2595) and Λc(2625) with the inclusion of a direct two-pion coupling</b><br> 
+  <li style="margin-bottom: 25px;"><b>Three-body decay of Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with the inclusion of a direct two-pion coupling</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (Dec 12, 2018)<br> 
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.114007"> Phys.Rev.D 98, 114007 (2018).</a></i> </li>  
   
-  <li style="margin-bottom: 25px;"><b>Three-body decay of Λc(2595) and Λc(2625) with consideration of Σc(2455)π and Σc(2520)π in intermediate states </b><br> 
+  <li style="margin-bottom: 25px;"><b>Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with consideration of Σ<sub>c</sub>(2455)π and Σ<sub>c</sub>(2520)π in intermediate states </b><br> 
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (Jun 23, 2017)<br> 
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018"> Phys.Rev.D 95, 114018 (2017).</a></i> </li>
   
