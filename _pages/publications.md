@@ -52,6 +52,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   <h2> 2018 </h2>
   <li style="margin-bottom: 25px;"><b>Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with the inclusion of a direct two-pion coupling</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (Dec 12, 2018)<br> 
+      <button class="btn--article-red">News</button>&nbsp; One of our figures is selected in Kaleidoscope.
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.114007"> Phys.Rev.D 98, 114007 (2018).</a></i> </li>  
   
   <h2> 2017 </h2>
