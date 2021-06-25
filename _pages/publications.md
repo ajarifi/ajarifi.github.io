@@ -21,7 +21,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 
 <ol reversed>
-  <li style="margin-bottom: 25px;"><b>Study of heavy baryons from three-body decays/b><br> 
+  <li style="margin-bottom: 25px;"><b>Study of heavy baryons from three-body decays</b><br> 
       <button class="btn--article-black">Ph.D. Thesis</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, (Sep 25, 2021)<br> 
       Graduated from: <i> <a href="https://japanlinkcenter.org/jalc/linkSakiAnnaiOto/mRRidirect/index?doi=10.18910/77474"> Osaka University.</a></i> </li>
   
