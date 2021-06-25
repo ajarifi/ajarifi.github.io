@@ -13,6 +13,7 @@ You can download my CV here.
 
 
 <h2 style="color:#900C3F"> Education </h2>
+
 * B.Sc, University of Indonesia, 2015\
   Thesis: Spin-3/2 nucleon resonances in kaon photoproduction\
   Advisor: <a href="https://inspirehep.net/authors/998691">Prof. Terry Mart</a>
