@@ -2,6 +2,7 @@
 title: "Study of excited open-heavy flavor mesons using HQET"
 collection: seminar
 permalink: /seminar/2keval
+teaser: "2kevaljpg"
 date: 2021-05-27
 ---
 
