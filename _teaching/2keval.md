@@ -27,5 +27,3 @@ date: 2021-05-27
   planes, where <i>J</i> is the total-spin, <i>n<sub>r</sub></i> is the radial principal quantum number, and M<sup>2</sup> is the square of the meson mass. 
   That can estimate the masses of experimentally missing states lying on these Regge lines. Their ratio of the strong decay rates may guide 
   future experimental studies to find them in fundamental decay modes. <p>
-
- <img src="2keval.jpg"></img>
