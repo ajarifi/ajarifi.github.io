@@ -1,8 +1,11 @@
 ---
 title: "Model-independent analysis of hadron-hadron scattering: a deep learning approach"
-collection: seminar
+collection: talks
+type: "Seminar"
 permalink: /seminar/1denny
+venue: 
 date: 2021-05-27
+location: "Kanazawa, Japan"
 ---
 
  <b>Speaker</b>: Denny Lane B. Sombillo (RCNP & University of the Philippines)<br>
