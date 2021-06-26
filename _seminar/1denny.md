@@ -5,7 +5,7 @@ type: "Seminar"
 permalink: /seminar/1denny
 venue: 
 date: 2021-05-27
-location: "Kanazawa, Japan"
+location: "Pohang, South korea"
 ---
 
  <b>Speaker</b>: Denny Lane B. Sombillo (RCNP & University of the Philippines)<br>
