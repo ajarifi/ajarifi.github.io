@@ -1,7 +1,7 @@
 ---
 title: "Study of excited open-heavy flavor mesons using HQET"
 collection: seminar
-type: "APCTP seminar"
+type: "2nd APCTP seminar"
 venue: Online
 permalink: /seminar/2keval.html
 date: 2021-05-27
