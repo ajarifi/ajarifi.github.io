@@ -1,6 +1,6 @@
 ---
 title: "Model-independent analysis of hadron-hadron scattering: a deep learning approach"
-collection: talks
+collection: seminar
 type: "Seminar"
 permalink: /seminar/1denny
 venue: 
