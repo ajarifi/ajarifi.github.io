@@ -1,9 +1,9 @@
 ---
 title: "Model-independent analysis of hadron-hadron scattering: a deep learning approach"
 collection: seminar
-type: "Seminar"
 permalink: /seminar/1denny
-venue: 
+type: "1st APCTP seminar"
+venue: Online 
 date: 2021-05-27
 ---
 
