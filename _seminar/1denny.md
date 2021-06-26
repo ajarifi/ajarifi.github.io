@@ -1,7 +1,7 @@
 ---
 title: "Model-independent analysis of hadron-hadron scattering: a deep learning approach"
 collection: seminar
-permalink: /seminars/1denny
+permalink: /seminar/1denny
 date: 2021-05-27
 ---
 
