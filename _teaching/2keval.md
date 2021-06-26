@@ -28,4 +28,6 @@ date: 2021-05-27
   That can estimate the masses of experimentally missing states lying on these Regge lines. Their ratio of the strong decay rates may guide 
   future experimental studies to find them in fundamental decay modes. <p>
  
+ <p style="margin-bottom:1.2cm"></p>
+ 
   <img src="https://scontent.ficn4-1.fna.fbcdn.net/v/t1.6435-9/199480726_10219163127651386_2957227419952737161_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=HokSeHJLoxcAX9-1qdf&_nc_ht=scontent.ficn4-1.fna&oh=27564aa14ab9a5288d351590044f42fe&oe=60DBC370" style="width:100%">
