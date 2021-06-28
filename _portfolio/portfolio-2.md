@@ -2,7 +2,7 @@
 title: "Kaon photoproduction in isobar model"
 collection: portfolio
 ---
-<button class="btn--article-black">Archived</button>&nbsp; <strong>(2013-2015)</strong> A. J. Arifi, S. Clymton, and T. Mart. <br/><img src='/images/structure.png' style="width:600px">
+<button class="btn--article-black">Archived</button>&nbsp; <strong>(2013-2015)</strong> A. J. Arifi, S. Clymton, and T. Mart. <br/><img src='/images/kaon.png' style="width:600px">
 
 We aim to extract information of the nucleon resonances in kaon photoproduction by using isobar model.
 
