@@ -2,7 +2,7 @@
 title: "Heavy baryon decays"
 collection: portfolio
 ---
-<button class="btn--article">On-going</button>&nbsp; <strong>(2015-present)</strong> A. J. Arifi, H. Nagahiro, A. Hosaka, K. Tanida, D. Suenaga <br/><img src='/images/structure.png' style="width:600px">
+<button class="btn--article">On-going</button>&nbsp; <strong>(2015-present)</strong> A. J. Arifi, H. Nagahiro, A. Hosaka, K. Tanida, and D. Suenaga. <br/><img src='/images/structure.png' style="width:600px">
 
 We aim to understand the structure of heavy baryons from their decay properties by employing the chiral quark model. 
 Also, we intestigate their three-body decays by using effective Lagrangian and describe them with the Dalitz plot.
