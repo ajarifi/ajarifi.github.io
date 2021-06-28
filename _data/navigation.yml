@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /portfolio/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Seminar Series"
     url: /seminar/    
-    
-  - title: "Projects"
-    url: /portfolio/
         
   - title: "Blog"
     url: /year-archive/
