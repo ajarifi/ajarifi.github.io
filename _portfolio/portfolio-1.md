@@ -1,7 +1,6 @@
 ---
 title: "Heavy baryon decays"
-excerpt: "<button class="btn--article">on-going</button>&nbsp; (2015-present) <br/>
-      <button class="btn--article">on-going</button>&nbsp; A. J. Arifi, H. Nagahiro, A. Hosaka, K. Tanida, D. Suenaga <br/><img src='/images/500x300.png'>"
+excerpt: "<strong>(2015-present)</strong> A. J. Arifi, H. Nagahiro, A. Hosaka, K. Tanida, D. Suenaga <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
