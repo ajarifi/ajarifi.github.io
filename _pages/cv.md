@@ -54,7 +54,7 @@ You can download my CV here.
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC)\
   Osaka university, Oct 2017
-* <b>Host</b>, Hadron theory seminar series (APCTP seminar)\
+* <b>Host</b>, HEP seminar series (APCTP seminar)\
   Online, 2021 - present
 
 
