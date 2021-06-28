@@ -403,3 +403,7 @@
   text-transform: uppercase;
 }
 
+.subhead::first-letter {
+  initial-letter: 3;
+}
+
