@@ -10,6 +10,8 @@ date: 2021-05-27
  <b>Speaker</b>: Keval M. Gandhi (Sardar Vallabhbhai National Institute of Technology)<br>
  <b>Date & time</b>: 2pm KST, June 29, 2021 <br>
  <b>Place</b>: Online (Zoom) <br>
+ <a href="/files/keval.pdf">[Poster]</a> &nbsp; <a href="https://zoom.us/meeting/register/tJ0ldeuurjMqHdd8ixf6RafikJdrupRn5t6J">[Zoom link]</a> <br>
+      
  <p align=" justify">
   According to latest Review of Particle Physics (RPP) by Particle Data Group (PDG), the spin-parity of excited open-charm mesons 
   <i>D(2550), D<sub>J</sub>(2600), D(2640), D(2740), D<sub>3</sub>(2750), D<sub>J</sub>(3000), D<sub>J</sub>(3000), D<sub>2</sub>(3000), 
