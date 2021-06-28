@@ -8,7 +8,7 @@ We aim to understand the structure of heavy baryons from their decay properties 
 Also, we intestigate their three-body decays by using effective Lagrangian and describe them with the Dalitz plot.
 
 
-<h2> Timeline</h2>
+<h2> Achievements</h2>
 
 <ol reversed>
   <li style="margin-bottom: 25px;"><b>Relativistic corrections to decays of heavy baryons in the quark model</b><br> 
