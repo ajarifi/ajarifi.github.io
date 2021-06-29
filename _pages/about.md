@@ -31,7 +31,7 @@ redirect_from:
 <h3 style="color:#900C3F"> Co-Authors </h3>
 
 * <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Atsushi Hosaka</a> (Ph.D. Advisor)
-* Terry Mart (B.S. Advisor)
+* <a href="https://inspirehep.net/authors/998691"> Terry Mart </a> (B.S. Advisor)
 * Hideko Nagahiro
 * Kiyoshi Tanida
 * Samson Clymton
