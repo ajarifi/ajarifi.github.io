@@ -32,10 +32,10 @@ redirect_from:
 
 * <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Atsushi Hosaka</a> (Ph.D. Advisor)
 * <a href="https://inspirehep.net/authors/998691"> Terry Mart </a> (B.S. Advisor)
-* Hideko Nagahiro
-* Kiyoshi Tanida
-* Samson Clymton
-* Daiki Suenaga
+* <a href="https://inspirehep.net/authors/996306"> Hideko Nagahiro </a>
+* <a href="https://inspirehep.net/authors/986596">Kiyoshi Tanida </a>
+* <a href="https://inspirehep.net/authors/1705246"> Samson Clymton </a>
+* <a href="https://inspirehep.net/authors/1298440">Daiki Suenaga</a>
 
 <h3 style="color:#900C3F"> Past and present institution</h3>
 
