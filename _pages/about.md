@@ -29,7 +29,7 @@ redirect_from:
       <button class="btn--article-black">Colloquium</button>&nbsp; (online) Indonesia. (Aug 12, 2021)<br></li>
     
   <li style="margin-bottom: 25px;"><b> <a href="#">Japan Physical Society 2021 Autumn Meeting</a></b><br> 
-      <button class="btn--article">JPS meeting</button>&nbsp; <a href="#">(Online) Japan.</a> (Sep, 2021)<br> </li>
+      <button class="btn--article">JPS meeting</button>&nbsp; (Online) Japan. (Sep, 2021)<br> </li>
 </ol>
 
 <h2 style="color:#000080">  My research </h2>
