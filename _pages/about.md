@@ -23,10 +23,10 @@ redirect_from:
       <button class="btn--article-blue">Workshop</button>&nbsp; Gyeongju, South Korea. (Jul 19-24, 2021)<br></li>
     
   <li style="margin-bottom: 25px;"><b> LIPI Colloqium</b><br> 
-      <button class="btn--article-black">Colloquium</button>&nbsp;<span style="color:#900C3F"> Speaker</span>, (online) Indonesia. (Aug 12, 2021)<br></li>
+      <button class="btn--article-black">Colloquium</button>&nbsp;<span style="color:#900C3F"> Speaker</span>, (online) Indonesia. (Aug 10, 2021)<br></li>
     
   <li style="margin-bottom: 25px;"><b> Japan Physical Society 2021 Autumn Meeting</b><br> 
-      <button class="btn--article">JPS meeting</button>&nbsp; <span style="color:#900C3F">Speaker</span>, (Online) Japan. (Sep, 2021)<br> </li>
+      <button class="btn--article">JPS meeting</button>&nbsp; <span style="color:#900C3F">Speaker</span>, (Online) Japan. (Sep 14-17, 2021)<br> </li>
 </ol>
 
 <h2 style="color:#000080">  My research </h2>
