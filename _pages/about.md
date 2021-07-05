@@ -16,20 +16,20 @@ redirect_from:
 <h2 style="color:#000080">  My schedule </h2>
 
 <ol>
-  <li style="margin-bottom: 25px;"><b> <a href="#">Meeting and Lecture of Prof. Ji</a></b><br> 
-      <button class="btn--article-black">Col. Meeting</button>&nbsp; KNU, Daegu, South Korea. (Jul 7-8, 2021)<br>
+  <li style="margin-bottom: 25px;"> <b> <a href="#">Meeting and Lecture of Prof. Ji</a></b><br> 
+      <button class="btn--article-black">Col. Meeting</button>&nbsp; KNU, Daegu, South Korea. (Jul 7-8, 2021)<br></li>
 
   <li style="margin-bottom: 25px;"><b> <a href="#">Meeting with Prof. Ji</a></b><br> 
-      <button class="btn--article-black">Col. Meeting</button>&nbsp; KNU, Daegu, South Korea. (Jul 13-16, 2021)<br>
+      <button class="btn--article-black">Col. Meeting</button>&nbsp; KNU, Daegu, South Korea. (Jul 13-16, 2021)<br></li>
 
    <li style="margin-bottom: 25px;"><b> <a href="#">APCTP workshop: nuclear physics program</a></b><br> 
-      <button class="btn--article-black">Workshop</button>&nbsp; Gyeongju, South Korea. (Jul 19-24, 2021)<br>
+      <button class="btn--article-black">Workshop</button>&nbsp; Gyeongju, South Korea. (Jul 19-24, 2021)<br></li>
     
   <li style="margin-bottom: 25px;"><b> <a href="#">LIPI Colloqium</a></b><br> 
-      <button class="btn--article-black">Colloquium</button>&nbsp; (online) Indonesia. (Aug 12, 2021)<br>
+      <button class="btn--article-black">Colloquium</button>&nbsp; (online) Indonesia. (Aug 12, 2021)<br></li>
     
   <li style="margin-bottom: 25px;"><b> <a href="#">Japan Physical Society 2021 Autumn Meeting</a></b><br> 
-      <button class="btn--article">JPS meeting</button>&nbsp; <a href="#">(Online) Japan.</a> (Sep, 2021)<br> 
+      <button class="btn--article">JPS meeting</button>&nbsp; <a href="#">(Online) Japan.</a> (Sep, 2021)<br> </li>
 </ol>
 
 <h2 style="color:#000080">  My research </h2>
