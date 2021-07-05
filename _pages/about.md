@@ -16,11 +16,8 @@ redirect_from:
 <h2 style="color:#000080">  My schedule </h2>
 
 <ol>
-  <li style="margin-bottom: 25px;"> <b> Collaboration meeting and lecture of Prof. Ji</b><br> 
-      <button class="btn--article-orange"> Meeting</button>&nbsp; KNU, Daegu, South Korea. (Jul 7-8, 2021)<br></li>
-
-  <li style="margin-bottom: 25px;"><b> Collaboration meeting </b><br> 
-      <button class="btn--article-orange"> Meeting</button>&nbsp; KNU, Daegu, South Korea. (Jul 13-16, 2021)<br></li>
+  <li style="margin-bottom: 25px;"> <b>Prof. Ji's lectures</b><br> 
+      <button class="btn--article-orange"> Lecture</button>&nbsp; KNU, Daegu, South Korea. (Jul 7-8, 2021)<br></li>
 
    <li style="margin-bottom: 25px;"><b> APCTP workshop: nuclear physics program</b><br> 
       <button class="btn--article-blue">Workshop</button>&nbsp; Gyeongju, South Korea. (Jul 19-24, 2021)<br></li>
