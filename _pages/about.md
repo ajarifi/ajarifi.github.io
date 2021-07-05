@@ -16,19 +16,19 @@ redirect_from:
 <h2 style="color:#000080">  My schedule </h2>
 
 <ol>
-  <li style="margin-bottom: 25px;"> <b> <a href="#">Collaboration meeting and lecture of Prof. Ji</a></b><br> 
+  <li style="margin-bottom: 25px;"> <b> Collaboration meeting and lecture of Prof. Ji</b><br> 
       <button class="btn--article-orange"> Meeting</button>&nbsp; KNU, Daegu, South Korea. (Jul 7-8, 2021)<br></li>
 
-  <li style="margin-bottom: 25px;"><b> <a href="#">Collaboration meeting</a></b><br> 
+  <li style="margin-bottom: 25px;"><b> Collaboration meeting </b><br> 
       <button class="btn--article-orange"> Meeting</button>&nbsp; KNU, Daegu, South Korea. (Jul 13-16, 2021)<br></li>
 
-   <li style="margin-bottom: 25px;"><b> <a href="#">APCTP workshop: nuclear physics program</a></b><br> 
+   <li style="margin-bottom: 25px;"><b> APCTP workshop: nuclear physics program</b><br> 
       <button class="btn--article-blue">Workshop</button>&nbsp; Gyeongju, South Korea. (Jul 19-24, 2021)<br></li>
     
-  <li style="margin-bottom: 25px;"><b> <a href="#">LIPI Colloqium</a></b><br> 
+  <li style="margin-bottom: 25px;"><b> LIPI Colloqium</b><br> 
       <button class="btn--article-black">Colloquium</button>&nbsp;<span style="color:#000080"> Speaker</span>, (online) Indonesia. (Aug 12, 2021)<br></li>
     
-  <li style="margin-bottom: 25px;"><b> <a href="#">Japan Physical Society 2021 Autumn Meeting</a></b><br> 
+  <li style="margin-bottom: 25px;"><b> Japan Physical Society 2021 Autumn Meeting</b><br> 
       <button class="btn--article">JPS meeting</button>&nbsp; <span style="color:#000080">Speaker</span>, (Online) Japan. (Sep, 2021)<br> </li>
 </ol>
 
