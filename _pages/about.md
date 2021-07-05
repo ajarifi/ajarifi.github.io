@@ -29,8 +29,6 @@ redirect_from:
       <button class="btn--article">JPS meeting</button>&nbsp; <span style="color:#900C3F">Speaker</span>, (Online) Japan. (Sep, 2021)<br> </li>
 </ol>
 
-You can check my past schedules here.
-
 <h2 style="color:#000080">  My research </h2>
 
 <p align="justify"> My research focuses on hadron spectroscopy. At the very beginning, I did some computation on the kaon photoproduction. Now, I have done numerous computation on heavy baryon decays. I am mainly working on three-body decays by using Dalitz plot. Also, I do some quark model computations for estimating the decay rates of heavy baryons. </p>
