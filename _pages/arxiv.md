@@ -6,7 +6,6 @@ author_profile: true
 usemathjax: true
 ---
 
-<p style="margin-bottom:2cm;"></p>
 
 This list is made just to help me reading Arxiv more effectively.
 
