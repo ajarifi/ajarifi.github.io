@@ -3,6 +3,7 @@ layout: archive
 title: "Arxiv Diary"
 permalink: /arxiv/
 author_profile: true
+usemathjax: true
 ---
 
 
@@ -27,7 +28,7 @@ This list is made just to help me reading Arxiv more effectively.
     Berndt Müller
 
 (21)
-1.  [Hidden charm pentaquark with strangeness Pcs(4739) as a ΣcDK bound state](https://arxiv.org/abs/2106.11450)\
+1.  [Hidden charm pentaquark with strangeness $P_{cs}(4739)$ as a $\Sigma_c D K$ bound state](https://arxiv.org/abs/2106.11450)\
     Tian-Wei Wu, Ya-Wen Pan, Ming-Zhu Liu, Jun-Xu Lu, Li-Sheng Geng, Xiao-Hai Liu
 
 (2)
