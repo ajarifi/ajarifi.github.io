@@ -15,7 +15,7 @@ redirect_from:
 
 <h2 style="color:#000080">  My schedule </h2>
 
-<div style="height:100px; overflow:scroll;">
+<div style="height:200px; overflow:scroll;">
 <ol>
   <li style="margin-bottom: 25px;"> <b>Prof. Ji's lectures</b><br> 
       <button class="btn--article-orange"> Lecture</button>&nbsp; KNU, Daegu, South Korea. (Jul 7-8, 2021)<br></li>
