@@ -7,7 +7,7 @@ usemathjax: true
 ---
 
 
-This list is made just to help me reading Arxiv more effectively.
+This list is made just to help me reading Arxiv more effectively. I just started recently in 2021. Although we mainly focus on updating the current issue, we also plan to cover the list for the previous years. Stay tune!
 
 <p style="margin-bottom:2cm;"></p>
 
