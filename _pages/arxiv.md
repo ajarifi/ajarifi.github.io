@@ -28,7 +28,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     Zuo-Ming Ding, Han-Yu Jiang, Dan Song, Jun He </li>
 
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.00969"> $X(3872)$ Production in Relativistic Heavy-Ion Collisions </a></b><br> 
-    <button class="btn--article-blue">Exotics</button> <button class="btn--article-black">Coalescence model</button> &nbsp; <br>
+    <button class="btn--article-blue">Exotics</button> <button class="btn--article-orange">Heavy-ion collisions</button> <button class="btn--article-black">Coalescence model</button> &nbsp; <br>
     Baoyi Chen, Liu Jiang, Xiao-Hai Liu, Yunpeng Liu, Jiaxing Zhao </li>
   
   
