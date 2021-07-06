@@ -37,8 +37,8 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <h2 style="color:#900C3F"> June </h2>
 
 <ol reversed>
-  (22)
-  <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11868">Doubly Heavy Tetraquark Resonant States</a></b><br> 
+  <span style="margin-left: -2.5em">(22nd, Tue)</span>
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2106.11868">Doubly Heavy Tetraquark Resonant States</a></b><br> 
     <button class="btn--article-blue">Tetraquark</button> <button class="btn--article-orange">Spectrum</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
     Qi Meng, Masayasu Harada, Emiko Hiyama, Atsushi Hosaka, Makoto Oka</li>
   
@@ -46,17 +46,17 @@ This list is made just to help me reading Arxiv more effectively. I just started
     <button class="btn--article-blue">QGP</button> <button class="btn--article">Review</button> &nbsp; <br>
     Berndt Müller</li>
   
-  (21)
+  <span style="margin-left: -2.5em">(21st, Mon)</span>
     <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11450">Hidden charm pentaquark with strangeness $P_{cs}(4739)$ as a $\Sigma_c D K$ bound state</a></b><br> 
     <button class="btn--article-blue">Exotics</button> <button class="btn--article-black">Gaussian expansion method</button> &nbsp; <br>
     Tian-Wei Wu, Ya-Wen Pan, Ming-Zhu Liu, Jun-Xu Lu, Li-Sheng Geng, Xiao-Hai Liu </li>
   
-  (16)
+   <span style="margin-left: -2.5em">(16th, Wed)</span>
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.09080">Diquark properties from full QCD lattice simulations</a></b><br> 
     <button class="btn--article-blue">Diquark</button> <button class="btn--article-black">Lattice QCD</button> &nbsp; <br>
     Anthony Francis, Philippe de Forcrand, Randy Lewis, Kim Maltman </li>
   
-  (2)
+  <span style="margin-left: -2.5em">(2nd, Wed)</span>
     <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.00892">Evidence for the decay $\Omega_c\to \pi^+ \Omega(2012)\to\pi (K\Xi)$</a></b><br> 
     <button class="btn--article-blue">Baryon</button> <button class="btn--article-orange">Spectrum & decay</button>  <button class="btn--article-red">Experiment</button> &nbsp; <br>
     Belle Collaboration</li>
