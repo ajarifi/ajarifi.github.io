@@ -15,6 +15,7 @@ redirect_from:
 
 <h2 style="color:#000080">  My schedule </h2>
 
+<div style="height:100px; overflow:scroll;">
 <ol>
   <li style="margin-bottom: 25px;"> <b>Prof. Ji's lectures</b><br> 
       <button class="btn--article-orange"> Lecture</button>&nbsp; KNU, Daegu, South Korea. (Jul 7-8, 2021)<br></li>
@@ -28,6 +29,7 @@ redirect_from:
   <li style="margin-bottom: 25px;"><b> Japan Physical Society 2021 Autumn Meeting</b><br> 
       <button class="btn--article">JPS meeting</button>&nbsp; <span style="color:#900C3F">Speaker</span>, (Online) Japan. (Sep 14-17, 2021)<br> </li>
 </ol>
+</div>
 
 <h2 style="color:#000080">  My research </h2>
 
