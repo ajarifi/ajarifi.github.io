@@ -22,6 +22,10 @@ This list is made just to help me reading Arxiv more effectively.
 
 <h2 style="color:#900C3F"> July </h2>
 
+(5)
+1. [The newly observed state $D_{s0}(2590)^+$](https://arxiv.org/abs/2107.01751)\
+   Guo-Li Wang, Wei Li, Tai-Fu Feng, Yue-Long Wang, Yu-Bin Liu
+
 <h2 style="color:#900C3F"> June </h2>
 (22)
 1.  [Doubly Heavy Tetraquark Resonant States](https://arxiv.org/abs/2106.11868)\
@@ -56,7 +60,7 @@ This list is made just to help me reading Arxiv more effectively.
 (28)
 1.  [Lattice determination of $I=0$ and $\pi\pi$ scattering phase shifts with a physical pion mass](https://arxiv.org/abs/2103.15131)\
     🔵 T. Blum, et al.
-2.  [Amplitude analysis and branching-fraction measurement of$D^+_s\to K^0_S \pi^+\pi^0$](https://arxiv.org/abs/2103.15098)\
+2.  [Amplitude analysis and branching-fraction measurement of $D^+_s\to K^0_S \pi^+\pi^0$](https://arxiv.org/abs/2103.15098)\
     🔵 BESIII Collaboration
 
 (26)
@@ -74,11 +78,11 @@ This list is made just to help me reading Arxiv more effectively.
     🔵 Xuejie Liu, Hongxia Huang, Jialun Ping, Dianyong Chen, Xinmei Zhu
 2.  [Near threshold heavy vector meson photoproduction at LHC and EicC](https://arxiv.org/abs/2103.12568)\
     🟢 Ya-Ping Xie, Victor P. Goncalves
-3.  [Electroproduction of D- and B-mesons in high-multiplicity ep collisions](https://arxiv.org/abs/2103.12851)\
+3.  [Electroproduction of $D-$ and $B-$mesons in high-multiplicity ep collisions](https://arxiv.org/abs/2103.12851)\
     🟢 Marat Siddikov, Iván Schmidt
     
 (22)
-1.  [Search for the decay  D+s→a0(980)0e+νe](https://arxiv.org/abs/2103.11855)\
+1.  [Search for the decay  $D^+_s\to a_0(980)e^+\nu_e$](https://arxiv.org/abs/2103.11855)\
     🔵 BESIII Collaboration
 2.  [Perturbative QCD Analysis of Near Threshold Heavy Quarkonium Photoproduction at Large Momentum Transfer](https://arxiv.org/abs/2103.12047)\
     🟢 Peng Sun, Xuan-Bo Tong, Feng Yuan
@@ -88,17 +92,17 @@ This list is made just to help me reading Arxiv more effectively.
     🔵 Brenda B. Malabarba, K. P. Khemchandani, A. Martinez Torres
     
 (17)
-1.  [Study on NΩ dibaryons in 3S1 and 5S2 channels](https://arxiv.org/abs/2103.09739)\
+1.  [Study on $N\Sigma$ dibaryons in $^3S_1$ and $^5S_2$ channels](https://arxiv.org/abs/2103.09739)\
     🔵 Xiao-Hui Chen, Qi-Nan Wang, Wei Chen, Hua-Xing Chen
-2.  [Scalar isoscalar mesons and the scalar glueball from radiative J/ψ decays](https://arxiv.org/abs/2103.09680)\
+2.  [Scalar isoscalar mesons and the scalar glueball from radiative $J/\psi$ decays](https://arxiv.org/abs/2103.09680)\
     🔵 Andrey V. Sarantsev, Igor Denisenko, Ulrike Thoma, Eberhard Klempt
     
 (16)
-1.  [First observation of a nuclear s-state of Ξ hypernucleus, 15ΞC](https://arxiv.org/abs/2103.08793)\
+1.  [First observation of a nuclear $s$-state of $\Xi$ hypernucleus, $^{15}\Xi_c$](https://arxiv.org/abs/2103.08793)\
     🔴 J-PARC
 2.  [Light Meson Physics at BESIII](https://arxiv.org/abs/2103.09023)\
     🟢 Shuangshi Fang
-3.  [Λb→Λ∗c(2595,2625)ℓ−ν¯ form factors from lattice QCD](https://arxiv.org/abs/2103.08775)\
+3.  [$\Lambda_b\to \Lambda_c(2595,2625)\nu^-$ form factors from lattice QCD](https://arxiv.org/abs/2103.08775)\
     🟢 Stefan Meinel, Gumaro Rendon
 
 (15)
@@ -106,7 +110,7 @@ This list is made just to help me reading Arxiv more effectively.
     🔵 Hua-Xing Chen
 2.  [Analysis of the hidden-charm pentaquark molecular states with strangeness and without strangeness via the QCD sum rules](https://arxiv.org/abs/2103.08239)\
     🔵 Zhi-Gang Wang, Qi Xin
-3.  [The new resonances Z_{cs}(3985) and Z_{cs}(4003) (almost) fill two tetraquark nonets of broken SU(3)_f](https://arxiv.org/abs/2103.08331)\
+3.  [The new resonances $Z_{cs}(3985)$ and $Z_{cs}(4003)$ (almost) fill two tetraquark nonets of broken $SU(3)f$](https://arxiv.org/abs/2103.08331)\
     🔵 Luciano Maiani, Antonio D. Polosa, Veronica Riquer
 4.  [First measurements on charmless B decays at Belle II](https://arxiv.org/abs/2103.08202)\
     Sebastiano Raiz
@@ -117,21 +121,21 @@ This list is made just to help me reading Arxiv more effectively.
 
 
 (14)
-1.  [The strange partner of the Zc structures in a coupled-channels model](https://arxiv.org/abs/2103.07871)\
+1.  [The strange partner of the $Z_c$ structures in a coupled-channels model](https://arxiv.org/abs/2103.07871)\
     🔵 Pablo G. Ortega, David R. Entem, F. Fernandez
     
 (12)
-1.  [Magnetic moments of the spin-32 doubly charmed baryons in covariant baryon chiral perturbation theory](https://arxiv.org/abs/2103.07260)\
+1.  [Magnetic moments of the spin-3/2 doubly charmed baryons in covariant baryon chiral perturbation theory](https://arxiv.org/abs/2103.07260)\
     🔵 Rui-Xiang Shi, Li-Sheng Geng
-2.  [Study on Zcs and excited B0s states in the chiral quark model](https://arxiv.org/abs/2103.07347)\
+2.  [Study on $Z_{cs}$ and excited $B^0_s$ states in the chiral quark model](https://arxiv.org/abs/2103.07347)\
     🔵 Xiaoyun Chen, Yue Tan, Yuan Chen
 3.  [Ξc→Ξ Form Factors and Ξc→Ξℓ+νℓ Decay Rates From Lattice QCD](https://arxiv.org/abs/2103.07064)\
     Qi-An Zhang, Jun Hua, Fei Huang, Renbo Li, Yuanyuan Li, Cai-Dian Lu, Peng Sun, Wei Sun, Wei Wang, Yi-Bo Yang
     
 (11)
-1.  [Pc(4312)+, Pc(4380)+, and Pc(4457)+ as double triangle cusps](https://arxiv.org/abs/2103.06817)\
+1.  [$P_c(4312)^+, P_c(4380)^+,$ and $P_c(4457)^+$ as double triangle cusps](https://arxiv.org/abs/2103.06817)\
     🔵 Satoshi X. Nakamura
-2.  [A cornucopia of antineutrons and hyperons from super J/psi factory for next-generation nuclear and particle physics high-precision experiments](https://arxiv.org/abs/2103.06658)\
+2.  [A cornucopia of antineutrons and hyperons from super $J/\psi$ factory for next-generation nuclear and particle physics high-precision experiments](https://arxiv.org/abs/2103.06658)\
     Chang-Zheng Yuan, Marek Karliner
 3.  [Precise measurement of the fs/fd ratio of fragmentation fractions and of B0s decay branching fractions](https://arxiv.org/abs/2103.06810)\
     LHCb collaboration
@@ -140,9 +144,9 @@ This list is made just to help me reading Arxiv more effectively.
 
 
 (10)
-1.  [Vector resonance X1(2900) and its structure](https://arxiv.org/abs/2103.06151)\
+1.  [Vector resonance $X_1(2900)$ and its structure](https://arxiv.org/abs/2103.06151)\
     🔵 S. S. Agaev, K. Azizi, H. Sundu
-2.  [Measurement of the D→K−π+π+π− and D→K−π+π0 coherence factors and average strong-phase differences in quantum-correlated DD¯ decays](https://arxiv.org/abs/2103.05988)\
+2.  [Measurement of the D→K−π+π+π− and D→K−π+π0 coherence factors and average strong-phase differences in quantum-correlated $D\bar{D}$ decays](https://arxiv.org/abs/2103.05988)\
     BESIII Collaboration
 
 
