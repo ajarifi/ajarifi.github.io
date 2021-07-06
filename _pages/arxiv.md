@@ -16,10 +16,10 @@ This list is made just to help me reading Arxiv more effectively.
 <h2 style="color:#900C3F"> July </h2>
 
 <ol reversed>
-  (5)
+  <h3>(5)</h3>
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.01751">The newly observed state $D_{s0}(2590)^+$</a></b><br> 
-      <button class="btn--article-blue">Heavy meson</button> <button class="btn--article-blue">$^3P_0$ model</button> &nbsp; 
-      Guo-Li Wang, Wei Li, Tai-Fu Feng, Yue-Long Wang, Yu-Bin Liu </li>
+    <button class="btn--article-blue">Heavy meson</button> <button class="btn--article-black">Quark model</button> &nbsp; 
+    Guo-Li Wang, Wei Li, Tai-Fu Feng, Yue-Long Wang, Yu-Bin Liu </li>
 </ol>
 
 
