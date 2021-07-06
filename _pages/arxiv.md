@@ -31,11 +31,20 @@ This list is made just to help me reading Arxiv more effectively. I just started
     <button class="btn--article-blue">Exotics</button> <button class="btn--article-orange">Heavy-ion collisions</button> <button class="btn--article-black">Coalescence model</button> &nbsp; <br>
     Baoyi Chen, Liu Jiang, Xiao-Hai Liu, Yunpeng Liu, Jiaxing Zhao </li>
   
-  
 </ol>
 
 
 <h2 style="color:#900C3F"> June </h2>
+
+<ol reversed>
+  (16)
+  <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.09080">Diquark properties from full QCD lattice simulations</a></b><br> 
+    <button class="btn--article-blue">Diquark</button> <button class="btn--article-black">Lattice QCD</button> &nbsp; <br>
+    Anthony Francis, Philippe de Forcrand, Randy Lewis, Kim Maltman </li>
+  
+</ol>
+
+
 (22)
 1.  [Doubly Heavy Tetraquark Resonant States](https://arxiv.org/abs/2106.11868)\
     Qi Meng, Masayasu Harada, Emiko Hiyama, Atsushi Hosaka, Makoto Oka
