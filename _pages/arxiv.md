@@ -6,17 +6,10 @@ author_profile: true
 usemathjax: true
 ---
 
+<p style="margin-bottom:2cm;"></p>
 
 This list is made just to help me reading Arxiv more effectively.
-- not to miss important findings
-- not to read the same list repeatedly
-- to know up to where we have read the updates
-- can find the recently read paper more easily
 
-
-🔴 Important 
-🔵 Interesting
-🟢 Good to know
 
 <h1 style="color:#000080"> 2021 </h1>
 
