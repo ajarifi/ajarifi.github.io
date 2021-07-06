@@ -43,7 +43,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     Qi Meng, Masayasu Harada, Emiko Hiyama, Atsushi Hosaka, Makoto Oka</li>
   
     <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11923">Diagnosing the Quark-Gluon Plasma</a></b><br> 
-    <button class="btn--article-blue">QGP</button> <button class="btn--article-green">Review</button> &nbsp; <br>
+    <button class="btn--article-blue">QGP</button> <button class="btn--article">Review</button> &nbsp; <br>
     Berndt Müller</li>
   
   (21)
