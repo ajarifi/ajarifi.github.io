@@ -9,9 +9,12 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Seminar Series"
+  - title: "Seminar"
     url: /seminar/    
-        
+  
+  - title: "Arxiv-diary"
+    url: /arxiv/  
+  
   - title: "Blog"
     url: /year-archive/
     
