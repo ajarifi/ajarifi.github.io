@@ -39,7 +39,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <ol reversed>
   (22)
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11868">Doubly Heavy Tetraquark Resonant States</a></b><br> 
-    <button class="btn--article-blue">Tetraquark</button> <button class="btn--article-orange">Spectrum</button><button class="btn--article-black">Quark model</button> &nbsp; <br>
+    <button class="btn--article-blue">Tetraquark</button> <button class="btn--article-orange">Spectrum</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
     Qi Meng, Masayasu Harada, Emiko Hiyama, Atsushi Hosaka, Makoto Oka</li>
   
     <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11923">Diagnosing the Quark-Gluon Plasma</a></b><br> 
