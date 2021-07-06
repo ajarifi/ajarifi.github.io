@@ -19,12 +19,12 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <ol reversed>
   (5)
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.01751">The newly observed state $D_{s0}(2590)^+$</a></b><br> 
-    <button class="btn--article-blue">Heavy meson spectrum & decay</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
+    <button class="btn--article-blue">Heavy meson</button> <button class="btn--article-orange">Spectrum & decay</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
     Guo-Li Wang, Wei Li, Tai-Fu Feng, Yue-Long Wang, Yu-Bin Liu </li>
   
   (2)
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.00855">Hidden and doubly heavy molecular states from interactions $D^{(*)}_{(s)}\bar{D}^{(*)}_s/B^{(*)}_{(s)}\bar{B}^{(*)}_s$ and $D^{(*)}_{(s)}D^{(*)}_s/B^{(*)}_{(s)}B^{(*)}$</a></b><br> 
-    <button class="btn--article-blue">Hadron molecule</button> <button class="btn--article-black">Bethe-Salpeter equation</button> &nbsp; <br>
+    <button class="btn--article-blue">Exotics</button> <button class="btn--article-orange">Interaction</button> <button class="btn--article-black">Bethe-Salpeter equation</button> &nbsp; <br>
     Zuo-Ming Ding, Han-Yu Jiang, Dan Song, Jun He </li>
 
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.00969"> $X(3872)$ Production in Relativistic Heavy-Ion Collisions </a></b><br> 
@@ -37,27 +37,32 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <h2 style="color:#900C3F"> June </h2>
 
 <ol reversed>
+  (22)
+  <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11868">Doubly Heavy Tetraquark Resonant States</a></b><br> 
+    <button class="btn--article-blue">Tetraquark</button> <button class="btn--article-orange">Spectrum</button><button class="btn--article-black">Quark model</button> &nbsp; <br>
+    Qi Meng, Masayasu Harada, Emiko Hiyama, Atsushi Hosaka, Makoto Oka</li>
+  
+    <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11923">Diagnosing the Quark-Gluon Plasma</a></b><br> 
+    <button class="btn--article-blue">QGP</button> <button class="btn--article-green">Review</button> &nbsp; <br>
+    Berndt Müller</li>
+  
+  (21)
+    <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11450">Hidden charm pentaquark with strangeness $P_{cs}(4739)$ as a $\Sigma_c D K$ bound state</a></b><br> 
+    <button class="btn--article-blue">Exotics</button> <button class="btn--article-black">Gaussian expansion method</button> &nbsp; <br>
+    Tian-Wei Wu, Ya-Wen Pan, Ming-Zhu Liu, Jun-Xu Lu, Li-Sheng Geng, Xiao-Hai Liu </li>
+  
   (16)
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.09080">Diquark properties from full QCD lattice simulations</a></b><br> 
     <button class="btn--article-blue">Diquark</button> <button class="btn--article-black">Lattice QCD</button> &nbsp; <br>
     Anthony Francis, Philippe de Forcrand, Randy Lewis, Kim Maltman </li>
   
+  (2)
+    <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.00892">Evidence for the decay $\Omega_c\to \pi^+ \Omega(2012)\to\pi (K\Xi)$</a></b><br> 
+    <button class="btn--article-blue">Baryon</button> <button class="btn--article-orange">Spectrum & decay</button>  <button class="btn--article-red">Experiment</button> &nbsp; <br>
+    Belle Collaboration</li>
 </ol>
 
 
-(22)
-1.  [Doubly Heavy Tetraquark Resonant States](https://arxiv.org/abs/2106.11868)\
-    Qi Meng, Masayasu Harada, Emiko Hiyama, Atsushi Hosaka, Makoto Oka
-2.  [Diagnosing the Quark-Gluon Plasma](https://arxiv.org/abs/2106.11923)\
-    Berndt Müller
-
-(21)
-1.  [Hidden charm pentaquark with strangeness $P_{cs}(4739)$ as a $\Sigma_c D K$ bound state](https://arxiv.org/abs/2106.11450)\
-    Tian-Wei Wu, Ya-Wen Pan, Ming-Zhu Liu, Jun-Xu Lu, Li-Sheng Geng, Xiao-Hai Liu
-
-(2)
-1.  [Evidence for the decay $\Omega_c\to \pi^+ \Omega(2012)\to\pi (K\Xi)$](https://arxiv.org/abs/2106.00892)\
-    🔴 Belle Collaboration
 
 <h2 style="color:#900C3F"> May </h2>
 
