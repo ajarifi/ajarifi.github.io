@@ -21,10 +21,15 @@ This list is made just to help me reading Arxiv more effectively. I just started
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.01751">The newly observed state $D_{s0}(2590)^+$</a></b><br> 
     <button class="btn--article-blue">Heavy meson spectrum & decay</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
     Guo-Li Wang, Wei Li, Tai-Fu Feng, Yue-Long Wang, Yu-Bin Liu </li>
+  
   (2)
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.00855">Hidden and doubly heavy molecular states from interactions $D^{(*)}_{(s)}\bar{D}^{(*)}_s/B^{(*)}_{(s)}\bar{B}^{(*)}_s$ and $D^{(*)}_{(s)}D^{(*)}_s/B^{(*)}_{(s)}B^{(*)}$</a></b><br> 
     <button class="btn--article-blue">Hadron molecule</button> <button class="btn--article-black">Bethe-Salpeter equation</button> &nbsp; <br>
     Zuo-Ming Ding, Han-Yu Jiang, Dan Song, Jun He </li>
+
+    <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.00969">$X(3872)$ Production in Relativistic Heavy-Ion Collisions</a></b><br> 
+    <button class="btn--article-blue">Exotics</button> <button class="btn--article-orange">Heavy-ion collision</button> <button class="btn--article-black">Coalescence model</button> &nbsp; <br>
+    Baoyi Chen, Liu Jiang, Xiao-Hai Liu, Yunpeng Liu, Jiaxing Zhao </li>
   
 </ol>
 
