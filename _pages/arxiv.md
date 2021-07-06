@@ -34,7 +34,7 @@ This list is made just to help me reading Arxiv more effectively.
     Tian-Wei Wu, Ya-Wen Pan, Ming-Zhu Liu, Jun-Xu Lu, Li-Sheng Geng, Xiao-Hai Liu
 
 (2)
-1.  [Evidence for the decay Ωc→π+Ω(2012)→π(KΞ)](https://arxiv.org/abs/2106.00892)\
+1.  [Evidence for the decay $\Omega_c\to \pi^+ \Omega(2012)\to\pi (K\Xi)$](https://arxiv.org/abs/2106.00892)\
     🔴 Belle Collaboration
 
 <h2 style="color:#900C3F"> May </h2>
@@ -54,9 +54,9 @@ This list is made just to help me reading Arxiv more effectively.
     🔵 Bing-Song Zou
 
 (28)
-1.  [Lattice determination of I=0 and 2 ππ scattering phase shifts with a physical pion mass](https://arxiv.org/abs/2103.15131)\
+1.  [Lattice determination of $I=0$ and $\pi\pi$ scattering phase shifts with a physical pion mass](https://arxiv.org/abs/2103.15131)\
     🔵 T. Blum, et al.
-2.  [Amplitude analysis and branching-fraction measurement of \boldmath D+s→K0Sπ+π0](https://arxiv.org/abs/2103.15098)\
+2.  [Amplitude analysis and branching-fraction measurement of$D^+_s\to K^0_S \pi^+\pi^0$](https://arxiv.org/abs/2103.15098)\
     🔵 BESIII Collaboration
 
 (26)
