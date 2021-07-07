@@ -68,7 +68,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
   <span style="margin-left: -2.5em">(2nd, Wed)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2106.00892">Evidence for the decay $\Omega_c\to \pi^+ \Omega(2012)\to\pi (K\Xi)$</a></b><br> 
-    🔴Belle Collaboration</li>
+    🔴　Belle Collaboration</li>
  
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.00866">The axial charges of proton within an extended chiral constituent quark model</a></b><br> 
     Jin-Bao Wang, Gang Li, Chun-Sheng An, Ju-Jun Xie</li>
