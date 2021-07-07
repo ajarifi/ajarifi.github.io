@@ -19,6 +19,11 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <ol reversed>
 
  <span style="margin-left: -2.5em">(6th, Tue)</span>
+ 
+   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.02735"> Strong coupling constants of charmed and bottom mesons with light vector mesons in QCD sum rules </a></b><br> 
+    <button class="btn--article-blue">Heavy mesons</button> <button class="btn--article-orange">Coupling constants</button> <button class="btn--article-black">QCD sum rule</button> &nbsp; <br>
+    T. M. Aliev, K. Şimşek </li>
+ 
  <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.02544">The $Z_b$ structures in a constituent quark model coupled-channels calculation</a></b><br> 
     <button class="btn--article-blue">Exotics</button> <button class="btn--article-orange">Spectrum & decay</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
     Pablo G. Ortega, Jorge Segovia, Francisco Fernandez</li>
