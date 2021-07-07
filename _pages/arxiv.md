@@ -17,9 +17,15 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <h2 style="color:#900C3F"> July </h2>
 
 <ol reversed>
+
+    <span style="margin-left: -2.5em">(6th, Tue)</span>
+    <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.02544">The $Z_b$ structures in a constituent quark model coupled-channels calculation</a></b><br> 
+    <button class="btn--article-blue">Exotics</button> <button class="btn--article-orange">Spectrum & decay</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
+    Pablo G. Ortega, Jorge Segovia, Francisco Fernandez</li>
+  
   <span style="margin-left: -2.5em">(5th, Mon)</span>
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.01751">The newly observed state $D_{s0}(2590)^+$</a></b><br> 
-    <button class="btn--article-blue">Heavy meson</button> <button class="btn--article-orange">Spectrum & decay</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
+    <button class="btn--article-blue">Heavy meson</button> <button class="btn--article-orange">Coupled channel</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
     Guo-Li Wang, Wei Li, Tai-Fu Feng, Yue-Long Wang, Yu-Bin Liu </li>
   
   <span style="margin-left: -2.5em">(2nd, Fri)</span>
