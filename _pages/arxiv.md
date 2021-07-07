@@ -32,7 +32,8 @@ This list is made just to help me reading Arxiv more effectively. I just started
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2107.01751">The newly observed state $D_{s0}(2590)^+$</a></b><br> 
     <button class="btn--article-blue">Heavy meson</button> <button class="btn--article-orange">Spectrum & decay</button> <button class="btn--article-black">Quark model</button> &nbsp; <br>
     Guo-Li Wang, Wei Li, Tai-Fu Feng, Yue-Long Wang, Yu-Bin Liu </li>
-  
+
+  <hr>
   <span style="margin-left: -2.5em">(2nd, Fri)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.00855">Hidden and doubly heavy molecular states from interactions $D^{(*)}_{(s)}\bar{D}^{(*)}_s/B^{(*)}_{(s)}\bar{B}^{(*)}_s$ and $D^{(*)}_{(s)}D^{(*)}_s/B^{(*)}_{(s)}B^{(*)}$</a></b><br> 
     <button class="btn--article-blue">Exotics</button> <button class="btn--article-orange">Interaction</button> <button class="btn--article-black">Bethe-Salpeter equation</button> &nbsp; <br>
