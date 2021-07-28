@@ -22,7 +22,59 @@ This list is made just to help me reading Arxiv more effectively. I just started
  
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.11950"> Excitation spectra of heavy baryons in diquark models </a></b><br> 
     Kento Kumakawa, Daisuke Jido </li>
- 
+  
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.12266"> Spinless mesons and glueballs mixing patterns in $SU(3)$ flavor limit </a></b><br> 
+    Amir H. Fariborz, Mars Lyukova </li>
+  
+
+ <span style="margin-left: -2.5em">(23th, Fri)</span>
+  
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.11026"> Investigation of the $X(4020)$ peak in the $D^∗\bar{D}^∗$ and $\pi h_c$ channels </a></b><br> 
+  Shuntaro Sakai </li>
+  
+  
+ <span style="margin-left: -2.5em">(22th, Thu)</span>
+  
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.10499"> Electromagnetic form factors of $\Lambda$ hyperon in the vector meson dominance model and the near-threshold enhancement of the $e^+e^−\to \Lambda\bar{\Lambda}$ reaction </a></b><br> 
+  Zhong-Yi Li, An-Xin Dai, Ju-Jun Xie </li>
+  
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.10560"> The $\bar{K}N$ interaction in higher partial waves </a></b><br> 
+  Albert Feijoo, Daniel Gazda, Volodymyr Magas, Angels Ramos</li>    
+  
+  
+ <span style="margin-left: -2.5em">(20th, Tue)</span>
+  
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.09275"> How to understand the $X(2900)$? </a></b><br> 
+   Bo Wang, Shi-Lin Zhu </li>
+  
+  
+ <span style="margin-left: -2.5em">(19th, Mon)</span>
+  
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.08680"> Hidden charm pentaquark states in a diquark model </a></b><br> 
+   Pan-Pan Shi, Fei Huang, Wen-Ling Wang </li>
+  
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.08774"> Radiative transitions of charmonium states in the covariant confined quark model </a></b><br> 
+   Gurjav Ganbold, Thomas Gutsche, Mikhail A. Ivanov, Valery E. Lyubovitskij</li>
+  
+  
+ <span style="margin-left: -2.5em">(15th, Thu)</span>
+  
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.07439"> The $\pi f_0(500)$ decay of the  $a_1(1260)$ </a></b><br> 
+   R. Molina, M. Doering, W. H. Liang, E. Oset </li>
+  
+    
+  <span style="margin-left: -2.5em">(12nd, Mon)</span>
+  
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05209"> Properties of Spin-1/2 Heavy Baryons at Non-Zero Temperature </a></b><br> 
+    A. Türkan, G. Bozkır, K. Azizi </li>
+  
+    
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05271"> Two- and three-gluon glueballs of $C=+$</a></b><br> 
+    Hua-Xing Chen, Wei Chen, Shi-Lin Zhu </li>
+  
+    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05459"> Coupled-channel meson-meson scattering in the diabatic framework </a></b><br> 
+    R. Bruschini, P. González </li>
+  
 
        
   <span style="margin-left: -2.5em">(11st, Sun)</span>
@@ -60,7 +112,8 @@ This list is made just to help me reading Arxiv more effectively. I just started
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03946"> Is the existence of a J/ψJ/ψ bound state plausible?</a></b><br> 
     Xiang-Kun Dong, Vadim Baru, Feng-Kun Guo, Christoph Hanhart, Alexey Nefediev, Bing-Song Zou </li>
   
-  
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03973"> Three-body dynamics of the $a_1(1260)$ resonance from lattice QCD</a></b><br> 
+    Maxim Mai, Andrei Alexandru, Ruairí Brett, Chris Culver, Michael Döring, Frank X. Lee, Daniel Sadasivan </li> 
   
  <span style="margin-left: -2.5em">(7th, Wed)</span>
  
