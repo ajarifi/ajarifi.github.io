@@ -12,7 +12,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 ## Statistics
 * Published Papers: 6
 * Proceedings: 5
-* Citations: 78
+* Citations: 73
 * H-index: 5
 * i10-index: 3
 
