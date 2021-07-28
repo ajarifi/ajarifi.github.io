@@ -24,14 +24,15 @@ This list is made just to help me reading Arxiv more effectively. I just started
     Kento Kumakawa, Daisuke Jido </li>
  
 
-       <span style="margin-left: -2.5em">(11st, Sun)</span>
+       
+  <span style="margin-left: -2.5em">(11st, Sun)</span>
   
      <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04957"> Prediction of an $\Omega_{bbb}\Omega_{bbb}$ dibaryon in the extended one-boson exchange model </a></b><br> 
     Ming-Zhu Liu, Li-Sheng Geng </li>
   
   
   
-     <span style="margin-left: -2.5em">(10th, Sat)</span>
+ <span style="margin-left: -2.5em">(10th, Sat)</span>
   
     
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04751"> Study of $\Lambda_c\Lambda_c$ dibaryon and $\Lambda_c\bar{\Lambda_c} baryonium states via QCD sum rules</a></b><br> 
@@ -45,14 +46,14 @@ This list is made just to help me reading Arxiv more effectively. I just started
     Marek Karliner, Jonathan L. Rosner </li>
   
   
-     <span style="margin-left: -2.5em">(9th, Fri)</span>
+ <span style="margin-left: -2.5em">(9th, Fri)</span>
   
            <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04361"> Magnetic moments of spin-1/2 triply-heavy baryons: A study of Light-cone QCD and Quark-diquark model</a></b><br> 
     Halil Mutuk, Ulaş Özdem </li>
   
   
   
-   <span style="margin-left: -2.5em">(8th, Thu)</span>
+<span style="margin-left: -2.5em">(8th, Thu)</span>
   
        <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03773"> Photoproduction of possible pentaquark states $\Lambda_b^0(5912)$ and $\Lambda_b^0(5920)$ in the $\gamma p \to \Lambda_b^{0(*)}B^+$ reactions</a></b><br> 
     Yin Huang, Hong Qiang Zhu </li>
@@ -62,7 +63,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
   
   
-   <span style="margin-left: -2.5em">(7th, Wed)</span>
+ <span style="margin-left: -2.5em">(7th, Wed)</span>
  
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03168"> Remarks on non-perturbative three-body dynamics and its application to the $KK\bar{K}$ system </a></b><br> 
     Xu Zhang, Christoph Hanhart, Ulf-G. Meißner, Ju-Jun Xie </li>
