@@ -27,7 +27,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
        
   <span style="margin-left: -2.5em">(11st, Sun)</span>
   
-     <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04957"> Prediction of an $\Omega_{bbb}\Omega_{bbb}$ dibaryon in the extended one-boson exchange model </a></b><br> 
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04957"> Prediction of an $\Omega_{bbb}\Omega_{bbb}$ dibaryon in the extended one-boson exchange model </a></b><br> 
     Ming-Zhu Liu, Li-Sheng Geng </li>
   
   
@@ -35,30 +35,30 @@ This list is made just to help me reading Arxiv more effectively. I just started
  <span style="margin-left: -2.5em">(10th, Sat)</span>
   
     
-   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04751"> Study of $\Lambda_c\Lambda_c$ dibaryon and $\Lambda_c\bar{\Lambda_c} baryonium states via QCD sum rules</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04751"> Study of $\Lambda_c\Lambda_c$ dibaryon and $\Lambda_c\bar{\Lambda_c} baryonium states via QCD sum rules</a></b><br> 
     Xiu-Wu Wang, Zhi-Gang Wang, Guo-liang Yu </li>
 
-     <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04860"> Novel coupled channel framework connecting quark model and lattice QCD: an investigation on near-threshold Ds states</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04860"> Novel coupled channel framework connecting quark model and lattice QCD: an investigation on near-threshold Ds states</a></b><br> 
     Zhi Yang, Guang-Juan Wang, Jia-Jun Wu, Makoto Oka, Shi-Lin Zhu </li>
   
   
-     <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04915"> Configuration mixing in strange tetraquarks $Z_{cs}$</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04915"> Configuration mixing in strange tetraquarks $Z_{cs}$</a></b><br> 
     Marek Karliner, Jonathan L. Rosner </li>
   
   
  <span style="margin-left: -2.5em">(9th, Fri)</span>
   
-           <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04361"> Magnetic moments of spin-1/2 triply-heavy baryons: A study of Light-cone QCD and Quark-diquark model</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04361"> Magnetic moments of spin-1/2 triply-heavy baryons: A study of Light-cone QCD and Quark-diquark model</a></b><br> 
     Halil Mutuk, Ulaş Özdem </li>
   
   
   
 <span style="margin-left: -2.5em">(8th, Thu)</span>
   
-       <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03773"> Photoproduction of possible pentaquark states $\Lambda_b^0(5912)$ and $\Lambda_b^0(5920)$ in the $\gamma p \to \Lambda_b^{0(*)}B^+$ reactions</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03773"> Photoproduction of possible pentaquark states $\Lambda_b^0(5912)$ and $\Lambda_b^0(5920)$ in the $\gamma p \to \Lambda_b^{0(*)}B^+$ reactions</a></b><br> 
     Yin Huang, Hong Qiang Zhu </li>
   
-         <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03946"> Is the existence of a J/ψJ/ψ bound state plausible?</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03946"> Is the existence of a J/ψJ/ψ bound state plausible?</a></b><br> 
     Xiang-Kun Dong, Vadim Baru, Feng-Kun Guo, Christoph Hanhart, Alexey Nefediev, Bing-Song Zou </li>
   
   
