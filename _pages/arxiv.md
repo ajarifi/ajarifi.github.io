@@ -42,7 +42,6 @@ This list is made just to help me reading Arxiv more effectively. I just started
     J.P. Carlomagno, D. Gomez Dumm, N.N. Scoccola </li> 
  
  
-  <hr>
   <span style="margin-left: -2.5em">(2nd, Fri)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.00855">Hidden and doubly heavy molecular states from interactions $D^{(*)}_{(s)}\bar{D}^{(*)}_s/B^{(*)}_{(s)}\bar{B}^{(*)}_s$ and $D^{(*)}_{(s)}D^{(*)}_s/B^{(*)}_{(s)}B^{(*)}$</a></b><br> 
     Zuo-Ming Ding, Han-Yu Jiang, Dan Song, Jun He </li>
