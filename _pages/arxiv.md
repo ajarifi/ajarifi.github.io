@@ -78,9 +78,5 @@ This list is made just to help me reading Arxiv more effectively. I just started
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.00866">The axial charges of proton within an extended chiral constituent quark model</a></b><br> 
     Jin-Bao Wang, Gang Li, Chun-Sheng An, Ju-Jun Xie</li>
  
- 
-   <span style="margin-left: -2.5em">(1st, Tue)</span>
- 
- 
 </ol>
 
