@@ -64,13 +64,13 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
  <span style="margin-left: -2.5em">(7th, Wed)</span>
  
-   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03168"> Remarks on non-perturbative three-body dynamics and its application to the $KK\bar{K}$ system </a></b><br> 
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03168"> Remarks on non-perturbative three-body dynamics and its application to the $KK\bar{K}$ system </a></b><br> 
     Xu Zhang, Christoph Hanhart, Ulf-G. Meißner, Ju-Jun Xie </li>
   
-     <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03488"> Vector-meson production and vector meson dominance </a></b><br> 
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03488"> Vector-meson production and vector meson dominance </a></b><br> 
     Yin-Zhen Xu, Si-Yang Chen, Zhao-Qian Yao, Daniele Binosi, Zhu-Fang Cui, Craig D. Roberts </li>
   
-       <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03496"> Decay processes of a pseudoscalar $D(2900)$ </a></b><br> 
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03496"> Decay processes of a pseudoscalar $D(2900)$ </a></b><br> 
     Brenda B. Malabarba, K. P. Khemchandani, A Martinez Torres</li>
   
  
