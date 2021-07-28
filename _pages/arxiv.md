@@ -72,14 +72,14 @@ This list is made just to help me reading Arxiv more effectively. I just started
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05271"> Two- and three-gluon glueballs of $C=+$</a></b><br> 
     Hua-Xing Chen, Wei Chen, Shi-Lin Zhu </li>
   
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05459"> Coupled-channel meson-meson scattering in the diabatic framework </a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05459"> Coupled-channel meson-meson scattering in the diabatic framework </a></b><br> 
     R. Bruschini, P. González </li>
   
 
        
-  <span style="margin-left: -2.5em">(11st, Sun)</span>
+<span style="margin-left: -2.5em">(11st, Sun)</span>
   
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04957"> Prediction of an $\Omega_{bbb}\Omega_{bbb}$ dibaryon in the extended one-boson exchange model </a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04957"> Prediction of an $\Omega_{bbb}\Omega_{bbb}$ dibaryon in the extended one-boson exchange model </a></b><br> 
     Ming-Zhu Liu, Li-Sheng Geng </li>
   
   
