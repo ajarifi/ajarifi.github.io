@@ -1,5 +1,5 @@
 ---
-title: "Molecular picture of the $\Omega(2012)$"
+title: "Molecular picture of the Omega(2012)"
 collection: seminar
 type: "4th APCTP seminar"
 venue: Online
