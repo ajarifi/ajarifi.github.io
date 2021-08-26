@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV here.
 
 
 <h2 style="color:#900C3F"> Education </h2>
