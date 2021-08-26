@@ -10,7 +10,6 @@ date: 2021-05-27
  <b>Speaker</b>: Keval M. Gandhi (Sardar Vallabhbhai National Institute of Technology)<br>
  <b>Date & time</b>: 2pm KST, June 29, 2021 <br>
  <b>Place</b>: Online (Zoom) <br>
- <a href="/files/keval.pdf">[Poster]</a> &nbsp; <a href="https://zoom.us/meeting/register/tJ0ldeuurjMqHdd8ixf6RafikJdrupRn5t6J">[Zoom link]</a> <br>
       
  <p align=" justify">
   According to latest Review of Particle Physics (RPP) by Particle Data Group (PDG), the spin-parity of excited open-charm mesons 
@@ -31,5 +30,4 @@ date: 2021-05-27
   future experimental studies to find them in fundamental decay modes. <p>
  
  <p style="margin-bottom:1.2cm"></p>
- 
-  <img src="https://scontent.ficn4-1.fna.fbcdn.net/v/t1.6435-9/199480726_10219163127651386_2957227419952737161_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=HokSeHJLoxcAX9-1qdf&_nc_ht=scontent.ficn4-1.fna&oh=27564aa14ab9a5288d351590044f42fe&oe=60DBC370" style="width:100%">
+
