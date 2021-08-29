@@ -10,10 +10,6 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <p style="margin-bottom:1.2cm;"></p>
 
 ## Publication summary
-* Published Papers: 6
-* Proceedings: 5
-* Citations: 74
-* H-index: 5
 
 <table style="width:auto">
   <tr>
