@@ -9,11 +9,11 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <p style="margin-bottom:1.2cm;"></p>
 
-## Publication summary
+## Summary
 
 <table style="width:auto;font-size: 20px;">
   <tr>
-    <td>Published paper</td>
+    <td>Published papers</td>
     <td>6</td>
   </tr>
   <tr>
@@ -35,9 +35,10 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 </table>
 
 
+
 <p style="margin-bottom:1.2cm;"></p>
 
-
+## My publications
 
 <ol reversed>
   <h2> 2021 </h2>
