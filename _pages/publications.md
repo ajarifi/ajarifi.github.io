@@ -11,7 +11,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 ## Publication summary
 
-<table style="width:auto">
+<table style="width:auto;font-size: 20px;">
   <tr>
     <td>Published paper</td>
     <td>6</td>
