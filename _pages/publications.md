@@ -15,7 +15,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 * Citations: 74
 * H-index: 5
 
-<table style="width: 10%">
+<table style="width:auto">
   <tr>
     <td>Published paper</td>
     <td>6</td>
