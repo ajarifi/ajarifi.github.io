@@ -17,8 +17,8 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <table>
   <tr>
-    <th>Published paper</th>
-    <th>6</th>
+    <td>Published paper</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Proceedings</td>
