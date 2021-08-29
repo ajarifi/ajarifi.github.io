@@ -31,10 +31,6 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 </table>
 
 
-
-
-## Reviewing article
-* PRD : 1
 <p style="margin-bottom:1.2cm;"></p>
 
 
