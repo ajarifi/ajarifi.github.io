@@ -21,6 +21,10 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     <td>5</td>
   </tr>
   <tr>
+    <td>PhD Thesis</td>
+    <td>1</td>
+  </tr>
+  <tr>
     <td>Citations</td>
     <td>74</td>
   </tr>
