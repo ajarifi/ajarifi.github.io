@@ -24,7 +24,7 @@ redirect_from:
   Working as a postdoc in RCNP, Osaka University.
 
 * (2020, 09, 25) <button class="btn--article-black">Milestone</button> <br>
-  Graduated from Osaka University (Ph.D.).
+  Graduated from Osaka University (Ph.D. degree).
 
 * (2019, 10, 01) <button class="btn--article">Study</button> <br>
   Doing an internship in JAEA, Tokai, Japan.
