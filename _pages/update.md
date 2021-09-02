@@ -14,8 +14,20 @@ redirect_from:
 * (2021, 07, 29) <button class="btn--article-black">Milestone</button> <br>
   First time to review a paper in Physical Review D.
 
+* (2021, 07, 19-24) <button class="btn--article-blue">Workshop</button> <br>
+  Business trip to Hotel Hilton, Gyeongju for APCTP Focus program.
+  
+* (2021, 07, 13-16) <button class="btn--article-blue">Lectures</button> <br>
+  Attending a lecture by Prof. Ji in KNU, Daegu.
+
 * (2021, 05, 27) <button class="btn--article-black">Milestone</button> <br>
   First time to host a seminar. Thanks to Dr. Denny. See seminar section for details.
+
+* (2021, 05, 10) <button class="btn--article-black">Milestone</button> <br>
+  My first paper after graduation in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.094003"> Physical Review D </a>.
+
+* (2021, 05, 10) <button class="btn--article-blue">Colloquium</button> <br>
+  My first bussiness trip to Busan for giving a talk in PKNU.
 
 * (2021, 03, 05) <button class="btn--article-red">News</button> <br>
   Selected as the second best presenter in Intl. Conference of APFB2020.<br>
