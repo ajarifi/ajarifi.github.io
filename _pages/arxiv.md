@@ -14,7 +14,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <h1 style="color:#000080"> 2021 </h1>
 
 
-<h2 style="color:#900C3F"> July </h2>
+<h2 style="color:#900C3F"> August </h2>
 
 <ol reversed>
 
@@ -223,12 +223,12 @@ This list is made just to help me reading Arxiv more effectively. I just started
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00188"> Newly observed exotic doubly charmed meson $T^+_{cc}$ </a></b><br> 
     S. S. Agaev, K. Azizi, H. Sundu </li>
   
-     <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00218"> Study of tetraquarks in dipole-dipole interaction potential</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00218"> Study of tetraquarks in dipole-dipole interaction potential</a></b><br> 
     Sindhu D G, Akhilesh Ranjan </li>
   
   <span style="margin-left: -2.5em">(26th)</span>
  
-   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.11950"> Excitation spectra of heavy baryons in diquark models </a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.11950"> Excitation spectra of heavy baryons in diquark models </a></b><br> 
     Kento Kumakawa, Daisuke Jido </li>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.12266"> Spinless mesons and glueballs mixing patterns in $SU(3)$ flavor limit </a></b><br> 
