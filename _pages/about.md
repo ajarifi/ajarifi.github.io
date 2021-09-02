@@ -15,9 +15,9 @@ E-mail: ahmad.jafar.arifi@acptp.org
 <p style="margin-bottom:1.2cm;"></p>
 
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
-  <h1 style="color:#000080"> News </h1> </div>
+  <h1 style="color:#000080"> What's new?</h1> </div>
   
-* <a href="https://ajarifi.github.io/updates/"> What's new?</a>
+* <a href="https://ajarifi.github.io/updates/"> News and milestones</a>
 * <a href="https://ajarifi.github.io/publications/"> Latest publications </a>
 * <a href="https://ajarifi.github.io/talks/">My schedule</a>
   
