@@ -213,6 +213,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00496"> Effective QCD string and doubly heavy baryons </a></b><br> 
     Joan Soto, Jaume Tarrús Castellà</li>
  
+
 </ol>
 
 
