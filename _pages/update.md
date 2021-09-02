@@ -53,8 +53,8 @@ redirect_from:
   Selected as the best presenter in Strangeness Nuclear Physics School (SNP 2018).
 
 * (2017, 07, 04) <button class="btn--article-black">Milestone</button> <br>
-  Passed the Japanese Languange Proficiency Test (JLPT): N3 (intermediate level) <br>
-  FYI: N1 is highest and N5 is lowest level.
+  Passed the Japanese Languange Proficiency Test (JLPT): N3 (intermediate level). <br>
+  FYI: N1 and N5 is the highest and the lowest level, respectively.
 
 <h2> 2017 </h2>
 
