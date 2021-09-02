@@ -21,8 +21,9 @@ This list is made just to help me reading Arxiv more effectively. I just started
   <span style="margin-left: -2.5em">(30th)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12993"> $D_{s0}(2590)$ as a dominant $c\bar{s}$ state with a small $D^∗K$ component</a></b><br> 
   Jia-Ming Xie, Ming-Zhu Liu, Li-Sheng Geng</li>
-  
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.13028"> Production of the $T^+_{cc}$ state in the $\gamma p\tp D^+T_{cc}\Lambda_c$ reaction</a></b><br> 
+ 
+
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.13028"> Production of the $T^+_{cc}$ state in the $\gamma p\tp D^+T_{cc}\Lambda_c$ reaction</a></b><br> 
   Yin Huang, Hong Qiang Zhu, Li-Sheng Geng, Rong Wang</li>
   
  <span style="margin-left: -2.5em">(29th)</span>
@@ -33,96 +34,96 @@ This list is made just to help me reading Arxiv more effectively. I just started
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12597"> Analysis of the axialvector doubly-charmed tetraquark molecular states with the QCD sum rules</a></b><br> 
    Qi Xin, Zhi-Gang Wang</li>
   
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12700"> Heavy quarkonia in a baryon asymmetric strongly magnetized hot quark matter</a></b><br> 
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12700"> Heavy quarkonia in a baryon asymmetric strongly magnetized hot quark matter</a></b><br> 
    Salman Ahamad Khan, Mujeeb Hasan, Binoy Krishna Patra</li>
   
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12716"> A relativistic model for the Charmonium spectrum with a reduced number of free parameters</a></b><br> 
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12716"> A relativistic model for the Charmonium spectrum with a reduced number of free parameters</a></b><br> 
    M. De Sanctis/li>
   
   <span style="margin-left: -2.5em">(27th)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12207"> Mass Spectra and Decay of Mesons under Strong External Magnetic Field</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12207"> Mass Spectra and Decay of Mesons under Strong External Magnetic Field</a></b><br> 
    Shuyun Yang, Meng Jin, Defu Hou</li>
 
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12532"> Mass Spectra of One or Two Heavy Quark Mesons and Diquarks within a Nonrelativistic Potential Model</a></b><br> 
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12532"> Mass Spectra of One or Two Heavy Quark Mesons and Diquarks within a Nonrelativistic Potential Model</a></b><br> 
    L.X. Gutiérrez-Guerrero, A. Alfaro, A. Raya</li>
   
-       <span style="margin-left: -2.5em">(26th)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12039"> Dynamical model of $\phi$ meson photoproduction on the nucleon and $^4$He</a></b><br> 
+ <span style="margin-left: -2.5em">(26th)</span>
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12039"> Dynamical model of $\phi$ meson photoproduction on the nucleon and $^4$He</a></b><br> 
    Sang-Ho Kim, T.-S. H. Lee, Seung-il Nam, Yongseok Oh</li>
   
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11605"> Near-threshold Spectrum from Uniformized Mittag-Leffler Expansion -Pole Structure of Z(3900)-</a></b><br> 
    Wren A. Yamada, Osamu Morimatsu, Toru Sato, Koichi Yazaki</li>
   
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11700"> Higher-twist corrections to $D\to\pi,K$ form factors from light-cone sum rules</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11700"> Higher-twist corrections to $D\to\pi,K$ form factors from light-cone sum rules</a></b><br> 
    Long-Sheng Lu, Yong-Kang Huang, Xuan-Heng Zhang</li>
 
-      <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11731"> Comparing meson-meson and diquark-antidiquark creation operators for a $\bar{b}\bar{b}ud$ tetraquark</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11731"> Comparing meson-meson and diquark-antidiquark creation operators for a $\bar{b}\bar{b}ud$ tetraquark</a></b><br> 
    Marc Wagner, Pedro Bicudo, Antje Peters, Sebastian Velten</li>
   
   
-     <span style="margin-left: -2.5em">(25th)</span>
+   <span style="margin-left: -2.5em">(25th)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11062"> Spectra and decay properties of $\Lambda_b$ and $\Sigma_b$ baryons</a></b><br> 
    Amee Kakadiya, Zalak Shah, Keval Gandhi, Ajay Kumar Rai</li>
   
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11413"> From the lineshape of the $X(3872)$ to its structure</a></b><br> 
-   Angelo Esposito, Luciano Maiani, Alessandro Pilloni, Antonio D. Polosa, Veronica Riquer</li>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11413"> From the lineshape of the $X(3872)$ to its structure</a></b><br> 
+ Angelo Esposito, Luciano Maiani, Alessandro Pilloni, Antonio D. Polosa, Veronica Riquer</li>
   
-   <span style="margin-left: -2.5em">(24th)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.10625"> Ground state pseudoscalar mesons on the light front: from the light to heavy sector</a></b><br> 
+  <span style="margin-left: -2.5em">(24th)</span>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.10625"> Ground state pseudoscalar mesons on the light front: from the light to heavy sector</a></b><br> 
    Chao Shi, Ming Li, Xurong Chen, Wenbao Jia</li>
   
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.10544"> Current-independent transition form factors for semileptonic and rare $D\to\pi(K)$ decays in the light-front quark model</a></b><br> 
    Ho-Meoyng Choi</li>
   
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.10462"> Mass spectra of doubly heavy tetraquarks in an improved chromomagnetic interaction model</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.10462"> Mass spectra of doubly heavy tetraquarks in an improved chromomagnetic interaction model</a></b><br> 
    Tao Guo, Jianing Li, Jiaxing Zhao, Lianyi He </li>
   
   
  <span style="margin-left: -2.5em">(22nd)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.09644"> Femtoscopic study of coupled-channel $N\Xi$ and $\Lambda\Lambda$ interactions</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.09644"> Femtoscopic study of coupled-channel $N\Xi$ and $\Lambda\Lambda$ interactions</a></b><br> 
    Y. Kamiya, K. Sasaki, T. Fukui, T. Hyodo, K. Morita, K. Ogata, A. Ohnishi, T. Hatsuda </li>
   
   
   
  <span style="margin-left: -2.5em">(16th)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.07242"> Doubly heavy tetraquarks in an extended chromomagnetic model</a></b><br> 
-   Xin-Zhen Weng, Wei-Zhen Deng, Shi-Lin Zhu</li>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.07242"> Doubly heavy tetraquarks in an extended chromomagnetic model</a></b><br> 
+ Xin-Zhen Weng, Wei-Zhen Deng, Shi-Lin Zhu</li>
   
   
   
  <span style="margin-left: -2.5em">(15th)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06700"> Exploration of the hidden charm decays of $Z_{cs}(3985)$</a></b><br> 
-   Qi Wu, Dian-Yong Chen </li>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06700"> Exploration of the hidden charm decays of $Z_{cs}(3985)$</a></b><br> 
+ Qi Wu, Dian-Yong Chen </li>
   
   
 <span style="margin-left: -2.5em">(14th)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06521"> Spectroscopy of all bottom $[bb][\bar{b}\bar{b}]$ and heavy-light $[bq][\bar{b}\bar{q}]$ tetraquark </a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06521"> Spectroscopy of all bottom $[bb][\bar{b}\bar{b}]$ and heavy-light $[bq][\bar{b}\bar{q}]$ tetraquark </a></b><br> 
    Rohit Tiwari, D. P. Rathaud, Ajay Kumar Rai</li>
   
   
-  <span style="margin-left: -2.5em">(13th)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06002"> Pole analysis on the doubly charmed meson in $D^0D^0\pi^+$ mass spectrum </a></b><br> 
+<span style="margin-left: -2.5em">(13th)</span>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06002"> Pole analysis on the doubly charmed meson in $D^0D^0\pi^+$ mass spectrum </a></b><br> 
    Ling-Yun Dai, Xiang Sun, Xian-Wei Kang, A. P. Szczepaniak, Jie-Sheng Yu</li>
 
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06155"> Study of light tetraquark spectroscopy</a></b><br> 
-   Zheng Zhao, Kai Xu, Attaphon Kaewsnod, Xuyang Liu, Ayut Limphirat, Yupeng Yan </li>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06155"> Study of light tetraquark spectroscopy</a></b><br> 
+ Zheng Zhao, Kai Xu, Attaphon Kaewsnod, Xuyang Liu, Ayut Limphirat, Yupeng Yan </li>
   
-      <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06222"> Mass spectra and decays of open-heavy tetraquark states</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06222"> Mass spectra and decays of open-heavy tetraquark states</a></b><br> 
    Tao Guo, Jianing Li, Jiaxing Zhao, Lianyi He </li>
   
-   <span style="margin-left: -2.5em">(12th)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05642"> Magic mixing angles for doubly heavy baryons </a></b><br> 
+<span style="margin-left: -2.5em">(12th)</span>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05642"> Magic mixing angles for doubly heavy baryons </a></b><br> 
    Takayuki Matsuki, Dian-Yong Chen, Xiang Liu, Qi-Fang Lü </li>
 
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05841"> Relations between strong decay widths of the $P_c$ pentaquarks in the SU(4) flavor-spin model</a></b><br> 
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05841"> Relations between strong decay widths of the $P_c$ pentaquarks in the SU(4) flavor-spin model</a></b><br> 
    Fl. Stancu </li>
   
  <span style="margin-left: -2.5em">(11th)</span>
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05071"> Spectroscopic Study of Strangeness=$-3 \Omega^−$ Baryon</a></b><br> 
-   Chandni Menapara, Ajay Kumar Rai </li>
+<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05071"> Spectroscopic Study of Strangeness=$-3 \Omega^−$ Baryon</a></b><br> 
+ Chandni Menapara, Ajay Kumar Rai </li>
   
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05306"> Interpretations of the new LHCb $P_c(4337)^+$ pentaquark state</a></b><br> 
-   Mao-Jun Yan, Fang-Zheng Peng, Mario Sánchez Sánchez, Manuel Pavon Valderrama </li>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05306"> Interpretations of the new LHCb $P_c(4337)^+$ pentaquark state</a></b><br> 
+ Mao-Jun Yan, Fang-Zheng Peng, Mario Sánchez Sánchez, Manuel Pavon Valderrama </li>
   
   
   <span style="margin-left: -2.5em">(10th)</span>
@@ -133,37 +134,37 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
    <span style="margin-left: -2.5em">(9th)</span>
 
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04017"> Spectroscopy of all charm tetraquark states </a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04017"> Spectroscopy of all charm tetraquark states </a></b><br> 
     Rohit Tiwari, D P Rathaud, A K Rai</li>
   
-   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04334"> Holographic charm and bottom pentaquarks I: Mass spectra with spin effects</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04334"> Holographic charm and bottom pentaquarks I: Mass spectra with spin effects</a></b><br> 
     Yizhuang Liu, Maciej A. Nowak, Ismail Zahed</li> 
   
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03767"> Probing charmonium-like XYZ states in hadron-hadron ultraperipheral collisions and electron-proton scattering</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03767"> Probing charmonium-like XYZ states in hadron-hadron ultraperipheral collisions and electron-proton scattering</a></b><br> 
     Ya-Ping Xie, Xiao-Yun Wang, Xurong Chen</li>
   
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03905"> Proton gravitational form factors in a light-front quark-diquark model</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03905"> Proton gravitational form factors in a light-front quark-diquark model</a></b><br> 
     Dipankar Chakrabarti, Chandan Mondal, Asmita Mukherjee, Sreeraj Nair, Xingbo Zhao</li>
   
-     <span style="margin-left: -2.5em">(7th)</span>
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03482"> Hadron spectroscopy using the light-front holographic Schrödinger Equation and the 't Hooft Equation </a></b><br> 
+ <span style="margin-left: -2.5em">(7th)</span>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03482"> Hadron spectroscopy using the light-front holographic Schrödinger Equation and the 't Hooft Equation </a></b><br> 
     Mohammad Ahmady, Satvir Kaur, Sugee Lee MacKay, Chandan Mondal, Ruben Sandapen</li>
   
   
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03479"> Forming Molecular States with Hadronic Rescattering </a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03479"> Forming Molecular States with Hadronic Rescattering </a></b><br> 
     Philip Ilten, Marius Utheim</li>
   
-   <span style="margin-left: -2.5em">(6th)</span>
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.02936"> Study of the $D^+s\to a_0(980)\rho$ and $a_0(980)\omega$ decays</a></b><br> 
+ <span style="margin-left: -2.5em">(6th)</span>
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.02936"> Study of the $D^+s\to a_0(980)\rho$ and $a_0(980)\omega$ decays</a></b><br> 
     Yao Yu, Yu-Kuo Hsiao, Bai-Cian Ke </li>
   
   
   <span style="margin-left: -2.5em">(5th)</span>
 
-      <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.02730"> $D^0D^0\pi^+$ mass distribution in the production of the $T_{cc}$ exotic state</a></b><br> 
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.02730"> $D^0D^0\pi^+$ mass distribution in the production of the $T_{cc}$ exotic state</a></b><br> 
     A. Feijoo, W. H. Liang, E. Oset </li>
   
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.02673"> A survey of heavy-heavy hadronic molecules</a></b><br> 
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.02673"> A survey of heavy-heavy hadronic molecules</a></b><br> 
     Xiang-Kun Dong, Feng-Kun Guo, Bing-Song Zou </li>
   
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.02387"> $X_1(2900)$ as a $D_1 K$ molecule</a></b><br> 
@@ -183,10 +184,10 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
     <span style="margin-left: -2.5em">(3rd)</span>
   
-     <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01378"> Semileptonic $\Xi_c$ baryon decays in the light cone QCD sum rules</a></b><br> 
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01378"> Semileptonic $\Xi_c$ baryon decays in the light cone QCD sum rules</a></b><br> 
     T.M.Aliev, S.Bilmis, M.Savci </li>
 
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01619"> Pion photoproduction in chiral perturbation theory with explicit treatment of the $\Delta(1232)$ resonance</a></b><br> 
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01619"> Pion photoproduction in chiral perturbation theory with explicit treatment of the $\Delta(1232)$ resonance</a></b><br> 
     N. Rijneveen, A. M. Gasparyan, H. Krebs, E. Epelbaum</li>
   
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01744"> The exotic meson $\pi_1(1600)$ with $J^{PC}=1^{−+}$ and its decay into $\rho(770)\pi$</a></b><br> 
@@ -195,11 +196,11 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
     <span style="margin-left: -2.5em">(2nd)</span>
 
-     <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00947"> Can we understand the decay width of the $T^+_{cc}$ state?</a></b><br> 
+   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00947"> Can we understand the decay width of the $T^+_{cc}$ state?</a></b><br> 
     Xi-Zhe Ling, Ming-Zhu Liu, Li-Sheng Geng, En Wang, Ju-Jun Xie </li>
   
   
-   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00923"> Discovery of the doubly charmed $T^+_{cc}$ state implies a triply charmed $H_{ccc}$ hexaquark state</a></b><br> 
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00923"> Discovery of the doubly charmed $T^+_{cc}$ state implies a triply charmed $H_{ccc}$ hexaquark state</a></b><br> 
     Tian-Wei Wu, Ya-Wen Pan, Ming-Zhu Liu, Si-Qiang Luo, Xiang Liu, Li-Sheng Geng</li>
   
   
