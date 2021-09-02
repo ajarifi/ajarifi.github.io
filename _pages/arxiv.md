@@ -13,7 +13,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
 
 <h1 style="color:#000080"> 2021 </h1>
 
-<button class="btn--article-blue" style="color:#900C3F;position: sticky;top: 0px;">August</button>
+<button class="btn--article-blue" style="color:#900C3F;position: sticky;top: 0px;font-size:20px;">August</button>
 
 <ol reversed>
 
