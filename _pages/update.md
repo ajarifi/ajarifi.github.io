@@ -20,8 +20,7 @@ redirect_from:
   Selected as the second best presenter in Intl. Conference of APFB2020
     
 * (2021, 03, 01) <button class="btn--article">Job</button><br>
-  Moving from Japan to Korea: <br>
-  Working as a postdoc in APCTP, Pohang, Korea.
+  Moving from Japan to Korea: Working as a postdoc in APCTP, Pohang, Korea.
 
 * (2020, 10, 01) <button class="btn--article">Job</button> <br>
   Working as a postdoc in RCNP, Osaka University.
@@ -54,8 +53,7 @@ redirect_from:
   First time to publish a paper with Prof. Terry in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Physical Review D</a>.
 
 * (2015, 10, 01) <button class="btn--article">Study</button> <br> 
-  Moving from Indonesia to Japan: <br>
-  Studying aborad in Osaka University.
+  Moving from Indonesia to Japan: Studying aborad in Osaka University.
   
 * (2015, 09, 07) <button class="btn--article-black">Milestone</button> <br>
   First time to join international conference (HYP 2015, Tohoku, Japan).
