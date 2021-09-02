@@ -46,7 +46,7 @@ redirect_from:
   Selected as the best presenter in Strangeness Nuclear Physics School (SNP 2018).
   
 * (2017, 10, 25) <button class="btn--article-black">Milestone</button> <br>
-  First time to organize a conference as supervisor (ISASC, Ichokaikan, Osaka U).
+  First time to organize a conference as a supervisor (ISASC, Ichokaikan, Osaka U).
 
 * (2017, 06, 23) <button class="btn--article-black">Milestone</button> <br>
   First time to publish a paper as the first author in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018">Physical Review D</a>.
@@ -64,4 +64,4 @@ redirect_from:
   Moving from Indonesia to Japan: Studying aborad in Osaka University.
   
 * (2015, 09, 07) <button class="btn--article-black">Milestone</button> <br>
-  First time to join international conference (HYP 2015, Tohoku, Japan).
+  First time to join an international conference (HYP 2015, Tohoku, Japan).
