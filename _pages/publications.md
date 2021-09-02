@@ -28,8 +28,8 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     <td>1</td>
   </tr>
   <tr>
-    <td>Citations</td>
-    <td>74</td>
+    <td>Citations (Google scholar)</td>
+    <td>78</td>
   </tr>
   <tr>
     <td>H-index</td>
