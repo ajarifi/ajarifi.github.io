@@ -11,10 +11,10 @@ redirect_from:
   
 
 
-* (2021, 03, 01) <button class="btn--article-red">News</button> <br>
+* (2021, 03, 05) <button class="btn--article-red">News</button> <br>
   Selected as the second best presenter in Intl. Conference of APFB2020
     
-* (2021, 03, 01) br>
+* (2021, 03, 01) <br>
   Moving from Japan to Korea: <br>
   Working as a postdoc in APCTP, Pohang, Korea.
 
