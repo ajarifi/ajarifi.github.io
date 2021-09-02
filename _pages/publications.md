@@ -17,23 +17,23 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">
   <tr>
     <td>Published papers</td>
-    <td>6</td>
+    <td style="text-align:center">6</td>
   </tr>
   <tr>
     <td>Proceedings</td>
-    <td>5</td>
+    <td style="text-align:center">5</td>
   </tr>
   <tr>
     <td>PhD Thesis</td>
-    <td>1</td>
+    <td style="text-align:center">1</td>
   </tr>
   <tr>
     <td>Citations (Google scholar)</td>
-    <td>78</td>
+    <td style="text-align:center">78</td>
   </tr>
   <tr>
     <td>H-index</td>
-    <td>5</td>
+    <td style="text-align:center">5</td>
   </tr>
 </table>
 
