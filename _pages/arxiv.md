@@ -27,11 +27,11 @@ This list is made just to help me reading Arxiv more effectively. I just started
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.13028"> Production of the $T^+_{cc}$ state in the $\gamma p\to D^+T_{cc}\Lambda_c$ reaction</a></b><br> 
   Yin Huang, Hong Qiang Zhu, Li-Sheng Geng, Rong Wang</li>
   
- <span style="margin-left: -2.5em">(29th)</span>
+ <span style="margin-left: -2.0em">(29th)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12730"> Doubly charmed molecular pentaquarks</a></b><br> 
    Rui Chen, Ning Li, Zhi-Feng Sun, Xiang Liu, Shi-Lin Zhu</li>
   
- <span style="margin-left: -2.5em">(28th)</span>
+ <span style="margin-left: -2.0em">(28th)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12597"> Analysis of the axialvector doubly-charmed tetraquark molecular states with the QCD sum rules</a></b><br> 
    Qi Xin, Zhi-Gang Wang</li>
   
@@ -41,14 +41,14 @@ This list is made just to help me reading Arxiv more effectively. I just started
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12716"> A relativistic model for the Charmonium spectrum with a reduced number of free parameters</a></b><br> 
    M. De Sanctis</li>
   
-  <span style="margin-left: -2.5em">(27th)</span>
+  <span style="margin-left: -2.0em">(27th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12207"> Mass Spectra and Decay of Mesons under Strong External Magnetic Field</a></b><br> 
    Shuyun Yang, Meng Jin, Defu Hou</li>
 
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12532"> Mass Spectra of One or Two Heavy Quark Mesons and Diquarks within a Nonrelativistic Potential Model</a></b><br> 
    L.X. Gutiérrez-Guerrero, A. Alfaro, A. Raya</li>
   
- <span style="margin-left: -2.5em">(26th)</span>
+ <span style="margin-left: -2.0em">(26th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12039"> Dynamical model of $\phi$ meson photoproduction on the nucleon and $^4$He</a></b><br> 
    Sang-Ho Kim, T.-S. H. Lee, Seung-il Nam, Yongseok Oh</li>
   
@@ -62,14 +62,14 @@ This list is made just to help me reading Arxiv more effectively. I just started
    Marc Wagner, Pedro Bicudo, Antje Peters, Sebastian Velten</li>
   
   
-   <span style="margin-left: -2.5em">(25th)</span>
+   <span style="margin-left: -2.0em">(25th)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11062"> Spectra and decay properties of $\Lambda_b$ and $\Sigma_b$ baryons</a></b><br> 
    Amee Kakadiya, Zalak Shah, Keval Gandhi, Ajay Kumar Rai</li>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11413"> From the lineshape of the $X(3872)$ to its structure</a></b><br> 
  Angelo Esposito, Luciano Maiani, Alessandro Pilloni, Antonio D. Polosa, Veronica Riquer</li>
   
-  <span style="margin-left: -2.5em">(24th)</span>
+  <span style="margin-left: -2.0em">(24th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.10625"> Ground state pseudoscalar mesons on the light front: from the light to heavy sector</a></b><br> 
    Chao Shi, Ming Li, Xurong Chen, Wenbao Jia</li>
   
@@ -80,29 +80,29 @@ This list is made just to help me reading Arxiv more effectively. I just started
    Tao Guo, Jianing Li, Jiaxing Zhao, Lianyi He </li>
   
   
- <span style="margin-left: -2.5em">(22nd)</span>
+ <span style="margin-left: -2.0em">(22nd)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.09644"> Femtoscopic study of coupled-channel $N\Xi$ and $\Lambda\Lambda$ interactions</a></b><br> 
    Y. Kamiya, K. Sasaki, T. Fukui, T. Hyodo, K. Morita, K. Ogata, A. Ohnishi, T. Hatsuda </li>
   
   
   
- <span style="margin-left: -2.5em">(16th)</span>
+ <span style="margin-left: -2.0em">(16th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.07242"> Doubly heavy tetraquarks in an extended chromomagnetic model</a></b><br> 
  Xin-Zhen Weng, Wei-Zhen Deng, Shi-Lin Zhu</li>
   
   
   
- <span style="margin-left: -2.5em">(15th)</span>
+ <span style="margin-left: -2.0em">(15th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06700"> Exploration of the hidden charm decays of $Z_{cs}(3985)$</a></b><br> 
  Qi Wu, Dian-Yong Chen </li>
   
   
- <span style="margin-left: -2.5em">(14th)</span>
+ <span style="margin-left: -2.0em">(14th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06521"> Spectroscopy of all bottom $[bb][\bar{b}\bar{b}]$ and heavy-light $[bq][\bar{b}\bar{q}]$ tetraquark </a></b><br> 
    Rohit Tiwari, D. P. Rathaud, Ajay Kumar Rai</li>
   
   
- <span style="margin-left: -2.5em">(13th)</span>
+ <span style="margin-left: -2.0em">(13th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06002"> Pole analysis on the doubly charmed meson in $D^0D^0\pi^+$ mass spectrum </a></b><br> 
    Ling-Yun Dai, Xiang Sun, Xian-Wei Kang, A. P. Szczepaniak, Jie-Sheng Yu</li>
 
@@ -112,14 +112,14 @@ This list is made just to help me reading Arxiv more effectively. I just started
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06222"> Mass spectra and decays of open-heavy tetraquark states</a></b><br> 
    Tao Guo, Jianing Li, Jiaxing Zhao, Lianyi He </li>
   
- <span style="margin-left: -2.5em">(12th)</span>
+ <span style="margin-left: -2.0em">(12th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05642"> Magic mixing angles for doubly heavy baryons </a></b><br> 
    Takayuki Matsuki, Dian-Yong Chen, Xiang Liu, Qi-Fang Lü </li>
 
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05841"> Relations between strong decay widths of the $P_c$ pentaquarks in the SU(4) flavor-spin model</a></b><br> 
    Fl. Stancu </li>
   
- <span style="margin-left: -2.5em">(11th)</span>
+ <span style="margin-left: -2.0em">(11th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05071"> Spectroscopic Study of Strangeness=$-3 \Omega^−$ Baryon</a></b><br> 
  Chandni Menapara, Ajay Kumar Rai </li>
   
@@ -127,7 +127,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
  Mao-Jun Yan, Fang-Zheng Peng, Mario Sánchez Sánchez, Manuel Pavon Valderrama </li>
   
   
-  <span style="margin-left: -2.5em">(10th)</span>
+  <span style="margin-left: -2.0em">(10th)</span>
 
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04720"> Evidence for a new structure in the $J/\psi p$ and $J/\psi\bar{p}$ systems in $B^0_s\to J/\psi p\bar{p}$ decays </a></b><br> 
   🔴　 LHCb Collaboration </li>
@@ -136,7 +136,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
    Mao-Jun Yan, Manuel Pavon Valderrama </li>
   
   
-   <span style="margin-left: -2.5em">(9th)</span>
+   <span style="margin-left: -2.0em">(9th)</span>
 
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04017"> Spectroscopy of all charm tetraquark states </a></b><br> 
     Rohit Tiwari, D P Rathaud, A K Rai</li>
@@ -150,7 +150,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03905"> Proton gravitational form factors in a light-front quark-diquark model</a></b><br> 
     Dipankar Chakrabarti, Chandan Mondal, Asmita Mukherjee, Sreeraj Nair, Xingbo Zhao</li>
   
- <span style="margin-left: -2.5em">(7th)</span>
+ <span style="margin-left: -2.0em">(7th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03482"> Hadron spectroscopy using the light-front holographic Schrödinger Equation and the 't Hooft Equation </a></b><br> 
     Mohammad Ahmady, Satvir Kaur, Sugee Lee MacKay, Chandan Mondal, Ruben Sandapen</li>
   
@@ -158,12 +158,12 @@ This list is made just to help me reading Arxiv more effectively. I just started
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.03479"> Forming Molecular States with Hadronic Rescattering </a></b><br> 
     Philip Ilten, Marius Utheim</li>
   
- <span style="margin-left: -2.5em">(6th)</span>
+ <span style="margin-left: -2.0em">(6th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.02936"> Study of the $D^+s\to a_0(980)\rho$ and $a_0(980)\omega$ decays</a></b><br> 
     Yao Yu, Yu-Kuo Hsiao, Bai-Cian Ke </li>
   
   
-  <span style="margin-left: -2.5em">(5th)</span>
+  <span style="margin-left: -2.0em">(5th)</span>
 
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.02730"> $D^0D^0\pi^+$ mass distribution in the production of the $T_{cc}$ exotic state</a></b><br> 
     A. Feijoo, W. H. Liang, E. Oset </li>
@@ -175,7 +175,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     Hao Chen, Hong-Rong Qi, Han-Qing Zheng </li>
   
   
- <span style="margin-left: -2.5em">(4th)</span>
+ <span style="margin-left: -2.0em">(4th)</span>
 
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01911"> Another doubly charmed molecular resonance ${T'}^+_{cc}(3876)$</a></b><br> 
     Rui Chen, Qi Huang, Xiang Liu, Shi-Lin Zhu </li>
@@ -186,7 +186,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01840"> Radiative M1 transitions of heavy baryons: Effective Quark Mass Scheme</a></b><br> 
     Avijit Hazra, Saheli Rakshit, Rohit Dhir </li>
   
- <span style="margin-left: -2.5em">(3rd)</span>
+ <span style="margin-left: -2.0em">(3rd)</span>
   
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01378"> Semileptonic $\Xi_c$ baryon decays in the light cone QCD sum rules</a></b><br> 
     T.M.Aliev, S.Bilmis, M.Savci </li>
@@ -198,7 +198,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     🔴　COMPASS Collaboration</li>
   
   
- <span style="margin-left: -2.5em">(2nd)</span>
+ <span style="margin-left: -2.0em">(2nd)</span>
 
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00947"> Can we understand the decay width of the $T^+_{cc}$ state?</a></b><br> 
     Xi-Zhe Ling, Ming-Zhu Liu, Li-Sheng Geng, En Wang, Ju-Jun Xie </li>
@@ -213,7 +213,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
   
   
-  <span style="margin-left: -2.5em">(1st)</span>
+  <span style="margin-left: -2.0em">(1st)</span>
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00496"> Effective QCD string and doubly heavy baryons </a></b><br> 
     Joan Soto, Jaume Tarrús Castellà</li>
  
@@ -225,14 +225,14 @@ This list is made just to help me reading Arxiv more effectively. I just started
 
 <ol reversed>
 
-  <span style="margin-left: -2.5em">(31st)</span>
+  <span style="margin-left: -2.0em">(31st)</span>
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00188"> Newly observed exotic doubly charmed meson $T^+_{cc}$ </a></b><br> 
     S. S. Agaev, K. Azizi, H. Sundu </li>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00218"> Study of tetraquarks in dipole-dipole interaction potential</a></b><br> 
     Sindhu D G, Akhilesh Ranjan </li>
   
-  <span style="margin-left: -2.5em">(26th)</span>
+  <span style="margin-left: -2.0em">(26th)</span>
  
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.11950"> Excitation spectra of heavy baryons in diquark models </a></b><br> 
     Kento Kumakawa, Daisuke Jido </li>
@@ -241,13 +241,13 @@ This list is made just to help me reading Arxiv more effectively. I just started
     Amir H. Fariborz, Mars Lyukova </li>
   
 
- <span style="margin-left: -2.5em">(23th, Fri)</span>
+ <span style="margin-left: -2.0em">(23th, Fri)</span>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.11026"> Investigation of the $X(4020)$ peak in the $D^∗\bar{D}^∗$ and $\pi h_c$ channels </a></b><br> 
   Shuntaro Sakai </li>
   
   
- <span style="margin-left: -2.5em">(22th, Thu)</span>
+ <span style="margin-left: -2.0em">(22th, Thu)</span>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.10499"> Electromagnetic form factors of $\Lambda$ hyperon in the vector meson dominance model and the near-threshold enhancement of the $e^+e^−\to \Lambda\bar{\Lambda}$ reaction </a></b><br> 
   Zhong-Yi Li, An-Xin Dai, Ju-Jun Xie </li>
@@ -256,13 +256,13 @@ This list is made just to help me reading Arxiv more effectively. I just started
   Albert Feijoo, Daniel Gazda, Volodymyr Magas, Angels Ramos</li>    
   
   
- <span style="margin-left: -2.5em">(20th, Tue)</span>
+ <span style="margin-left: -2.0em">(20th, Tue)</span>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.09275"> How to understand the $X(2900)$? </a></b><br> 
    Bo Wang, Shi-Lin Zhu </li>
   
   
- <span style="margin-left: -2.5em">(19th, Mon)</span>
+ <span style="margin-left: -2.0em">(19th, Mon)</span>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.08680"> Hidden charm pentaquark states in a diquark model </a></b><br> 
    Pan-Pan Shi, Fei Huang, Wen-Ling Wang </li>
@@ -271,13 +271,13 @@ This list is made just to help me reading Arxiv more effectively. I just started
    Gurjav Ganbold, Thomas Gutsche, Mikhail A. Ivanov, Valery E. Lyubovitskij</li>
   
   
- <span style="margin-left: -2.5em">(15th, Thu)</span>
+ <span style="margin-left: -2.0em">(15th, Thu)</span>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.07439"> The $\pi f_0(500)$ decay of the  $a_1(1260)$ </a></b><br> 
    R. Molina, M. Doering, W. H. Liang, E. Oset </li>
   
     
-  <span style="margin-left: -2.5em">(12nd, Mon)</span>
+  <span style="margin-left: -2.0em">(12nd, Mon)</span>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05615"> Measurement of the Masses and Widths of the $\Sigma_c(2455)^+$ and $\Sigma_c(2520)^+$ Baryons</a></b><br> 
    🔴　BELLE Collaboration </li>
@@ -293,14 +293,14 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
 
        
-<span style="margin-left: -2.5em">(11st, Sun)</span>
+<span style="margin-left: -2.0em">(11st, Sun)</span>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04957"> Prediction of an $\Omega_{bbb}\Omega_{bbb}$ dibaryon in the extended one-boson exchange model </a></b><br> 
     Ming-Zhu Liu, Li-Sheng Geng </li>
   
   
   
- <span style="margin-left: -2.5em">(10th, Sat)</span>
+ <span style="margin-left: -2.0em">(10th, Sat)</span>
   
     
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04751"> Study of $\Lambda_c\Lambda_c$ dibaryon and $\Lambda_c\bar{\Lambda_c}$ baryonium states via QCD sum rules</a></b><br> 
@@ -314,13 +314,13 @@ This list is made just to help me reading Arxiv more effectively. I just started
     Marek Karliner, Jonathan L. Rosner </li>
   
   
-<span style="margin-left: -2.5em">(9th, Fri)</span>
+<span style="margin-left: -2.0em">(9th, Fri)</span>
   
 <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.04361"> Magnetic moments of spin-1/2 triply-heavy baryons: A study of Light-cone QCD and Quark-diquark model</a></b><br> 
  Halil Mutuk, Ulaş Özdem </li>
   
   
-<span style="margin-left: -2.5em">(8th, Thu)</span>
+<span style="margin-left: -2.0em">(8th, Thu)</span>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03773"> Photoproduction of possible pentaquark states $\Lambda_b^0(5912)$ and $\Lambda_b^0(5920)$ in the $\gamma p \to \Lambda_b^{0(*)}B^+$ reactions</a></b><br> 
     Yin Huang, Hong Qiang Zhu </li>
@@ -331,7 +331,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03973"> Three-body dynamics of the $a_1(1260)$ resonance from lattice QCD</a></b><br> 
     Maxim Mai, Andrei Alexandru, Ruairí Brett, Chris Culver, Michael Döring, Frank X. Lee, Daniel Sadasivan </li> 
   
- <span style="margin-left: -2.5em">(7th, Wed)</span>
+ <span style="margin-left: -2.0em">(7th, Wed)</span>
  
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03419"> Observation of excited $\Omega^0_c$ baryons in $\Omega^−_b\to \Xi^+_c K^−\pi^−$ decays</a></b><br> 
    🔴　LHCb Collaboration </li>
@@ -346,7 +346,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     Brenda B. Malabarba, K. P. Khemchandani, A Martinez Torres</li>
   
  
- <span style="margin-left: -2.5em">(6th, Tue)</span>
+ <span style="margin-left: -2.0em">(6th, Tue)</span>
  
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.02735"> Strong coupling constants of charmed and bottom mesons with light vector mesons in QCD sum rules </a></b><br> 
     T. M. Aliev, K. Şimşek </li>
@@ -356,7 +356,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
  
  
-  <span style="margin-left: -2.5em">(5th, Mon)</span>
+  <span style="margin-left: -2.0em">(5th, Mon)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.01751">The newly observed state $D_{s0}(2590)^+$</a></b><br> 
     Guo-Li Wang, Wei Li, Tai-Fu Feng, Yue-Long Wang, Yu-Bin Liu </li>
 
@@ -364,7 +364,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     J.P. Carlomagno, D. Gomez Dumm, N.N. Scoccola </li> 
  
  
-  <span style="margin-left: -2.5em">(2nd, Fri)</span>
+  <span style="margin-left: -2.0em">(2nd, Fri)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.00855">Hidden and doubly heavy molecular states from interactions $D^{(*)}_{(s)}\bar{D}^{(*)}_s/B^{(*)}_{(s)}\bar{B}^{(*)}_s$ and $D^{(*)}_{(s)}D^{(*)}_s/B^{(*)}_{(s)}B^{(*)}$</a></b><br> 
     Zuo-Ming Ding, Han-Yu Jiang, Dan Song, Jun He </li>
 
@@ -377,23 +377,23 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <h2 style="color:#900C3F"> June </h2>
 
 <ol reversed>
-  <span style="margin-left: -2.5em">(22nd, Tue)</span>
+  <span style="margin-left: -2.0em">(22nd, Tue)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2106.11868">Doubly Heavy Tetraquark Resonant States</a></b><br> 
     Qi Meng, Masayasu Harada, Emiko Hiyama, Atsushi Hosaka, Makoto Oka</li>
   
  <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11923">Diagnosing the Quark-Gluon Plasma</a></b><br> 
     Berndt Müller</li>
   
-  <span style="margin-left: -2.5em">(21st, Mon)</span>
+  <span style="margin-left: -2.0em">(21st, Mon)</span>
 
  <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.11450">Hidden charm pentaquark with strangeness $P_{cs}(4739)$ as a $\Sigma_c D K$ bound state</a></b><br> 
     Tian-Wei Wu, Ya-Wen Pan, Ming-Zhu Liu, Jun-Xu Lu, Li-Sheng Geng, Xiao-Hai Liu </li>
   
-   <span style="margin-left: -2.5em">(16th, Wed)</span>
+   <span style="margin-left: -2.0em">(16th, Wed)</span>
   <li style="margin-bottom: 25px;"><b><a href="https://arxiv.org/abs/2106.09080">Diquark properties from full QCD lattice simulations</a></b><br> 
     Anthony Francis, Philippe de Forcrand, Randy Lewis, Kim Maltman </li>
   
-  <span style="margin-left: -2.5em">(2nd, Wed)</span>
+  <span style="margin-left: -2.0em">(2nd, Wed)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2106.00892">Evidence for the decay $\Omega_c\to \pi^+ \Omega(2012)\to\pi (K\Xi)$</a></b><br> 
     🔴　Belle Collaboration</li>
  
