@@ -29,6 +29,12 @@ redirect_from:
 * (2019, 10, 01) <button class="btn--article">Study</button> <br>
   Doing an internship in JAEA, Tokai, Japan.
 
+* (2017, 06, 23) <button class="btn--article-black">Milestone</button> <br>
+  First time to publish a paper in Physical Review D as the first author.
+
 * (2015, 10, 01) <button class="btn--article">Study</button> <br> 
   Moving from Indonesia to Japan: <br>
   Studying aborad in Osaka University.
+
+* (2015, 11, 18) <button class="btn--article-black">Milestone</button> <br>
+  First time to publish a paper in Physical Review D.
