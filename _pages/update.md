@@ -17,10 +17,12 @@ redirect_from:
   First time to host a seminar. Thanks to Dr. Denny. See seminar section for details.
 
 * (2021, 03, 05) <button class="btn--article-red">News</button> <br>
-  Selected as the second best presenter in Intl. Conference of APFB2020
+  Selected as the second best presenter in Intl. Conference of APFB2020.<br>
+  The talk was presented online when I was quarrantined in Korea.
     
 * (2021, 03, 01) <button class="btn--article">Job</button><br>
-  Moving from Japan to Korea: Working as a postdoc in APCTP, Pohang, Korea.
+  Moving from Japan to Korea: Working as a postdoc in APCTP, Pohang, Korea.<br>
+  Luckily, I could get a job in the Covid-19 Pandemic.
 
 * (2020, 10, 01) <button class="btn--article">Job</button> <br>
   Working as a postdoc in RCNP, Osaka University.
