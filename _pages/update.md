@@ -10,6 +10,8 @@ redirect_from:
   <h1 style="color:#000080"> What's new?</h1> </div>
   
 
+* (2021, 07, 29) <button class="btn--article-black">Milestone</button> <br>
+  Fist time to review a paper in PRD.
 
 * (2021, 03, 05) <button class="btn--article-red">News</button> <br>
   Selected as the second best presenter in Intl. Conference of APFB2020
@@ -22,14 +24,11 @@ redirect_from:
   Working as a postdoc in RCNP, Osaka University.
 
 * (2020, 09, 25) <button class="btn--article-black">Milestone</button> <br>
-  Graduated from Osaka University.
+  Graduated from Osaka University (Ph.D.).
 
 * (2019, 10, 01) <button class="btn--article">Study</button> <br>
   Doing an internship in JAEA, Tokai, Japan.
 
-* (2017, 10, 01) <button class="btn--article">Study</button><br>
-  Joining a doctoral program in Osaka University.
-
 * (2015, 10, 01) <button class="btn--article">Study</button> <br> 
   Moving from Indonesia to Japan: <br>
-  Studying aborad (Master's course), in Osaka University.
+  Studying aborad in Osaka University.
