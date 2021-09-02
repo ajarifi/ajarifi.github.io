@@ -171,7 +171,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     Hao Chen, Hong-Rong Qi, Han-Qing Zheng </li>
   
   
-    <span style="margin-left: -2.5em">(4th)</span>
+ <span style="margin-left: -2.5em">(4th)</span>
 
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01911"> Another doubly charmed molecular resonance ${T'}^+_{cc}(3876)$</a></b><br> 
     Rui Chen, Qi Huang, Xiang Liu, Shi-Lin Zhu </li>
@@ -182,7 +182,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01840"> Radiative M1 transitions of heavy baryons: Effective Quark Mass Scheme</a></b><br> 
     Avijit Hazra, Saheli Rakshit, Rohit Dhir </li>
   
-    <span style="margin-left: -2.5em">(3rd)</span>
+ <span style="margin-left: -2.5em">(3rd)</span>
   
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01378"> Semileptonic $\Xi_c$ baryon decays in the light cone QCD sum rules</a></b><br> 
     T.M.Aliev, S.Bilmis, M.Savci </li>
@@ -194,7 +194,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     COMPASS </li>
   
   
-    <span style="margin-left: -2.5em">(2nd)</span>
+ <span style="margin-left: -2.5em">(2nd)</span>
 
    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.00947"> Can we understand the decay width of the $T^+_{cc}$ state?</a></b><br> 
     Xi-Zhe Ling, Ming-Zhu Liu, Li-Sheng Geng, En Wang, Ju-Jun Xie </li>
