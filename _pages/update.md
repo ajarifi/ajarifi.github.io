@@ -55,7 +55,8 @@ redirect_from:
 <h2> 2017 </h2>
 
 * (2017, 10, 25) <button class="btn--article-black">Milestone</button> <br>
-  First time to organize a conference as a supervisor (ISASC, Ichokaikan, Osaka U).
+  First time to organize a conference as a supervisor (ISASC, Ichokaikan, Osaka U). <br>
+  This is the scientific conference of indonesian student association.
 
 * (2017, 06, 23) <button class="btn--article-black">Milestone</button> <br>
   First time to publish a paper as the first author in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018">Physical Review D</a>.
