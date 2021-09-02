@@ -128,6 +128,9 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
   <span style="margin-left: -2.5em">(10th)</span>
 
+    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04720"> Evidence for a new structure in the $J/\psi p$ and $J/\psi\bar{p}$ systems in $B^0_s\to J/\psi p\bar{p}$ decays </a></b><br> 
+  🔴　 LHCb Collaboration </li>
+  
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04785"> Subleading contributions to the decay width of the $T^+_{cc}$ tetraquark </a></b><br> 
    Mao-Jun Yan, Manuel Pavon Valderrama </li>
   
@@ -191,7 +194,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     N. Rijneveen, A. M. Gasparyan, H. Krebs, E. Epelbaum</li>
   
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.01744"> The exotic meson $\pi_1(1600)$ with $J^{PC}=1^{−+}$ and its decay into $\rho(770)\pi$</a></b><br> 
-    COMPASS </li>
+    🔴　COMPASS Collaboration</li>
   
   
  <span style="margin-left: -2.5em">(2nd)</span>
@@ -275,9 +278,11 @@ This list is made just to help me reading Arxiv more effectively. I just started
     
   <span style="margin-left: -2.5em">(12nd, Mon)</span>
   
+    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05615"> Measurement of the Masses and Widths of the $\Sigma_c(2455)^+$ and $\Sigma_c(2520)^+$ Baryons</a></b><br> 
+   🔴　BELLE Collaboration </li>
+
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05209"> Properties of Spin-1/2 Heavy Baryons at Non-Zero Temperature </a></b><br> 
     A. Türkan, G. Bozkır, K. Azizi </li>
-  
     
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05271"> Two- and three-gluon glueballs of $C=+$</a></b><br> 
     Hua-Xing Chen, Wei Chen, Shi-Lin Zhu </li>
@@ -327,6 +332,9 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
  <span style="margin-left: -2.5em">(7th, Wed)</span>
  
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03419"> Observation of excited $\Omega^0_c$ baryons in $\Omega^−_b\to \Xi^+_c K^−\pi^−$ decays</a></b><br> 
+   🔴　LHCb Collaboration </li>
+  
 <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.03168"> Remarks on non-perturbative three-body dynamics and its application to the $KK\bar{K}$ system </a></b><br> 
     Xu Zhang, Christoph Hanhart, Ulf-G. Meißner, Ju-Jun Xie </li>
   
