@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My personal page"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! <br>
-You will find anything you need about me and my research.
+Postdoct, APCTP, Republic of Korea <br>
+E-mail: ahmad.jafar.arifi@acptp.org
+
 
 <p style="margin-bottom:1.2cm;"></p>
 
