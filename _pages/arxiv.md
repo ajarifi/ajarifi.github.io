@@ -23,7 +23,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
   Jia-Ming Xie, Ming-Zhu Liu, Li-Sheng Geng</li>
  
 
-  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.13028"> Production of the $T^+_{cc}$ state in the $\gamma p\tp D^+T_{cc}\Lambda_c$ reaction</a></b><br> 
+  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.13028"> Production of the $T^+_{cc}$ state in the $\gamma p\to D^+T_{cc}\Lambda_c$ reaction</a></b><br> 
   Yin Huang, Hong Qiang Zhu, Li-Sheng Geng, Rong Wang</li>
   
  <span style="margin-left: -2.5em">(29th)</span>
@@ -38,7 +38,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
    Salman Ahamad Khan, Mujeeb Hasan, Binoy Krishna Patra</li>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12716"> A relativistic model for the Charmonium spectrum with a reduced number of free parameters</a></b><br> 
-   M. De Sanctis/li>
+   M. De Sanctis</li>
   
   <span style="margin-left: -2.5em">(27th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12207"> Mass Spectra and Decay of Mesons under Strong External Magnetic Field</a></b><br> 
