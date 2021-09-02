@@ -29,6 +29,9 @@ redirect_from:
 * (2019, 10, 01) <button class="btn--article">Study</button> <br>
   Doing an internship in JAEA, Tokai, Japan.
 
+* (2018, 08, 03) <button class="btn--article-red">News</button> <br>
+  Selected as the best presenter in Strangeness Nuclear Physics School (SNP 2018).
+  
 * (2017, 06, 23) <button class="btn--article-black">Milestone</button> <br>
   First time to publish a paper as the first author in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018">Physical Review D</a>.
 
