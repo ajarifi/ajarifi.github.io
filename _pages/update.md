@@ -23,7 +23,7 @@ redirect_from:
 * (2020, 10, 01) <button class="btn--article">Job</button> <br>
   Working as a postdoc in RCNP, Osaka University.
 
-* (2020, 09, 25) <button class="btn--article-black">Milestone</button> <br>
+* (2020, 09, 25) <button class="btn--article-red">News</button> <br>
   Graduated from Osaka University (Ph.D. degree).
 
 * (2019, 10, 01) <button class="btn--article">Study</button> <br>
