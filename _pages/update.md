@@ -9,6 +9,7 @@ redirect_from:
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
   <h1 style="color:#000080"> What's new?</h1> </div>
   
+<h2> 2021 </h2>
 
 * (2021, 07, 29) <button class="btn--article-black">Milestone</button> <br>
   First time to review a paper in Physical Review D.
@@ -24,6 +25,8 @@ redirect_from:
   Moving from Japan to Korea: Working as a postdoc in APCTP, Pohang, Korea.<br>
   Luckily, I could get a job during the Covid-19 Pandemic.
 
+<h2> 2020 </h2>
+
 * (2020, 10, 01) <button class="btn--article">Job</button> <br>
   Working as a postdoc in RCNP, Osaka University.
 
@@ -36,26 +39,36 @@ redirect_from:
 * (2020, 03, 01) <button class="btn--article-red">News</button> <br>
   Our work is introduced in JAEA Science basic note <a href="https://asrc.jaea.go.jp/publication/note/pdf/41kagaku/41_06.pdf">Vol.26 No.1 (Mar.2020)</a>.
 
+<h2> 2019 </h2>
+
 * (2019, 10, 01) <button class="btn--article">Study</button> <br>
   Doing an internship in JAEA, Tokai, Japan.
+
+<h2> 2018 </h2>
 
 * (2018, 12, 12) <button class="btn--article-red">News</button> <br>
   One of our figures is selected in <a href="https://journals.aps.org/prd/kaleidoscope/prd/98/11/114007">Kaleidoscope</a> (Physical Review D).
 
 * (2018, 08, 03) <button class="btn--article-red">News</button> <br>
   Selected as the best presenter in Strangeness Nuclear Physics School (SNP 2018).
-  
+
+<h2> 2017 </h2>
+
 * (2017, 10, 25) <button class="btn--article-black">Milestone</button> <br>
   First time to organize a conference as a supervisor (ISASC, Ichokaikan, Osaka U).
 
 * (2017, 06, 23) <button class="btn--article-black">Milestone</button> <br>
   First time to publish a paper as the first author in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018">Physical Review D</a>.
 
+<h2> 2016 </h2>
+
 * (2016, 12, 15) <button class="btn--article-red">News</button> <br>
   Selected as the president of Indonesian student association in Osaka & Nara.
 
 * (2016, 09, 21) <button class="btn--article-black">Milestone</button> <br>
   My first time to join JPS meeting in Miyazaki. Typhoon was coming on the day of my flight.
+
+<h2> 2015 </h2>
 
 * (2015, 11, 18) <button class="btn--article-black">Milestone</button> <br>
   First time to publish a paper with Prof. Terry in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Physical Review D</a>. <br>
