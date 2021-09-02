@@ -9,7 +9,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <p style="margin-bottom:1.2cm;"></p>
 
-<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;"> 
+<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
   <h1 style="color:#000080"> Summary </h1> </div>
 
 <p style="margin-bottom:1cm;"></p>
@@ -41,7 +41,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <p style="margin-bottom:2cm;"></p>
 
-<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;"> 
+<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 2;"> 
   <h1 style="color:#000080"> My publications </h1> </div>
 
 <ol reversed>
