@@ -221,7 +221,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
 </ol>
 
 
-<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;"> <h1 style="color:#900C3F;"> July </h1> </div>
+<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 6;"> <h1 style="color:#900C3F;"> July </h1> </div>
 
 <ol reversed>
 
@@ -374,7 +374,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
 </ol>
 
 
-<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;"> <h1 style="color:#900C3F;"> June </h1> </div>
+<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 7;"> <h1 style="color:#900C3F;"> June </h1> </div>
 
 <ol reversed>
   <span style="margin-left: -2.0em">(22nd, Tue)</span>
