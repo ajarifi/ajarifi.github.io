@@ -128,7 +128,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
   
   <span style="margin-left: -2.5em">(10th)</span>
 
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04720"> Evidence for a new structure in the $J/\psi p$ and $J/\psi\bar{p}$ systems in $B^0_s\to J/\psi p\bar{p}$ decays </a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04720"> Evidence for a new structure in the $J/\psi p$ and $J/\psi\bar{p}$ systems in $B^0_s\to J/\psi p\bar{p}$ decays </a></b><br> 
   🔴　 LHCb Collaboration </li>
   
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.04785"> Subleading contributions to the decay width of the $T^+_{cc}$ tetraquark </a></b><br> 
@@ -278,7 +278,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
     
   <span style="margin-left: -2.5em">(12nd, Mon)</span>
   
-    <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05615"> Measurement of the Masses and Widths of the $\Sigma_c(2455)^+$ and $\Sigma_c(2520)^+$ Baryons</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05615"> Measurement of the Masses and Widths of the $\Sigma_c(2455)^+$ and $\Sigma_c(2520)^+$ Baryons</a></b><br> 
    🔴　BELLE Collaboration </li>
 
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2107.05209"> Properties of Spin-1/2 Heavy Baryons at Non-Zero Temperature </a></b><br> 
