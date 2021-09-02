@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoc, APCTP, Republic of Korea <br>
+APCTP, South Korea <br>
 E-mail: ahmad.jafar.arifi@acptp.org
 
 
