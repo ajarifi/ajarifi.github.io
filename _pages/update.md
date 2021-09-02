@@ -58,13 +58,15 @@ redirect_from:
   My first time to join JPS meeting in Miyazaki. Typhoon was coming on the day of my flight.
 
 * (2015, 11, 18) <button class="btn--article-black">Milestone</button> <br>
-  First time to publish a paper with Prof. Terry in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Physical Review D</a>.
+  First time to publish a paper with Prof. Terry in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Physical Review D</a>. <br>
+  This work is partly from my undergraduate thesis.
 
 * (2015, 10, 01) <button class="btn--article">Study</button> <br> 
-  Moving from Indonesia to Japan: Studying aborad in Osaka University.
+  Moving from Indonesia to Japan: Studying aborad in Osaka University. <br>
+  My study is supported by Japanese government MEXT scholarship.
   
 * (2015, 09, 07) <button class="btn--article-black">Milestone</button> <br>
-  First time to join an international conference (HYP 2015, Tohoku, Japan).
+  First time to join an international conference (HYP 2015, Tohoku, Japan). 
   
 * (2015, 08, 25) <button class="btn--article-red">News</button> <br>
   Let's say my journey started from here. <br>
