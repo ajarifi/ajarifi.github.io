@@ -13,6 +13,9 @@ redirect_from:
 * (2021, 07, 29) <button class="btn--article-black">Milestone</button> <br>
   First time to review a paper in PRD.
 
+* (2021, 05, 27) <button class="btn--article-black">Milestone</button> <br>
+  First time to host a seminar. Thanks to Dr. Denny.
+
 * (2021, 03, 05) <button class="btn--article-red">News</button> <br>
   Selected as the second best presenter in Intl. Conference of APFB2020
     
