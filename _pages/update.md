@@ -10,4 +10,5 @@ redirect_from:
   <h1 style="color:#000080"> Updates </h1> </div>
   
   
-  * (2021,08,25) Welcome to updates!
+  * (2021, 08, 25) <br>
+    Welcome to updates!
