@@ -28,7 +28,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     <td style="text-align:center">1</td>
   </tr>
   <tr>
-    <td>Citations (Google scholar)</td>
+    <td>Citations </td>
     <td style="text-align:center">78</td>
   </tr>
   <tr>
@@ -36,6 +36,8 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     <td style="text-align:center">5</td>
   </tr>
 </table>
+
+The citations and h-index are from Google scholar.
 
 
 
