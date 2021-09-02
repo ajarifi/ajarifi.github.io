@@ -30,7 +30,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12730"> Doubly charmed molecular pentaquarks</a></b><br> 
    Rui Chen, Ning Li, Zhi-Feng Sun, Xiang Liu, Shi-Lin Zhu</li>
   
-    <span style="margin-left: -2.5em">(28th)</span>
+ <span style="margin-left: -2.5em">(28th)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12597"> Analysis of the axialvector doubly-charmed tetraquark molecular states with the QCD sum rules</a></b><br> 
    Qi Xin, Zhi-Gang Wang</li>
   
