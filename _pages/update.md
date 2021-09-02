@@ -12,7 +12,7 @@ redirect_from:
   
     
 * (2021, 03, 01) <br>
-  Move from Japan to Korea: <br>
+  Moving from Japan to Korea: <br>
   Working as a postdoc in APCTP, Pohang, Korea.
 
 * (2020, 10, 01) <br>
@@ -22,11 +22,11 @@ redirect_from:
   Graduated from Osaka University.
 
 * (2019, 10, 01) <br>
-  Doing internship in JAEA, Tokai, Japan.
+  Doing an internship in JAEA, Tokai, Japan.
 
 * (2017, 10, 01) <br>
   Joining a doctoral program in Osaka University.
 
 * (2015, 10, 01) <br>
-  Move from Indonesia to Japan: <br>
+  Moving from Indonesia to Japan: <br>
   Studying aborad (Master's course), in Osaka University.
