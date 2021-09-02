@@ -14,12 +14,12 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <h1 style="color:#000080"> 2021 </h1>
 
 
-<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px -10px;"> <h1 style="color:#900C3F;"> August </h1> </div>
+<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 15px 0px 15px 0px;box-shadow: 0 4px 2px -2px gray;"> <h1 style="color:#900C3F;"> August </h1> </div>
 
 
 <ol reversed>
 
-  <span style="margin-left: -2.5em">(30th)</span>
+  <span style="margin-left: -2.0em">(30th)</span>
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12993"> $D_{s0}(2590)$ as a dominant $c\bar{s}$ state with a small $D^∗K$ component</a></b><br> 
   Jia-Ming Xie, Ming-Zhu Liu, Li-Sheng Geng</li>
  
