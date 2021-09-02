@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Postdoctoral Researcher <br>
-Asia Pacific Center for Theoretical Physics, South Korea <br>
+Postdoctoral Researcher, <br>
+Asia Pacific Center for Theoretical Physics, <br>
+Pohang, South Korea <br>
 E-mail: ahmad.jafar.arifi@acptp.org
 
 
