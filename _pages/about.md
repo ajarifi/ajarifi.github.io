@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Home"
+title: "Ahmad Jafar Arifi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-APCTP, South Korea <br>
+Postdoctoral Researcher
+Asia Pacific Center for Theoretical Physics, South Korea <br>
 E-mail: ahmad.jafar.arifi@acptp.org
 
 
