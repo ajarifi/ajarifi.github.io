@@ -24,12 +24,12 @@ redirect_from:
 * (2020, 09, 25) <button class="btn--article-black">Milestone</button> <br>
   Graduated from Osaka University.
 
-* (2019, 10, 01) <button class="btn--article">Job</button> <br>
+* (2019, 10, 01) <button class="btn--article">Study</button> <br>
   Doing an internship in JAEA, Tokai, Japan.
 
-* (2017, 10, 01) <br>
+* (2017, 10, 01) <button class="btn--article">Study</button><br>
   Joining a doctoral program in Osaka University.
 
-* (2015, 10, 01) <br> 
+* (2015, 10, 01) <button class="btn--article">Study</button> <br> 
   Moving from Indonesia to Japan: <br>
   Studying aborad (Master's course), in Osaka University.
