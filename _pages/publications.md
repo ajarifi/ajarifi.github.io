@@ -14,7 +14,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <p style="margin-bottom:1cm;"></p>
 
-<table style="width: 80% ;font-size: 20px;">
+<table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">
   <tr>
     <td>Published papers</td>
     <td>6</td>
