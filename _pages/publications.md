@@ -37,7 +37,6 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   </tr>
 </table>
 
-The citations and h-index are from Google scholar.
 
 
 
