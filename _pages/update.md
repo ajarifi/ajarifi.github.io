@@ -67,5 +67,5 @@ redirect_from:
   First time to join an international conference (HYP 2015, Tohoku, Japan).
   
 * (2015, 08, 25) <button class="btn--article-red">News</button> <br>
-  Let's say my journey start from here. <br>
+  Let's say my journey started from here. <br>
   Graduated from Physics department, University of Indonesia. 
