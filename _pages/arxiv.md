@@ -14,7 +14,7 @@ This list is made just to help me reading Arxiv more effectively. I just started
 <h1 style="color:#000080"> 2021 </h1>
 
 
-<h2 style="color:#900C3F"> August </h2>
+<h2 style="color:#900C3F;position: sticky;top: 0px;"> August </h2>
 
 <ol reversed>
 
