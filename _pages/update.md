@@ -26,11 +26,20 @@ redirect_from:
 * (2020, 10, 01) <button class="btn--article">Job</button> <br>
   Working as a postdoc in RCNP, Osaka University.
 
-* (2020, 09, 25) <button class="btn--article-red">News</button> <br>
+* (2020, 09, 25) <button class="btn--article-black">Milestone</button> <br>
   Graduated from Osaka University (Ph.D. degree).
+  
+* (2020, 06, 16) <button class="btn--article-red">News</button> <br>
+  First time to publish in Physical Review D <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.111502">(Rapid communication)</a>.
+  
+* (2020, 03, 01) <button class="btn--article-red">News</button> <br>
+  Our work is introduced in JAEA Science basic note <a href="https://asrc.jaea.go.jp/publication/note/pdf/41kagaku/41_06.pdf">Vol.26 No.1 (Mar.2020)</a>.
 
 * (2019, 10, 01) <button class="btn--article">Study</button> <br>
   Doing an internship in JAEA, Tokai, Japan.
+
+* (2018, 12, 12) <button class="btn--article-red">News</button> <br>
+  One of our figures is selected in <a href="https://journals.aps.org/prd/kaleidoscope/prd/98/11/114007">Kaleidoscope</a> (Physical Review D).
 
 * (2018, 08, 03) <button class="btn--article-red">News</button> <br>
   Selected as the best presenter in Strangeness Nuclear Physics School (SNP 2018).
