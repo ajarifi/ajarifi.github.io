@@ -34,21 +34,21 @@ This list is made just to help me reading Arxiv more effectively. I just started
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12597"> Analysis of the axialvector doubly-charmed tetraquark molecular states with the QCD sum rules</a></b><br> 
    Qi Xin, Zhi-Gang Wang</li>
   
-<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12700"> Heavy quarkonia in a baryon asymmetric strongly magnetized hot quark matter</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12700"> Heavy quarkonia in a baryon asymmetric strongly magnetized hot quark matter</a></b><br> 
    Salman Ahamad Khan, Mujeeb Hasan, Binoy Krishna Patra</li>
   
-<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12716"> A relativistic model for the Charmonium spectrum with a reduced number of free parameters</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12716"> A relativistic model for the Charmonium spectrum with a reduced number of free parameters</a></b><br> 
    M. De Sanctis/li>
   
   <span style="margin-left: -2.5em">(27th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12207"> Mass Spectra and Decay of Mesons under Strong External Magnetic Field</a></b><br> 
    Shuyun Yang, Meng Jin, Defu Hou</li>
 
-<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12532"> Mass Spectra of One or Two Heavy Quark Mesons and Diquarks within a Nonrelativistic Potential Model</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12532"> Mass Spectra of One or Two Heavy Quark Mesons and Diquarks within a Nonrelativistic Potential Model</a></b><br> 
    L.X. Gutiérrez-Guerrero, A. Alfaro, A. Raya</li>
   
  <span style="margin-left: -2.5em">(26th)</span>
-<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12039"> Dynamical model of $\phi$ meson photoproduction on the nucleon and $^4$He</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.12039"> Dynamical model of $\phi$ meson photoproduction on the nucleon and $^4$He</a></b><br> 
    Sang-Ho Kim, T.-S. H. Lee, Seung-il Nam, Yongseok Oh</li>
   
   <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.11605"> Near-threshold Spectrum from Uniformized Mittag-Leffler Expansion -Pole Structure of Z(3900)-</a></b><br> 
@@ -96,12 +96,12 @@ This list is made just to help me reading Arxiv more effectively. I just started
  Qi Wu, Dian-Yong Chen </li>
   
   
-<span style="margin-left: -2.5em">(14th)</span>
+ <span style="margin-left: -2.5em">(14th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06521"> Spectroscopy of all bottom $[bb][\bar{b}\bar{b}]$ and heavy-light $[bq][\bar{b}\bar{q}]$ tetraquark </a></b><br> 
    Rohit Tiwari, D. P. Rathaud, Ajay Kumar Rai</li>
   
   
-<span style="margin-left: -2.5em">(13th)</span>
+ <span style="margin-left: -2.5em">(13th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06002"> Pole analysis on the doubly charmed meson in $D^0D^0\pi^+$ mass spectrum </a></b><br> 
    Ling-Yun Dai, Xiang Sun, Xian-Wei Kang, A. P. Szczepaniak, Jie-Sheng Yu</li>
 
@@ -111,15 +111,15 @@ This list is made just to help me reading Arxiv more effectively. I just started
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.06222"> Mass spectra and decays of open-heavy tetraquark states</a></b><br> 
    Tao Guo, Jianing Li, Jiaxing Zhao, Lianyi He </li>
   
-<span style="margin-left: -2.5em">(12th)</span>
+ <span style="margin-left: -2.5em">(12th)</span>
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05642"> Magic mixing angles for doubly heavy baryons </a></b><br> 
    Takayuki Matsuki, Dian-Yong Chen, Xiang Liu, Qi-Fang Lü </li>
 
-<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05841"> Relations between strong decay widths of the $P_c$ pentaquarks in the SU(4) flavor-spin model</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05841"> Relations between strong decay widths of the $P_c$ pentaquarks in the SU(4) flavor-spin model</a></b><br> 
    Fl. Stancu </li>
   
  <span style="margin-left: -2.5em">(11th)</span>
-<li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05071"> Spectroscopic Study of Strangeness=$-3 \Omega^−$ Baryon</a></b><br> 
+ <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05071"> Spectroscopic Study of Strangeness=$-3 \Omega^−$ Baryon</a></b><br> 
  Chandni Menapara, Ajay Kumar Rai </li>
   
  <li style="margin-bottom: 10px;"><b><a href="https://arxiv.org/abs/2108.05306"> Interpretations of the new LHCb $P_c(4337)^+$ pentaquark state</a></b><br> 
