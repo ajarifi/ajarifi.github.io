@@ -11,25 +11,25 @@ redirect_from:
   
 
 
-* (2021, 03, 01) <button class="btn--article">Achievement</button> <br>
+* (2021, 03, 01)<br>
   Selected as the second best presenter in Intl. Conference of APFB2020
     
-* (2021, 03, 01) <button class="btn--article">Affiliation</button> <br>
+* (2021, 03, 01) br>
   Moving from Japan to Korea: <br>
   Working as a postdoc in APCTP, Pohang, Korea.
 
-* (2020, 10, 01) <button class="btn--article">Affiliation</button><br>
+* (2020, 10, 01) <br>
   Working as a postdoc in RCNP, Osaka University.
 
-* (2020, 09, 25) <button class="btn--article">Achievement</button> <br>
+* (2020, 09, 25)  <br>
   Graduated from Osaka University.
 
-* (2019, 10, 01) <button class="btn--article">Affiliation</button><br>
+* (2019, 10, 01)<br>
   Doing an internship in JAEA, Tokai, Japan.
 
-* (2017, 10, 01) <button class="btn--article">Affiliation</button><br>
+* (2017, 10, 01) <br>
   Joining a doctoral program in Osaka University.
 
-* (2015, 10, 01) <button class="btn--article">Affiliation</button> <br> 
+* (2015, 10, 01) <br> 
   Moving from Indonesia to Japan: <br>
   Studying aborad (Master's course), in Osaka University.
