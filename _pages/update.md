@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
-  <h1 style="color:#000080"> What's new?</h1> </div>
+  <h1 style="color:#000080"> News and Milestones</h1> </div>
   
 <h2> 2021 </h2>
 
