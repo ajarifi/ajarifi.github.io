@@ -22,7 +22,7 @@ redirect_from:
     
 * (2021, 03, 01) <button class="btn--article">Job</button><br>
   Moving from Japan to Korea: Working as a postdoc in APCTP, Pohang, Korea.<br>
-  Luckily, I could get a job in the Covid-19 Pandemic.
+  Luckily, I could get a job during the Covid-19 Pandemic.
 
 * (2020, 10, 01) <button class="btn--article">Job</button> <br>
   Working as a postdoc in RCNP, Osaka University.
