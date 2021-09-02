@@ -11,7 +11,7 @@ redirect_from:
   
 
 * (2021, 07, 29) <button class="btn--article-black">Milestone</button> <br>
-  Fist time to review a paper in PRD.
+  First time to review a paper in PRD.
 
 * (2021, 03, 05) <button class="btn--article-red">News</button> <br>
   Selected as the second best presenter in Intl. Conference of APFB2020
