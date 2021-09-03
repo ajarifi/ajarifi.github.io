@@ -36,6 +36,8 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   </tr>
 </table>  
 
+<canvas id="myChart" width="400" height="400"></canvas>
+
 <h3 style="text-align:center"> Citation and index </h3>
 
 <table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">  
