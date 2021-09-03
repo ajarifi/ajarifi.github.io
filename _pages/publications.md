@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+jsarr:
+- chart/chart.js
 ---
 
 You can also find my articles on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>.
@@ -35,6 +37,8 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     <td style="text-align:center">1</td>
   </tr>
 </table> 
+
+<canvas id="myChart" width="400" height="100"></canvas>
 
 <h3 style="text-align:center"> Citation and index </h3>
 
