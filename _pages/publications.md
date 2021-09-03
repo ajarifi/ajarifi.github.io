@@ -32,8 +32,12 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">78</a></td>
   </tr>
   <tr>
-    <td>H-index</td>
+    <td>h-index</td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">5</a></td>
+  </tr>
+    <tr>
+    <td>i10-index</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">3</a></td>
   </tr>
 </table>
 
