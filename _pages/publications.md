@@ -44,6 +44,15 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   </tr>
 </table>
 
+<table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">  
+  <tr>
+    <td>Physical Review D</td>
+    <td style="text-align:center">6</td>
+  </tr>
+
+</table>
+
+
 
 
 
