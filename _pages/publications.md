@@ -27,6 +27,9 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     <td>PhD Thesis</td>
     <td style="text-align:center">1</td>
   </tr>
+</table>  
+
+<table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">  
   <tr>
     <td>Citations </td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">78</a></td>
