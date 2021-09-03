@@ -34,6 +34,10 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <h3 style="text-align:center"> Citation and index </h3>
 
 <table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">  
+ <colgroup>
+    <col span="1" style="width: 80%;">
+    <col span="1" style="width: 20%;">
+ </colgroup>
   <tr>
     <td>Citations </td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">78</a></td>
