@@ -29,11 +29,11 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   </tr>
   <tr>
     <td>Citations </td>
-    <td style="text-align:center">78</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">78</a></td>
   </tr>
   <tr>
     <td>H-index</td>
-    <td style="text-align:center">5</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">5</a></td>
   </tr>
 </table>
 
