@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Arxiv Diary"
 permalink: /arxiv/
 author_profile: true
 usemathjax: true
 ---
 
+<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
+  <h1 style="color:#000080"> Arxiv Diary </h1> </div>
 
 This list is made just to help me reading Arxiv more effectively. I just started recently in 2021. Although we mainly focus on updating the current issue, we also plan to cover the list for the previous years. Stay tune!
 
