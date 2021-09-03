@@ -34,9 +34,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     <td>PhD Thesis</td>
     <td style="text-align:center">1</td>
   </tr>
-</table>  
-
-<canvas id="myChart" width="400" height="400"></canvas>
+</table> 
 
 <h3 style="text-align:center"> Citation and index </h3>
 
