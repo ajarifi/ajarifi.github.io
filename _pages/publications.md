@@ -17,6 +17,11 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <h3 style="text-align:center"> Paper </h3>
 
 <table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">
+ <colgroup>
+    <col span="1" style="width: 90%;">
+    <col span="1" style="width: 10%;">
+ </colgroup>
+  
   <tr>
     <td>Published papers</td>
     <td style="text-align:center">6</td>
@@ -35,8 +40,8 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 
 <table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">  
  <colgroup>
-    <col span="1" style="width: 80%;">
-    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 90%;">
+    <col span="1" style="width: 10%;">
  </colgroup>
   <tr>
     <td>Citations </td>
@@ -55,6 +60,10 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <h3 style="text-align:center"> Journal </h3>
 
 <table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">  
+ <colgroup>
+    <col span="1" style="width: 90%;">
+    <col span="1" style="width: 10%;">
+ </colgroup>
   <tr>
     <td>Physical Review D</td>
     <td style="text-align:center">6</td>
