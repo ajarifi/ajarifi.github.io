@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 jsarr:
-- chart/chart.js
+- filter/filter.js
 ---
 
 You can also find my articles on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>.
@@ -142,3 +142,29 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Phys.Rev. D 92, 094019 (2015).</a> </i></li>
   
 </ol>
+
+
+
+<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+  <button class="btn" onclick="filterSelection('cars')"> Cars</button>
+  <button class="btn" onclick="filterSelection('animals')"> Animals</button>
+  <button class="btn" onclick="filterSelection('fruits')"> Fruits</button>
+  <button class="btn" onclick="filterSelection('colors')"> Colors</button>
+</div>
+
+<div class="container">
+  <div class="filterDiv cars">BMW</div>
+  <div class="filterDiv colors fruits">Orange</div>
+  <div class="filterDiv cars">Volvo</div>
+  <div class="filterDiv colors">Red</div>
+  <div class="filterDiv cars animals">Mustang</div>
+  <div class="filterDiv colors">Blue</div>
+  <div class="filterDiv animals">Cat</div>
+  <div class="filterDiv animals">Dog</div>
+  <div class="filterDiv fruits">Melon</div>
+  <div class="filterDiv fruits animals">Kiwi</div>
+  <div class="filterDiv fruits">Banana</div>
+  <div class="filterDiv fruits">Lemon</div>
+  <div class="filterDiv animals">Cow</div>
+</div>
