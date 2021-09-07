@@ -3,8 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-jsarr:
-- filter/filter.js
 ---
 
 You can also find my articles on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>.
