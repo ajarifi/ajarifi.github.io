@@ -36,26 +36,6 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   </tr>
 </table> 
 
-<h3 style="text-align:center"> Citation and index </h3>
-
-<table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">  
- <colgroup>
-    <col span="1" style="width: 90%;">
-    <col span="1" style="width: 10%;">
- </colgroup>
-  <tr>
-    <td>Citations </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">78</a></td>
-  </tr>
-  <tr>
-    <td>h-index</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">5</a></td>
-  </tr>
-    <tr>
-    <td>i10-index</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">3</a></td>
-  </tr>
-</table>
 
 <h3 style="text-align:center"> Journal </h3>
 
@@ -68,7 +48,27 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
     <td>Physical Review D</td>
     <td style="text-align:center">6</td>
   </tr>
+</table>
 
+<h3 style="text-align:center"> Citation and index </h3>
+
+<table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">  
+ <colgroup>
+    <col span="1" style="width: 90%;">
+    <col span="1" style="width: 10%;">
+ </colgroup>
+  <tr>
+    <td>Citations </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">79</a></td>
+  </tr>
+  <tr>
+    <td>h-index</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">5</a></td>
+  </tr>
+    <tr>
+    <td>i10-index</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">3</a></td>
+  </tr>
 </table>
 
 
