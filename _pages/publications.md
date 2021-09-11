@@ -10,10 +10,6 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <p style="margin-bottom:1.2cm;"></p>
 
 
-<p>A <b>JavaScript program</b> is a list of <b>statements</b> to be executed by a computer.</p>
-cek
-<p id="demo"></p>
-
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
   <h1 style="color:#000080"> Summary </h1> </div>
 
