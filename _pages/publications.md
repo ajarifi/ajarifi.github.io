@@ -60,7 +60,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
  </colgroup>
   <tr>
     <td>Citations </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">79</a></td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">81</a></td>
   </tr>
   <tr>
     <td>h-index</td>
@@ -68,7 +68,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   </tr>
     <tr>
     <td>i10-index</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">3</a></td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao">4</a></td>
   </tr>
 </table>
 
