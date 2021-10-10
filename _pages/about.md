@@ -41,7 +41,7 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 
 <h2 style="color:#000080">  My research </h2>
 
-<p align="justify"> My research focuses on hadron spectroscopy. At the very beginning, I did some computation on the kaon photoproduction. Now, I have done numerous computation on heavy baryon decays. I am mainly working on three-body decays by using Dalitz plot. Also, I do some quark model computations for estimating the decay rates of heavy baryons. </p>
+<p align="justify"> My research focuses on hadron spectroscopy and decay. At the very beginning, I analyzed the kaon photoproduction in the isobar model. After that, my interest turns into the baryon decays in the quark model. I am also specialized in the Dalitz plot analysis to describe three-body decays. So far, we focus only on heavy baryons, but we can extend our work to other systems. In addition, I am recently interested in the Roper resonance and its analogous states that bear similarities in masses and decay properties. </p>
 
 <p> You can also visit my profile in <a href="https://inspirehep.net/authors/1410710">Inspire-HEP</a>. </p>
 
@@ -59,7 +59,7 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 * <a href="https://inspirehep.net/authors/1705246"> Samson Clymton </a>
 * <a href="https://inspirehep.net/authors/1298440">Daiki Suenaga</a>
 
-<h3 style="color:#900C3F"> Past and present institution</h3>
+<h3 style="color:#900C3F"> Past and present institutions</h3>
 
 * <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP)</a>, South Korea
 * <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html">Japan Atomic Energy Agency (JAEA)</a>, Japan
