@@ -26,5 +26,5 @@ date: 2021-09-28
  <p style="margin-bottom:1.2cm"></p>
  
  Reference:<br>
-[1] D. Samart, et. al., Triangle mechanisms in the build up and decay of the N^*(1875), Phys. Rev. C96, 035202 (2017).
+[1] D. Samart, et. al., Triangle mechanisms in the build up and decay of the $N^*(1875)$, Phys. Rev. C96, 035202 (2017).
 
