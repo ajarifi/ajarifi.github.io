@@ -3,7 +3,7 @@ title: "Resonance and decay of the N(1875) in triangle singularity"
 collection: seminar
 type: "4th APCTP seminar"
 venue: Online
-permalink: /seminar/4ikeno.html
+permalink: /seminar/5daris.html
 date: 2021-09-28
 ---
 
