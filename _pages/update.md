@@ -15,7 +15,7 @@ redirect_from:
   First time to review a paper in Physical Review D.
 
 * (2021, 07, 19-24) <button class="btn--article-blue">Workshop</button> <br>
-  Business trip to Hotel Hilton, Gyeongju for APCTP Focus program.
+  Business trip to Hilton Hotel, Gyeongju for APCTP Focus program.
   
 * (2021, 07, 13-16) <button class="btn--article-blue">Lectures</button> <br>
   Attending a lecture by Prof. Ji in KNU, Daegu.
@@ -27,7 +27,7 @@ redirect_from:
   My first paper after graduation in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.094003"> Physical Review D </a>.
 
 * (2021, 05, 10) <button class="btn--article-blue">Colloquium</button> <br>
-  My first bussiness trip to Busan for giving a talk in PKNU.
+  My first business trip to Busan for giving a talk in PKNU.
 
 * (2021, 03, 05) <button class="btn--article-red">News</button> <br>
   Selected as the second best presenter in Intl. Conference of APFB2020.<br>
@@ -65,14 +65,14 @@ redirect_from:
   Selected as the best presenter in Strangeness Nuclear Physics School (SNP 2018).
 
 * (2017, 07, 04) <button class="btn--article-black">Milestone</button> <br>
-  Passed the Japanese Languange Proficiency Test (JLPT): N3 (intermediate level). <br>
-  FYI: N1 and N5 is the highest and the lowest level, respectively.
+  Passed the Japanese Language Proficiency Test (JLPT): N3 (intermediate level). <br>
+  FYI: N1 (highest level) and N5(lowest level).
 
 <h2> 2017 </h2>
 
 * (2017, 10, 25) <button class="btn--article-black">Milestone</button> <br>
   First time to organize a conference as a supervisor (ISASC, Ichokaikan, Osaka U). <br>
-  This is the scientific conference of indonesian student association.
+  This is the scientific conference of an Indonesian student association.
 
 * (2017, 06, 23) <button class="btn--article-black">Milestone</button> <br>
   First time to publish a paper as the first author in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018">Physical Review D</a>.
@@ -83,7 +83,7 @@ redirect_from:
   Selected as the president of Indonesian student association in Osaka & Nara.
 
 * (2016, 09, 21) <button class="btn--article-black">Milestone</button> <br>
-  My first time to join JPS meeting in Miyazaki. Typhoon was coming on the day of my flight.
+  My first time to join the JPS meeting in Miyazaki. A typhoon was coming on the day of my flight.
 
 <h2> 2015 </h2>
 
@@ -92,8 +92,8 @@ redirect_from:
   This work is partly from my undergraduate thesis.
 
 * (2015, 10, 01) <button class="btn--article">Study</button> <br> 
-  Moving from Indonesia to Japan: Studying aborad in Osaka University. <br>
-  My study is supported by Japanese government MEXT scholarship.
+  Moving from Indonesia to Japan: Studying aboard in Osaka University. <br>
+  My study is supported by MEXT scholarship.
   
 * (2015, 09, 07) <button class="btn--article-black">Milestone</button> <br>
   First time to join an international conference (HYP 2015, Tohoku, Japan). 
