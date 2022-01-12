@@ -59,8 +59,6 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 * <a href="https://inspirehep.net/authors/1705246"> Samson Clymton </a>
 * <a href="https://inspirehep.net/authors/1298440">Daiki Suenaga</a>
 
-<a href="https://academictree.org/physics/tree.php?pid=871077"> Academic tree</a>
-
 <h3 style="color:#900C3F"> Past and present institutions</h3>
 
 * <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP)</a>, South Korea
