@@ -9,7 +9,7 @@ redirect_from:
 ---
 Postdoctoral Researcher, <br>
 Asia Pacific Center for Theoretical Physics (APCTP), <br>
-#501, Hogil Kim Bldg, Postech, Pohang, South Korea <br>
+#501, Hogil Kim Bldg, Postech, Pohang, Republic of Korea <br>
 E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.org</a> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -63,7 +63,7 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 
 <h3 style="color:#900C3F"> Past and present institutions</h3>
 
-* <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP)</a>, South Korea
+* <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP)</a>, Republic of Korea
 * <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html">Japan Atomic Energy Agency (JAEA)</a>, Japan
 * <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">Research Center for Nuclear Physics (RCNP)</a>, Japan
 * <a href="https://physics.ui.ac.id/?lang=id">Physics department, University Indonesia</a>, Indonesia
