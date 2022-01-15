@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /arxiv/
 author_profile: true
 usemathjax: true
