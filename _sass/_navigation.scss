@@ -480,3 +480,9 @@
         }
     } 
 
+@media (max-width: 1024px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+
