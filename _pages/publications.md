@@ -143,3 +143,10 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   
 </ol>
 
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  alert("I am an alert box!");
+}
+</script>
