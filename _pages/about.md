@@ -48,9 +48,9 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 <p> You can also visit my profile in <a href="https://inspirehep.net/authors/1410710">Inspire-HEP</a>. </p>
 
 <h3 style="color:#900C3F"> Research Interests </h3>
-<button class="btn success">Hadron spectroscopy</button>
-<button class="btn info">Quark model</button>
-<button class="btn warning">Dalitz plot</button>
+<button class="btnx success">Hadron spectroscopy</button>
+<button class="btnx info">Quark model</button>
+<button class="btnx warning">Dalitz plot</button>
 
 <h3 style="color:#900C3F"> Co-Authors </h3>
 
