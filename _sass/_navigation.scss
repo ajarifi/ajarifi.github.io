@@ -449,7 +449,7 @@
   text-decoration: none;
   font-size: 20px;
   color: white;
-  border-radius: 5px 0 0 5px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 #mySidenav a:hover {
@@ -457,21 +457,21 @@
 }
 
 #research {
-  top: 100px;
+  top: 300px;
   background-color: #04AA6D;
 }
 
 #publication {
-  top: 160px;
+  top: 360px;
   background-color: #2196F3;
 }
 
 #talks {
-  top: 220px;
+  top: 420px;
   background-color: #f44336;
 }
 
 #cv {
-  top: 280px;
+  top: 480px;
   background-color: #555
 }
