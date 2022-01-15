@@ -30,7 +30,7 @@ redirect_from:
 * Oct 2020 - Feb 2021: Postdoc\
   <b>Research Center for Nuclear Physics (RCNP),</b> Japan
 * Mar 2021 - Present : Postdoc\
-  <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> South Korea
+  <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> Republic of Korea
 
 
 <h2 style="color:#900C3F"> Awards </h2>
