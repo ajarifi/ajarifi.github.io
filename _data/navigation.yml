@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
+  - title: "Research"
     url: /portfolio/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Seminar"
+  - title: "Activity"
     url: /seminar/    
   
   - title: "Arxiv-diary"
