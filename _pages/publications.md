@@ -38,7 +38,7 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 </table> 
 
 
-<h3 style="text-align:center"> Journal </h3>
+# (<h3 style="text-align:center"> Journal </h3>)
 
 <table style="width: 80% ;font-size: 20px;margin-left: auto;margin-right: auto;">  
  <colgroup>
