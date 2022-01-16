@@ -81,13 +81,20 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 2;"> 
   <h1 style="color:#000080"> My publications </h1> </div>
 
+<div id="myBtnContainer">
+  <button class="btnz active" onclick="filterSelection('all')"> Show all</button>
+  <button class="btnz" onclick="filterSelection('article')"> Article</button>
+  <button class="btnz" onclick="filterSelection('proceeding')"> Proceeding</button>
+  <button class="btnz" onclick="filterSelection('thesis')"> Thesis</button>
+</div>
+
 <ol reversed>
   <h2> 2021 </h2>
-  <li style="margin-bottom: 25px;"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
+  <li style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
       Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021).</a></i> Contribution to: APFB 2020 </li>
   
-  <li style="margin-bottom: 25px;"><b>Relativistic corrections to decays of heavy baryons in the quark model</b><br> 
+  <li style="margin-bottom: 25px;" class="filterDiv article"><b>Relativistic corrections to decays of heavy baryons in the quark model</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, D. Suenaga, and A. Hosaka (May 10, 2021)<br> 
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.094003"> Phys.Rev.D 103, 094003 (2021).</a></i> </li>
   
@@ -142,3 +149,47 @@ You can also find my articles on <a href="https://inspirehep.net/authors/1410710
   
 </ol>
 
+<script>
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("filterDiv");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btnz");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
