@@ -4,12 +4,10 @@ google.charts.setOnLoadCallback(drawChart);
 function drawChart() {
   // Define the chart to be drawn.
   var data = google.visualization.arrayToDataTable([
-          ['Task', 'Hours per Day'],
-          ['Work',     11],
-          ['Eat',      2],
-          ['Commute',  2],
-          ['Watch TV', 2],
-          ['Sleep',    7]
+          ['Type', 'Number'],
+          ['Article',   6],
+          ['Proceeding', 5],
+          ['Thesis',  1]
         ]);
 
   // Instantiate and draw the chart.
