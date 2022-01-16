@@ -66,4 +66,4 @@ redirect_from:
 
 <p style="margin-bottom:1.2cm;"></p>
   
-<div id="piechart" style="width: 900px; height: 500px;"></div>
+<div id="piechart" ></div>
