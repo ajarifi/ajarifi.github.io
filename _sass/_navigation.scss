@@ -480,3 +480,36 @@
   }
 }
 
+
+/*
+   filterdiv
+   ========================================================================== */
+
+.filterDiv {
+  float: left;
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+
+
+/* Style the buttons */
+.btnz {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.btnz:hover {
+  background-color: #ddd;
+}
+
+.btnz.active {
+  background-color: #666;
+  color: white;
+}
