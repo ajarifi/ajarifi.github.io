@@ -63,6 +63,3 @@ redirect_from:
 * Japanese (N3-intermediate) 
 * Korean (Beginner)
 
-<p style="margin-bottom:1.2cm;"></p>
-  
-<div id="myPieChart" style="width: 900px; height: 500px;"></div>
