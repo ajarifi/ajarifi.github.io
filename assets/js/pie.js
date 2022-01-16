@@ -9,6 +9,11 @@ function drawChart() {
           ['Proceeding', 5],
           ['Thesis',  1]
         ]);
+  var options = {
+    legend: 'none',
+    pieSliceText: 'label',
+    title: 'Publication type',
+  };
 
   // Instantiate and draw the chart.
   var chart = new google.visualization.PieChart(document.getElementById('myPieChart'));
