@@ -24,13 +24,12 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Work experience </h2>
 
-* Mar 2021 - Present : Postdoc\
-  <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> Republic of Korea
-* Oct 2020 - Feb 2021: Postdoc\
-  <b>Research Center for Nuclear Physics (RCNP),</b> Japan
-* Oct 2019 - Mar 2020: Intern\
-  <b>Japan Atomic Energy Agency (JAEA),</b> Japan
-
+* <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> Republic of Korea\
+  Mar 2021 - Present : Postdoc
+* <b>Research Center for Nuclear Physics (RCNP),</b> Japan\
+  Oct 2020 - Feb 2021: Postdoc
+* <b>Japan Atomic Energy Agency (JAEA),</b> Japan\
+  Oct 2019 - Mar 2020: Intern
 
 <h2 style="color:#900C3F"> Awards </h2>
 
