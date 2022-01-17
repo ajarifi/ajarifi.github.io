@@ -68,5 +68,8 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 * <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">Research Center for Nuclear Physics (RCNP)</a>, Japan
 * <a href="https://physics.ui.ac.id/?lang=id">Physics department, University Indonesia</a>, Indonesia
 
-
+<!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="padded" data-i18n_like="Like" data-ef_voting="shake" data-identifier="like-1" data-dislike_enabled="false" data-popup_disabled="true"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
 
