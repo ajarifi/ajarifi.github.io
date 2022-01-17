@@ -14,6 +14,7 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<span class="likebtn-wrapper" data-theme="padded" data-i18n_like="Like" data-ef_voting="shake" data-identifier="like-1" data-dislike_enabled="false" data-popup_disabled="true"></span>
 
 <p style="margin-bottom:1.2cm;"></p>
 
@@ -69,7 +70,6 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 * <a href="https://physics.ui.ac.id/?lang=id">Physics department, University Indonesia</a>, Indonesia
 
 <!-- LikeBtn.com BEGIN -->
-<span class="likebtn-wrapper" data-theme="padded" data-i18n_like="Like" data-ef_voting="shake" data-identifier="like-1" data-dislike_enabled="false" data-popup_disabled="true"></span>
 <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
 <!-- LikeBtn.com END -->
 
