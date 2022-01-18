@@ -35,7 +35,8 @@ function drawBasic() {
 
       var options = {
       	legend: 'none',
-        title: 'Publication each year'
+        title: 'Publication each year',
+	bar: {groupWidth: "95%"},
       };
 
       var chart = new google.visualization.ColumnChart(
