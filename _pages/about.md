@@ -14,13 +14,9 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<span class="likebtn-wrapper" data-theme="padded" data-i18n_like="Like" data-ef_voting="shake" data-identifier="like-1" data-dislike_enabled="false" data-popup_disabled="true"></span>
-
 <p style="margin-bottom:1.2cm;"></p>
 
-<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
-  <h1 style="color:#000080"> What's new?</h1> </div>
-  
+<h2> What's new?</h2>  
 * <a href="https://ajarifi.github.io/updates/"> News and milestones</a>
 * <a href="https://ajarifi.github.io/publications/"> Latest publications </a>
 * <a href="https://ajarifi.github.io/talks/">My schedule and talks</a>
