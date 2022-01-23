@@ -1,5 +1,6 @@
 ---
 title: "Kaon photoproduction in isobar model"
+author_profile: false
 collection: portfolio
 ---
 <button class="btn--article-black">Archived</button>&nbsp; <strong>(2013-2015)</strong> <b style="color:#900C3F"> A. J. Arifi</b>, S. Clymton, and T. Mart. <br/><img src='/images/kaon.png' style="width:600px">
