@@ -1,7 +1,7 @@
 ---
 title: 'Pentingkah penelitian fundamental?'
 date: 2022-01-23
-permalink: /blog/penelitian-1/
+permalink: /penelitian-1/
 author_profile: false
 usemathjax: true
 ---
