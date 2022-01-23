@@ -1,0 +1,37 @@
+---
+title: 'Podcast Abeh dan Ami: sharing pengalaman tinggal di Jepang dan Korea.'
+date: 2022-01-23
+permalink: /blog/podcast-1/
+author_profile: false
+usemathjax: true
+---
+
+<img src='/images/stair.png' style="width:100%">
+
+Seringkali pertanyaan tersebut dilontarkan kepada saya ketika presentasi hasil penelitian saya.
+* Apakah penelitian ini bisa diterapkan? 
+* Apakah bisa digunakan di kemudian hari?
+* Apakah penelitian ini bisa mengentaskan kemiskinan? (oke2, ini berlebihan.)
+
+Jika anda pernah mendapatkan pertanyaan serupa, berarti kita senasib. 
+
+<h3> Penelitian fisika teori</h3>
+Sebagai seorang peneliti fisika “teori”, saya sering merenungkan apakah kedepannya penelitian saya ini benar-benar bisa diterapkan di kemudian hari? Jawaban yang pasti adalah “saat ini kita tidak tahu dan tidak sepenuhnya bisa diprediksi juga”. 
+
+<h3> Kalau begitu gak penting dong?</h3>
+Eits, tunggu dulu, walaupun memang penelitian fundamental seakan tidak terasa manfaatnya di beberapa waktu kedepan, akan tetapi, potensinya di masa depan sangat besar untuk memberikan pondasi pengetahuan dari sebuah teknologi. Kalau saat ini kita tidak membuat pondasinya, teknologi tidak akan kemana-mana. Mungkin penelitian aplikatif bisa membantu mengembangkan teknologinya tetapi itu tidak memberikan lompatan yang sangat besar atau membuka bidang baru.
+
+<h3> Contohnya? </h3>
+Contoh sederhananya di bidang fisika partikel, FYI, ini bidang saya. Dahulu kala tahun 1880, partikel elektron ditemukan di laboratorium eksperimen. Dari penemuan tersebut, teknologi saat ini yang berbasis elektronik ada dimana-mana. Tetapi, jika kita kembali ke waktu itu dan bertanya apa gunanya elektron, yah tidak ada yang tahu atau memprediksi itu akan menjadi basis teknologi saat ini. Oleh karena itu, penelitian fundamental itu sangatlah penting untuk memperluas cakrawala pengetahuan dan untuk menjadi pondasi teknologi nanti. 
+
+<h3> Nah itu kan penemuan eksperimen, kalau teori ngapain?</h3>
+Lagi-lagi, sebagai peneliti fisika teori, yang saya lakukan adalah membangun sebuah model atau teori untuk memprediksi atau menjelaskan temuan eksperimen. Misal, kalau kita kembali ke contoh sebelumnya, ketika elektron ditemukan. Kita mesti juga memahami apa saja sifat-sifat elektron dan bagaimana interaksinya dengan partikel lain dan banyak lagi. Disitulah peran seorang peneliti fisika teori sangat diperlukan untuk mengembangkan sebuah model yang bisa memprediksi sifat elektron sehingga orang eksperimen bisa mengujinya. Proses yang berulang tersebut dalam kurun waktu yang panjang itu membuahkan teknologi yang bisa kita nikmati saat ini. 
+
+
+
+Referensi:
+<ol>
+  <li> <a href="https://www.interactions.org/blog/why-do-fundamental-research">https://www.interactions.org/blog/why-do-fundamental-research</a> </li>
+  <li> <a href="http://admin.triumf.ca/docs/seminars/Sem3112515775-37021-1.Why%20Fundamental%20Research%20cc.pdf">http://admin.triumf.ca/docs/seminars/</a></li>
+</ol>
+
