@@ -1,7 +1,7 @@
 ---
 title: 'Podcast Abeh dan Ami: sharing pengalaman tinggal di Jepang dan Korea.'
 date: 2022-01-23
-permalink: /blog/podcast-1/
+permalink: /podcast-1/
 author_profile: false
 usemathjax: true
 ---
