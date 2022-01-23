@@ -17,6 +17,7 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 <p style="margin-bottom:1.2cm;"></p>
 
 <h2> What's new?</h2>  
+
 * <a href="https://ajarifi.github.io/updates/"> News </a>
 * <a href="https://ajarifi.github.io/publications/"> Latest publications </a>
 * <a href="https://ajarifi.github.io/talks/">My schedule and talks</a>
