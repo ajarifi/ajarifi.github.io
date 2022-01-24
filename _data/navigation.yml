@@ -2,8 +2,12 @@
 main:
   - title: "CV"
     url: /cv/
+    
   - title: "Research"
     url: /portfolio/
+    
+  - title: "Collaboration"
+    url: /collaboration/
     
   - title: "Publication"
     url: /publications/
