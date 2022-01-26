@@ -71,7 +71,7 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 <div class="w3-container w3-section w3-yellow">
 <span onclick="this.parentElement.style.display='none'" class="w3-closebtn w3-hover-text-red">&times;</span>
   <h3>Info</h3>
-  <p> Thank you for coming to my website. I will be happy to work with anyone who shares similar research interest. 
+  <p> Thank you for coming to my website. I will be happy to work with anyone who shares similar research interests. 
       Please let me know by e-mail for discussion, seminar, etc.
     </p>
 </div>
