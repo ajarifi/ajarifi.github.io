@@ -12,19 +12,19 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Education </h2>
 
-* <b>Ph.D, Osaka University,</b> Japan, 2020\
+* <b>Ph.D, Osaka University,</b> Japan, Sept 2020\
   Thesis: Study of heavy baryons from three-body decays\
   Advisor: <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Prof. Atsushi Hosaka</a>
-* <b>M.Sc, Osaka University,</b> Japan, 2017\
+* <b>M.Sc, Osaka University,</b> Japan, Sept 2017\
   Thesis: Pion emission decay of the charmed baryons for the study of their structure\
   Advisor: <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Prof. Atsushi Hosaka</a>
-* <b>B.Sc, University of Indonesia,</b> Indonesia, 2015\
+* <b>B.Sc, University of Indonesia,</b> Indonesia, Aug 2015\
   Thesis: Spin-3/2 nucleon resonances in kaon photoproduction\
   Advisor: <a href="https://inspirehep.net/authors/998691">Prof. Terry Mart</a>
 
 <h2 style="color:#900C3F"> Work experience </h2>
 
-* <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> Republic of Korea\
+* <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> Korea\
   Mar 2021 - Present : Postdoc
 * <b>Research Center for Nuclear Physics (RCNP),</b> Japan\
   Oct 2020 - Feb 2021: Postdoc
@@ -37,7 +37,7 @@ redirect_from:
 * <b>The best presenter,</b> SNP school, Japan, 2018
 * <b>Doctor,</b> Japanese government MEXT scholarship, 2017-2020
 * <b>Master,</b> Japanese government MEXT scholarship, 2015-2017
-* <b>Gold Medalist</b> National Physics Olympiad, Indonesia, 2014
+* <b>Gold Medalist,</b> National Physics Olympiad, Indonesia, 2014
 * <b>Bachelor,</b> Tanoto Foundation scholarship, 2012-2015
 
 
