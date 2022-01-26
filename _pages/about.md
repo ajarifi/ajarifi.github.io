@@ -68,7 +68,7 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 * <a href="https://physics.ui.ac.id/?lang=id">Physics department, University Indonesia</a>, Indonesia
 
 
-<div class="ww3-panel w3-yellow w3-display-container">
+<div class="w3-panel w3-yellow w3-display-container">
 <span onclick="this.parentElement.style.display='none'" class="w3-button w3-large w3-display-topright">&times; (close)</span>
   <h3>Info</h3>
   <p> Thank you for coming to my website. I will be happy to work with anyone who shares similar research interests. 
