@@ -14,7 +14,17 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p style="margin-bottom:1.2cm;"></p>
+<p style="margin-bottom:0.6cm;"></p>
+
+<div class="w3-panel w3-yellow w3-display-container">
+<span onclick="this.parentElement.style.display='none'" class="w3-button w3-large w3-display-topright"> &times; </span>
+  <h3>Info</h3>
+  <p> Thank you for coming to my website. I will be happy to work with anyone who shares similar research interests. 
+      Please let me know by e-mail for discussion, seminar, etc.
+    </p>
+</div>
+
+<p style="margin-bottom:0.6cm;"></p>
 
 <h2> What's new?</h2>  
 
@@ -66,12 +76,3 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 * <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html">Japan Atomic Energy Agency (JAEA)</a>, Japan
 * <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">Research Center for Nuclear Physics (RCNP)</a>, Japan
 * <a href="https://physics.ui.ac.id/?lang=id">Physics department, University Indonesia</a>, Indonesia
-
-
-<div class="w3-panel w3-yellow w3-display-container">
-<span onclick="this.parentElement.style.display='none'" class="w3-button w3-large w3-display-topright"> &times; </span>
-  <h3>Info</h3>
-  <p> Thank you for coming to my website. I will be happy to work with anyone who shares similar research interests. 
-      Please let me know by e-mail for discussion, seminar, etc.
-    </p>
-</div>
