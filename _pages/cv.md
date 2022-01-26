@@ -50,7 +50,7 @@ redirect_from:
 <h2 style="color:#900C3F"> Service & Leadership </h2>
 
 * <b>Host</b>, HEP seminar series (APCTP seminar)\
-  Online, 2021 - present
+  Online, May-Oct 2021
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC)\
   Osaka university, Oct 2017
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017
