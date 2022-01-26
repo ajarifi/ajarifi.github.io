@@ -67,7 +67,11 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 * <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">Research Center for Nuclear Physics (RCNP)</a>, Japan
 * <a href="https://physics.ui.ac.id/?lang=id">Physics department, University Indonesia</a>, Indonesia
 
-<!-- LikeBtn.com BEGIN -->
-<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
-<!-- LikeBtn.com END -->
 
+<div class="w3-container w3-section w3-yellow">
+<span onclick="this.parentElement.style.display='none'" class="w3-closebtn w3-hover-text-red">&times;</span>
+  <h3>Info</h3>
+  <p> Thank you for coming to my website. I will be happy to work with anyone who shares similar research interest. 
+      Please let me know by e-mail for discussion, seminar, etc.
+    </p>
+</div>
