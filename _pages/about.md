@@ -52,8 +52,9 @@ E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.
 
 <h3 style="color:#900C3F"> Co-Authors </h3>
 
-* <a href="https://inspirehep.net/authors/1005542?ui-citation-summary=true">Atsushi Hosaka</a> (Ph.D. Advisor)
+* <a href="https://inspirehep.net/authors/1005542">Atsushi Hosaka</a> (Ph.D. Advisor)
 * <a href="https://inspirehep.net/authors/998691"> Terry Mart </a> (B.S. Advisor)
+* <a href="https://inspirehep.net/authors/995116"> Yongseok Oh </a>
 * <a href="https://inspirehep.net/authors/996306"> Hideko Nagahiro </a>
 * <a href="https://inspirehep.net/authors/986596">Kiyoshi Tanida </a>
 * <a href="https://inspirehep.net/authors/1705246"> Samson Clymton </a>
