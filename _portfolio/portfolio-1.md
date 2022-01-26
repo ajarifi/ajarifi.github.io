@@ -30,17 +30,16 @@ Also, we intestigate their three-body decays by using effective Lagrangian and d
       <button class="btn--article-red">News</button>&nbsp; Also reported in <a href="https://asrc.jaea.go.jp/publication/note/pdf/41kagaku/41_06.pdf">JAEA science note.</a><br>
     Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.094023"> Phys.Rev.D 101, 094023 (2020).</a></i> </li> 
   
-    <li style="margin-bottom: 25px;"><b>A systematic study of charmed baryon decays</b><br> 
+ <li style="margin-bottom: 25px;"><b>A systematic study of charmed baryon decays</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (2019)<br> 
       Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.26.022031">JPS Conf.Proc. 26. 022031 (2019).</a></i> Contribution to: QNP 2018 </li>
  
-
-  <li style="margin-bottom: 25px;"><b>Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with the inclusion of a direct two-pion coupling</b><br> 
+ <li style="margin-bottom: 25px;"><b>Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with the inclusion of a direct two-pion coupling</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (Dec 12, 2018)<br> 
       <button class="btn--article-red">News</button>&nbsp; One of our figures is selected in <a href="https://journals.aps.org/prd/kaleidoscope/prd/98/11/114007">Kaleidoscope.</a><br>
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.114007"> Phys.Rev.D 98, 114007 (2018).</a></i> </li>  
   
-  <li style="margin-bottom: 25px;"><b>Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with consideration of Σ<sub>c</sub>(2455)π and Σ<sub>c</sub>(2520)π in intermediate states </b><br> 
+ <li style="margin-bottom: 25px;"><b>Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with consideration of Σ<sub>c</sub>(2455)π and Σ<sub>c</sub>(2520)π in intermediate states </b><br> 
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (Jun 23, 2017)<br> 
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018"> Phys.Rev.D 95, 114018 (2017).</a></i> </li>
   
