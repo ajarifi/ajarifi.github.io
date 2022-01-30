@@ -5,6 +5,19 @@ collection: portfolio
 ---
 
 <b style="color:#900C3F"> A. J. Arifi</b>, S. Clymton, and T. Mart.<br> 
+<div class="chip">
+  <img src="avatar1.png" alt="Person" width="96" height="96">
+ 	A. J. Arifi
+</div>
+<div class="chip">
+  <img src="avatar_c1.png" alt="Person" width="96" height="96">
+ 	S. Clymton
+</div>
+<div class="chip">
+  <img src="avatar_p1.png" alt="Person" width="96" height="96">
+ 	T. Mart
+</div>
+<br>
 <button class="btn--article-black">Archived</button>&nbsp; <strong>(2013-2015)</strong> 
 <br/><img src='/images/kaon.png' style="width:600px">
 
