@@ -20,15 +20,14 @@ collection: portfolio
   <img src="/images/avatar1.png" alt="Person" width="96" height="96">
  	K. Tanida
 </div>
-<div class="chip" style="margin-right:5px;">
+<div class="chip" style="margin-right:5px; margin-right:5px;">
   <img src="/images/avatar1.png" alt="Person" width="96" height="96">
  	D. Suenaga
 </div>
-<div class="chip" style="margin-right:5px;">
+<div class="chip" style="margin-right:5px; margin-right:5px;">
   <img src="/images/avatar1.png" alt="Person" width="96" height="96">
  	Y. Oh
 </div>
-
 <button class="btn--article">On-going</button>&nbsp; <strong>(2015-present)</strong>
  <br/><img src='/images/structure.png' style="width:600px">
 
