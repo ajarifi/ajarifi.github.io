@@ -4,15 +4,15 @@ author_profile: false
 collection: portfolio
 ---
 
-<div class="chip">
+<div class="chip" style="margin-right:5px;">
   <img src="/images/avatar1.png" alt="Person" width="96" height="96">
  	A. J. Arifi
 </div>
-<div class="chip">
+<div class="chip" style="margin-right:5px;">
   <img src="/images/avatar_c1.png" alt="Person" width="96" height="96">
  	S. Clymton
 </div>
-<div class="chip">
+<div class="chip" >
   <img src="/images/avatar_p1.png" alt="Person" width="96" height="96">
  	T. Mart
 </div>
