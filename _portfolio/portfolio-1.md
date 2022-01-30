@@ -38,6 +38,12 @@ Also, we intestigate their three-body decays by using effective Lagrangian and d
 <h2> Achievements</h2>
 
 <ol reversed>
+  
+  <li style="margin-bottom: 25px;"><b>Strong decays of multi-strangeness baryon resonances in the quark model</b><br> 
+      <button class="btn--article-red">Preprint</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, D. Suenaga, A. Hosaka, and Y. Oh (Jan 25, 2021)<br> 
+      Published in: <i> <a href="https://arxiv.org/abs/2201.10427"> Arxiv: 2201.10427[hep-ph].</a></i> </li>
+  
+  
   <li style="margin-bottom: 25px;"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
       Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021).</a></i> Contribution to: APFB 2020 </li>
