@@ -3,7 +3,32 @@ title: "Heavy baryon decays"
 author_profile: false
 collection: portfolio
 ---
-<b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, K. Tanida, D. Suenaga and Y. Oh. <br>
+
+<div class="chip" style="margin-right:5px;">
+  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+ 	A. J. Arifi
+</div>
+<div class="chip" style="margin-right:5px;">
+  <img src="/images/avatar2.png" alt="Person" width="96" height="96">
+ 	H. Nagahiro
+</div>
+<div class="chip" style="margin-right:5px;">
+  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+ 	A. Hosaka
+</div>
+<div class="chip" style="margin-right:5px;">
+  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+ 	K. Tanida
+</div>
+<div class="chip" style="margin-right:5px;">
+  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+ 	D. Suenaga
+</div>
+<div class="chip" style="margin-right:5px;">
+  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+ 	Y. Oh
+</div>
+
 <button class="btn--article">On-going</button>&nbsp; <strong>(2015-present)</strong>
  <br/><img src='/images/structure.png' style="width:600px">
 
