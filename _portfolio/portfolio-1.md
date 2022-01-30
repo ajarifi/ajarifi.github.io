@@ -9,23 +9,23 @@ collection: portfolio
  	A. J. Arifi
 </div>
 <div class="chip" style="margin-right:5px;">
-  <img src="/images/avatar2.png" alt="Person" width="96" height="96">
+  <img src="/images/avatar_p6.png" alt="Person" width="96" height="96">
  	H. Nagahiro
 </div>
 <div class="chip" style="margin-right:5px;">
-  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+  <img src="/images/avatar_p2.png" alt="Person" width="96" height="96">
  	A. Hosaka
 </div>
 <div class="chip" style="margin-right:5px;">
-  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+  <img src="/images/avatar_p7.png" alt="Person" width="96" height="96">
  	K. Tanida
 </div>
 <div class="chip" style="margin-right:5px; margin-top:5px;">
-  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+  <img src="/images/avatar_c2.png" alt="Person" width="96" height="96">
  	D. Suenaga
 </div>
 <div class="chip" style="margin-right:5px; margin-top:5px;">
-  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+  <img src="/images/avatar_p5.png" alt="Person" width="96" height="96">
  	Y. Oh
 </div>
 <button class="btn--article" style="margin-top:5px;">On-going</button>&nbsp; <strong>(2015-present)</strong>
