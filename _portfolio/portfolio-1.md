@@ -20,12 +20,10 @@ collection: portfolio
   <img src="/images/avatar1.png" alt="Person" width="96" height="96">
  	K. Tanida
 </div>
-
 <div class="chip" style="margin-right:5px; margin-top:5px;">
   <img src="/images/avatar1.png" alt="Person" width="96" height="96">
  	D. Suenaga
 </div>
-
 <div class="chip" style="margin-right:5px; margin-top:5px;">
   <img src="/images/avatar1.png" alt="Person" width="96" height="96">
  	Y. Oh
