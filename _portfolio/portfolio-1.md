@@ -1,5 +1,5 @@
 ---
-title: "Heavy baryon decays"
+title: "Hadron decays in chiral quark model"
 author_profile: false
 collection: portfolio
 ---
