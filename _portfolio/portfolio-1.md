@@ -40,7 +40,7 @@ Also, we intestigate their three-body decays by using effective Lagrangian and d
 <ol reversed>
   
   <li style="margin-bottom: 25px;"><b>Strong decays of multi-strangeness baryon resonances in the quark model</b><br> 
-      <button class="btn--article-red">Preprint</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, D. Suenaga, A. Hosaka, and Y. Oh (Jan 25, 2021)<br> 
+      <button class="btn--article-red">Preprint</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, D. Suenaga, A. Hosaka, and Y. Oh (Jan 25, 2022)<br> 
       Published in: <i> <a href="https://arxiv.org/abs/2201.10427"> Arxiv: 2201.10427[hep-ph].</a></i> </li>
   
   
