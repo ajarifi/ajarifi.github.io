@@ -4,7 +4,6 @@ author_profile: false
 collection: portfolio
 ---
 
-<b style="color:#900C3F"> A. J. Arifi</b>, S. Clymton, and T. Mart.<br> 
 <div class="chip">
   <img src="/images/avatar1.png" alt="Person" width="96" height="96">
  	A. J. Arifi
