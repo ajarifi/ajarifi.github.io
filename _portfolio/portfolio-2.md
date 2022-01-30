@@ -8,11 +8,11 @@ collection: portfolio
 <div class="chip">
   <img src="/images/avatar1.png" alt="Person" width="96" height="96">
  	A. J. Arifi
-</div>
+</div> &nbsp;
 <div class="chip">
   <img src="/images/avatar_c1.png" alt="Person" width="96" height="96">
  	S. Clymton
-</div>
+</div> &nbsp;
 <div class="chip">
   <img src="/images/avatar_p1.png" alt="Person" width="96" height="96">
  	T. Mart
