@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <div class="chip" style="margin-right:5px;">
-  <img src="/images/avatar1.png" alt="Person" width="96" height="96">
+  <img src="/images/profile.jpg" alt="Person" width="96" height="96">
  	A. J. Arifi
 </div>
 <div class="chip" style="margin-right:5px;">
