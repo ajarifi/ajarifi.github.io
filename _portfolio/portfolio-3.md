@@ -20,7 +20,7 @@ collection: portfolio
   <img src="/images/avatar_p5.png" alt="Person" width="96" height="96">
  	Y. Oh
 </div>
-<button class="btn--article" style="margin-top:5px;">On-going</button>&nbsp; <strong>(2015-present)</strong>
+<button class="btn--article" style="margin-top:5px;">On-going</button>&nbsp; <strong>(2021-present)</strong>
  <br/><img src='/images/structure.png' style="width:600px">
 
 We investigate hadron properties by means of light-front quark model. 
@@ -35,6 +35,6 @@ Then, we predict various properties of hadrons.
   
   <li style="margin-bottom: 25px;"><b>(TBA) Light-front quark model</b><br> 
       <button class="btn--article-red">in preparation</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. M. Choi, C.R. Ji and Y. Oh<br> 
-      Published in: <i> <a href="https://arxiv.org/abs/2201.10427"> Arxiv: 2201.10427[hep-ph].</a></i> </li>
+  </li>
 
 </ol>
