@@ -21,7 +21,7 @@ collection: portfolio
  	Y. Oh
 </div>
 <button class="btn--article" style="margin-top:5px;">On-going</button>&nbsp; <strong>(2021-present)</strong>
- <br/><img src='/images/structure.png' style="width:600px">
+ <br/><img src='/images/light-front.png' style="width:600px">
 
 We investigate hadron properties by means of light-front quark model. 
 This model is constructed based on the constituent quark model and light-front dynamics.
