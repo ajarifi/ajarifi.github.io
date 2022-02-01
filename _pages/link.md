@@ -19,14 +19,14 @@ author_profile: false
   </li>
   
   <li>
-    <a href="https://www.jaea.go.jp/english/">Japan Atomic Energy Agency (JAEA)</a> <br>
+    <a href="https://www.jaea.go.jp/english/">ASRC, Japan Atomic Energy Agency (JAEA)</a> <br>
     <ul>
       <li> <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html"> Advanced theoretical group </a> </li>
     </ul>
   </li>
   
   <li>
-    <a href="https://www2.kek.jp/theory-center/theory_e/research-group/">KEK Theory Center </a> <br>
+    <a href="https://www2.kek.jp/theory-center/theory_e/research-group/">KEK Theory Center, Institue for Particle and Nuclear Studies (IPNS) </a> <br>
     <ul>
       <li> <a href="https://j-parc-th.kek.jp/html/English/e-index.html"> J-PARC Branch</a> </li>
     </ul>
