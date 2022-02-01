@@ -24,11 +24,7 @@ author_profile: false
       <li> <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html"> Advanced theoretical group </a> </li>
     </ul>
   </li>
-  
-  <li>
-    <a href="https://www.yukawa.kyoto-u.ac.jp/en-GB/">Yukawa Institute for Theoretical Physics (YITP), Kyoto University</a>
-  </li>
-  
+    
   <li>
     <a href="https://www.riken.jp/en/">RIKEN </a> <br>
     <ul>
@@ -37,6 +33,10 @@ author_profile: false
     </ul>
   </li>
   
+  <li>
+    <a href="https://www.yukawa.kyoto-u.ac.jp/en-GB/">Yukawa Institute for Theoretical Physics (YITP), Kyoto University</a>
+  </li>
+
   <li>
    <a href="http://www.th.phys.titech.ac.jp/Nuclth/Nuclear_Hadron_Physics/Top_page_e.html"> Nuclear Hadron Physics Group, Tokyo Institute of Technology (Titech)</a> 
   </li>
