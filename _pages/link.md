@@ -6,7 +6,7 @@ author_profile: false
   
   <p style="margin-bottom:1.2cm;"></p>
 
-<h2 style="color:#900C3F"> Hadron Theory Group </h2>
+<h2 style="color:#900C3F"> Hadron Group </h2>
 
 <h3> Japan </h3>
 
