@@ -63,7 +63,13 @@ author_profile: false
    <a href="https://hken.phys.nagoya-u.ac.jp/index-e.html"> Quark-Hadron Theory Group, Nagoya University</a> 
   </li>
 
+  <li>
+   <a href="http://www.nucl.phys.tohoku.ac.jp/index-e.html"> Nuclear Theory Group, Tohoku University</a> 
+  </li>
 </ul>
+
+
+
 
 
 
