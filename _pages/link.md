@@ -12,14 +12,14 @@ author_profile: false
 
 <ul> 
   <li> 
-    <a href="http://www.rcnp.osaka-u.ac.jp/index_en.html">RCNP, Osaka university</a> <br>
+    <a href="http://www.rcnp.osaka-u.ac.jp/index_en.html">Research Center for Nuclear Physics (RCNP), Osaka university</a> <br>
     <ul>
       <li> <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29"> Theory group </a> </li>
     </ul>
   </li>
   
   <li>
-    <a href="https://www.jaea.go.jp/english/">JAEA</a> <br>
+    <a href="https://www.jaea.go.jp/english/">Japan Atomic Energy Agency (JAEA)</a> <br>
     <ul>
       <li> <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html"> Advanced theoretical group </a> </li>
     </ul>
@@ -32,6 +32,6 @@ author_profile: false
 
 <ul> 
   <li> 
-    <a href="https://www.apctp.org">APCTP, Postech</a> <br>
+    <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP), Postech</a> <br>
   </li>  
 </ul>
