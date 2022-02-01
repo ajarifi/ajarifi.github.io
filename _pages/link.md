@@ -178,4 +178,13 @@ author_profile: false
 </ul>
 
 
+<p style="margin-bottom:1.2cm;"></p>
 
+<h2 style="color:#900C3F"> Experimental public results </h2>
+
+
+<ul>
+  <li>
+    <a href="https://lhcbproject.web.cern.ch/lhcbproject/Publications/LHCbProjectPublic/Summary_all.html"> LHCb </a>
+  </li>  
+</ul>
