@@ -217,5 +217,11 @@ author_profile: false
   <li>
     <a href="https://academicjobsonline.org"> Academic Job Online</a>
   </li>  
-  
+
+  <li>
+    <a href="https://jrecin.jst.go.jp/seek/SeekTop"> JREC-IN</a>
+  </li>  
 </ul>
+
+
+
