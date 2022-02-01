@@ -131,12 +131,15 @@ author_profile: false
     <a href="https://physics.korea.edu/phys_en/research/energy.do#none"> High Energy Physics Group, Korea University </a>
   </li>  
   
-  
   <li>
     <a href="https://his.pusan.ac.kr/physeng/33005/subview.do"> Astro-Hadron Physics Group, Pusan National University (PNU) </a>
   </li>  
   
+  <li>
+    <a href="http://ssanp.ssu.ac.kr/"> Astrophysicsl Physics Group, Soongsil University </a>
+  </li>  
 </ul>
+
 
 
 <h3> Taiwan </h3>
