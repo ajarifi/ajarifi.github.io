@@ -24,6 +24,14 @@ author_profile: false
       <li> <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html"> Advanced theoretical group </a> </li>
     </ul>
   </li>
+  
+  <li>
+    <a href="https://www2.kek.jp/theory-center/theory_e/research-group/">KEK Theory Center </a> <br>
+    <ul>
+      <li> <a href="https://j-parc-th.kek.jp/html/English/e-index.html"> J-PARC Branch</a> </li>
+    </ul>
+  </li>
+  
     
   <li>
     <a href="https://www.riken.jp/en/">RIKEN </a> <br>
