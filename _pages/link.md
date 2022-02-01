@@ -28,9 +28,13 @@ author_profile: false
   <li>
     <a href="https://www.yukawa.kyoto-u.ac.jp/en-GB/">Yukawa Institute for Theoretical Physics (YITP), Kyoto University</a>
   </li>
+
+  <li>
+    <a href="http://www.th.phys.titech.ac.jp/Nuclth/Nuclear_Hadron_Physics/Top_page_e.html"> Nuclear Hadron Physics Group, Tokyo Institute of Technology (Titech)</a> 
+  </li>
   
   <li>
-    <a href="https://www.riken.jp/en/">JRIKEN </a> <br>
+    <a href="https://www.riken.jp/en/">RIKEN </a> <br>
     <ul>
       <li> <a href="http://snp.riken.jp/index.html"> Strangeness Nuclear Physics Laboratory</a> </li>
     </ul>
@@ -43,7 +47,7 @@ author_profile: false
 
 <ul> 
   <li> 
-    <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP), Postech</a>
+    <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP), Pohang University of Science and Technology (Postech)</a>
   </li>
   <li> 
     <a href="http://www.kias.re.kr">Korea Institute for Advanced Study (KIAS)</a>
