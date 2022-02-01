@@ -205,3 +205,17 @@ author_profile: false
 </ul>
 
 
+<p style="margin-bottom:1.2cm;"></p>
+
+<h2 style="color:#900C3F"> Job searching website </h2>
+
+<ul>
+  <li>
+    <a href="https://inspirehep.net/jobs?sort=mostrecent&size=25&page=1"> Inspire-HEP</a>
+  </li>  
+  
+  <li>
+    <a href="https://academicjobsonline.org"> Academic Job Online</a>
+  </li>  
+  
+</ul>
