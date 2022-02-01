@@ -1,5 +1,5 @@
 ---
-title: "Useful link"
+title: "Useful links"
 permalink: /link/
 author_profile: false
 ---
@@ -16,7 +16,15 @@ author_profile: false
     <ul>
       <li> <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29"> Theory group </a> </li>
     </ul>
-  </li>  
+  </li>
+  
+  <li>
+    <a href="https://www.jaea.go.jp/english/">JAEA</a> <br>
+    <ul>
+      <li> <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html"> Advanced theoretical group </a> </li>
+    </ul>
+  </li>
+  
 </ul>
 
 
