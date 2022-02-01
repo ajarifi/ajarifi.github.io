@@ -52,7 +52,7 @@ author_profile: false
 
 <ul> 
   <li> 
-    <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP), Pohang University of Science and Technology (Postech)</a>
+    <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP), Postech </a>
   </li>
   <li> 
     <a href="http://www.kias.re.kr">Korea Institute for Advanced Study (KIAS)</a>
