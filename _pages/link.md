@@ -12,7 +12,7 @@ author_profile: false
 
 <ul> 
   <li> 
-    <a href="http://www.rcnp.osaka-u.ac.jp/index_en.html">Research Center for Nuclear Physics (RCNP), Osaka university</a> <br>
+    <a href="http://www.rcnp.osaka-u.ac.jp/index_en.html">Research Center for Nuclear Physics (RCNP), Osaka University</a> <br>
     <ul>
       <li> <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29"> Theory group </a> </li>
     </ul>
@@ -23,6 +23,10 @@ author_profile: false
     <ul>
       <li> <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html"> Advanced theoretical group </a> </li>
     </ul>
+  </li>
+  
+  <li>
+    <a href="https://www.yukawa.kyoto-u.ac.jp/en-GB/">Yukawa Institute for Theoretical Physics (YITP), Kyoto University</a> <br>
   </li>
   
 </ul>
