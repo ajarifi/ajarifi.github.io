@@ -73,6 +73,10 @@ author_profile: false
   <li> 
     <a href="http://ntg.inha.ac.kr"> Hadron Theory Group, Inha University </a>
   </li>  
+  
+  <li> 
+    <a href="http://chep.knu.ac.kr"> Center for High Energy Physics (CHEP), Kyungpook National University (KNU) </a>
+  </li>  
 </ul>
 
 
