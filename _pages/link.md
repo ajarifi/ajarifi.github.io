@@ -185,11 +185,11 @@ author_profile: false
 
 <ul>
   <li>
-    <a href="https://lhcbproject.web.cern.ch/lhcbproject/Publications/LHCbProjectPublic/Summary_all.html"> LHCb </a>
+    <a href="https://lhcbproject.web.cern.ch/lhcbproject/Publications/LHCbProjectPublic/Summary_all.html"> LHCb public results</a>
   </li>  
   
   <li>
-    <a href="https://belle.kek.jp/bdocs/b_journal.html"> Belle </a>
+    <a href="https://belle.kek.jp/bdocs/b_journal.html"> Belle publications</a>
   </li>  
   
 </ul>
