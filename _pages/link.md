@@ -90,7 +90,7 @@ author_profile: false
   </li>  
   
   <li> 
-    <a href="https://sites.google.com/view/knuhadron/home?authuser=0"> KNU Hadron and Nuclear Theory Group </a>
+    <a href="https://sites.google.com/view/knuhadron/home?authuser=0">Hadron and Nuclear Theory Group, Kyungpook National University (KNU)</a>
   </li>  
   
   <li> 
