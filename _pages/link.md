@@ -142,6 +142,11 @@ author_profile: false
   </li>  
 </ul>
 
+<h3> Thailand </h3>
 
-
+<ul>
+  <li>
+    <a href="http://science.sut.ac.th/physics/ALICE/particle/index.html"> Nuclear and Particle Group, Suranaree University of Technology </a>
+  </li>  
+</ul>
 
