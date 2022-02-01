@@ -70,6 +70,10 @@ author_profile: false
   <li>
    <a href="https://koto10.nara-wu.ac.jp/search/result.html?lang=en&template=template1&affli=Research+Group+of+Physics&affiliationCode=20302&mLink#advance"> Physics Research Group, Nara Women's University</a> 
   </li>
+  
+  <li>
+   <a href="http://www-nuclth.phys.sci.osaka-u.ac.jp"> Nuclear Theory Group, Osaka University</a> 
+  </li>
 </ul>
 
 
