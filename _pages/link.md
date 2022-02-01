@@ -66,7 +66,12 @@ author_profile: false
   <li>
    <a href="http://www.nucl.phys.tohoku.ac.jp/index-e.html"> Nuclear Theory Group, Tohoku University</a> 
   </li>
+  
+  <li>
+   <a href="https://koto10.nara-wu.ac.jp/search/result.html?lang=en&template=template1&affli=Research+Group+of+Physics&affiliationCode=20302&mLink#advance"> Physics Research Group, Nara Women's University</a> 
+  </li>
 </ul>
+
 
 
 
