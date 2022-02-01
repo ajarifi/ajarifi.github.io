@@ -4,6 +4,14 @@ permalink: /link/
 author_profile: false
 ---
   
+  
+<div id="mySidenav" class="sidenav hidden-xs">
+  <a href="https://ajarifi.github.io/portfolio/" id="research">Research</a>
+  <a href="https://ajarifi.github.io/publications/" id="publication">Publication</a>
+  <a href="https://ajarifi.github.io/talks/" id="talks">Talk</a>
+  <a href="https://ajarifi.github.io/cv/" id="cv">CV</a>
+</div>
+    
   <p style="margin-bottom:1.2cm;"></p>
 
 <h2 style="color:#900C3F"> Hadron Related Group </h2>
