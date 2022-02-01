@@ -41,6 +41,10 @@ author_profile: false
    <a href="http://www.th.phys.titech.ac.jp/Nuclth/Nuclear_Hadron_Physics/Top_page_e.html"> Nuclear Hadron Physics Group, Tokyo Institute of Technology (Titech)</a> 
   </li>
   
+  <li>
+   <a href="http://www.nt.phys.kyushu-u.ac.jp/index-j.html"> Nuclear Theory Group, Kyushu University</a> 
+  </li>
+
 </ul>
 
 
