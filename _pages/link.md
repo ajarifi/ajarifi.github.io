@@ -8,8 +8,6 @@ author_profile: false
 
 <h2 style="color:#900C3F"> Hadron Related Group </h2>
 
-(Updated Feb 1st, 2022)
-
 <h3> Japan </h3>
 
 <ul> 
