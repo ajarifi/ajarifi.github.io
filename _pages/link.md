@@ -240,4 +240,8 @@ author_profile: false
 
 <h2 style="color:#900C3F" id="society"> Society </h2>
 
-
+<ul>
+  <li>
+    <a href="http://www.aapps.org/myboard/list_blog.php?Page=1&Board=chen_ning_yang"> Association of Asia Pasific Physical Society (AAPPS)</a>
+  </li>  
+</ul>
