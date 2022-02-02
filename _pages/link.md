@@ -6,7 +6,7 @@ author_profile: false
   
   
 <div id="mySidenav" class="sidenav hidden-xs">
-  <a href="#group" id="research">Hadron group</a>
+  <a href="#group" id="research">Group</a>
   <a href="#exp" id="publication">Exp. Results</a>
   <a href="#job" id="talks">Job</a>
   <a href="#society" id="cv">Society</a>
