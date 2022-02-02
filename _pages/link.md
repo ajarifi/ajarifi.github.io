@@ -254,7 +254,7 @@ author_profile: false
   </li>  
   
   <li>
-    <a href="https://www.aps.org"> American Physical Society (KPS)</a>
+    <a href="https://www.aps.org"> American Physical Society (APS)</a>
   </li>   
     
   
