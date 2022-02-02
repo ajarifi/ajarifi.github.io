@@ -251,6 +251,11 @@ author_profile: false
   
   <li>
     <a href="https://www.kps.or.kr"> The Korean Physical Society (KPS)</a>
+  </li>  
+  
+  <li>
+    <a href="https://www.aps.org"> American Physical Society (KPS)</a>
   </li>   
+    
   
 </ul>
