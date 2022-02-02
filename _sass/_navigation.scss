@@ -474,6 +474,29 @@
    background-color: #555
 }
 
+/* -------------------------------- */
+
+#group {
+   top: 110px;
+   background-color: #04AA6D;
+}
+
+#exp {
+   top: 180px;
+   background-color: #2196F3;
+}
+
+#job {
+   top: 250px;
+   background-color: #f44336;
+}
+
+#society {
+   top: 320px;
+   background-color: #555
+}
+
+
 @media (max-width: 990px) {
   .hidden-xs {
     display: none !important;
