@@ -87,10 +87,6 @@ author_profile: false
 
 
 
-
-
-
-
 <h3> Korea </h3>
 
 <ul> 
@@ -151,7 +147,7 @@ author_profile: false
 </ul>
 
 
-<h3> Korea </h3>
+<h3> Germany </h3>
 
 <ul> 
   <li> 
