@@ -10,7 +10,7 @@ redirect_from:
 Postdoctoral Researcher, <br>
 Asia Pacific Center for Theoretical Physics (APCTP), <br>
 #501, Hogil Kim Bldg, Postech, Pohang, Korea <br>
-E-mail: <a href = "mailto: ahmad.jafar.arifi@acptp.org">ahmad.jafar.arifi@acptp.org</a> 
+E-mail: ahmad.jafar.arifi[at]acptp.org
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
