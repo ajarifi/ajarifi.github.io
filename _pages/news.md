@@ -8,9 +8,25 @@ redirect_from:
 
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
   <h1 style="color:#000080"> News</h1> </div>
-  
-<h2> 2021 </h2>
 
+<h2> 2022 </h2>
+
+* (2022, 07, 11 ) <button class="btn--article-blue"> Conference </button> <br> 
+  Invited talk in APCTP workshop on nuclear physics 2022: Physics of excited hardons in the present and future facilities in Jeju
+  
+* (2022, 03, 02 ) <button class="btn--article-blue">Seminar </button> <br> 
+  Giving a seminar in physics department, University of Indonesia (Online)
+
+<h2> 2021 </h2>
+* (2021, 11, 28 ) <button class="btn--article-blue">Conference </button> <br>
+  Attending Light-cone 2021 conference: Physics of hadrons on the light front in Jeju
+
+* (2021, 10, 27 ) <button class="btn--article-blue">Comference </button> <br> 
+  Invited talk in 11th International Conference on Theoretical and Applied Physics, Indonesia (Online)
+
+* (2021, 10, 05 ) <button class="btn--article-blue">Symposium </button> <br>
+  Attending The 5th APCTP Alumni Scientific Symposium in Jeju
+ 
 * (2021, 07, 29) <button class="btn--article-black">Milestone</button> <br>
   First time to review a paper in Physical Review D.
 
