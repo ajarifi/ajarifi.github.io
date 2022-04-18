@@ -65,7 +65,7 @@ E-mail: ahmad.jafar.arifi[at]acptp.org
 * <a href="https://inspirehep.net/authors/998691"> Terry Mart </a> (B.S. Advisor)
 * <a href="https://inspirehep.net/authors/995116"> Yongseok Oh </a>
 * <a href="https://inspirehep.net/authors/1004349"> Chueng-Ryong Ji </a>
-* * <a href="https://inspirehep.net/authors/1013647"> Ho-Meoyng Choi </a>
+* <a href="https://inspirehep.net/authors/1013647"> Ho-Meoyng Choi </a>
 * <a href="https://inspirehep.net/authors/996306"> Hideko Nagahiro </a>
 * <a href="https://inspirehep.net/authors/986596">Kiyoshi Tanida </a>
 * <a href="https://inspirehep.net/authors/1705246"> Samson Clymton </a>
