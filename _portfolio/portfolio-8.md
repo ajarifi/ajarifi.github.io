@@ -36,6 +36,6 @@ Then, we predict various properties of hadrons.
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Mixing effects on 1S and 2S state heavy mesons in the light-front quark
  model</b><br>
       <button class="btn--article-red">Preprint</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, C.R. Ji and Y. Oh (May 9, 2022)<br> 
-      Published in:  [<a href="#"> Arxiv </a>].  </div>
+      Published in:  [<a href="https://arxiv.org/abs/2205.04075"> ArXiv: 2205.04075 </a>].  </div>
 
 </ol>
