@@ -39,9 +39,9 @@ Also, we intestigate their three-body decays by using effective Lagrangian and d
 
 <ol reversed>
   
-  <li style="margin-bottom: 25px;" class="filterDiv article"><b>Strong decays of multi-strangeness baryon resonances in the quark model</b><br> 
-     <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, D. Suenaga, A. Hosaka, and Y. Oh (Jan 25, 2022)<br>
-    Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.094006"> Phys.Rev.D 105, 094006 (2022) </a>,</i> [<a href="https://arxiv.org/abs/2201.10427"> ArXiv: 2201.10427 </a>].  </li>
+  <li style="margin-bottom: 25px;"><b>Strong decays of multi-strangeness baryon resonances in the quark model</b><br> 
+      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F">  A. J. Arifi</b>, D. Suenaga, A. Hosaka, and Y. Oh (May 12, 2022)<br> 
+      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.094006">  Phys.Rev.D 105, 094006 (2022).</a></i> </li>
   
   
   <li style="margin-bottom: 25px;"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
