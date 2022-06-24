@@ -61,5 +61,5 @@ redirect_from:
 * Indonesian
 * English (fluent)
 * Japanese (N3-intermediate) 
-* Korean (Beginner)
+* Korean (Beginner - <a href="/files/topik.png">[TOPIK 1 (level 2)]</a> )
 
