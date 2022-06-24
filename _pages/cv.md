@@ -60,6 +60,14 @@ redirect_from:
 
 * Indonesian
 * English (fluent)
-* Japanese (N3-intermediate) 
-* Korean (Beginner - <a href="/files/Topik.png">[TOPIK 1 (level 2)]</a> )
+* Japanese (Intermediate) 
+* Korean (Beginner) <a href="/files/Topik.png">[Proof]</a>
+<div class="btn-group">
+  <button class="btn-color">Lv. 1</button>
+  <button class="btn-color">Lv. 2</button>
+  <button>Lv. 3</button>
+  <button>Lv. 4</button>
+  <button>Lv. 5</button>
+  <button>Lv. 6</button>
+</div>
 
