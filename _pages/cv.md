@@ -59,6 +59,6 @@ redirect_from:
 <h2 style="color:#900C3F"> Language </h2>
 
 * Indonesian
-* English (fluent)
+* English (Fluent)
 * Japanese (Intermediate) 
 * Korean (Beginner)
