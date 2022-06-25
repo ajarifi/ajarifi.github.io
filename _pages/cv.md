@@ -48,6 +48,7 @@ redirect_from:
 
 
 <h2 style="color:#900C3F"> Leadership </h2>
+
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
   Osaka university, Oct 2017\
   <i> Making sure that the conference is sucessfully held. </i>
@@ -55,6 +56,7 @@ redirect_from:
   <i> Responsible for the activity of the association for one year. </i>
 
 <h2 style="color:#900C3F"> Service </h2>
+
 * <b>Host</b>, HEP seminar series\
   <i> Organizing and hosting online seminar in APCTP. <a href="https://ajarifi.github.io/seminar/">(Details)</a>. </i>
 * <b>Referee</b>, Physical Review D\
