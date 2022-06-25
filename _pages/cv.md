@@ -61,4 +61,4 @@ redirect_from:
 * Indonesian
 * English (fluent)
 * Japanese (Intermediate) 
-* Korean (Beginner) <a href="/files/Topik.png">(Topik 1)</a>
+* Korean (Beginner)
