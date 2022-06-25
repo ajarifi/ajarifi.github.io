@@ -61,6 +61,6 @@ redirect_from:
 * Indonesian
 * English (Fluent)
 * Japanese (Intermediate)\
-  Passed JLPT - N3 (2018): <a href="/files/Jlpt3.png">(Proof)</a>
+  <i> Passed JLPT - N3 (2018): <a href="/files/Jlpt3.png">(Proof)</a> </i>
 * Korean (Beginner)\
-  Passed TOPIK I - level 2 (2022): <a href="/files/Topik.png">(Proof)</a>
+  <i> Passed TOPIK I - level 2 (2022): <a href="/files/Topik.png">(Proof)</a> </i>
