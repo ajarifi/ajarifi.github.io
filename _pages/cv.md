@@ -58,7 +58,7 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Language </h2>
 
-* Indonesian
+* Indonesian (Native)
 * English (Fluent)
 * Japanese (Intermediate)\
   <i> Passed JLPT - N3 (2018): <a href="/files/Jlpt3.png">(Proof)</a> </i>
