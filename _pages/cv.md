@@ -47,15 +47,18 @@ redirect_from:
 
 
 
-<h2 style="color:#900C3F"> Service & Leadership </h2>
-
-* <b>Host</b>, HEP seminar series\
-  <i> Organizing and hosting online seminar in APCTP. <a href="https://ajarifi.github.io/seminar/">(Details)</a>. </i>
-* <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), Osaka university, Oct 2017\
+<h2 style="color:#900C3F"> Leadership </h2>
+* <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
+  Osaka university, Oct 2017\
   <i> Making sure that the conference is sucessfully held. </i>
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017\
-  <i> Resposible for the activity of the association for one year. </i>
+  <i> Responsible for the activity of the association for one year. </i>
 
+<h2 style="color:#900C3F"> Service </h2>
+* <b>Host</b>, HEP seminar series\
+  <i> Organizing and hosting online seminar in APCTP. <a href="https://ajarifi.github.io/seminar/">(Details)</a>. </i>
+* <b>Referee</b>, Physical Review D\
+  <i> Peer-reviewing papers for journal publications. <a href="https://publons.com/researcher/3472237/ahmad-jafar-arifi/">(Publons)</a>. </i>
 
 <h2 style="color:#900C3F"> Language </h2>
 
