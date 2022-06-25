@@ -50,7 +50,7 @@ redirect_from:
 <h2 style="color:#900C3F"> Service & Leadership </h2>
 
 * <b>Host</b>, HEP seminar series\
-  <i> Organizing and hosting online seminar in APCTP. <a href="https://ajarifi.github.io/seminar/">(link)</a>. </i>
+  <i> Organizing and hosting online seminar in APCTP. <a href="https://ajarifi.github.io/seminar/">(Details)</a>. </i>
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), Osaka university, Oct 2017\
   <i> Making sure that the conference is sucessfully held. </i>
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017\
