@@ -43,9 +43,8 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Research Funding </h2>
 
-* <b> Young Scientist Training (YST) Fellowship,</b> 2021-2022
-
-
+* <b> Young Scientist Training (YST) Fellowship,</b> 2021-2022\
+  <i> The research grant is 5.000.000 KRW/year. </i>
 
 <h2 style="color:#900C3F"> Leadership </h2>
 
