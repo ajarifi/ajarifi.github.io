@@ -43,16 +43,16 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Research Funding </h2>
 
-* <b> Young Scientist Training (YST) Fellowship,</b> 2021-2022\
+* <b> Young Scientist Training (YST) Fellowship,</b> 2021-2023\
   <i> The research grant is 5.000.000 KRW/year. </i>
 
 <h2 style="color:#900C3F"> Leadership </h2>
 
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
   Osaka university, Oct 2017\
-  <i> Making sure that the conference is sucessfully held. </i>
+  <i> Making sure that the conference is sucessfully held. </i> <a href="/files/ISASC.pdf">(Abstract book)</a> 
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017\
-  <i> Responsible for the activity of the association for one year. </i>
+  <i> Responsible for the activity of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a> 
 
 <h2 style="color:#900C3F"> Service </h2>
 
