@@ -57,9 +57,9 @@ redirect_from:
 <h2 style="color:#900C3F"> Service </h2>
 
 * <b>Host</b>, HEP seminar series\
-  <i> Organizing and hosting online seminar in APCTP. <a href="https://ajarifi.github.io/seminar/">(Details)</a>. </i>
+  <i> Organizing and hosting online seminar in APCTP. <a href="https://ajarifi.github.io/seminar/">(Details)</a> </i>
 * <b>Referee</b>, Physical Review D\
-  <i> Peer-reviewing papers for journal publications. <a href="https://publons.com/researcher/3472237/ahmad-jafar-arifi/">(Publons)</a>. </i>
+  <i> Peer-reviewing papers for journal publications. <a href="https://publons.com/researcher/3472237/ahmad-jafar-arifi/">(Publons)</a> </i>
 
 <h2 style="color:#900C3F"> Language </h2>
 
