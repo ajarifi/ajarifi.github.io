@@ -1,5 +1,3 @@
-
-
 ---
 title: "Light-front wavefunctions of mesons by design"
 collection: seminar
