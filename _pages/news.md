@@ -15,7 +15,7 @@ redirect_from:
   First time to mentor students (1 Master, 1 Undergraduate) from University of Indonesia for their thesis.
 
 * (2022, 07, 26 ) <button class="btn--article-black">Milestone</button> <br>
-  My 100 citations on my research articles. 
+  My first 100 citations on my research articles. 
 
 * (2022, 07, 11 ) <button class="btn--article-blue"> Workshop </button> <br> 
   Invited talk in APCTP workshop on nuclear physics 2022: Physics of excited hardons in the present and future facilities in Jeju
