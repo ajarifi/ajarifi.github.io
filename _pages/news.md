@@ -13,6 +13,9 @@ redirect_from:
 
 * (2022, 07, 11 ) <button class="btn--article-blue"> Conference </button> <br> 
   Invited talk in APCTP workshop on nuclear physics 2022: Physics of excited hardons in the present and future facilities in Jeju
+
+* (2022, 05, 25 ) <button class="btn--article-black">Milestone</button> <br>
+  Passed the TOPIK 1 level 2. This is a Korean languange proficiency test for beginner level. 
   
 * (2022, 03, 02 ) <button class="btn--article-blue">Seminar </button> <br> 
   Giving a seminar in physics department, University of Indonesia (Online)
@@ -24,15 +27,9 @@ redirect_from:
 
 * (2021, 10, 27 ) <button class="btn--article-blue">Comference </button> <br> 
   Invited talk in 11th International Conference on Theoretical and Applied Physics, Indonesia (Online)
-
-* (2021, 10, 05 ) <button class="btn--article-blue">Symposium </button> <br>
-  Attending The 5th APCTP Alumni Scientific Symposium in Jeju
  
 * (2021, 07, 29) <button class="btn--article-black">Milestone</button> <br>
   First time to review a paper in Physical Review D.
-
-* (2021, 07, 19-24) <button class="btn--article-blue">Workshop</button> <br>
-  Business trip to Hilton Hotel, Gyeongju for APCTP Focus program.
   
 * (2021, 07, 13-16) <button class="btn--article-blue">Lectures</button> <br>
   Attending a lecture by Prof. Ji in KNU, Daegu.
