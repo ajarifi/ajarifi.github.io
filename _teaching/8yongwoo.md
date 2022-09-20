@@ -4,7 +4,7 @@ collection: seminar
 type: "8th APCTP seminar"
 venue: Online
 permalink: /seminar/8yongwoo.html
-date: 2022-09-21
+date: 2022-09-1
 ---
 
  <b>Speaker</b>: Yongwoo Choi (Inha University, Korea)<br>
@@ -22,7 +22,7 @@ date: 2022-09-21
   </p>
 
 <p align=" justify">  
-In this talk, we show the basic formulation of light-front field theory and discuss 
+ In this talk, we show the basic formulation of light-front field theory and discuss 
   elastic scattering and virtual meson production using the light-front quark model 
   in a scalar field theory. From each process, we can obtain the electromagnetic form factor
   and Compton form factor. In addition, we can investigate the deeply virtual scattering 
