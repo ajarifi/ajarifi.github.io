@@ -33,11 +33,11 @@ Then, we predict various properties of hadrons.
 
 <ol reversed>
   
-  <li style="margin-bottom: 25px;" class="filterDiv article"><b>Independence of current components, polarization vectors, and reference frames in the light-front quark model analysis of meson decay constants</b><br>
+  <li style="margin-bottom: 25px;"><b>Independence of current components, polarization vectors, and reference frames in the light-front quark model analysis of meson decay constants</b><br>
       <button class="btn--article-red">Preprint</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, C.R. Ji and Y. Oh (Oct 23, 2022)<br> 
       Published in: [<a href="https://arxiv.org/abs/2210.12780"> ArXiv: 2210.12780 </a>].  </li>
   
-  <li style="margin-bottom: 25px;" class="filterDiv article"><b>Mixing effects on 1S and 2S state heavy mesons in the light-front quark
+  <li style="margin-bottom: 25px;"><b>Mixing effects on 1S and 2S state heavy mesons in the light-front quark
  model</b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, C.R. Ji and Y. Oh (May 9, 2022)<br> 
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.014009"> Phys.Rev.D 106, 014009 (2022) </a>,</i> [<a href="https://arxiv.org/abs/2205.04075"> ArXiv: 2205.04075 </a>].  </li>
