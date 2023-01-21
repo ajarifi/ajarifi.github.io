@@ -13,3 +13,4 @@ author_profile: false
 * <a href="https://iopscience.iop.org/journal/0031-9120"> Physics education </a>
 * <a href="https://iopscience.iop.org/journal/0143-0807"> European Journal of Physics </a>
 * <a href="https://aapt.scitation.org/journal/pte"> The physics teacher </a>
+* <a href="https://aapt.scitation.org/journal/ajp"> American journal of physics </a>
