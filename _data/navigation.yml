@@ -18,8 +18,8 @@ main:
   - title: "Seminar"
     url: /seminar/  
     
-#  - title: "Blog"
-#    url: /blog/
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Useful links"
     url: /link/
