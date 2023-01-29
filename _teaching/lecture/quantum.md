@@ -1,7 +1,7 @@
 ---
 title: "Quantum Mechanics"
 permalink: /teaching/quantum
-venue: Online 
+author_profile: false
 date: 2023-01-28
 ---
  
