@@ -8,6 +8,11 @@ author_profile: false
   
   <p style="margin-bottom:1.2cm;"></p>
 
+<h2 style="color:#900C3F"> Lecture notes </h2>
+
+* <a href="https://ajarifi.github.io/teaching/quantum.html"> Quantum Mechanics </a>
+
+
 <h2 style="color:#900C3F"> Journal of physics education </h2>
 
 * <a href="https://iopscience.iop.org/journal/0031-9120"> Physics education </a>
@@ -15,7 +20,3 @@ author_profile: false
 * <a href="https://aapt.scitation.org/journal/pte"> The physics teacher </a>
 * <a href="https://aapt.scitation.org/journal/ajp"> American journal of physics </a>
 * <a href="https://journals.aps.org/prper/"> Physical review physics education research </a>
-
-<h2 style="color:#900C3F"> Lecture notes </h2>
-
-* <a href="https://ajarifi.github.io/teaching/quantum.html"> Quantum Mechanics </a>
