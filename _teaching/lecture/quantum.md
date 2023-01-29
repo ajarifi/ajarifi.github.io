@@ -15,4 +15,4 @@ date: 2023-01-28
  * Quantum Mechanics: Introduction (Greiner)
 
 <h2 style="color:#900C3F"> Websites </h2>
- * <a href="[https://inspirehep.net/authors/1005542?ui-citation-summary=true](https://www.damtp.cam.ac.uk/user/tong/quantum.html)">By David Tong</a>
+ * <a href="https://www.damtp.cam.ac.uk/user/tong/quantum.html">By David Tong</a>
