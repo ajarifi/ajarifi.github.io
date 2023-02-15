@@ -20,8 +20,7 @@ E-mail: ahmad.jafar.arifi[at]acptp.org
 <span onclick="this.parentElement.style.display='none'" class="w3-button w3-large w3-display-topright"> &times; </span>
   <h3 style="margin-top:10px;"> Info </h3>
   <p> Thank you for visiting my website. If you have research interests similar to mine, I would be happy to collaborate with you. 
-      Feel free to reach out to me via email to discuss potential opportunities for collaboration, including seminars and other possibilities.
-    </p>
+    Feel free to reach out to me via email to discuss potential opportunities for collaboration, including seminars and other possibilities.</p>
 </div>
 
 <p style="margin-bottom:0.6cm;"></p>
@@ -42,9 +41,7 @@ E-mail: ahmad.jafar.arifi[at]acptp.org
 
 <h2 style="color:#000080">  Personal </h2>
 
-<p align="justify"> 
-Greetings! I am a theoretical physicist with expertise in nuclear hadron physics. I earned my undergraduate degree in the physics department of the University of Indonesia, working under the guidance of Prof. Terry Mart. Subsequently, I moved to Osaka to pursue a Ph.D. in physics, where I had the privilege of working with Prof. Atsushi Hosaka to study heavy baryon decays in the quark model. I also had the opportunity to complete an internship at JAEA for six months to work with Belle experimentalists. Though my graduation coincided with the Covid-19 pandemic, I was fortunate enough to secure a position at APCTP, where I currently work. At APCTP, I have been conducting research on a light-front quark model, with the guidance of Prof. Chueng-Ryong Ji and other professors.
-</p>
+<p align="justify"> Greetings! I am a theoretical physicist with expertise in nuclear hadron physics. I earned my undergraduate degree in the physics department of the University of Indonesia, working under the guidance of Prof. Terry Mart. Subsequently, I moved to Osaka to pursue a Ph.D. in physics, where I had the privilege of working with Prof. Atsushi Hosaka to study heavy baryon decays in the quark model. I also had the opportunity to complete an internship at JAEA for six months to work with Belle experimentalists. Though my graduation coincided with the Covid-19 pandemic, I was fortunate enough to secure a position at APCTP, where I currently work. At APCTP, I have been conducting research on a light-front quark model, with the guidance of Prof. Chueng-Ryong Ji and other professors. </p>
  
 <center><img src="images/cover.png" alt="cover" width="100%"></center> 
 
