@@ -48,14 +48,16 @@ E-mail: ahmad.jafar.arifi[at]acptp.org
 
 <h2 style="color:#000080">  My research </h2>
 
-<p align="justify"> My research is mainly focused on hadron physics, with a particular interest in hadron spectroscopy, reactions, and structure, as well as hadrons in matter. I have experience using various models, such as the effective Lagrangian approach, chiral quark model, light-front quark model, and quark-meson coupling (QMC) model. One of my main areas of interest is the Dalitz plot analysis, which I have employed to investigate hadron resonances. Furthermore, I am intrigued by the light-front quark model, which provides a relativistic approach to studying hadron structure. As a lifelong learner, I am always eager to acquire new knowledge and expand my research interests in the vast field of hadron physics.</p>
+<p align="justify"> 
+My research is mainly focused on hadron physics, with a particular interest in hadron spectroscopy, reactions, and structure, as well as hadrons in matter. I have experience using various models, such as the effective Lagrangian approach, chiral quark model, light-front quark model, and quark-meson coupling (QMC) model. One of my main areas of interest is the Dalitz plot analysis, which I have employed to investigate hadron resonances. Furthermore, I am intrigued by the light-front quark model, which provides a relativistic approach to studying hadron structure. As a lifelong learner, I am always eager to acquire new knowledge and expand my research interests in the vast field of hadron physics.
+</p>
 
 <p> You can also visit my profile in <a href="https://inspirehep.net/authors/1410710">Inspire-HEP</a>. </p>
 
 <h3 style="color:#900C3F"> Research Interests </h3>
-<button class="btnx success">Hadron physics</button>
-<button class="btnx info">Quark model</button>
-<button class="btnx warning">Dalitz plot</button>
+<button class="btnx success"> Hadron physics </button>
+<button class="btnx info"> Quark model </button>
+<button class="btnx warning"> Dalitz plot </button>
 
 <h3 style="color:#900C3F"> Co-Authors </h3>
 
