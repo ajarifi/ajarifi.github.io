@@ -48,7 +48,7 @@ E-mail: ahmad.jafar.arifi[at]acptp.org
 
 <h2 style="color:#000080">  My research </h2>
 
-<p align="justify"> My research focuses on hadron spectroscopy and decay. At the very beginning, I analyzed the kaon photoproduction in the isobar model. After that, my interest turns into the baryon decays in the quark model. I am also specialized in the Dalitz plot analysis to describe three-body decays. So far, we focus only on heavy baryons, but we can extend our work to other systems. In addition, I am recently interested in the Roper resonance and its analogous states that bear similarities in masses and decay properties. </p>
+<p align="justify"> My research is mainly focused on hadron physics, with a particular interest in hadron spectroscopy, reactions, and structure, as well as hadrons in matter. I have experience using various models, such as the effective Lagrangian approach, chiral quark model, light-front quark model, and quark-meson coupling (QMC) model. One of my main areas of interest is the Dalitz plot analysis, which I have employed to investigate hadron resonances. Furthermore, I am intrigued by the light-front quark model, which provides a relativistic approach to studying hadron structure. As a lifelong learner, I am always eager to acquire new knowledge and expand my research interests in the vast field of hadron physics. </p>
 
 <p> You can also visit my profile in <a href="https://inspirehep.net/authors/1410710">Inspire-HEP</a>. </p>
 
