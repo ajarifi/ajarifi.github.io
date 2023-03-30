@@ -24,6 +24,8 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Work experience </h2>
 
+* <b>Strangeness Nuclear Physics Lab, RIKEN,</b> Japan\
+  Mar 2023 - 2026 : Postdoc
 * <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> Korea\
   Mar 2021 - Present : Postdoc
 * <b>Research Center for Nuclear Physics (RCNP),</b> Japan\
@@ -43,8 +45,11 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Research Funding </h2>
 
+* <b> RIKEN SPDR,</b> 2023-2026\
+  <i> The research grant is 1.000.000 JPY (~8.000 USD)/year. </i>
+
 * <b> Young Scientist Training (YST) Fellowship,</b> 2021-2023\
-  <i> The research grant is 5.000.000 KRW/year. </i>
+  <i> The research grant is 5.000.000 KRW (~4.000 USD)/year. </i>
 
 <h2 style="color:#900C3F"> Leadership </h2>
 
