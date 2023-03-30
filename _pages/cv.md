@@ -25,9 +25,9 @@ redirect_from:
 <h2 style="color:#900C3F"> Work experience </h2>
 
 * <b>Strangeness Nuclear Physics Lab, RIKEN,</b> Japan\
-  Mar 2023 - 2026 : Postdoc
+  Apr 2023 - Present  : Postdoc
 * <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> Korea\
-  Mar 2021 - Present : Postdoc
+  Mar 2021 - Feb 2023 : Postdoc
 * <b>Research Center for Nuclear Physics (RCNP),</b> Japan\
   Oct 2020 - Feb 2021: Postdoc
 * <b>Japan Atomic Energy Agency (JAEA),</b> Japan\
