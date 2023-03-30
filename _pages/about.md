@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Postdoctoral Researcher, <br>
-Asia Pacific Center for Theoretical Physics (APCTP), <br>
-#501, Hogil Kim Bldg, Postech, Pohang, Korea <br>
-E-mail: ahmad.jafar.arifi[at]acptp.org
+Special Postdoctoral Researcher (SPDR), <br>
+Strangeness Nuclear Physics Lab, RIKEN (Main) <br>
+2-1 Hirosawa, Saitama, Japan 315-0198 <br>
+E-mail: ahmad.arifi[at]riken.jp
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -41,7 +41,7 @@ E-mail: ahmad.jafar.arifi[at]acptp.org
 
 <h2 style="color:#000080">  Personal </h2>
 
-<p align="justify"> Greetings! I am a theoretical physicist with expertise in nuclear hadron physics. I earned my undergraduate degree in the physics department of Universitas Indonesia, working under the guidance of Prof. Terry Mart. Subsequently, I moved to Osaka University to pursue a Ph.D. in physics, where I had the privilege of working with Prof. Atsushi Hosaka to study heavy baryon decays in the quark model. I also had the opportunity to complete an internship at JAEA for six months to work with Belle experimentalists. Though my graduation coincided with the Covid-19 pandemic, I was fortunate enough to secure a position at APCTP, where I currently work. At APCTP, I have been conducting research on the light-front quark model, with the guidance of Prof. Chueng-Ryong Ji and other professors. </p>
+<p align="justify"> Greetings! I am a theoretical physicist with expertise in nuclear hadron physics. I earned my undergraduate degree in the physics department of Universitas Indonesia, working under the guidance of Prof. Terry Mart. Subsequently, I moved to Osaka University to pursue a Ph.D. in physics, where I had the privilege of working with Prof. Atsushi Hosaka to study heavy baryon decays in the quark model. I also had the opportunity to complete an internship at JAEA for six months to work with Belle experimentalists. Though my graduation coincided with the Covid-19 pandemic, I was fortunate enough to secure a position at APCTP. There I have been conducting research on the light-front quark model, with the guidance of Prof. Chueng-Ryong Ji and other professors. Currently I am working at RIKEN. </p>
  
 <center><img src="images/cover.png" alt="cover" width="100%"></center> 
 
@@ -63,16 +63,19 @@ My research is mainly focused on hadron physics, with a particular interest in h
 
 * <a href="https://inspirehep.net/authors/1005542">Atsushi Hosaka</a> (Ph.D. Advisor)
 * <a href="https://inspirehep.net/authors/998691"> Terry Mart </a> (B.S. Advisor)
-* <a href="https://inspirehep.net/authors/995116"> Yongseok Oh </a>
 * <a href="https://inspirehep.net/authors/1004349"> Chueng-Ryong Ji </a>
+* <a href="https://inspirehep.net/authors/985499"> Kazuo Tsushima </a>
+* <a href="https://inspirehep.net/authors/995116"> Yongseok Oh </a>
 * <a href="https://inspirehep.net/authors/1013647"> Ho-Meoyng Choi </a>
 * <a href="https://inspirehep.net/authors/996306"> Hideko Nagahiro </a>
 * <a href="https://inspirehep.net/authors/986596">Kiyoshi Tanida </a>
+* <a href="https://inspirehep.net/authors/1021038">Parada T. P. Hutauruk </a>
 * <a href="https://inspirehep.net/authors/1705246"> Samson Clymton </a>
 * <a href="https://inspirehep.net/authors/1298440">Daiki Suenaga</a>
 
 <h3 style="color:#900C3F"> Past and present institutions</h3>
 
+* <a href="https://www.riken.jp">Strangeness Nuclear Physics Lab, RIKEN </a>, Japan
 * <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP)</a>, Korea
 * <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html">Japan Atomic Energy Agency (JAEA)</a>, Japan
 * <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">Research Center for Nuclear Physics (RCNP)</a>, Japan
