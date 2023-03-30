@@ -12,7 +12,7 @@ function drawBasic() {
     [' ', 3],
     [' ', 2],
     [' ', 3],
-    [' ', 0],
+    [' ', 1],
     [' ', 0],
     ['2025', 0],
     [' ', 0],
@@ -36,6 +36,7 @@ function drawBasic() {
     legend: 'none',
     title: 'Publication each year',
     bar: {groupWidth: "95%"},
+    colors: ['#ADD8E6'],
   };
 
   var chart = new google.visualization.ColumnChart(
