@@ -36,9 +36,6 @@ function drawBasic() {
     legend: 'none',
     title: 'Publication each year',
     bar: {groupWidth: "95%"},
-    hAxis: {
-      ticks: [20,25,30,35]
-    },	  
   };
 
   var chart = new google.visualization.ColumnChart(
