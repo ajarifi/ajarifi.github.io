@@ -32,17 +32,17 @@ function drawBasic() {
     ['  ', 0]
   ]);
 
-      var options = {
-      	legend: 'none',
-        title: 'Publication each year',
-	bar: {groupWidth: "95%"},
-	hAxis: {
-	  ticks: [20,25,30,35]
-	},
-      };
+  var options = {
+    legend: 'none',
+    title: 'Publication each year',
+    bar: {groupWidth: "95%"},
+    hAxis: {
+      ticks: [20,25,30,35]
+    },	  
+  };
 
-      var chart = new google.visualization.ColumnChart(
-        document.getElementById('chart_div'));
+  var chart = new google.visualization.ColumnChart(
+    document.getElementById('chart_div'));
 
-      chart.draw(data, options);
-    }
+  chart.draw(data, options);
+}
