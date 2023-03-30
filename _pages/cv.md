@@ -71,6 +71,6 @@ redirect_from:
 * Indonesian (Native)
 * English (Fluent)
 * Japanese (Intermediate)\
-  <i> Passed JLPT - N3 (2018): <a href="/files/Jlpt3.png">(Proof)</a> <a href="https://www.jlpt.jp/e/about/levelsummary.html"> (Description)</a> </i>
+  <i> Passed JLPT - N3 (2018): <a href="/files/Jlpt3.png">(Certificate)</a> <a href="https://www.jlpt.jp/e/about/levelsummary.html"> (Description)</a> </i>
 * Korean (Beginner)\
-  <i> Passed TOPIK I - level 2 (2022): <a href="/files/Topik.png">(Proof)</a> <a href="https://en.wikipedia.org/wiki/Test_of_Proficiency_in_Korean"> (Description)</a> </i>
+  <i> Passed TOPIK I - level 2 (2022): <a href="/files/Topik.png">(Certificate)</a> <a href="https://en.wikipedia.org/wiki/Test_of_Proficiency_in_Korean"> (Description)</a> </i>
