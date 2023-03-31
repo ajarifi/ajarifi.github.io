@@ -49,7 +49,7 @@ function drawBasic() {
 
   var options = {
     legend: 'none',
-    bar: {groupWidth: "95%"},
+    bar: {groupWidth: "100%"},
     colors: ['#77C3EC'],
   };
 
