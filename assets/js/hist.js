@@ -29,14 +29,29 @@ function drawBasic() {
     [' ', 0],
     [' ', 0],
     [' ', 0],
-    ['  ', 0]
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    ['2045', 0],
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    [' ', 0],
+    ['2055', 0]
   ]);
 
   var options = {
     legend: 'none',
     title: 'Publication each year',
     bar: {groupWidth: "95%"},
-    colors: ['#ADD8E6'],
+    colors: ['#77C3EC'],
   };
 
   var chart = new google.visualization.ColumnChart(
