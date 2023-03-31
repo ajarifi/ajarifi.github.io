@@ -49,7 +49,6 @@ function drawBasic() {
 
   var options = {
     legend: 'none',
-    title: 'Publication each year',
     bar: {groupWidth: "95%"},
     colors: ['#77C3EC'],
   };
