@@ -45,11 +45,26 @@ author_profile: false
   <li style="margin-bottom: 10px;"><b>Analysis of virtual meson production in solvable (1+1) dimensional scalar field theory</b><br> 
   <a href="https://arxiv.org/abs/2112.04837"> Yongwoo Choi, Ho-Meoyng Choi, Chueng-Ryong Ji, Yongseok Oh</a> </li>
   
+  <span style="margin-left: -2.0em">(May)</span>
+  <li style="margin-bottom: 10px;"><b>Interpolating 't Hooft model between instant and front forms</b><br> 
+  <a href="https://arxiv.org/abs/2105.09388"> Bailing Ma, Chueng-Ryong Ji</a> </li>
+  
   <span style="margin-left: -2.0em">(January)</span>
   <li style="margin-bottom: 10px;"><b>Light-front dynamic analysis of the longitudinal charge density using the solvable scalar field model in (1+1) dimensions</b><br> 
   <a href="https://arxiv.org/abs/2101.03656"> Yongwoo Choi, Ho-Meoyng Choi, Chueng-Ryong Ji, Yongseok Oh</a> </li>
   
 </ol>
+
+<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 2020 </h1> </div>
+
+<ol reversed>
+  
+  <span style="margin-left: -2.0em">(June)</span>
+  <li style="margin-bottom: 10px;"><b>Chiral anomaly and the pion properties in the light-front quark model</b><br> 
+  <a href="https://arxiv.org/abs/2006.08034"> Ho-Meoyng Choi, Chueng-Ryong Ji</a> </li>
+  
+</ol>
+
 
 <p style="margin-bottom:1.2cm;"></p>
 
