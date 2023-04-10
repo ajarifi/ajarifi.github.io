@@ -18,7 +18,6 @@ author_profile: false
 
 <h3> Light-front quark model </h3>
 <ul> 
-  <li> <a href="https://ajarifi.github.io/lfqm-meson/"> Meson</a> <br> </li>
-  <li> <a href="https://ajarifi.github.io/lfqm-meson/"> Baryon</a> <br> </li>
-  <li> <a href="https://ajarifi.github.io/lfqm-meson/"> Exotics</a> <br> </li>
+  <li> <a href="https://ajarifi.github.io/lfqm-meson/"> Meson </a> <br> </li>
+  <li> <a href="https://ajarifi.github.io/lfqm-baryon/"> Baryon </a> <br> </li>
 </ul>
