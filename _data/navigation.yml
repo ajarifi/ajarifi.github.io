@@ -20,6 +20,9 @@ main:
     
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "Useful links"
+  
+  - title: "Reading"
+    url: /reading/
+  
+  - title: "Links"
     url: /link/
