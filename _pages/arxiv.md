@@ -1,6 +1,6 @@
 ---
 permalink: /arxiv/
-author_profile: true
+author_profile: false
 usemathjax: true
 ---
 <a id="top"></a>
