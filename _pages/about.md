@@ -25,12 +25,36 @@ E-mail: ahmad.arifi[at]riken.jp
 
 <p style="margin-bottom:0.6cm;"></p>
 
-<h2> What's new?</h2>  
+<h2> News</h2>  
 
-* <a href="https://ajarifi.github.io/updates/"> News </a>
-* <a href="https://ajarifi.github.io/publications/"> Latest publications </a>
-* <a href="https://ajarifi.github.io/talks/">My schedule and talks</a>
+* <button class="btn--article">Job</button> (2023, 04, 01)<br>
+  Moving from Korea to Japan: Working as a postdoc in RIKEN, Saitama.<br>
+  Joining as SPDR in Few-body systems in physics lab.
+* <button class="btn--article-black">Milestone</button> (2022, 08, 01 )  <br>
+  First time to mentor students (1 Master, 1 Undergraduate) from University of Indonesia for their thesis.
+* <button class="btn--article-black">Milestone</button> (2022, 05, 25 )  <br>
+  Passed the TOPIK 1 level 2. This is a Korean languange proficiency test for beginner level. 
+* <a href="https://ajarifi.github.io/updates/"> See more </a>
+
+<h2> My schedule </h2> 
+
+* <a href="https://ajarifi.github.io/talks/">My past talks</a>
+
+<h2> Latest publications </h2>  
+
+<div style="margin-bottom: 25px;" class="filterDiv article"><b> In-medium properties of the light and heavy-light mesons in a light-front quark model </b><br>
+     <button class="btn--article-red">Preprint</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P.T.P. Parada, and K. Tsushima (Feb 23, 2023)<br> 
+      Published in: [<a href="https://arxiv.org/abs/2302.12382"> ArXiv: 2302.12382 </a>].  </div>
+
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b>Independence of current components, polarization vectors, and reference frames in the light-front quark model analysis of meson decay constants</b><br>
+     <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, C.R. Ji and Y. Oh (Oct 23, 2022)<br> 
+     Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.053003"> Phys.Rev.D 107, 053003 (2023) </a>,</i> [<a href="https://arxiv.org/abs/2210.12780"> ArXiv: 2210.12780 </a>].  </div>
   
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b>Mixing effects on 1S and 2S state heavy mesons in the light-front quark model</b><br>
+      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, C.R. Ji and Y. Oh (May 9, 2022)<br> 
+      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.014009"> Phys.Rev.D 106, 014009 (2022) </a>,</i> [<a href="https://arxiv.org/abs/2205.04075"> ArXiv: 2205.04075 </a>].  </div>
+
+* <a href="https://ajarifi.github.io/publications/"> my publications</a>
   
 <p style="margin-bottom:1.2cm;"></p>
 
