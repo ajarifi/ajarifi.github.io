@@ -42,6 +42,7 @@ E-mail: ahmad.arifi[at]riken.jp
 
 <h2> Latest publications </h2>  
 
+<div class="w3-panel w3-yellow w3-display-container">
 * <b> In-medium properties of the light and heavy-light mesons in a light-front quark model </b><br>
   <button class="btn--article-red">Preprint</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P.T.P. Parada, and K. Tsushima (Feb 23, 2023)<br> 
   Published in: [<a href="https://arxiv.org/abs/2302.12382"> ArXiv: 2302.12382 </a>].
@@ -52,6 +53,7 @@ E-mail: ahmad.arifi[at]riken.jp
   <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, C.R. Ji and Y. Oh (May 9, 2022)<br> 
   Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.014009"> Phys.Rev.D 106, 014009 (2022) </a>,</i> [<a href="https://arxiv.org/abs/2205.04075"> ArXiv: 2205.04075 </a>].  
 * <a href="https://ajarifi.github.io/publications/"> my publications</a>
+</div>
   
 <p style="margin-bottom:1.2cm;"></p>
 
