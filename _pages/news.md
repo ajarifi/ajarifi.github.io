@@ -11,7 +11,7 @@ redirect_from:
 
 <h2> 2023 </h2>
 
-* <button class="btn--article">Job</button> (2021, 03, 01)<br>
+* <button class="btn--article">Job</button> (2023, 04, 01)<br>
   Moving from Korea to Japan: Working as a postdoc in RIKEN, Saitama.<br>
   Joining as SPDR in Few-body systems in physics lab.
 
