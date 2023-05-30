@@ -19,13 +19,6 @@ E-mail: ahmad.arifi[at]riken.jp
 
 <h2> Latest update</h2>  
 
-* <button class="btn--article">Job</button> (2023, 04, 01)<br>
-  Moving from Korea to Japan: Working as a postdoc in RIKEN, Saitama.<br>
-  Joining as SPDR in Few-body systems in physics lab. 
-* <button class="btn--article-black">Milestone</button> (2022, 05, 25 )  <br>
-  Passed the TOPIK 1 level 2. This is a Korean languange proficiency test for beginner level. 
-* <a href="https://ajarifi.github.io/updates/"> See more </a>
-
 <div class="w3-container">
   <ul class="w3-ul w3-card-4">
     <li class="w3-bar">
