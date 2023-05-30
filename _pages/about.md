@@ -96,7 +96,7 @@ My research is mainly focused on hadron physics, with a particular interest in h
 
 <h3 style="color:#900C3F"> Past and present institutions</h3>
 
-* <a href="https://www.riken.jp">Few-Body Systems in Physics Lab, RIKEN </a>, Japan
+* <a href="https://www.riken.jp">Few-body Systems in Physics Lab, RIKEN </a>, Japan
 * <a href="https://www.apctp.org">Asia Pacific Center for Theoretical Physics (APCTP)</a>, Korea
 * <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/index.html">Japan Atomic Energy Agency (JAEA)</a>, Japan
 * <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">Research Center for Nuclear Physics (RCNP)</a>, Japan
