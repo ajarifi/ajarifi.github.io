@@ -14,14 +14,6 @@ E-mail: ahmad.arifi[at]riken.jp
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p style="margin-bottom:0.6cm;"></p>
-
-<div class="w3-panel w3-yellow w3-display-container">
-<span onclick="this.parentElement.style.display='none'" class="w3-button w3-large w3-display-topright"> &times; </span>
-  <h3 style="margin-top:10px;"> Info </h3>
-  <p> Thank you for visiting my website. If you have research interests similar to mine, I would be happy to collaborate with you. 
-    Feel free to reach out to me via email to discuss potential opportunities for collaboration, including seminars and other possibilities.</p>
-</div>
 
 <p style="margin-bottom:0.6cm;"></p>
 
