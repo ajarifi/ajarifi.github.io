@@ -34,6 +34,34 @@ E-mail: ahmad.arifi[at]riken.jp
   Passed the TOPIK 1 level 2. This is a Korean languange proficiency test for beginner level. 
 * <a href="https://ajarifi.github.io/updates/"> See more </a>
 
+<div class="w3-container">
+  <ul class="w3-ul w3-card-4">
+    <li class="w3-bar">
+      <span onclick="this.parentElement.style.display='none'" class="w3-bar-item w3-button w3-white w3-xlarge w3-right">×</span>
+      <div class="w3-bar-item">
+        <span class="w3-large"><button class="btn--article">Job</button> (2023, 04, 01)</span><br>
+        <span>  Moving from Korea to Japan: Working as a postdoc in RIKEN, Saitama.<br>
+  Joining as SPDR in Few-body systems in physics lab. </span>
+      </div>
+    </li>
+
+    <li class="w3-bar">
+      <span onclick="this.parentElement.style.display='none'" class="w3-bar-item w3-button w3-white w3-xlarge w3-right">×</span>
+      <div class="w3-bar-item">
+        <span class="w3-large"><button class="btn--article-black">Milestone</button> (2022, 05, 25 ) </span><br>
+        <span>Passed the TOPIK 1 level 2. This is a Korean languange proficiency test for beginner level. </span>
+      </div>
+    </li>
+
+    <li class="w3-bar">
+      <div class="w3-bar-item">
+        <span class="w3-large">More updates</span><br>
+        <span><a href="https://ajarifi.github.io/updates/"> Click here </a></span>
+      </div>
+    </li>
+  </ul>
+</div>
+
   
 <p style="margin-bottom:1.2cm;"></p>
 
