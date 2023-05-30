@@ -31,7 +31,7 @@ E-mail: ahmad.arifi[at]riken.jp
 
    <li class="w3-bar">
       <div class="w3-bar-item">
-        <span class="w3-large"><button class="btn--article-black">Milestone</button> (2022, 05, 25 ) </span><br>
+        <span class="w3-large"><button class="btn--article-black">Milestone</button> (2022, 05, 25) </span><br>
         <span>Passed the TOPIK 1 level 2. This is a Korean languange proficiency test for beginner level. </span>
       </div>
    </li>
