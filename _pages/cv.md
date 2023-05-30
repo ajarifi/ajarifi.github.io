@@ -24,7 +24,7 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Work experience </h2>
 
-* <b>Strangeness Nuclear Physics Lab, RIKEN,</b> Japan\
+* <b>Few-body Systems in Physics Lab, RIKEN,</b> Japan\
   Apr 2023 - Present  : Postdoc
 * <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> Korea\
   Mar 2021 - Feb 2023 : Postdoc
