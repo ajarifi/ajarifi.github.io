@@ -3,14 +3,6 @@ title: "Useful links"
 permalink: /link/
 author_profile: false
 ---
-  
-  
-<div id="mySidenav" class="sidenav hidden-xs">
-  <a href="#group" id="xgroup">Group</a>
-  <a href="#exp" id="xexp">Exp. Results</a>
-  <a href="#job" id="xjob">Job</a>
-  <a href="#society" id="xsociety">Society</a>
-</div>
     
   <p style="margin-bottom:1.2cm;"></p>
 
