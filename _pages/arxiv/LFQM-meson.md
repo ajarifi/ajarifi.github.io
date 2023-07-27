@@ -15,7 +15,12 @@ author_profile: false
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 2023 </h1> </div>
 
 <ol reversed>
-  <span style="margin-left: -2.0em">February</span>
+  <span style="margin-left: -2.0em">(June)</span>
+  
+  <li style="margin-bottom: 10px;"><b>Pseudoscalar meson decay constants and distribution amplitudes up to twist-4 in the light-front quark model</b><br> 
+  <a href="https://arxiv.org/abs/2306.08536">  Ahmad Jafar Arifi, Ho-Meoyng Choi, Chueng-Ryong Ji</a> </li>
+  
+  <span style="margin-left: -2.0em">(February)</span>
   
   <li style="margin-bottom: 10px;"><b>In-medium properties of the light and heavy-light mesons in a light-front quark model</b><br> 
   <a href="https://arxiv.org/abs/2302.12382"> Ahmad Jafar Arifi, Parada. T. P. Hutauruk, Kazuo Tsushima</a> </li>
