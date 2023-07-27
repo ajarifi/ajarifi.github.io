@@ -81,6 +81,14 @@ author_profile: false
 
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 2019 </h1> </div>
 
+<ol reversed>
+  
+  <span style="margin-left: -2.0em">(June)</span>
+  <li style="margin-bottom: 10px;"><b>Twist-2 Pseudoscalar and Vector Meson Distribution Amplitudes in Light-Front Quark Model with Exponential-type Confining Potential</b><br> 
+  <a href="https://arxiv.org/abs/1902.09160"> Nisha Dhiman, Harleen Dahiya, Chueng-Ryong Ji, Ho-Meoyng Choi</a> </li>
+  
+</ol>
+
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 2018 </h1> </div>
 
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 2017 </h1> </div>
