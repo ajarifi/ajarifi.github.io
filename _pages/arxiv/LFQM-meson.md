@@ -119,6 +119,17 @@ author_profile: false
 
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 2004 </h1> </div>
 
+
+<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 2003 </h1> </div>
+
+<ol reversed>
+  
+  <span style="margin-left: -2.0em">(June)</span>
+  <li style="margin-bottom: 10px;"><b>Radiative Scalar Meson Decays in the Light-Front Quark Model</b><br> 
+  <a href="https://arxiv.org/abs/hep-ph/0306060"> Martin A. DeWitt, Ho-Meoyng Choi, Chueng-Ryong Ji</a> </li>
+  
+</ol>
+
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 2002 </h1> </div>
 
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 2001 </h1> </div>
