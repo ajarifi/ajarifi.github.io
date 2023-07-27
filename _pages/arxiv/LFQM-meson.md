@@ -136,6 +136,14 @@ author_profile: false
 
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 1999 </h1> </div>
 
+<ol reversed>
+  
+  <span style="margin-left: -2.0em">(May)</span>
+  <li style="margin-bottom: 10px;"><b>Light-Cone Quark Model Analysis of Radially Excited Pseudoscalar and Vector Mesons</b><br> 
+  <a href="https://arxiv.org/abs/hep-ph/9905360"> Daniel Arndt, Chueng-Ryong Ji</a> </li>
+  
+</ol>
+
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 1998 </h1> </div>
 
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 5;"> <h1 style="color:#900C3F;"> 1997 </h1> </div>
