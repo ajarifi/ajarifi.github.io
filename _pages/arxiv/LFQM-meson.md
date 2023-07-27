@@ -50,13 +50,18 @@ author_profile: false
   <li style="margin-bottom: 10px;"><b>Analysis of virtual meson production in solvable (1+1) dimensional scalar field theory</b><br> 
   <a href="https://arxiv.org/abs/2112.04837"> Yongwoo Choi, Ho-Meoyng Choi, Chueng-Ryong Ji, Yongseok Oh</a> </li>
 
-  <span style="margin-left: -2.0em">(Augus)</span>
-  <li style="margin-bottom: 10px;"><b> Current-component independent transition form factors for semileptonic and rare #D\to \pi(K)$ decays in the light-front quark model</b><br> 
+  <span style="margin-left: -2.0em">(August)</span>
+  <li style="margin-bottom: 10px;"><b> Current-component independent transition form factors for semileptonic and rare $D\to \pi(K)$ decays in the light-front quark model</b><br> 
   <a href="https://arxiv.org/abs/2108.10544"> Ho-Meoyng Choi </a> </li>
   
   <span style="margin-left: -2.0em">(May)</span>
   <li style="margin-bottom: 10px;"><b>Interpolating 't Hooft model between instant and front forms</b><br> 
   <a href="https://arxiv.org/abs/2105.09388"> Bailing Ma, Chueng-Ryong Ji</a> </li>
+
+
+  <span style="margin-left: -2.0em">(February)</span>
+  <li style="margin-bottom: 10px;"><b>Self-consistent light-front quark model analysis of $B \to D l\nu_l$ transition form factors</b><br> 
+  <a href="https://arxiv.org/abs/2102.02015"> Ho-Meoyng Choi</a> </li>
   
   <span style="margin-left: -2.0em">(January)</span>
   <li style="margin-bottom: 10px;"><b>Light-front dynamic analysis of the longitudinal charge density using the solvable scalar field model in (1+1) dimensions</b><br> 
