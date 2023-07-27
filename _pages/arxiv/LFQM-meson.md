@@ -49,6 +49,10 @@ author_profile: false
   <span style="margin-left: -2.0em">(December)</span>
   <li style="margin-bottom: 10px;"><b>Analysis of virtual meson production in solvable (1+1) dimensional scalar field theory</b><br> 
   <a href="https://arxiv.org/abs/2112.04837"> Yongwoo Choi, Ho-Meoyng Choi, Chueng-Ryong Ji, Yongseok Oh</a> </li>
+
+  <span style="margin-left: -2.0em">(Augus)</span>
+  <li style="margin-bottom: 10px;"><b> Current-component independent transition form factors for semileptonic and rare #D\to \pi(K)$ decays in the light-front quark model</b><br> 
+  <a href="https://arxiv.org/abs/2108.10544"> Ho-Meoyng Choi </a> </li>
   
   <span style="margin-left: -2.0em">(May)</span>
   <li style="margin-bottom: 10px;"><b>Interpolating 't Hooft model between instant and front forms</b><br> 
