@@ -7,9 +7,20 @@ date: 2023-01-28
  
 <h2 style="color:#900C3F"> Lecture note </h2>
 1. Wave function
-2. Schrodinger equation
-3. 1D potential
-4. 3D potential
+2. Stationary States
+3. Infinite Square Well
+4. Finite Square Well
+5. Potential Barrier
+5. Harmonic Oscilator: Analytic Method
+6. Harmonic Oscilator: Algebraic Method
+7. Delta Function Potential
+8. The Free particles
+9. Dirac Notation
+10. Uncertainty Principle
+11. Schrodinger Equation in Spherical Harmonics
+12. Angular Momentum
+13. Spin 
+14. Hydrogen Atom
 
 <h2 style="color:#900C3F"> Textbooks </h2>
 * Introduction to Quantum mechanics (Griffith)
