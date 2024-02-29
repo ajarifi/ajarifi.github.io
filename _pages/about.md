@@ -88,7 +88,7 @@ My research is mainly focused on hadron physics, with a particular interest in h
 * <a href="https://inspirehep.net/authors/1705246"> Samson Clymton </a>
 * <a href="https://orcid.org/0009-0001-5222-9726"> Shuhei Ohno</a>
 * <a href="https://inspirehep.net/authors/998691"> Terry Mart </a> (B.S. Advisor)
-* * <a href="https://inspirehep.net/authors/995116"> Yongseok Oh </a>
+* <a href="https://inspirehep.net/authors/995116"> Yongseok Oh </a>
 
 <h3 style="color:#900C3F"> Past and present institutions</h3>
 
