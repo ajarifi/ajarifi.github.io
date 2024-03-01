@@ -18,11 +18,11 @@ main:
   - title: "Seminar"
     url: /seminar/  
     
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
   
-  - title: "Reading"
-    url: /reading/
+  # - title: "Reading"
+  #   url: /reading/
   
-  - title: "Links"
-    url: /link/
+  # - title: "Links"
+  #   url: /link/
