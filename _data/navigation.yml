@@ -14,7 +14,10 @@ main:
     
   - title: "Talk"
     url: /talks/ 
-  
+
+  - title: "Visited Place"
+    url: /place/ 
+    
   - title: "Seminar"
     url: /seminar/  
     
