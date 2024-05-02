@@ -20,7 +20,10 @@ main:
     
   - title: "Seminar"
     url: /seminar/  
-    
+
+  - title: "Workshop"
+    url: /workshop/
+  
   # - title: "Teaching"
   #   url: /teaching/
   
