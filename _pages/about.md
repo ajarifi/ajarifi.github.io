@@ -68,4 +68,4 @@ My research is mainly focused on hadron physics, with a particular interest in h
 * <a href="http://www.rcnp.osaka-u.ac.jp/Divisions/np2/index.html?English%2FRCNP%20Theory%20Group%20%28English%29">Research Center for Nuclear Physics (RCNP)</a>, Japan
 * <a href="https://physics.ui.ac.id/?lang=id">Physics department, University of Indonesia</a>, Indonesia
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t5qTXct6rWdQ5_VQosfOCAWuxy1RnvKVTV1op0MieMM"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t5qTXct6rWdQ5_VQosfOCAWuxy1RnvKVTV1op0MieMM" width="200" height="200"></script>
