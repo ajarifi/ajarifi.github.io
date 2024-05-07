@@ -15,37 +15,6 @@ E-mail: ahmad.arifi[at]riken.jp
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://clustrmaps.com/site/1bzly"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=t5qTXct6rWdQ5_VQosfOCAWuxy1RnvKVTV1op0MieMM&cl=ffffff" /></a>
-
-<p style="margin-bottom:0.6cm;"></p>
-
-<h2> Latest update</h2>  
-
-<div class="w3-container">
-  <ul class="w3-ul w3-card-4">
-    <li class="w3-bar">
-      <div class="w3-bar-item">
-        <span class="w3-large"><button class="btn--article">Job</button> (2023, 04, 01)</span><br>
-        <span>  Moving from Korea to Japan: Working as a postdoc in RIKEN, Saitama. <br> 
-            Joining as SPDR in Few-body systems in physics lab. </span>
-      </div>
-    </li>
-
-   <li class="w3-bar">
-      <div class="w3-bar-item">
-        <span class="w3-large"><button class="btn--article-black">Milestone</button> (2022, 05, 25) </span><br>
-        <span>Passed the TOPIK 1 level 2. This is a Korean languange proficiency test for beginner level. </span>
-      </div>
-   </li>
-
-   <li class="w3-bar">
-      <div class="w3-bar-item">
-        <span class="w3-large">More updates</span><br>
-        <span><a href="https://ajarifi.github.io/updates/"> Click here </a></span>
-      </div>
-   </li>
-  </ul>
-</div>
-
   
 <p style="margin-bottom:1.2cm;"></p>
 
