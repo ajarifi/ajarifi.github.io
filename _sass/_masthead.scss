@@ -33,7 +33,6 @@
 }
 
 .masthead__menu {
-   
   background-color: #041527;
   ul {
     margin: 0;
@@ -44,10 +43,10 @@
 }
 
 .masthead__menu-item {
-  display: block;
+  background-color: #041527;
+display: block;
   list-style-type: none;
   white-space: nowrap;
-  background-color: #041527;
 
   &--lg {
     padding-right: 2em;
