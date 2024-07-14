@@ -5,7 +5,7 @@ redirect_from:
   - /resume
 ---
   
-<div style="display: flex; align-items: center; justify-content: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 100px;"> 
+<div style="display: flex; align-items: center; justify-content: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 50px;"> 
   <h1 style="color:#000080; margin: 0;">Curriculum Vitae</h1> 
 </div>
 
