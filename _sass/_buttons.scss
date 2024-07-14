@@ -273,6 +273,28 @@
 }
 
 
+.alert {
+  padding: 20px;
+  background-color: yellow;
+  color: black;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: black;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: grey;
+}
+
+
 /*
    Default button
    ========================================================================== */
