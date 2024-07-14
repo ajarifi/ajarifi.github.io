@@ -17,12 +17,9 @@ main:
     
   - title: "Activity"
     url: /activity/
-
-  - title: "      "
-    url: /null/
     
-  #- title: "Place"
-  #  url: /place/ 
+  - title: "Visited place"
+    url: /place/ 
 
   #- title: "Workshop"
   #  url: /workshop/
