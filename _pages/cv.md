@@ -55,6 +55,17 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 * <b> Young Scientist Training (YST) Fellowship,</b> 2021-2023\
   <i> The research grant is 5.000.000 KRW (~4.000 USD)/year. </i>
 
+
+<h2 style="color:#900C3F"> Student mentorship </h2>
+
+* <b> 2 Master students</b> <br>
+  <i> 1 student (Khon Kaen University, Thailand)</i> <br>
+  <i> 1 student (University of Indonesia, Indonesia)</i> 
+
+* <b> 1 Bachelor student</b> <br>
+  <i> 1 student (University of Indonesia, Indonesia)</i> 
+
+  
 <h2 style="color:#900C3F"> Leadership </h2>
 
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
