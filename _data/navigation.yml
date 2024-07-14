@@ -14,15 +14,15 @@ main:
     
   - title: "Talk"
     url: /talks/ 
-
-  - title: "Visited Place"
-    url: /place/ 
     
-  - title: "Seminar"
-    url: /seminar/  
+  - title: "Activity"
+    url: /activity/
+    
+  #- title: "Place"
+  #  url: /place/ 
 
-  - title: "Workshop"
-    url: /workshop/
+  #- title: "Workshop"
+  #  url: /workshop/
   
   # - title: "Teaching"
   #   url: /teaching/
