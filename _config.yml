@@ -82,18 +82,18 @@ analytics:
 author:
   name             : "Ahmad Jafar Arifi"
   avatar           : "profile.jpg"
-  bio              : "Theoretical physicist"
-  location         : "APCTP, South Korea"
+  bio              : "Researcher"
+  location         : "RIKEN, Japan"
   employer         : 
   inspirehep       : "https://inspirehep.net/authors/1410710?ui-citation-summary=true"
   googlescholar    : "https://scholar.google.com/citations?user=RvF7FSgAAAAJ&hl=id&oi=ao"
-  email            : "ahmad.jafar.arifi@apctp.org"
+  email            : "ahmad.arifi@riken.jp"
   researchgate     : "https://www.researchgate.net/profile/Ahmad-Arifi" 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  tree             : "https://academictree.org/physics/tree.php?pid=871077"
+  tree             : # "https://academictree.org/physics/tree.php?pid=871077"
   facebook         :
   foursquare       :
   github           : 
