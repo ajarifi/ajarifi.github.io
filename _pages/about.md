@@ -20,7 +20,7 @@ E-mail: ahmad.arifi[at]riken.jp
 
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong>Attention!</strong> Welcome to Jafar Laboratory (J-lab)!
+  Welcome to <strong>Jafar Laboratory</strong> homepage!
 </div>
 
 <p style="margin-bottom:1.2cm;"></p>
