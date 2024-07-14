@@ -63,13 +63,13 @@
   @include clearfix();
   margin-top: 1em;
   padding-top: 1em;
+  background-color: #041527;
 
   ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
     font-family: $sans-serif;
-    background-color: #041527;
   }
 
   li {
@@ -86,8 +86,10 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      // color: mix(#fff, $gray, 25%);
+      color: white;
+      // border: 1px solid $light-gray;
+      border: 1px solid white;
       border-radius: 0;
 
       &:hover {
@@ -100,7 +102,8 @@
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        // color: mix(#fff, $gray, 75%);
+        color: white;
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -156,7 +159,8 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      // color: mix(#fff, $gray, 75%);
+      color: white;
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -180,8 +184,8 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;  /* #041527; */
-
+  // background: $background-color;  /* #041527; */
+  background-color: #041527;
   a {
     display: block;
     margin: 0 1rem;
@@ -202,8 +206,10 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
-    color: #fff;
+    // background-color: $primary-color;
+    background-color: #041527;
+    // color: #fff;
+    color: white;
     cursor: pointer;
   }
 
@@ -321,6 +327,7 @@
 
 .nav__list {
   font-size: 1.25rem;
+  background-color: #041527;
 
   ul {
     margin-bottom: 1em;
@@ -329,7 +336,8 @@
   a {
     display: block;
     padding: 0.125em 0;
-    color: inherit;
+    // color: inherit;
+    color: white;
 
     &:hover {
       text-decoration: underline;
@@ -377,7 +385,8 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  // color: $gray;
+  color: white;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #041527; /* #fff */
@@ -404,7 +413,8 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $gray;
+    // color: $gray;
+    color: white;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
