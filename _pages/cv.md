@@ -14,7 +14,9 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Bio </h2>  
 
+<p align="justify"> 
 Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and his Bachelor's degree from the University of Indonesia in 2015. He completed an internship at the Japan Atomic Energy Agency (JAEA) and joined the Asia Pacific Center for Theoretical Physics (APCTP) in South Korea as a Young Scientist Fellow. Currently, he is engaged in research on Few-body Systems at RIKEN, Japan. His research primarily focuses on hadron spectroscopy and structure, utilizing various data-driven hadron models.
+</p>
 
 <h2 style="color:#900C3F"> Education </h2>
 
