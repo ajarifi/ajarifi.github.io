@@ -10,7 +10,7 @@ redirect_from:
 </div>
 
   
-  <p style="margin-bottom:1.2cm;"></p>
+<p style="margin-bottom:1.2cm;"></p>
 
 <h2 style="color:#900C3F"> Bio </h2>  
 
@@ -94,4 +94,6 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 * Korean (Beginner)\
   <i> Passed TOPIK I - level 2 (2022): <a href="/files/Topik.png">(Certificate)</a> <a href="https://en.wikipedia.org/wiki/Test_of_Proficiency_in_Korean"> (Description)</a> </i>
 
+
+<p style="margin-bottom:2cm;"></p>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
