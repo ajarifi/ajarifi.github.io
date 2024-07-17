@@ -12,7 +12,7 @@ redirect_from:
 
 <h2> 2024 </h2>
 * <button class="btn--article">Job</button> (2024, 07, 16)<br>
-  Published an article in Physical Review D.
+  Published an article in Physical Review D about the LFQM with Gaussian expansion method.
 
 <h2> 2023 </h2>
 
