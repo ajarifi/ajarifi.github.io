@@ -104,7 +104,7 @@ author_profile: false
 
 <h3>Research Center</h3>
 <ul> 
-  <li> Asia Pacific Center for Theoretical Physics (APCTP)
+  <li> Asia Pacific Center for Theoretical Physics (APCTP) </li>
 </ul>
 
 <h3>University</h3>
