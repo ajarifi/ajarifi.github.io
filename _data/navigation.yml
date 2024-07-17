@@ -23,9 +23,6 @@ main:
     
   - title: "Visited place"
     url: /place/ 
-
-  #- title: "Workshop"
-  #  url: /workshop/
   
   # - title: "Teaching"
   #   url: /teaching/
