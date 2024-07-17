@@ -1,13 +1,18 @@
 ---
-permalink: /updates/
+permalink: /news/
 author_profile: false
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
 
-<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
-  <h1 style="color:#000080"> News</h1> </div>
+<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
+  <h1 style="color:#000080; margin: 0;">News</h1> 
+</div>
+
+<h2> 2024 </h2>
+* <button class="btn--article">Job</button> (2024, 07, 16)<br>
+  Published an article in Physical Review D.
 
 <h2> 2023 </h2>
 
