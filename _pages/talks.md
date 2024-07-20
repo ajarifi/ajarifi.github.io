@@ -67,7 +67,7 @@ You can find a list of institutes that I have visited. </p>
     <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://iscpms.ui.ac.id" >Bali, Indonesia</a> (August 29 - 30, 2023)<br> </li> 
 
   <li style="margin-bottom: 25px;"><b> A3F-CNS Summer School 2023 </b><br> 
-    <button class="btn--article-orange">School</button>&nbsp; Participant, RIKEN, Japan</a> (August 4 - 10, 2023)<br> </li> 
+    <button class="btn--article-orange">School</button>&nbsp; Participant, RIKEN, Japan (August 4 - 10, 2023)<br> </li> 
  
    <li style="margin-bottom: 25px;"><b> OMEG workshop</b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F"> Speaker</span>, Soongsil Univ, Seoul, Korea. (July 12-13, 2023) <br> </li> 
@@ -310,5 +310,6 @@ You can find a list of institutes that I have visited. </p>
     
    <li style="margin-bottom: 25px;"><b> Bachelor's thesis presentation: University of Indonesia </b><br>
       <button class="btn--article-red">Public Exam</button>&nbsp;<span style="color:#900C3F">Speaker</span>, University of Indonesia, Indonesia. (Jun, 2015)<br> 
+     
 </ol>
 
