@@ -128,7 +128,7 @@ of the intricate dynamics governing hadronic systems and their relevance in the 
   
   <li style="margin-bottom: 25px;"><b> Structure of Heavy Mesons in the Light-Front Quark Model </b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, L. Happ, S. Ohno, and M. Oka (2024)<br> 
-      Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.110.014020"> Phys.Rev.D 104, 014020 (2024)</a>,</i> [<a href="https://arxiv.org/abs/2401.07933"> ArXiv: 2401.07933 </a>]. 
+      Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.110.014020"> Phys.Rev.D 110, 014020 (2024)</a>,</i> [<a href="https://arxiv.org/abs/2401.07933"> ArXiv: 2401.07933 </a>]. 
   </li>
 </ol>
 
