@@ -31,17 +31,9 @@ You can find a list of institutes that I have visited. </p>
 
    <li style="margin-bottom: 25px;"><b> East Asian Workshop on Exotic Hadrons 2024 </b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.itp.ac.cn/event/247/overview" > Nanjing, China</a> (December 8-11, 2024) <br> </li> 
-
+     
 </ol>
 
-
-
-<p style="margin-bottom: 1.5cm;"></p>
-
-<blockquote>
-  "Through discussion and collaboration, ideas become reality."<br>
-  Chat-GPT
-</blockquote>
 
 <p style="margin-bottom: 1.5cm;"></p>
 
@@ -52,20 +44,20 @@ You can find a list of institutes that I have visited. </p>
 <ol reversed>
 
  <h2> 2024 </h2>
-
    <li style="margin-bottom: 25px;"><b> Nuclear and particle physics at EIC</b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; Participant, <a href="https://indico3.cns.s.u-tokyo.ac.jp/event/315/" > Tokyo University, Japan</a> (May 28-30, 2024) <br> </li> 
    
-  <li style="margin-bottom: 25px;"><b> North Carolina State University Physics Seminar</b><br> 
+   <li style="margin-bottom: 25px;"><b> North Carolina State University Physics Seminar</b><br> 
     <button class="btn--article-black">Seminar</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Online, United State. (April 26, 2024) <br> </li>   
   
    <li style="margin-bottom: 25px;"><b> Khon Kaen University Physics Seminar</b><br> 
     <button class="btn--article-black">Seminar</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Thailand. (February 28, 2024) <br> </li>   
 
- <li style="margin-bottom: 25px;"><b> 1st Conference of Accelerator-Based Sciences and Technology (CAST 2024)  </b><br> 
+   <li style="margin-bottom: 25px;"><b> 1st Conference of Accelerator-Based Sciences and Technology (CAST 2024)  </b><br> 
     <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, BRIN Tangerang, Indonesia (February 19 - 22, 2024)<br> </li> 
  
-  <h2> 2023 </h2>
+<h2> 2023 </h2>
+
    <li style="margin-bottom: 25px;"><b> SNP School 2023 </b><br> 
       <button class="btn--article-orange">School</button>&nbsp; Participant, <a href="https://sites.google.com/nex.phys.s.u-tokyo.ac.jp/snpsc2023" > J-PARC, Japan</a> (December 11 - 15, 2023)<br> </li> 
   
@@ -75,7 +67,7 @@ You can find a list of institutes that I have visited. </p>
    <li style="margin-bottom: 25px;"><b> 9th International Symposium on Current Progress in Mathematics and Sciences (ISCPMS) 2023 </b><br> 
     <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://iscpms.ui.ac.id" >Bali, Indonesia</a> (August 29 - 30, 2023)<br> </li> 
 
-  <li style="margin-bottom: 25px;"><b> A3F-CNS Summer School 2023 </b><br> 
+   <li style="margin-bottom: 25px;"><b> A3F-CNS Summer School 2023 </b><br> 
     <button class="btn--article-orange">School</button>&nbsp; Participant, RIKEN, Japan (August 4 - 10, 2023)<br> </li> 
  
    <li style="margin-bottom: 25px;"><b> OMEG workshop</b><br> 
@@ -84,49 +76,49 @@ You can find a list of institutes that I have visited. </p>
    <li style="margin-bottom: 25px;"><b> Origin of Matter and Masses in the Universe: Hadrons in free space, dense nuclear medium, and compact stars</b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F"> Speaker</span>, APCTP, Korea. (July 3-8, 2023) <br> </li> 
     
-  <li style="margin-bottom: 25px;"><b> Nagoya Univ seminar </b><br> 
+   <li style="margin-bottom: 25px;"><b> Nagoya Univ seminar </b><br> 
     <button class="btn--article-black">Seminar</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Nagoya Univ, Japan. (June 23, 2023) <br> </li>   
     
-  <li style="margin-bottom: 25px;"><b> Hadron 2023 Conference</b><br> 
+   <li style="margin-bottom: 25px;"><b> Hadron 2023 Conference</b><br> 
     <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://agenda.infn.it/event/33110/" >Genova, Italy.</a> (June 5 - 9, 2023)<br> </li> 
     
-  <li style="margin-bottom: 25px;"><b> RIKEN-Tohoku joint workshop</b><br> 
+   <li style="margin-bottom: 25px;"><b> RIKEN-Tohoku joint workshop</b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F"> Speaker</span>, RIKEN, Japan. (May 11-12, 2023) <br> </li> 
     
-  <li style="margin-bottom: 25px;"><b> Exotic hadrons in vacuum and matter</b><br> 
+   <li style="margin-bottom: 25px;"><b> Exotic hadrons in vacuum and matter</b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F"> Speaker</span>, JAEA, Japan. (March 2, 2023) <br> </li> 
   
   <h2> 2022 </h2>
 
-  <li style="margin-bottom: 25px;"><b> Hadron Physics Meeting 2022</b><br> 
+   <li style="margin-bottom: 25px;"><b> Hadron Physics Meeting 2022</b><br> 
     <button class="btn--article-blue"> Workshop</button>&nbsp; Participant, Pohang, Postech, Korea. (Nov 11-2, 2022)<br> </li> 
   
-  <li style="margin-bottom: 25px;"><b> APCTP Alumni Symposium</b><br> 
+   <li style="margin-bottom: 25px;"><b> APCTP Alumni Symposium</b><br> 
     <button class="btn--article-blue"> Symposium</button>&nbsp; Participant, Jeju, Korea. (Nov 1-4, 2022)<br> </li> 
   
-  <li style="margin-bottom: 25px;"><b> SNP School</b><br> 
+   <li style="margin-bottom: 25px;"><b> SNP School</b><br> 
     <button class="btn--article-orange">School</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://sites.google.com/nex.phys.s.u-tokyo.ac.jp/snpsc2022" >Tohoku, Japan.</a> (Oct 24 - 28, 2022)<br> </li> 
 
-  <li style="margin-bottom: 25px;"><b> KPS 70th Anniversary and 2022 Fall Meeting</b><br> 
+   <li style="margin-bottom: 25px;"><b> KPS 70th Anniversary and 2022 Fall Meeting</b><br> 
     <button class="btn--article">KPS meeting</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://www.kps.or.kr/conference/event/index.php?cfrid=17" >Busan, Korea.</a> (Oct 19 - 21, 2022)<br> </li> 
 
-  <li style="margin-bottom: 25px;"><b> RIKEN SNP Lab seminar </b><br> 
+   <li style="margin-bottom: 25px;"><b> RIKEN SNP Lab seminar </b><br> 
     <button class="btn--article-black">Seminar</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Online, Japan. (Oct 14, 2022) <br> </li>   
   
-  <li style="margin-bottom: 25px;"><b> Exotics and Exotic Phenomena in Heavy Ion Collision</b><br> 
+   <li style="margin-bottom: 25px;"><b> Exotics and Exotic Phenomena in Heavy Ion Collision</b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F"> Speaker</span>, <a href="https://indico.knu.ac.kr/event/565/"> APCTP, Korea. </a> (Sept 29 - Oct 1, 2022) <br> </li> 
 
   <li style="margin-bottom: 25px;"><b> The 15th Asia Pacific Physics Conference</b><br> 
      <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://www.appc15.org" >Online, Korea.</a> (Aug 21 - 26, 2022)<br> </li> 
    
   <div style="margin-bottom: 25px;"><b> APCTP Focus Program in Nuclear Physics 2022: Hadron Physics Opportunity with JLab Energy and Luminosity Upgrade</b><br> 
-  <button class="btn--article-blue"> Workshop</button>&nbsp; Participant, <a href="https://indico.knu.ac.kr/event/566/"> Pohang, Korea. </a>  (July 18-23, 2022)<br> </div> 
+    <button class="btn--article-blue"> Workshop</button>&nbsp; Participant, <a href="https://indico.knu.ac.kr/event/566/"> Pohang, Korea. </a>  (July 18-23, 2022)<br> </div> 
   
   <li style="margin-bottom: 25px;"><b> APCTP Workshop on Nuclear Physics 2022: Physics of Excited Hardons in the Present and Future Facilities</b><br> 
-  <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Invited Speaker</span>, <a href="https://indico.knu.ac.kr/event/567/"> Jeju, Korea. </a>(July 11-16, 2022) <br> </li> 
+    <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Invited Speaker</span>, <a href="https://indico.knu.ac.kr/event/567/"> Jeju, Korea. </a>(July 11-16, 2022) <br> </li> 
 
   <li style="margin-bottom: 25px;"><b> Inha HTG Workshop: Modern issues in hadron physics </b><br> 
-  <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Invited Speaker</span>, <a href="https://n-ext.inha.ac.kr/event/617/"> Inha U, Incheon, Korea. </a>  (July 7-8, 2022)<br> </li> 
+    <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Invited Speaker</span>, <a href="https://n-ext.inha.ac.kr/event/617/"> Inha U, Incheon, Korea. </a>  (July 7-8, 2022)<br> </li> 
 
   <li style="margin-bottom: 25px;"><b> UI physics seminar </b><br> 
       <button class="btn--article-black">Seminar</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Online, Indonesia. (Mar 2, 2022) <br> </li> 
@@ -186,27 +178,27 @@ You can find a list of institutes that I have visited. </p>
       <button class="btn--article">Intl. Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, (Online) <a href="https://indico.rcnp.osaka-u.ac.jp/event/1457/">Kanazawa, Japan.</a> (Mar 1-5, 2021)<br>
       <button class="btn--article-red">News</button>&nbsp; I am selected as <a href="https://ajarifi.github.io/talks/apfb2020">the 2nd best contributor</a> in the conference.
       
- <li style="margin-bottom: 25px;"><b> School on "Hierarchical structure of quantum system"</b><br> 
+   <li style="margin-bottom: 25px;"><b> School on "Hierarchical structure of quantum system"</b><br> 
       <button class="btn--article-orange">School</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="http://be.nucl.ap.titech.ac.jp/cluster/symposium/278.html">(Online) Titech, Japan.</a> (Mar 22-24, 2021)<br>    
 
- <li style="margin-bottom: 25px;"><b> Workshop on "Physics of heavy-quark and exotic hadrons 2021"</b><br> 
+   <li style="margin-bottom: 25px;"><b> Workshop on "Physics of heavy-quark and exotic hadrons 2021"</b><br> 
       <button class="btn--article-blue">Workshop</button>&nbsp;<span style="color:#900C3F">Speaker</span>, <a href="https://kds.kek.jp/event/36673/"> (Online) Tokai, Japan.</a> (Feb 15-17, 2021)<br>
 
- <li style="margin-bottom: 25px;"><b> RCNP informal seminar</b><br>
+   <li style="margin-bottom: 25px;"><b> RCNP informal seminar</b><br>
       <button class="btn--article-black">Seminar</button>&nbsp;<span style="color:#900C3F">Speaker</span>, (Online) RCNP, Japan. (Jan 13, 2021)<br> 
 
  <h2> 2020 </h2>  
    
- <li style="margin-bottom: 25px;"><b> The 8th international lecture series and mini-workshop on "Hierarchical structure of quantum system"</b><br> 
+   <li style="margin-bottom: 25px;"><b> The 8th international lecture series and mini-workshop on "Hierarchical structure of quantum system"</b><br> 
       <button class="btn--article-blue">Workshop</button>&nbsp;<span style="color:#900C3F">Speaker</span>, (Online) RCNP, Japan. (Nov 25 & 27, 2020)<br>    
 
- <li style="margin-bottom: 25px;"><b>The 5th Symposium on "Cluster hierarchical structure"</b><br> 
+   <li style="margin-bottom: 25px;"><b>The 5th Symposium on "Cluster hierarchical structure"</b><br> 
       <button class="btn--article-blue">Symposium</button>&nbsp;<span style="color:#900C3F">Speaker</span>, <a href="http://be.nucl.ap.titech.ac.jp/cluster/symposium/257/">(Online) Titech, Japan.</a> (Sep 24-25, 2020)<br>
    
- <li style="margin-bottom: 25px;"><b> Japan Physical Society 2020 Autumn Meeting</b><br> 
+   <li style="margin-bottom: 25px;"><b> Japan Physical Society 2020 Autumn Meeting</b><br> 
       <button class="btn--article">JPS meeting</button>&nbsp;<span style="color:#900C3F">Speaker</span>, (Online) Japan. (Sep 14-17, 2020)<br> 
 
- <li style="margin-bottom: 25px;"><b> Ph.D. final presentation: Osaka university</b><br>
+   <li style="margin-bottom: 25px;"><b> Ph.D. final presentation: Osaka university</b><br>
       <button class="btn--article-red">Public Exam</button>&nbsp;<span style="color:#900C3F">Speaker</span>, Osaka university, Japan. (Aug 11, 2020)<br> 
 
   <li style="margin-bottom: 25px;"><b>Internal examination of Ph.D. work: Osaka university</b><br>
@@ -215,13 +207,13 @@ You can find a list of institutes that I have visited. </p>
   <li style="margin-bottom: 25px;"><b>RCNP informal seminar</b><br>
       <button class="btn--article-black">Seminar</button>&nbsp;<span style="color:#900C3F">Speaker</span>, (Online) RCNP, Japan. (Jun 8, 2021)<br> 
     
- <li style="margin-bottom: 25px;"><b>JAEA self-introduction workshop 2020</b><br>
+  <li style="margin-bottom: 25px;"><b>JAEA self-introduction workshop 2020</b><br>
       <button class="btn--article-blue">Workshop</button>&nbsp;<span style="color:#900C3F">Speaker</span>, <a href="https://kds.kek.jp/event/34362/">(Online) J-PARC, Japan.</a> (Apr 30 - May 1, 2020)<br> 
    
- <li style="margin-bottom: 25px;"><b> REIMEI Workshop on "Universal Features of Quantum Flows with Spin, Orbital and Tensor Correlations"</b><br>
+  <li style="margin-bottom: 25px;"><b> REIMEI Workshop on "Universal Features of Quantum Flows with Spin, Orbital and Tensor Correlations"</b><br>
       <button class="btn--article-blue">Workshop</button>&nbsp;<span style="color:#900C3F">Speaker</span>, <a href="https://asrc.jaea.go.jp/soshiki/gr/atp/reimei2020feb.html"> J-PARC, Japan.</a> (Feb 17-19, 2020)<br> 
 
- <li style="margin-bottom: 25px;"><b> Workshop on "Physics of heavy-quark and exotic hadrons”</b><br>
+  <li style="margin-bottom: 25px;"><b> Workshop on "Physics of heavy-quark and exotic hadrons”</b><br>
       <button class="btn--article-blue">Workshop</button>&nbsp;<span style="color:#900C3F">Speaker</span>, <a href="https://kds.kek.jp/event/33516/"> J-PARC, Japan.</a> (Jan 27-29, 2020)<br> 
 
  <h2> 2019 </h2>    
@@ -229,43 +221,43 @@ You can find a list of institutes that I have visited. </p>
   <li style="margin-bottom: 25px;"><b> ASRC theory seminar</b><br>
       <button class="btn--article-black">Seminar</button>&nbsp;<span style="color:#900C3F">Speaker</span>, JAEA, Japan. (Dec 11, 2019)<br> 
     
- <li style="margin-bottom: 25px;"><b>Japan Physical Society 2019 Autumn Meeting</b><br> 
+  <li style="margin-bottom: 25px;"><b>Japan Physical Society 2019 Autumn Meeting</b><br> 
       <button class="btn--article">JPS meeting</button>&nbsp;<span style="color:#900C3F">Speaker</span>, Yamagata University, Japan. (Sep 17-20, 2019)<br> 
 
- <li style="margin-bottom: 25px;"><b>The International School for Strangeness Nuclear Physics (SNP2019)</b><br> 
+  <li style="margin-bottom: 25px;"><b>The International School for Strangeness Nuclear Physics (SNP2019)</b><br> 
       <button class="btn--article-orange">School</button>&nbsp;<span style="color:#900C3F">Speaker</span>, <a href="http://lambda.phys.tohoku.ac.jp/snpsc2019/">Tohoku University, Japan.</a> (Sep 5-8, 2019)<br>  
 
- <li style="margin-bottom: 25px;"><b>RCNP informal seminar</b><br>
+  <li style="margin-bottom: 25px;"><b>RCNP informal seminar</b><br>
       <button class="btn--article-black">Seminar</button>&nbsp;<span style="color:#900C3F">Speaker</span>, RCNP, Japan. (May 30, 2021)<br> 
      
- <li style="margin-bottom: 25px;"><b>Japan Physical Society 2019 Spring Meeting</b><br> 
+  <li style="margin-bottom: 25px;"><b>Japan Physical Society 2019 Spring Meeting</b><br> 
       <button class="btn--article">JPS meeting</button>&nbsp;<span style="color:#900C3F">Speaker</span>, Kyushu University, Japan. (Mar 14-17, 2019)<br> 
    
- <li style="margin-bottom: 25px;"><b> RCNP workshop </b><br>
+  <li style="margin-bottom: 25px;"><b> RCNP workshop </b><br>
       <button class="btn--article-blue">Workshop</button>&nbsp;<span style="color:#900C3F">Speaker</span>, RCNP, Japan. (Mar 4-5, 2019)<br>    
    
- <li style="margin-bottom: 25px;"><b>Reimei Workshop on Experimental and Theoretical Hadron Physics: Recent Exciting Developments</b><br>
+  <li style="margin-bottom: 25px;"><b>Reimei Workshop on Experimental and Theoretical Hadron Physics: Recent Exciting Developments</b><br>
       <button class="btn--article-blue">Workshop</button>&nbsp;<span style="color:#900C3F">Speaker</span>, <a href="https://kds.kek.jp/event/29543/overview"> J-PARC, Japan.</a> (Jan 9-11, 2019)<br>       
 
   <h2> 2018 </h2>     
 
- <li style="margin-bottom: 25px;"><b>The 8th International Conference on Quarks and Nuclear Physics (QNP2018)</b><br> 
+  <li style="margin-bottom: 25px;"><b>The 8th International Conference on Quarks and Nuclear Physics (QNP2018)</b><br> 
       <button class="btn--article">Intl. Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://www-conf.kek.jp/qnp2018/">Tsukuba, Japan.</a> (Nov 13-17, 2018)<br> 
 
- <li style="margin-bottom: 25px;"><b>Workshop on Dense Matter from Chiral Effective Theories 2018</b><br>
+  <li style="margin-bottom: 25px;"><b>Workshop on Dense Matter from Chiral Effective Theories 2018</b><br>
       <button class="btn--article-blue">Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Nagoya University, Japan. (Oct 16-17, 2018)<br>   
       
- <li style="margin-bottom: 25px;"><b>The International School for Strangeness Nuclear Physics (SNP2018)</b><br> 
+  <li style="margin-bottom: 25px;"><b>The International School for Strangeness Nuclear Physics (SNP2018)</b><br> 
       <button class="btn--article-orange">School</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Osaka University, Japan. (Aug 1-3, 2018)<br> 
       <button class="btn--article-red">News</button>&nbsp; I am selected as <a href="http://lambda.phys.tohoku.ac.jp/gppu/school/">the best presenter</a> in this school.     
 
- <li style="margin-bottom: 25px;"><b>RCNP informal seminar</b><br>
+  <li style="margin-bottom: 25px;"><b>RCNP informal seminar</b><br>
       <button class="btn--article-black">Seminar</button>&nbsp;<span style="color:#900C3F">Speaker</span>, RCNP, Japan. (Jun 5, 2018)<br> 
    
  <li style="margin-bottom: 25px;"><b>Collaboration meeting at RIKEN</b><br>
       <button class="btn--article-black">Meeting</button>&nbsp;<span style="color:#900C3F">Speaker</span>, RIKEN Saitama, Japan (Mar 22, 2018)<br> 
    
-  <li style="margin-bottom: 25px;"><b>International Physics Course (IPC) trip to Spring-8</b><br> 
+ <li style="margin-bottom: 25px;"><b>International Physics Course (IPC) trip to Spring-8</b><br> 
       <button class="btn--article-orange">School</button>&nbsp; <span style="color:#900C3F">Speaker</span>, (Online) Spring-8, Japan. (Mar 18, 2021)<br>    
  
   <h2> 2017 </h2>     
@@ -273,19 +265,19 @@ You can find a list of institutes that I have visited. </p>
  <li style="margin-bottom: 25px;"><b>International workshop on Hadron and Nuclear Physics (HNP2017)</b><br> 
       <button class="btn--article-blue">Workshop</button>&nbsp;<span style="color:#900C3F">Speaker</span>, <a href="https://indico2.riken.jp/event/2540/">RIKEN, Japan.</a> (Dec 18-22, 2017)<br> 
    
-  <li style="margin-bottom: 25px;"><b>The International School for Strangeness Nuclear Physics (SNP2017)</b><br> 
+ <li style="margin-bottom: 25px;"><b>The International School for Strangeness Nuclear Physics (SNP2017)</b><br> 
       <button class="btn--article-orange">School</button>&nbsp;<span style="color:#900C3F">Speaker</span>,J-PARC, Japan. (Dec 14-16, 2017)<br> 
 
-  <li style="margin-bottom: 25px;"><b>Japan Physical Society 2017 Autumn Meeting</b><br> 
+ <li style="margin-bottom: 25px;"><b>Japan Physical Society 2017 Autumn Meeting</b><br> 
       <button class="btn--article">JPS meeting</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Utsunomiya University, Japan. (Sep 12-15, 2017)<br> 
 
-  <li style="margin-bottom: 25px;"><b>Master's thesis presentation: Osaka university</b><br>
+ <li style="margin-bottom: 25px;"><b>Master's thesis presentation: Osaka university</b><br>
       <button class="btn--article-red">Public Exam</button>&nbsp;<span style="color:#900C3F">Speaker</span>, Osaka university, Japan. (Aug, 2017)<br> 
 
-  <li style="margin-bottom: 25px;"><b>Internal examination of Master's work: Osaka university</b><br>
+ <li style="margin-bottom: 25px;"><b>Internal examination of Master's work: Osaka university</b><br>
       <button class="btn--article-red">Internal Exam</button>&nbsp;<span style="color:#900C3F">Speaker</span>, RCNP, Japan. (Jul, 2017)<br> 
     
-   <li style="margin-bottom: 25px;"><b>RCNP informal seminar</b><br>
+ <li style="margin-bottom: 25px;"><b>RCNP informal seminar</b><br>
       <button class="btn--article-black">Seminar</button>&nbsp;<span style="color:#900C3F">Speaker</span>, RCNP, Japan. (Jun, 2017)<br> 
     
    <li style="margin-bottom: 25px;"><b>Japan Physical Society 2017 Spring Meeting</b><br> 
@@ -318,6 +310,7 @@ You can find a list of institutes that I have visited. </p>
     
    <li style="margin-bottom: 25px;"><b> Bachelor's thesis presentation: University of Indonesia </b><br>
       <button class="btn--article-red">Public Exam</button>&nbsp;<span style="color:#900C3F">Speaker</span>, University of Indonesia, Indonesia. (Jun, 2015)<br> 
+
      
 </ol>
 
