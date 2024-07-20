@@ -19,9 +19,18 @@ You can find a list of institutes that I have visited. </p>
 <ol>    
    <li style="margin-bottom: 25px;"><b> International workshop on J-PARC hadron physics 2024 (J-PARC Hadron 2024)</b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://kds.kek.jp/event/49981/" > J-PARC, Tokai-mura, Japan</a> (July 23-25, 2024) <br> </li> 
+  
+   <li style="margin-bottom: 25px;"><b> International workshop on quark structure of hadrons </b><br> 
+     <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Organizer</span>, <a href="https://indico2.riken.jp/event/4881/" > RIKEN, Wako, Japan</a> (August 9-10, 2024) <br> </li> 
 
-    <li style="margin-bottom: 25px;"><b> International Conference for Particles and Radiation (ICPR 2024)  </b><br> 
-    <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Invited Speaker</span>, UST, Manila, Philippines (Oct 17-19, 2024)<br> </li> 
+   <li style="margin-bottom: 25px;"><b> The 23rd International Conference on Few-Body Problems in Physics (FB23) </b><br> 
+     <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Beijing, China (September 22-27, 2024)<br> </li> 
+     
+   <li style="margin-bottom: 25px;"><b> International Conference for Particles and Radiation (ICPR 2024)  </b><br> 
+     <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Invited Speaker</span>, UST, Manila, Philippines (Oct 17-19, 2024)<br> </li> 
+
+   <li style="margin-bottom: 25px;"><b> East Asian Workshop on Exotic Hadrons 2024 </b><br> 
+     <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.itp.ac.cn/event/247/overview" > Nanjing, China</a> (December 8-11, 2024) <br> </li> 
 
 </ol>
 
@@ -80,7 +89,6 @@ You can find a list of institutes that I have visited. </p>
     
   <li style="margin-bottom: 25px;"><b> Hadron 2023 Conference</b><br> 
     <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://agenda.infn.it/event/33110/" >Genova, Italy.</a> (June 5 - 9, 2023)<br> </li> 
-
     
   <li style="margin-bottom: 25px;"><b> RIKEN-Tohoku joint workshop</b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F"> Speaker</span>, RIKEN, Japan. (May 11-12, 2023) <br> </li> 
