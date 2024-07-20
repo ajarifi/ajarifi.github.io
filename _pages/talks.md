@@ -24,7 +24,7 @@ You can find a list of institutes that I have visited. </p>
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Organizer</span>, <a href="https://indico2.riken.jp/event/4881/" > RIKEN, Wako, Japan</a> (August 9-10, 2024) <br> </li> 
 
    <li style="margin-bottom: 25px;"><b> The 23rd International Conference on Few-Body Problems in Physics (FB23) </b><br> 
-     <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, Beijing, China (September 22-27, 2024)<br> </li> 
+     <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.ihep.ac.cn/event/21083/" > Beijing, China </a> (September 22-27, 2024)<br> </li> 
      
    <li style="margin-bottom: 25px;"><b> International Conference for Particles and Radiation (ICPR 2024)  </b><br> 
      <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Invited Speaker</span>, UST, Manila, Philippines (Oct 17-19, 2024)<br> </li> 
