@@ -20,6 +20,9 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
 <p style="margin-bottom:1cm;"></p>
 
+<blockquote>
+    "I aim to publish one or two well-crafted articles each year, but it seems everyone around me is racing to publish more."
+</blockquote>
 
 <p style="margin-bottom:1cm;"></p>
 
