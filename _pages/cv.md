@@ -95,6 +95,6 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 * Indonesian (Native)
 * English (Fluent)
 * Japanese (Intermediate)\
-  <i> Passed JLPT - N3 (2018): <a href="/files/Jlpt3.png">(Certificate)</a> <a href="https://www.jlpt.jp/e/about/levelsummary.html"> (Description)</a> </i>
+  <i> Passed JLPT - N2 (2024): <a href="https://www.jlpt.jp/e/about/levelsummary.html"> (Description)</a> </i>
 * Korean (Beginner)\
   <i> Passed TOPIK I - level 2 (2022): <a href="/files/Topik.png">(Certificate)</a> <a href="https://en.wikipedia.org/wiki/Test_of_Proficiency_in_Korean"> (Description)</a> </i>
