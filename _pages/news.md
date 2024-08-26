@@ -11,6 +11,11 @@ redirect_from:
 </div>
 
 <h2> 2024 </h2>
+
+* <button class="btn--article-black">Milestone</button> (2024, 08, 26)<br>
+  Passed the Japanese Language Proficiency Test (JLPT): N2 (Upper intermediete level).
+* <button class="btn--article-blue">Workshop </button> (2021, 8, 9-10 )  <br> 
+  Organizing workshop on quark structure of hadrons at RIKEN.
 * <button class="btn--article-red">News</button> (2024, 07, 16)<br>
   Published an article in Physical Review D about the LFQM with Gaussian expansion method.
 
