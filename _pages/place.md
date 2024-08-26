@@ -10,6 +10,8 @@ author_profile: false
 <div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 2;"> 
   <h1 style="color:#000080"> Visited places </h1> </div> -->
 
+<div style="max-width:980px;margin:5px auto 10px auto;font-size:14px;"><div style="position:relative;padding: 0 0 67% 0;height:0;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="//www.fla-shop.com/visited-countries/embed/?st=ID%2CIT%2CJP%2CKR%2CTH&vc=1ca032&uc=b3c3ca&hc=40bfa6&bc=ffffff" frameborder="0" scrolling="no"></iframe></div>Create a map on <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a></div>
+
 <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 40px;"> 
   <h2 style="color:#000080; margin: 0;">Indonesia</h2> 
 </div>
