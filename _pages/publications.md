@@ -20,10 +20,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
 <p style="margin-bottom:1cm;"></p>
 
-<blockquote>
-  "Judge a researcher by their impact, not by their number of publications or citations."<br>
-  Chat-GPT
-</blockquote>
+
 <p style="margin-bottom:1cm;"></p>
 
 <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
