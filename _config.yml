@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "J Lab"
+title                    : "Jafar Lab"
 title_separator          : ":"
 name                     : &name "Ahmad Jafar Arifi"
 description              : &description "personal description"
