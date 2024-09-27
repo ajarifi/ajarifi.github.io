@@ -21,6 +21,8 @@ and to test and validate these models against experimental data and lattice QCD 
 This includes the use of effective Lagrangian models, chiral quark models, light-front quark models, 
 and other theoretical frameworks to study the properties of hadrons. </p>
 
+![](images/research.png)
+
 <p style="margin-bottom:1.2cm;"></p>
 
 <h2 style="color:#900C3F"> Hardron structure </h2>
