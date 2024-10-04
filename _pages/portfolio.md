@@ -25,7 +25,7 @@ and other theoretical frameworks to study the properties of hadrons. </p>
 
 <p style="margin-bottom:1.2cm;"></p>
 
-<h2 style="color:#900C3F"> Hardron structure </h2>
+<h2 style="color:#900C3F"> Hadron structure </h2>
 
 <p align="justify"> 
 One of my research intersts is in the field of hadron physics on the light front. 
@@ -59,7 +59,7 @@ refine the theoretical framework and improve our understanding of hadron physics
 
 
 <p style="margin-bottom:1.2cm;"></p>
-<h2 style="color:#900C3F"> Hardron production and decays </h2>
+<h2 style="color:#900C3F"> Hadron production and decays </h2>
 
 <p align="justify"> 
 My research focus is on understanding the dynamics of hadronic resonances through their production
@@ -91,7 +91,7 @@ with promising prospects for the discovery of new hadron resonances in various e
 
 
 <p style="margin-bottom:1.2cm;"></p>
-<h2 style="color:#900C3F"> Hardron in nuclear matter</h2>
+<h2 style="color:#900C3F"> Hadron in nuclear matter</h2>
 <p align="justify"> 
 My research interest lies in exploring the intricate dynamics of quark-meson coupling within nuclear matter 
 and its implications for hadron behavior. Utilizing theoretical frameworks such as effective field theories 
