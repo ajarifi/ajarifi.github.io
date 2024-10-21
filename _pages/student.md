@@ -4,7 +4,9 @@ permalink: /student/
 author_profile: false
 ---
 
-<h2 style="color:#900C3F">Present</h2>
+<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 40px;"> 
+  <h2 style="color:#000080; margin: 0;">Present</h2> 
+</div>
 
 <blockquote>
     If you are a student interested in joining the collaboration, please leave me a message. 
@@ -14,9 +16,11 @@ author_profile: false
 
 <p style="margin-bottom:1.2cm;"></p>
 
-<h2 style="color:#900C3F">Alumni</h2> 
+<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 40px;"> 
+  <h2 style="color:#000080; margin: 0;">Alumni</h2> 
+</div>
 
-<ol>       
+<ol reversed>    
   <li style="margin-bottom: 25px;">
       <b>Muhammad Ridwan</b><br>
       <button class="btn--article">Master</button>&nbsp; University of Indonesia, Indonesia (2022 - 2024). <br>
