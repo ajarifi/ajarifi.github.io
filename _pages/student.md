@@ -4,9 +4,6 @@ permalink: /student/
 author_profile: false
 ---
 
-<h1> Student corner </h1>
-<p style="margin-bottom:1.5cm;"></p>
-
 
 
 <h2 style="color:#900C3F"> Present </h2>
