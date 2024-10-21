@@ -11,7 +11,10 @@ and the priority is given to those who show a potential growth.
 <h2 style="color:#900C3F"> Present </h2>
 
 
-<h2 style="color:#900C3F"> Graduated </h2> 
+
+<p style="margin-bottom:1.2cm;"></p>
+
+<h2 style="color:#900C3F"> Completed </h2> 
 
 <ol>       
   <li style="margin-bottom: 25px;"><b> Muhammad Ridwan </b><br>
