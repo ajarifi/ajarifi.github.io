@@ -17,7 +17,7 @@ This page shows my scientific activities, including seminars, workshops, and con
       <button class="btn--article"> RIKEN Workshop </button>&nbsp;<br>
       <b>Date & time</b>: 9-10 August 2024<br>
       <b>Place</b>: RIKEN (hybrid) <br>
-      <b>Homepage</b>: <a href="http://duniahadron.com/2024/05/01/quarkhadron2024/">http://duniahadron.com/2024/05/01/quarkhadron2024/</a> &nbsp; <br>
+      <b>Link</b>: <a href="http://duniahadron.com/2024/05/01/quarkhadron2024/">[Web]</a>  &nbsp; <br>
   </li>
 
 </ol>
