@@ -50,7 +50,7 @@ function drawBasic() {
   var options = {
     legend: 'none',
     bar: {groupWidth: "100%"},
-    colors: ['#77C3EC'],
+    colors: ['#EC7777'],
   };
 
   var chart = new google.visualization.ColumnChart(
