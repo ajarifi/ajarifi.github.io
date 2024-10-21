@@ -39,13 +39,13 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
   <div style="margin-bottom: 25px;" class="filterDiv article"><b> Self-consistent $M1$ radiative transitions of excited $B_c$ and heavy quarkonia with different polarizations in the light-front quark model </b><br>
       <button class="btn--article">Article</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi (*)</b>, T. Mart (Sept, 2024)<br> 
       Published in: [<a href="https://arxiv.org/abs/2409.13172"> Arxiv:2409.13172 </a>]. <br>
-      <small><i>(*) Corresponding author.</i></small>
+      <small><i>(*) Supervisor.</i></small>
   </div>
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b> Two-pion emission decays of negative parity singly heavy baryons </b><br>
       <button class="btn--article">Article</button>&nbsp; N. Ponkhuha, <b style="color:#900C3F"> A. J. Arifi (*)</b>, D. Samart (Jul, 2024)<br> 
       Published in: [<a href="https://arxiv.org/abs/2407.10063"> Arxiv:2407.10063 </a>]. <br>
-      <small><i>(*) Corresponding author.</i></small>
+      <small><i>(*) Supervisor.</i></small>
   </div>
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b> Structure of heavy mesons in the light-front quark model </b><br>
