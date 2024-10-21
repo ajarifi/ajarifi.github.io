@@ -114,6 +114,20 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
   <li>Nara Institute of Science and Technology (NAIST);</li>
 </ul>
 
+
+<p style="margin-bottom:1.2cm;"></p>
+
+<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 40px;"> 
+  <h2 style="color:#000080; margin: 0;">Philippines</h2> 
+</div>
+
+<h3>University</h3>
+
+<ul> 
+  <li>University of Santo Tomas; </li> 
+</ul>
+
+
 <p style="margin-bottom:1.2cm;"></p>
 
 <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 40px;"> 
