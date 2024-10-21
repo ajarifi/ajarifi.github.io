@@ -4,6 +4,9 @@ permalink: /student/
 author_profile: false
 ---
 
+<p style="margin-bottom:2.0cm;"></p>
+
+
 <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 40px;"> 
   <h2 style="color:#000080; margin: 0;">Present</h2> 
 </div>
@@ -38,7 +41,7 @@ author_profile: false
       <b>M. Fauzan Syahbana</b><br>
       <button class="btn--article-blue">Bachelor</button>&nbsp; University of Indonesia, Indonesia (2022 - 2023). <br>
       Thesis: <em>Distribution amplitude and decay constants of light mesons in the mixed states of 1S and 2S in the light-front quark model.</em><br>
-      <button class="btn--article-red">News</button>&nbsp; He graduated with the highest GPA of 3.99/4.00 at the University of Indonesia. <br>
+<!--       <button class="btn--article-red">News</button>&nbsp; He graduated with the highest GPA of 3.99/4.00 at the University of Indonesia. <br>  -->
       <button class="btn--article-red">News</button>&nbsp; After graduation, he is pursuing a master's degree at Osaka University.
   </li> 
 </ol>
