@@ -4,17 +4,22 @@ permalink: /student/
 author_profile: false
 ---
 
-If you are a student and interested in joining the collaboration, please leave me a message. 
-To perform an effective mentoring, the number of students are limited at one time 
-and the priority is given to those who show a potential growth.
+<h1> Student corner </h1>
+<p style="margin-bottom:1.5cm;"></p>
+
+
 
 <h2 style="color:#900C3F"> Present </h2>
 
-
+<blockquote>
+    If you are a student interested in joining the collaboration, please leave me a message. 
+    To ensure effective mentoring, the number of students is limited at any one time, 
+    and priority will be given to those who show potential for growth.
+</blockquote>
 
 <p style="margin-bottom:1.2cm;"></p>
 
-<h2 style="color:#900C3F"> Completed </h2> 
+<h2 style="color:#900C3F"> Alumni </h2> 
 
 <ol>       
   <li style="margin-bottom: 25px;"><b> Muhammad Ridwan </b><br>
