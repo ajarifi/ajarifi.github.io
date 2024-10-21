@@ -12,6 +12,18 @@ This page shows my scientific activities, including seminars, workshops, and con
 <h2> Upcoming activity </h2> 
 
 <ol>
+  None.
+  
+</ol>
+
+<p style="margin-bottom:2cm;"></p>
+
+<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
+    <h1 style="color:#000080; margin: 0;">Past Activities</h1> 
+</div>
+
+<ol reversed>
+
   <li style="margin-bottom: 25px;">
       <b> International workshop on quark structure of hadrons </b><br> 
       <button class="btn--article"> RIKEN Workshop </button>&nbsp;<br>
@@ -19,18 +31,8 @@ This page shows my scientific activities, including seminars, workshops, and con
       <b>Place</b>: RIKEN (hybrid) <br>
       <b>Link</b>: <a href="http://duniahadron.com/2024/05/01/quarkhadron2024/">[Web]</a>  &nbsp; <br>
   </li>
-
-</ol>
-
-<p style="margin-bottom:2cm;"></p>
-
-<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
-  <h1 style="color:#000080; margin: 0;">Past Activities</h1> 
-</div>
-
-<ol reversed>
   
-    <li style="margin-bottom: 25px;">
+  <li style="margin-bottom: 25px;">
       <b> Artificial-Neural Network and Polarized-Target Technology for Probing Nucleon Structure </b><br> 
       <button class="btn--article-blue"> APCTP Seminar </button>&nbsp; <br>
       <b>Speaker</b>: Zulkaida Akbar (University of Virginia, USA)<br>
