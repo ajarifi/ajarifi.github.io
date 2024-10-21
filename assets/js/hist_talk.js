@@ -3,7 +3,7 @@ google.charts.setOnLoadCallback(drawBasic);
 
 function drawBasic() {
   var data = google.visualization.arrayToDataTable([
-    ['Year', 'Paper' ],
+    ['Year', 'talk' ],
     ['2015', 4],
     [' ', 3],
     [' ', 8],
