@@ -75,20 +75,23 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
   
 <h2 style="color:#900C3F"> Leadership </h2>
 
+* <b>Chair</b>, International Workshop on Quark Structure of Hadron,\
+  <i> Organizing an international workshop in RIKEN. <a href="https://ajarifi.github.io/activity/">(Details)</a> </i>
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
   Osaka university, Oct 2017\
   <i> Making sure that the conference is sucessfully held. </i> <a href="/files/ISASC.pdf">(Abstract book)</a> 
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017\
   <i> Responsible for the activity of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a> 
 
+
 <h2 style="color:#900C3F"> Service </h2>
 
 * <b>Host</b>, APCTP seminar series\
   <i> Organizing and hosting online seminar in APCTP. <a href="https://ajarifi.github.io/activity/">(Details)</a> </i>
-* <b>Host</b>, RIKEN workshop\
-  <i> Organizing a international workshop in RIKEN. <a href="https://ajarifi.github.io/activity/">(Details)</a> </i>
+  
 * <b>Referee</b>, Physical Review D\
   <i> Peer-reviewing papers for journal publications. <a href="https://publons.com/researcher/3472237/ahmad-jafar-arifi/">(Publons)</a> </i>
+
 
 <h2 style="color:#900C3F"> Language </h2>
 
