@@ -9,13 +9,6 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
 <p style="margin-bottom:1.2cm;"></p>
 
-<!--
-<div class="row">
-  <div class="column" id="myPieChart"> </div>
-  <div class="column" id="myPieChart2"> </div>
-</div>
--->
-
 <div id="chart_div" style="display: block; width: 100%; transform: scale(1.2);"></div>
 
 <p style="margin-bottom:1cm;"></p>
