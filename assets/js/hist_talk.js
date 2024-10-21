@@ -1,7 +1,7 @@
 google.charts.load('current', {packages: ['corechart', 'bar']});
-google.charts.setOnLoadCallback(drawBasic);
+google.charts.setOnLoadCallback(drawBasic2);
 
-function drawBasic() {
+function drawBasic2() {
   var data = google.visualization.arrayToDataTable([
     ['Year', 'talk' ],
     ['2015', 4],
