@@ -60,15 +60,20 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. F. Syahbana, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Jan, 2024)<br>
       Published in: <i> <a href="	https://doi.org/10.1051/itmconf/20246101014">ITM Web Conf. 61, 01014 (2024).</a></i> Contribution to: ISCPMS 2024</div>
   
-  <div class="filterDiv article" style="width:100%"><h2>2023</h2></div>
-
-    <div style="margin-bottom: 25px;" class="filterDiv article"><b> Pseudoscalar meson decay constants and distribution amplitudes up to twist 4 in the light-front quark model </b><br>
+<div class="filterDiv article" style="width:100%"><h2>2023</h2></div>
+  
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b> Pseudoscalar meson decay constants and distribution amplitudes up to 
+      twist 4 in the light-front quark model </b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (June, 2023)<br> 
-      Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.108.013006"> Phys.Rev.D 108, 013006 (2023) </a>,</i> [<a href="https://arxiv.org/abs/2306.08536"> ArXiv: 2306.08536 </a>].  </div>
+      Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.108.013006"> Phys.Rev.D 108, 013006 (2023) </a>,
+      </i> [<a href="https://arxiv.org/abs/2306.08536"> ArXiv: 2306.08536 </a>].  
+  </div>
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b> In-medium properties of the light and heavy-light mesons in a light-front quark model </b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P.T.P. Parada, and K. Tsushima (Feb 23, 2023)<br> 
-      Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.107.114010"> Phys.Rev.D 107, 114010 (2023) </a>,</i> [<a href="https://arxiv.org/abs/2302.12382"> ArXiv: 2302.12382 </a>].  </div>
+      Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.107.114010"> Phys.Rev.D 107, 114010 (2023) </a>,
+      </i> [<a href="https://arxiv.org/abs/2302.12382"> ArXiv: 2302.12382 </a>].
+  </div>
   
   <div class="filterDiv article" style="width:100%"><h2>2022</h2></div>
 
