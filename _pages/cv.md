@@ -43,7 +43,7 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 
 <h2 style="color:#900C3F"> Awards </h2>
 
-* <b>The 2nd best contributor,</b> APFB2020 conference, Japan (Online), 2021
+* <b>The 2nd best contributor,</b> APFB2020 conference, Japan, 2021
 * <b>The best presenter,</b> SNP school, Japan, 2018
 * <b>Doctor,</b> Japanese government MEXT scholarship, 2017-2020
 * <b>Master,</b> Japanese government MEXT scholarship, 2015-2017
