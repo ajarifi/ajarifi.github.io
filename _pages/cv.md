@@ -76,6 +76,7 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 <h2 style="color:#900C3F"> Leadership </h2>
 
 * <b>Chair</b>, International Workshop on Quark Structure of Hadron,\
+  RIKEN, Aug 2024\
   <i> Organizing an international workshop in RIKEN. <a href="https://ajarifi.github.io/activity/">(Details)</a> </i>
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
   Osaka university, Oct 2017\
