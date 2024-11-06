@@ -20,7 +20,7 @@ author_profile: false
 <p style="margin-bottom:1.2cm;"></p>
 
 <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 40px;"> 
-  <h2 style="color:#000080; margin: 0;">Alumni</h2> 
+  <h2 style="color:#000080; margin: 0;">Former</h2> 
 </div>
 
 <ol reversed>    
