@@ -16,7 +16,7 @@ where I have shared a photo album of my memories with collaborators and from sci
 <p style="margin-bottom: 1.5cm;"></p>
 
 <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
-  <h1 style="color:#000080; margin: 0;">Advisers</h1> 
+  <h1 style="color:#000080; margin: 0;">Mentors</h1> 
 </div>
 
 <p style="margin-bottom: 1cm;"></p>
@@ -203,7 +203,7 @@ where I have shared a photo album of my memories with collaborators and from sci
 <p style="margin-bottom: 1cm;"></p>
 
 <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
-  <h1 style="color:#000080; margin: 0;">Student Alumni</h1> 
+  <h1 style="color:#000080; margin: 0;">Mentee</h1> 
 </div>
 
 <p style="margin-bottom: 1cm;"></p>
