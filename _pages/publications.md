@@ -145,7 +145,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
   <div class="filterDiv article" style="width:100%"><h2>2015</h2></div>
   <div class="filterDiv article"><b> Nucleon resonances with spin-3/2 and -5/2 in the isobar model for kaon photoproduction </b> <br> 
-      <button class="btn--article">Article</button>&nbsp; T.Mart, S.Clymton, and <b style="color:#900C3F"> A. J. Arifi</b>(*), (Nov 18, 2015)<br>
+      <button class="btn--article">Article</button>&nbsp; T.Mart, S.Clymton, and <b style="color:#900C3F"> A. J. Arifi (*)</b>, (Nov 18, 2015)<br>
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Phys.Rev. D 92, 094019 (2015).</a> </i> <br> 
       <small><i>(*) Student helper</i></small>
   </div>
