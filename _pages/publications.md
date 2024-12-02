@@ -14,7 +14,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 <p style="margin-bottom:1cm;"></p>
 
 <blockquote>
-    "I aim to publish one or two articles each year, but it seems everyone else is racing to publish more."
+    "Though challenging, I aim to publish work that fosters collaboration and advances our understanding."
 </blockquote>
 
 <p style="margin-bottom:1cm;"></p>
