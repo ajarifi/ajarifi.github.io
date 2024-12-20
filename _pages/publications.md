@@ -36,6 +36,12 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
   <div class="filterDiv article proceeding" style="width:100%"><h2>2024</h2></div>
 
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b> In-medium electromagnetic form factors of pseudoscalar mesons from the quark model </b><br>
+      <button class="btn--article">Article</button>  A. J. Arifi,  P.T.P. Parada, and K. Tsushima  (Dec, 2024)<br> 
+      Published in: [<a href="https://arxiv.org/abs/2412.09883"> Arxiv:2412.09883 </a>]. <br>
+  </div>
+  
+
   <div style="margin-bottom: 25px;" class="filterDiv article"><b> Self-consistent $M1$ radiative transitions of excited $B_c$ and heavy quarkonia with different polarizations in the light-front quark model </b><br>
       <button class="btn--article">Article</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi (*)</b>, T. Mart (Sept, 2024)<br> 
       Published in: [<a href="https://arxiv.org/abs/2409.13172"> Arxiv:2409.13172 </a>]. <br>
