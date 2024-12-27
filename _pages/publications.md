@@ -32,6 +32,8 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
 <p style="margin-bottom:1cm;"></p>
 
+My simplified role: [https://duniahadron.com/2024/05/12/credit/](https://duniahadron.com/2024/05/12/credit/)
+
 <div class="containerz">
 
   <div class="filterDiv article proceeding" style="width:100%"><h2>2024</h2></div>
