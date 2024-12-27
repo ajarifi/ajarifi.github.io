@@ -65,8 +65,11 @@ My research is mainly focused on hadron physics, with a particular interest in h
 * <a href="https://inspirehep.net/authors/995042"> Makoto Oka </a>
 * <a href="https://inspirehep.net/authors/2691822"> Muhammad Ridwan </a>
 * <a href="https://inspirehep.net/authors/2759286"> Muhammad Fauzan Syahbana </a>
+* <a href="https://inspirehep.net/authors/2862615"> Nantana Monkata </a>
 * <a href="https://inspirehep.net/authors/2807713"> Nongnaphat Ponkhuha </a>
 * <a href="https://inspirehep.net/authors/1021038"> Parada T. P. Hutauruk </a>
+* <a href="https://inspirehep.net/authors/2616938"> Prin Sawasdipol </a>
+* <a href="https://inspirehep.net/authors/2862616"> Ratirat Suntharawirat </a>
 * <a href="https://inspirehep.net/authors/1705246"> Samson Clymton </a>
 * <a href="https://orcid.org/0009-0001-5222-9726"> Shuhei Ohno</a>
 * <a href="https://inspirehep.net/authors/998691"> Terry Mart </a> (B.S. Advisor)
