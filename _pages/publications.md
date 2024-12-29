@@ -42,7 +42,7 @@ My simplified role: [https://duniahadron.com/2024/05/12/credit/](https://duniaha
   <div style="margin-bottom: 25px;" class="filterDiv article"><b> Heavy-quark spin symmetry violation effects in charmed baryon production </b><br>
       <button class="btn--article">Article</button> N. Monkata, P. Sawasdipol, N. Ponkhuha, R. Suntharawirat, <b style="color:#900C3F"> A. J. Arifi (*)</b>, D. Samart (Dec, 2024)<br> 
       Published in: [<a href="https://arxiv.org/abs/2412.18280"> Arxiv:2412.18280 </a>]. <br>
-      <small><i>(*) Editorial consultant.</i></small>
+      <small><i>(*) Advisor.</i></small>
   </div>
   
 
