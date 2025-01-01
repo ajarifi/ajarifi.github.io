@@ -13,8 +13,6 @@ author_profile: false
 
 <blockquote>
     If you are a student interested in joining the collaboration, please leave me a message. 
-    To ensure effective mentoring, the number of students is limited at any one time, 
-    and priority will be given to those who show potential for growth.
 </blockquote>
 
 <p style="margin-bottom:1.2cm;"></p>
