@@ -17,5 +17,5 @@ This is a note for my research.
 
 <div class="containerz">
  <div class="filterDiv basic" style="width:100%; margin-bottom: 25px;"><a href="https://drive.google.com/file/d/15YL8LhqiwugVIGxr2dfR7MkGw9jhw46J/view?usp=sharing" style="font-size: 1.3em;"> Quantum Mechanics I </a><br> 
-      <button class="btn--article-red"> QM </button>&nbsp; (01 Jan 2025) </div>
+      <button class="btn--article-red"> Basic </button>&nbsp; (01 Jan 2025) </div>
 </div>
