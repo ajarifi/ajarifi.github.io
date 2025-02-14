@@ -74,7 +74,7 @@ My simplified role: [https://duniahadron.com/2024/05/12/credit/](https://duniaha
 
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b> Distribution amplitude and decay constant of 1S and 2S state light mesons in the light-front quark model </b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. F. Syahbana, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Jan, 2024)<br>
-      Published in: <i> <a href="	https://doi.org/10.1051/itmconf/20246101014">ITM Web Conf. 61, 01014 (2024).</a></i> Contribution to: ISCPMS 2024</div>
+      Published in: <i> <a href="https://doi.org/10.1051/itmconf/20246101014">ITM Web Conf. 61, 01014 (2024).</a></i> Contribution to: ISCPMS 2024</div>
   
 <div class="filterDiv article" style="width:100%"><h2>2023</h2></div>
   
