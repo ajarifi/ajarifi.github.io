@@ -32,8 +32,10 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 
 <h2 style="color:#900C3F"> Work experience </h2>
 
+* <b>Advanced Science Research Center (ASRC), JAEA,</b> Japan\
+  Apr 2025 - Mar 2028 : (Tenured track) Postdoctoral Fellow
 * <b>Few-body Systems in Physics Lab, RIKEN,</b> Japan\
-  Apr 2023 - Present  : Special Postdoctoral Researcher (SPDR)
+  Apr 2023 - Mar 2025 : Special Postdoctoral Researcher (SPDR)
 * <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> Korea\
   Mar 2021 - Feb 2023 : Young Scientist Training (YST) Fellow
 * <b>Research Center for Nuclear Physics (RCNP),</b> Japan\
