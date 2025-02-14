@@ -14,7 +14,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 <p style="margin-bottom:1cm;"></p>
 
 <blockquote>
-    "Though challenging, I aim to publish work that fosters collaboration and advances our understanding."
+    "Though challenging, I aim to publish work that fosters collaboration and to try new things."
 </blockquote>
 
 <p style="margin-bottom:1cm;"></p>
