@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 <p align="justify"> 
-This page shows my scientific activities, including seminars, workshops, and conferences that I organize.
+This page showcases my scientific activities, including seminars, workshops, and conferences in which I am involved in the organization.
 </p>
 
 <p style="margin-bottom:1.5cm;"></p>
