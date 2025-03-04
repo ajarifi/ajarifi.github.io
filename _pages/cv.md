@@ -46,7 +46,7 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 
 <h2 style="color:#900C3F"> Publications </h2>
 
-See: <a href="https://ajarifi.github.io/publications/">(Publications)</a>
+See: <a href="https://ajarifi.github.io/publications/">(Publications)</a> (as of 2025)
 * I published around 15 articles in Physical Review D
 * I worked with around 20 different co-authors
 * The estimated citations are around 200 and h-index around 11
