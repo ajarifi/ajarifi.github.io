@@ -47,7 +47,7 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 <h2 style="color:#900C3F"> Summary of Publications </h2>
 
 See: <a href="https://ajarifi.github.io/publications/">My publications</a> (as of 2025)
-* I have published around 15 articles in Physical Review D
+* I have published around 15 articles about hadron physics in Physical Review D
 * I have worked with around 20 different co-authors
 * My estimated citations are around 200 with an h-index of around 11
 
