@@ -52,14 +52,14 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 
 <h2 style="color:#900C3F"> Research Funds </h2>
 
-**Research Grant**
+**Research Grants**
 
 | Year      | Grant                                              | Amount                                |
 |-----------|----------------------------------------------------|---------------------------------------|
 | 2025      | JAEA grant                                         | 500,000 JPY                           |
 | 2024      | Additional RIKEN SPDR grant                        | 500,000 JPY                           |
 | 2023-2026 | RIKEN SPDR grant                                   | 1,000,000 JPY/year                    |
-| 2021-2023 | Young Scientist Training (YST) Fellowship grant    | 5,000,000 KRW/year                    |
+| 2021-2023 | APCTP YST grant                                    | 5,000,000 KRW/year                    |
 
 **Scholarships**
 
