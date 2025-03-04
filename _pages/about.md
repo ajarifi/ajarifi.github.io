@@ -21,7 +21,7 @@ E-mail: ahmad.arifi[at]riken.jp
 
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong style="color: red;">News:</strong> <br>
+  <strong style="color: blue;">News:</strong> <br>
   <strong>Southeast Asian Workshop on Nuclear and Hadron Physics</strong> <br>
   Date: August 19–21, 2025 <br>
   Location: Universitas Gadjah Mada, Indonesia <br>
