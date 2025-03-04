@@ -125,6 +125,12 @@ See: <a href="https://ajarifi.github.io/student/">My students</a>
   Osaka university, Oct 2017\
   <i> Making sure that the conference is sucessfully held. </i> <a href="/files/ISASC.pdf">(Abstract book)</a> 
 
+<h2 style="color:#900C3F"> Society </h2>
+
+* The Physical Society of Japan
+* The Korean Physical Society
+* Physical Society of Indonesia
+
 <h2 style="color:#900C3F"> Programming </h2>
 
 * Python (Main)
