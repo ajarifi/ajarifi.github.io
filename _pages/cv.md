@@ -131,7 +131,7 @@ See: <a href="https://ajarifi.github.io/student/">My students</a>
 * The Korean Physical Society
 * Physical Society of Indonesia
 
-<h2 style="color:#900C3F"> Programming </h2>
+<h2 style="color:#900C3F"> Programming skill</h2>
 
 * Python (Main)
 * Julia (Secondary)
