@@ -20,12 +20,12 @@ author_profile: false
 
   <li style="margin-bottom: 25px;">
       <b>Nantana Monkata</b><br>
-      <button class="btn--article">Master</button>&nbsp; Khon Kaen University, Thailand (2024-2025). <br>
+      <button class="btn--article">Master</button>&nbsp; Khon Kaen University, Thailand (2024-present). <br>
   </li> 
 
   <li style="margin-bottom: 25px;">
       <b>Rayn Rasyid</b><br>
-      <button class="btn--article-blue">Bachelor</button>&nbsp; University of Indonesia, Indonesia (2024-2025). <br>
+      <button class="btn--article-blue">Bachelor</button>&nbsp; University of Indonesia, Indonesia (2025-present). <br>
   </li> 
 </ol>
 
