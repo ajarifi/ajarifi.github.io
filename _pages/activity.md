@@ -12,7 +12,15 @@ This page showcases my scientific activities, including seminars, workshops, and
 <h2> Upcoming activity </h2> 
 
 <ol>
-  None.
+
+  <li style="margin-bottom: 25px;">
+      <b> Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
+      <button class="btn--article"> Workshop </button>&nbsp;<br>
+      <b>Date & time</b>: 19-21 August 2024 <br>
+      <b>Place</b>: UGM, Yogyakarta, Indonesia <br>
+      <b>Link</b>: <a href="https://indico.global/event/13949/">[Indico page]</a>  &nbsp; <br>
+  </li>
+  
   
 </ol>
 
