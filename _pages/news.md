@@ -67,9 +67,6 @@ redirect_from:
 * <button class="btn--article-black">Milestone</button> (2021, 05, 10)  <br>
   My first paper after graduation in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.094003"> Physical Review D </a>.
 
-* <button class="btn--article-blue">Colloquium</button> (2021, 05, 10) <br>
-  My first business trip to Busan for giving a talk in PKNU.
-
 * <button class="btn--article-red">News</button>(2021, 03, 05)  <br>
   Selected as the second best presenter in Intl. Conference of APFB2020.<br>
   The talk was presented online when I was quarrantined in Korea.
