@@ -47,13 +47,12 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 
 * <b>The 2nd best contributor,</b> APFB2020 conference, Japan, 2021
 * <b>The best presenter,</b> SNP school, Japan, 2018
-* <b>Doctor,</b> Japanese government MEXT scholarship, 2017-2020
-* <b>Master,</b> Japanese government MEXT scholarship, 2015-2017
 * <b>Gold Medalist,</b> National Physics Olympiad, Indonesia, 2014
-* <b>Bachelor,</b> Tanoto Foundation scholarship, 2012-2015
 
 
-<h2 style="color:#900C3F"> Research Funding </h2>
+<h2 style="color:#900C3F"> Research Funds </h2>
+
+**Research Grant**
 
 | Year      | Grant                                              | Amount                                |
 |-----------|----------------------------------------------------|---------------------------------------|
@@ -62,6 +61,13 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 | 2023-2026 | RIKEN SPDR grant                                   | 1,000,000 JPY/year                    |
 | 2021-2023 | Young Scientist Training (YST) Fellowship grant    | 5,000,000 KRW/year                    |
 
+**Scholarships**
+
+| Year      | Scholarship                                        | Level                                 |
+|-----------|----------------------------------------------------|---------------------------------------|
+| 2017-2020 | Japanese government MEXT scholarship               | Doctor                                |
+| 2015-2017 | Japanese government MEXT scholarship               | Master                                |
+| 2012-2015 | Tanoto Foundation scholarship                      | Bachelor                              |
 
 
 <h2 style="color:#900C3F"> Student mentorship </h2>
