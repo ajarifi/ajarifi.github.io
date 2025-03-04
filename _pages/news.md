@@ -10,14 +10,28 @@ redirect_from:
   <h1 style="color:#000080; margin: 0;">News</h1> 
 </div>
 
+<h2> 2025 </h2>
+
+* <button class="btn--article">Job</button> (2025, 04, 01)<br>
+  Moving from Wako to Ibaraki: Working at JAEA, Tokai-mura.<br>
+  Joining as a postdoctoral fellow at ASRC.
+  
+* <button class="btn--article-black">Milestone</button> (2025, 01, 30) <br>
+  My h-index reaches 10.
+
+* <button class="btn--article-red">News</button> (2025, 01, 13)<br>
+  First time to Publish an article in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.016011"> Physical Review D </a>. with an Indonesian student. 
+  
 <h2> 2024 </h2>
+
+* <button class="btn--article-red">News</button> (2024, 12, 30)<br>
+  First time to Publish an article in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.114046"> Physical Review D </a>. with a Thai student. 
 
 * <button class="btn--article-black">Milestone</button> (2024, 08, 26)<br>
   Passed the Japanese Language Proficiency Test (JLPT): N2 (Upper intermediete level).
-* <button class="btn--article-blue">Workshop </button> (2021, 8, 9-10 )  <br> 
+  
+* <button class="btn--article-blue">Workshop </button> (2021, 8, 9-10)  <br> 
   Sucessfully organized the workshop on quark structure of hadrons at RIKEN.
-* <button class="btn--article-red">News</button> (2024, 07, 16)<br>
-  Published an article in Physical Review D about the LFQM with Gaussian expansion method.
 
 <h2> 2023 </h2>
 
@@ -27,34 +41,19 @@ redirect_from:
 
 <h2> 2022 </h2>
 
-* <button class="btn--article-black">Milestone</button> (2022, 08, 01 )  <br>
-  First time to mentor students (1 Master, 1 Undergraduate) from University of Indonesia for their thesis.
+* <button class="btn--article-black">Milestone</button> (2022, 08, 01)  <br>
+  First time to mentor students from University of Indonesia and Kon Khen University (Thailand) for their thesis.
 
-* <button class="btn--article-black">Milestone</button> (2022, 07, 26 ) <br>
-  My first 100 citations on my research articles. 
+* <button class="btn--article-black">Milestone</button> (2022, 07, 26) <br>
+  My first 100 citations on my research articles.
 
-* <button class="btn--article-blue"> Workshop </button> (2022, 07, 11 ) <br> 
-  Invited talk in APCTP workshop on nuclear physics 2022: Physics of excited hardons in the present and future facilities in Jeju
-
-* <button class="btn--article-black">Milestone</button> (2022, 05, 25 )  <br>
+* <button class="btn--article-black">Milestone</button> (2022, 05, 25)  <br>
   Passed the TOPIK 1 level 2. This is a Korean languange proficiency test for beginner level. 
-  
-* <button class="btn--article-blue">Seminar </button> (2022, 03, 02 )<br> 
-  Giving a seminar in physics department, University of Indonesia (Online)
 
 <h2> 2021 </h2>
-
-* <button class="btn--article-blue">Conference </button> (2021, 11, 28 )  <br>
-  Attending Light-cone 2021 conference: Physics of hadrons on the light front in Jeju
-
-* <button class="btn--article-blue">Comference </button> (2021, 10, 27 )  <br> 
-  Invited talk in 11th International Conference on Theoretical and Applied Physics, Indonesia (Online)
  
 * <button class="btn--article-black">Milestone</button> (2021, 07, 29)  <br>
   First time to review a paper in Physical Review D.
-  
-*  <button class="btn--article-blue">Lectures</button> (2021, 07, 13-16) <br>
-  Attending a lecture by Prof. Ji in KNU, Daegu.
 
 * <button class="btn--article-black">Milestone</button> (2021, 05, 27)  <br>
   First time to host a seminar. Thanks to Dr. Denny. See seminar section for details.
