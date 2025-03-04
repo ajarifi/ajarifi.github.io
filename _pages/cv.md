@@ -58,7 +58,7 @@ See: <a href="https://ajarifi.github.io/talks/">(Talks)</a>
 * I have been invited to several international workshops
 * I have attended numerous JPS and KPS meetings
 * I have joined many SNP (Strangenss Nuclear Physics) schools 
-* I have also gaven seminars at various institutes
+* I have also given seminars at various institutes
 
 
 <h2 style="color:#900C3F"> Awards </h2>
