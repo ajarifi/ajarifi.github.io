@@ -47,18 +47,18 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 <h2 style="color:#900C3F"> Publications </h2>
 
 See: <a href="https://ajarifi.github.io/publications/">(Publications)</a> (as of 2025)
-* I published around 15 articles in Physical Review D
-* I worked with around 20 different co-authors
-* The estimated citations are around 200 and h-index around 11
+* I have published around 15 articles in Physical Review D
+* I have worked with around 20 different co-authors
+* My estimated citations are around 200 with an h-index of around 11
 
 <h2 style="color:#900C3F"> Talks </h2>
 
 See: <a href="https://ajarifi.github.io/talks/">(Talks)</a>
-* I participated many workshops and conferences
-* I was invited to several international workshops
-* I attended several JPS and KPS meetings
-* I joined many SNP (Strangenss Nuclear Physics) schools 
-* I also gave seminars at various institutes
+* I actively participate in many workshops and conferences
+* I have been invited to several international workshops
+* I have attended numerous JPS and KPS meetings
+* I have joined many SNP (Strangenss Nuclear Physics) schools 
+* I have also gaven seminars at various institutes
 
 
 <h2 style="color:#900C3F"> Awards </h2>
