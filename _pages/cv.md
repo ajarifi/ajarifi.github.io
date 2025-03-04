@@ -43,6 +43,24 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 * <b>Japan Atomic Energy Agency (JAEA),</b> Japan\
   Oct 2019 - Mar 2020: Intern
 
+
+<h2 style="color:#900C3F"> Publications </h2>
+
+See: <a href="https://ajarifi.github.io/publications/">(Publications)</a>
+* I published around 15 articles in Physical Review D
+* I worked with around ~20 co-authors
+* The estimated citations are ~200 and h-index ~11
+
+<h2 style="color:#900C3F"> Talks </h2>
+
+See: <a href="https://ajarifi.github.io/talks/">(Talks)</a>
+* I participated many workshops and conferences
+* I was invited to several international workshops
+* I attended several JPS and KPS meetings
+* I joined many SNP (Strangenss Nuclear Physics) schools 
+* I also gave seminars at various institutes
+
+
 <h2 style="color:#900C3F"> Awards </h2>
 
 * <b>The 2nd best contributor,</b> APFB2020 conference, Japan, 2021
@@ -71,6 +89,8 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 
 
 <h2 style="color:#900C3F"> Student mentorship </h2>
+
+See: <a href="https://ajarifi.github.io/student/">(Students)</a>
 
 <b> Master students</b> 
 * <i> 2 students (Khon Kaen University, Thailand)</i>
