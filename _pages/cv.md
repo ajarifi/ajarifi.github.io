@@ -78,9 +78,11 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 <h2 style="color:#900C3F"> Community Service </h2>
 
 **Peer Review** 
-* <b>Referee</b>, Peer-reviewing papers for journal publications.\
+* <b>Journal Referee</b>, Peer-reviewing papers for journal publications.\
   <i> 1. Physical Review D </i> <br>
-  <i> 2. 11th International Conference on Theoretical and Applied Physics </i>
+
+* <b>Conference Referee</b>, Peer-reviewing papers for conference proceedings.\
+  <i> 1. 11th International Conference on Theoretical and Applied Physics, 2021 </i>
 
 **Organization** 
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017\
