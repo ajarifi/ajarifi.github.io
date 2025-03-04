@@ -59,27 +59,29 @@ My research is mainly focused on hadron physics, with a particular interest in h
 
 <h3 style="color:#900C3F"> Co-Authors </h3>
 
-* <a href="https://inspirehep.net/authors/1005542">Atsushi Hosaka</a> (Ph.D. Advisor)
-* <a href="https://inspirehep.net/authors/1004349"> Chueng-Ryong Ji </a>
-* <a href="https://inspirehep.net/authors/1298440">Daiki Suenaga</a>
-* <a href="https://inspirehep.net/authors/1036613">Daris Samart</a>
-* <a href="https://inspirehep.net/authors/996306"> Hideko Nagahiro </a>
-* <a href="https://inspirehep.net/authors/1013647"> Ho-Meoyng Choi </a>
-* <a href="https://inspirehep.net/authors/985499"> Kazuo Tsushima </a>
-* <a href="https://inspirehep.net/authors/986596"> Kiyoshi Tanida </a>
-* <a href="https://scholar.google.com/citations?user=YqAU9yAAAAAJ&hl=id&oi=ao"> Lucas Happ</a>
-* <a href="https://inspirehep.net/authors/995042"> Makoto Oka </a>
-* <a href="https://inspirehep.net/authors/2691822"> Muhammad Ridwan </a>
-* <a href="https://inspirehep.net/authors/2759286"> Muhammad Fauzan Syahbana </a>
-* <a href="https://inspirehep.net/authors/2862615"> Nantana Monkata </a>
-* <a href="https://inspirehep.net/authors/2807713"> Nongnaphat Ponkhuha </a>
-* <a href="https://inspirehep.net/authors/1021038"> Parada T. P. Hutauruk </a>
-* <a href="https://inspirehep.net/authors/2616938"> Prin Sawasdipol </a>
-* <a href="https://inspirehep.net/authors/2862616"> Ratirat Suntharawirat </a>
-* <a href="https://inspirehep.net/authors/1705246"> Samson Clymton </a>
-* <a href="https://orcid.org/0009-0001-5222-9726"> Shuhei Ohno</a>
-* <a href="https://inspirehep.net/authors/998691"> Terry Mart </a> (B.S. Advisor)
-* <a href="https://inspirehep.net/authors/995116"> Yongseok Oh </a>
+<ol>
+    <li><a href="https://inspirehep.net/authors/1005542">Atsushi Hosaka</a> (Ph.D. Advisor)</li>
+    <li><a href="https://inspirehep.net/authors/1004349">Chueng-Ryong Ji</a></li>
+    <li><a href="https://inspirehep.net/authors/1298440">Daiki Suenaga</a></li>
+    <li><a href="https://inspirehep.net/authors/1036613">Daris Samart</a></li>
+    <li><a href="https://inspirehep.net/authors/996306">Hideko Nagahiro</a></li>
+    <li><a href="https://inspirehep.net/authors/1013647">Ho-Meoyng Choi</a></li>
+    <li><a href="https://inspirehep.net/authors/985499">Kazuo Tsushima</a></li>
+    <li><a href="https://inspirehep.net/authors/986596">Kiyoshi Tanida</a></li>
+    <li><a href="https://scholar.google.com/citations?user=YqAU9yAAAAAJ&hl=id&oi=ao">Lucas Happ</a></li>
+    <li><a href="https://inspirehep.net/authors/995042">Makoto Oka</a></li>
+    <li><a href="https://inspirehep.net/authors/2691822">Muhammad Ridwan</a></li>
+    <li><a href="https://inspirehep.net/authors/2759286">Muhammad Fauzan Syahbana</a></li>
+    <li><a href="https://inspirehep.net/authors/2862615">Nantana Monkata</a></li>
+    <li><a href="https://inspirehep.net/authors/2807713">Nongnaphat Ponkhuha</a></li>
+    <li><a href="https://inspirehep.net/authors/1021038">Parada T. P. Hutauruk</a></li>
+    <li><a href="https://inspirehep.net/authors/2616938">Prin Sawasdipol</a></li>
+    <li><a href="https://inspirehep.net/authors/2862616">Ratirat Suntharawirat</a></li>
+    <li><a href="https://inspirehep.net/authors/1705246">Samson Clymton</a></li>
+    <li><a href="https://orcid.org/0009-0001-5222-9726">Shuhei Ohno</a></li>
+    <li><a href="https://inspirehep.net/authors/998691">Terry Mart</a> (B.S. Advisor)</li>
+    <li><a href="https://inspirehep.net/authors/995116">Yongseok Oh</a></li>
+</ol>
 
 <h3 style="color:#900C3F"> Past and present institutions</h3>
 
