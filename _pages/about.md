@@ -54,8 +54,8 @@ My research is mainly focused on hadron physics, with a particular interest in h
 <p> You can also visit my profile in <a href="https://inspirehep.net/authors/1410710">Inspire-HEP</a>. </p>
 
 <h3 style="color:#900C3F"> Research Interests </h3>
-<button class="btnx success"> Hadron physics </button>
-<button class="btnx success"> Nuclear physics </button>
+<button class="btnx success"> Hadron </button>
+<button class="btnx success"> Nuclei </button>
 <button class="btnx info"> Quark model </button>
 <button class="btnx warning"> Structure </button>
 <button class="btnx warning"> Reaction </button>
