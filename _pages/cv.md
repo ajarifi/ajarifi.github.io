@@ -88,7 +88,7 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 | 2012-2015 | Tanoto Foundation scholarship                      | Bachelor                              |
 
 
-<h2 style="color:#900C3F"> Student mentorship </h2>
+<h2 style="color:#900C3F"> Mentoring Experience</h2>
 
 See: <a href="https://ajarifi.github.io/student/">My students</a>
 
