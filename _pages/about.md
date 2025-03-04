@@ -55,8 +55,10 @@ My research is mainly focused on hadron physics, with a particular interest in h
 
 <h3 style="color:#900C3F"> Research Interests </h3>
 <button class="btnx success"> Hadron physics </button>
+<button class="btnx success"> Nuclear physics </button>
 <button class="btnx info"> Quark model </button>
-<button class="btnx warning"> Dalitz plot </button>
+<button class="btnx warning"> Structure </button>
+<button class="btnx warning"> Reaction </button>
 
 <h3 style="color:#900C3F"> Co-Authors </h3>
 
