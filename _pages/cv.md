@@ -101,9 +101,16 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 * <b>Chair</b>, International Workshop on Quark Structure of Hadron,\
   RIKEN, Aug 2024\
   <i> Organizing an international workshop in RIKEN. <a href="https://ajarifi.github.io/activity/">(Details)</a> </i>
-* <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
+* <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC),\
   Osaka university, Oct 2017\
   <i> Making sure that the conference is sucessfully held. </i> <a href="/files/ISASC.pdf">(Abstract book)</a> 
+
+<h2 style="color:#900C3F"> Programming </h2>
+
+* Python (Main)
+* Julia (Secondary)
+* Mathematica (Sometimes)
+* Fortran (In the past)
 
 <h2 style="color:#900C3F"> Language </h2>
 
