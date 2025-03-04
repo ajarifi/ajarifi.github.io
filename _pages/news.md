@@ -20,21 +20,27 @@ redirect_from:
   My h-index reaches 10.
 
 * <button class="btn--article-red">News</button> (2025, 01, 13)<br>
-  First time to Publish an article in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.016011"> Physical Review D </a>. with an Indonesian student. 
+  First time to Publish an article in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.016011"> Physical Review D </a> with an Indonesian student. 
   
 <h2> 2024 </h2>
 
 * <button class="btn--article-red">News</button> (2024, 12, 30)<br>
-  First time to Publish an article in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.114046"> Physical Review D </a>. with a Thai student. 
+  First time to Publish an article in <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.114046"> Physical Review D </a> with a Thai student. 
+
+* <button class="btn--article-blue">Workshop </button> (2023, 9, 22-27) <br> 
+  First time to visit China and join FB2023 in Beijing, China.
 
 * <button class="btn--article-black">Milestone</button> (2024, 08, 26)<br>
   Passed the Japanese Language Proficiency Test (JLPT): N2 (Upper intermediete level).
   
-* <button class="btn--article-blue">Workshop </button> (2021, 8, 9-10)  <br> 
+* <button class="btn--article-blue">Workshop </button> (2021, 8, 9-10) <br> 
   Sucessfully organized the workshop on quark structure of hadrons at RIKEN.
 
 <h2> 2023 </h2>
 
+* <button class="btn--article-blue">Workshop </button> (2023, 6, 5-9)  <br> 
+  First time to visit Europe and join Hadron 2023 in Geneva, Italy. 
+  
 * <button class="btn--article">Job</button> (2023, 04, 01)<br>
   Moving from Korea to Japan: Working as a postdoc in RIKEN, Saitama.<br>
   Joining as SPDR in Few-body systems in physics lab.
