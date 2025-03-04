@@ -72,12 +72,12 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 
 <h2 style="color:#900C3F"> Student mentorship </h2>
 
-* <b> 3 Master students</b> <br>
-  <i> 2 students (Khon Kaen University, Thailand)</i> <br>
-  <i> 1 student (University of Indonesia, Indonesia)</i> 
+<b> Master students</b> 
+* <i> 2 students (Khon Kaen University, Thailand)</i>
+* <i> 1 student (University of Indonesia, Indonesia)</i> 
 
-* <b> 2 Bachelor students</b> <br>
-  <i> 2 students (University of Indonesia, Indonesia)</i> 
+<b> Bachelor students</b> 
+* <i> 2 students (University of Indonesia, Indonesia)</i> 
 
 
 <h2 style="color:#900C3F"> Community Service </h2>
