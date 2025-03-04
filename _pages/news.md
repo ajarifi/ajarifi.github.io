@@ -48,7 +48,7 @@ redirect_from:
 <h2> 2022 </h2>
 
 * <button class="btn--article-black">Milestone</button> (2022, 08, 01)  <br>
-  First time to mentor students from University of Indonesia and Kon Khen University (Thailand) for their thesis.
+  First time to mentor students from University of Indonesia and Khon Kaen University (Thailand) for their thesis.
 
 * <button class="btn--article-black">Milestone</button> (2022, 07, 26) <br>
   My first 100 citations on my research articles.
