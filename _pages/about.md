@@ -12,9 +12,9 @@ Advanced Science Research Center, JAEA <br>
 2-4 Shirakata, Muramatsu, Tokai village, Ibaraki Japan <br>
 E-mail: arifi.jafar(at)jaea.go.jp
 
+<!--  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
+-->
 <a href="https://clustrmaps.com/site/1bzly" sytle="width: 80%;"><img src="//www.clustrmaps.com/map_v2.png?d=t5qTXct6rWdQ5_VQosfOCAWuxy1RnvKVTV1op0MieMM&cl=ffffff" /></a>
 
 <p style="margin-bottom:1.2cm;"></p>
