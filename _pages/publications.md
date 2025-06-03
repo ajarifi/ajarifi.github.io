@@ -36,6 +36,13 @@ My simplified role: [https://duniahadron.com/2024/05/12/credit/](https://duniaha
 
 <div class="containerz">
 
+  <div class="filterDiv article proceeding" style="width:100%"><h2>2025</h2></div>
+  
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b>Beyond leading twist: ρ meson decay constants and distribution amplitudes in a self-consistent light-front quark model</b><br>
+      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Jun 04, 2025)<br> 
+      Published in: [<a href="#"> ArXiv: 2506.XXX </a>].  </div>
+
+
   <div class="filterDiv article proceeding" style="width:100%"><h2>2024</h2></div>
 
 
@@ -48,7 +55,7 @@ My simplified role: [https://duniahadron.com/2024/05/12/credit/](https://duniaha
 
   <div style="margin-bottom: 25px;" class="filterDiv article"><b> In-medium electromagnetic form factors of pseudoscalar mesons from the quark model </b><br>
       <button class="btn--article">Article</button>  <b style="color:#900C3F"> A. J. Arifi</b>,  P. T. P. Parada, and K. Tsushima  (Dec, 2024)<br> 
-      Published in: [<a href="https://arxiv.org/abs/2412.09883"> Arxiv:2412.09883 </a>]. <br>
+      Published in: <i> <a href="https://doi.org/10.1103/PhysRevD.111.074004"> Phys. Rev. D 111, 074004 (2025)</a>,</i> [<a href="https://arxiv.org/abs/2412.09883"> Arxiv:2412.09883 </a>]. <br>
   </div>
   
 
