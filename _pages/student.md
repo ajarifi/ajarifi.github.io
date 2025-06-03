@@ -45,7 +45,6 @@ author_profile: false
   <li style="margin-bottom: 25px;">
       <b>Nongnaphat Ponkhuha</b><br>
       <button class="btn--article">Master</button>&nbsp; Khon Kaen University, Thailand (2022 - 2024). <br>
-      Thesis: <em>Charmed baryon interactions and decays</em><br>
   </li> 
 
   <li style="margin-bottom: 25px;">
