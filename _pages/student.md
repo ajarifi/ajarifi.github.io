@@ -17,12 +17,6 @@ author_profile: false
 </div>
 
 <ol reversed>    
-
-  <li style="margin-bottom: 25px;">
-      <b>Nantana Monkata</b><br>
-      <button class="btn--article">Master</button>&nbsp; Khon Kaen University, Thailand (2024-present). <br>
-  </li> 
-
   <li style="margin-bottom: 25px;">
       <b>Rayn Rasyid</b><br>
       <button class="btn--article-blue">Bachelor</button>&nbsp; University of Indonesia, Indonesia (2025-present). <br>
@@ -36,11 +30,16 @@ author_profile: false
 </div>
 
 <ol reversed>    
-  <li style="margin-bottom: 25px;">
+
+<li style="margin-bottom: 25px;">
+  <b>Nantana Monkata</b><br>
+  <button class="btn--article">Master</button>&nbsp; Khon Kaen University, Thailand (2024 - 2025). <br>
+</li> 
+
+
+<li style="margin-bottom: 25px;">
       <b>Muhammad Ridwan</b><br>
       <button class="btn--article">Master</button>&nbsp; University of Indonesia, Indonesia (2022 - 2024). <br>
-      Thesis: <em>Analysis of observable quantities in heavy pseudoscalar and vector mesons in the 1S, 2S, and 3S states using the light-front quark model.</em><br>
-<!--       News: He was recognized as the best master's physics student at the University of Indonesia. -->
   </li> 
   
   <li style="margin-bottom: 25px;">
@@ -52,7 +51,5 @@ author_profile: false
   <li style="margin-bottom: 25px;">
       <b>M. Fauzan Syahbana</b><br>
       <button class="btn--article-blue">Bachelor</button>&nbsp; University of Indonesia, Indonesia (2022 - 2023). <br>
-<!--       Thesis: <em>Distribution amplitude and decay constants of light mesons in the mixed states of 1S and 2S in the light-front quark model.</em><br> -->
-<!--       News: After graduation, he is pursuing a master's degree at Osaka University. -->
   </li> 
 </ol>
