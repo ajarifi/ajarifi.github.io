@@ -54,7 +54,7 @@ My simplified role: [https://duniahadron.com/2024/05/12/credit/](https://duniaha
   
 
   <div style="margin-bottom: 25px;" class="filterDiv article"><b> In-medium electromagnetic form factors of pseudoscalar mesons from the quark model </b><br>
-      <button class="btn--article">Article</button>  <b style="color:#900C3F"> A. J. Arifi</b>,  P. T. P. Parada, and K. Tsushima  (Dec, 2024)<br> 
+      <button class="btn--article">Article</button>  <b style="color:#900C3F"> A. J. Arifi</b>,  P. T. P. Hutauruk, and K. Tsushima  (Dec, 2024)<br> 
       Published in: <i> <a href="https://doi.org/10.1103/PhysRevD.111.074004"> Phys. Rev. D 111, 074004 (2025)</a>,</i> [<a href="https://arxiv.org/abs/2412.09883"> Arxiv:2412.09883 </a>]. <br>
   </div>
   
@@ -93,7 +93,7 @@ My simplified role: [https://duniahadron.com/2024/05/12/credit/](https://duniaha
   </div>
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b> In-medium properties of the light and heavy-light mesons in a light-front quark model </b><br>
-      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P.T.P. Parada, and K. Tsushima (Feb 23, 2023)<br> 
+      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P.T.P. Hutauruk, and K. Tsushima (Feb 23, 2023)<br> 
       Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.107.114010"> Phys.Rev.D 107, 114010 (2023) </a>,
       </i> [<a href="https://arxiv.org/abs/2302.12382"> ArXiv: 2302.12382 </a>].
   </div>
