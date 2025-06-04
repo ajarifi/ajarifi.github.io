@@ -40,7 +40,7 @@ My simplified role: [https://duniahadron.com/2024/05/12/credit/](https://duniaha
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Beyond leading twist: ρ meson decay constants and distribution amplitudes in a self-consistent light-front quark model</b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Jun 04, 2025)<br> 
-      Published in: [<a href="#"> ArXiv: 2506.XXX </a>].  </div>
+      Published in: [<a href="https://arxiv.org/abs/2506.02844"> ArXiv: 2506.02844 </a>].  </div>
 
 
   <div class="filterDiv article proceeding" style="width:100%"><h2>2024</h2></div>
