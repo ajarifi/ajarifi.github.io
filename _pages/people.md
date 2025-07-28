@@ -135,7 +135,7 @@ where I have shared a photo album of my memories with collaborators and from sci
     <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
       <img src="/images/avatar_c1.png" alt="Avatar" style="width: 100%;">
       <div class="containerw">
-        <h3><b>Samson <br> Clymton</b></h3> 
+        <h3><b>Dr. Samson <br> Clymton</b></h3> 
         <p>Inha U.</p> 
       </div>
     </div>
