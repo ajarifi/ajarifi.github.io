@@ -233,7 +233,7 @@ where I have shared a photo album of my memories with collaborators and from sci
     <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
       <img src="/images/avatar_nongnaphat.jpeg" alt="Avatar" style="width: 100%;">
       <div class="containerw">
-        <h3><b>Nongnaphat <br> Ponkhuha</b></h3> 
+        <h3><b>Nongnaphat <br> Ponkhuha (Por)</b></h3> 
         <p> Master, <br> Khon Kaen Univ.</p> 
       </div>
     </div>
@@ -246,7 +246,7 @@ where I have shared a photo album of my memories with collaborators and from sci
 <div class="w3-row">
   <div class="w3-third">
     <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar1.jpeg" alt="Avatar" style="width: 100%;">
+      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
       <div class="containerw">
         <h3><b>Rayn Rasyid <br>Harjapradipta </b></h3> 
         <p>Bachelor, <br> Univ. of Indonesia</p> 
@@ -254,5 +254,15 @@ where I have shared a photo album of my memories with collaborators and from sci
     </div>
   </div>
   
-  
+  <div class="w3-third">
+    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="/images/avatar2.png" alt="Avatar" style="width: 100%;">
+      <div class="containerw">
+        <h3><b>Nantana <br> Monkata (Apple)</b></h3> 
+        <p> Master, <br> Khon Kaen Univ.</p> 
+      </div>
+    </div>
+  </div>
+
+
 </div>
