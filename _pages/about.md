@@ -72,6 +72,7 @@ My research is mainly focused on hadron physics, with a particular interest in h
     <li><a href="https://inspirehep.net/authors/996306">Hideko Nagahiro</a></li>
     <li><a href="https://inspirehep.net/authors/1013647">Ho-Meoyng Choi</a></li>
     <li><a href="https://inspirehep.net/authors/985499">Kazuo Tsushima</a></li>
+    <li><a href="https://inspirehep.net/authors/1273503">Kei Suzuki</a></li>  
     <li><a href="https://inspirehep.net/authors/986596">Kiyoshi Tanida</a></li>
     <li><a href="https://scholar.google.com/citations?user=YqAU9yAAAAAJ&hl=id&oi=ao">Lucas Happ</a></li>
     <li><a href="https://inspirehep.net/authors/995042">Makoto Oka</a></li>

@@ -199,6 +199,20 @@ where I have shared a photo album of my memories with collaborators and from sci
   
 </div>
 
+<div class="w3-row">
+  
+  <div class="w3-third">
+    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
+      <div class="containerw">
+        <h3><b>Dr. Kei <br> Suzuki</b></h3> 
+        <p>JAEA</p> 
+      </div>
+    </div>
+  </div>
+
+  
+</div>
 
 <p style="margin-bottom: 1cm;"></p>
 
