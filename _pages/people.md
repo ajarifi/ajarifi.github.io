@@ -241,3 +241,18 @@ where I have shared a photo album of my memories with collaborators and from sci
   
 </div>
 
+<p style="margin-bottom: 1cm;"></p>
+
+<div class="w3-row">
+  <div class="w3-third">
+    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
+      <img src="/images/avatar1.jpeg" alt="Avatar" style="width: 100%;">
+      <div class="containerw">
+        <h3><b>Rayn Rasyid <br>Harjapradipta </b></h3> 
+        <p>Bachelor, <br> Univ. of Indonesia</p> 
+      </div>
+    </div>
+  </div>
+  
+  
+</div>

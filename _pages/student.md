@@ -18,7 +18,7 @@ author_profile: false
 
 <ol reversed>    
   <li style="margin-bottom: 25px;">
-      <b>Rayn Rasyid</b><br>
+      <b>Rayn Rasyid Harjapradipta</b><br>
       <button class="btn--article-blue">Bachelor</button>&nbsp; University of Indonesia, Indonesia (2025-present). <br>
   </li> 
 </ol>
@@ -52,3 +52,4 @@ author_profile: false
       <button class="btn--article-blue">Bachelor</button>&nbsp; University of Indonesia, Indonesia (2022 - 2023). <br>
   </li> 
 </ol>
+
