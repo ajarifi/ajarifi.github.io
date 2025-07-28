@@ -29,6 +29,8 @@ E-mail: aj.arifi01(at)google.com <br>
   Website: <a href="https://indico.global/event/13949/">https://indico.global/event/13949/</a>
 </div>
 
+<p style="margin-bottom:0.5cm;"></p>
+
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
   <strong>Quarks and Compact Stars (QCS 2026)</strong> <br>
