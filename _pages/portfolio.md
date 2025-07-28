@@ -134,17 +134,3 @@ of the intricate dynamics governing hadronic systems and their relevance in the 
   </li>
 </ol>
 
-
-<!-- <p style="margin-bottom: 2.5cm;"></p>
-
-<div style="display: block;background-color:white;position: sticky;top: 0px; padding: 10px 0px 10px 0px;box-shadow: 0 4px 2px -2px gray;z-index: 1;"> 
-  <h1 style="color:#000080"> Research projects </h1> </div>
-
-<p style="margin-bottom: 1.5cm;"></p>
-
-{% include base_path %}
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
