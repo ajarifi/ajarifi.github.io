@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Researcher, <br>
+Junior Researcher, <br>
 Advanced Science Research Center, JAEA <br>
 2-4 Shirakata, Tokai village, Ibaraki 319-1195, Japan <br>
 E-mail: arifi.jafar(at)jaea.go.jp
