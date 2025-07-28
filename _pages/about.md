@@ -23,12 +23,20 @@ E-mail: aj.arifi01(at)google.com <br>
 
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong style="color: blue;">News:</strong> <br>
   <strong>Southeast Asian Workshop on Nuclear and Hadron Physics</strong> <br>
   Date: August 19–21, 2025 <br>
   Location: Universitas Gadjah Mada, Indonesia <br>
   Website: <a href="https://indico.global/event/13949/">https://indico.global/event/13949/</a>
 </div>
+
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong>Quarks and Compact Stars (QCS 2026)</strong> <br>
+  Date: April 29 - May 02, 2026 <br>
+  Location: JAEA Tokai Mirai Base, Ibaraki, Japan <br>
+  Website: <a href="https://indico2.riken.jp/event/5301/">https://indico2.riken.jp/event/5301/</a>
+</div>
+
 
 <p style="margin-bottom:1.2cm;"></p>
 

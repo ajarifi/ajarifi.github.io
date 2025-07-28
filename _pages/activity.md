@@ -21,8 +21,17 @@ This page showcases my scientific activities, including seminars, workshops, and
       <b>Link</b>: <a href="https://indico.global/event/13949/">[Indico page]</a>  &nbsp; <br>
   </li>
   
+  <li style="margin-bottom: 25px;">
+      <b> Quarks and Compact Stars (QCS 2026)</b><br> 
+      <button class="btn--article"> Workshop </button>&nbsp;<br>
+      <b>Date & time</b>: April 29 - May 02, 2026  <br>
+      <b>Place</b>: JAEA Tokai Mirai Base, Ibaraki, Japan <br>
+      <b>Link</b>: <a href="https://indico2.riken.jp/event/5301/">[Indico page]</a>  &nbsp; <br>
+  </li>
   
 </ol>
+
+
 
 <p style="margin-bottom:2cm;"></p>
 
