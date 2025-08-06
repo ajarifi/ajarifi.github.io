@@ -47,12 +47,8 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
   <li>Bandung Institute of Technology (ITB); </li>
   <li>IPB University;</li>
   <li>Sepuluh Nopember Institute of Technology (ITS); </li>
-  <li>Indonesia University of Education (UPI);</li>
   <li>Padjadjaran University (UNPAD);</li>
-  <li>Jenderal Soedirman University (UNSEOD); </li>
-  <li>State University of Semarang (UNNES);</li>
   <li>State University of Jakarta (UNJ);</li>
-  <li>Univeritas Islam Negeri (UIN) Jakarta;</li>
   <li>Univeritas Islam Negeri (UIN) Yogyakarta; </li>
 </ul>
 
@@ -108,12 +104,7 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
   <li>Kobe University; </li>
   <li>Okayama University; </li>
   <li>Utsunomiya University;</li>
-  <li>Gunma University; </li>
-  <li>Miyazaki University;</li>
   <li>Waseda University;</li>
-  <li>Yamagata University;</li>
-  <li>Yamaguchi University;</li>
-  <li>Nara Institute of Science and Technology (NAIST);</li>
 </ul>
 
 
