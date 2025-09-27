@@ -39,7 +39,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Heavy Quarkonia in the Light-Front Quark Model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Aug 28, 2025)<br>
-      Published in: [<a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145  </a>]. Contribution to the 21st International Conference on Hadron Spectroscopy and Structure (Hadron 2025).</div
+      Published in: [<a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145  </a>]. Contribution to: HADRON 2025.</div
 
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Structure of heavy quarkonia under strong magnetic field</b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b> and K. Suzuki (Jul 26, 2025)<br> 
@@ -47,7 +47,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
   
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>M1 Radiative Transition of Light Mesons in the Light-Front Quark Model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Jul 4, 2025)<br>
-      Published in: [<a href="https://arxiv.org/abs/2507.03437"> ArXiv: 2507.03437 </a>]. Contribution to the 14th International Physics Seminar (IPS) 2025.</div>
+      Published in: [<a href="https://arxiv.org/abs/2507.03437"> ArXiv: 2507.03437 </a>]. Contribution to: IPS 2025.</div>
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Beyond leading twist: ρ meson decay constants and distribution amplitudes in a self-consistent light-front quark model</b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Jun 04, 2025)<br> 
