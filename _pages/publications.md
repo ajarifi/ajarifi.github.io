@@ -37,7 +37,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
   <div class="filterDiv article proceeding" style="width:100%"><h2>2025</h2></div>
 
-  <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Heavy Quarkonia in the Light-Front Quark Model</b><br> 
+  <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Heavy quarkonia in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Aug 28, 2025)<br>
       Published in: [<a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145  </a>]. Contribution to: HADRON 2025.</div>
 
@@ -45,7 +45,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b> and K. Suzuki (Jul 26, 2025)<br> 
       Published in: [<a href="https://arxiv.org/abs/2507.18894"> ArXiv: 2507.18894 </a>]. </div>
   
-  <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>M1 Radiative Transition of Light Mesons in the Light-Front Quark Model</b><br> 
+  <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>M1 radiative transition of light mesons in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Jul 4, 2025)<br>
       Published in: [<a href="https://arxiv.org/abs/2507.03437"> ArXiv: 2507.03437 </a>]. Contribution to: IPS 2025.</div>
   
