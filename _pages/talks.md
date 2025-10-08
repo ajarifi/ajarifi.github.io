@@ -20,11 +20,7 @@ This page provides a comprehensive list of my past and upcoming talks, which wil
 </div>
 
 <ol>  
- <li style="margin-bottom: 25px;"><b> Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
-     <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.global/event/13949/" > Yogyakarta, Indonesia</a> (August 19-21, 2025) <br> </li> 
 
-<li style="margin-bottom: 25px;"><b> The 9th Asia-Pacific conference on Few-body problems in Physics </b><br> 
-   <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.rcnp.osaka-u.ac.jp/event/2537/" > Ho Chi Minh, Vietnam </a> (Sept 8-12, 2025)<br> </li> 
 
 </ol>
 
@@ -38,6 +34,12 @@ This page provides a comprehensive list of my past and upcoming talks, which wil
 
 <h2> 2025 </h2>
 
+<li style="margin-bottom: 25px;"><b> The 9th Asia-Pacific conference on Few-body problems in Physics </b><br> 
+   <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.rcnp.osaka-u.ac.jp/event/2537/" > Ho Chi Minh, Vietnam </a> (Sept 8-12, 2025)<br> </li> 
+
+ <li style="margin-bottom: 25px;"><b> Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
+     <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.global/event/13949/" > Yogyakarta, Indonesia</a> (August 19-21, 2025) <br> </li> 
+     
   <li style="margin-bottom: 25px;"><b> The 21st International Conference on Hadron Spectroscopy and Structure </b><br> 
    <button class="btn--article">Conference</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.rcnp.osaka-u.ac.jp/event/2402/overview" > Osaka University, Japan </a> (March 27-31, 2025)<br> </li> 
 
