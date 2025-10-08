@@ -102,7 +102,7 @@ where I have shared a photo album of my memories with collaborators and from sci
 
   <div class="w3-third" >
     <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_kazuo.jpg" alt="Avatar" style="width: 100%;">
+      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
       <div class="containerw">
         <h3><b>Prof. Kazuo <br> Tsushima </b></h3> 
         <p>U. Cruzeiro do Sul</p> 
