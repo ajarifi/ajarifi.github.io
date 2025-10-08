@@ -14,14 +14,6 @@ This page showcases my scientific activities, including seminars, workshops, and
 <ol>
 
   <li style="margin-bottom: 25px;">
-      <b> Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
-      <button class="btn--article"> Workshop </button>&nbsp;<br>
-      <b>Date & time</b>: 19-21 August 2024 <br>
-      <b>Place</b>: UGM, Yogyakarta, Indonesia <br>
-      <b>Link</b>: <a href="https://indico.global/event/13949/">[Indico page]</a>  &nbsp; <br>
-  </li>
-  
-  <li style="margin-bottom: 25px;">
       <b> Quarks and Compact Stars (QCS 2026)</b><br> 
       <button class="btn--article"> Workshop </button>&nbsp;<br>
       <b>Date & time</b>: April 29 - May 02, 2026  <br>
@@ -41,6 +33,14 @@ This page showcases my scientific activities, including seminars, workshops, and
 
 <ol reversed>
 
+  <li style="margin-bottom: 25px;">
+      <b> Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
+      <button class="btn--article"> Workshop </button>&nbsp;<br>
+      <b>Date & time</b>: 19-21 August 2024 <br>
+      <b>Place</b>: UGM, Yogyakarta, Indonesia <br>
+      <b>Link</b>: <a href="https://indico.global/event/13949/">[Indico page]</a>  &nbsp; <br>
+  </li>
+  
   <li style="margin-bottom: 25px;">
       <b> International workshop on quark structure of hadrons </b><br> 
       <button class="btn--article"> RIKEN Workshop </button>&nbsp;<br>
