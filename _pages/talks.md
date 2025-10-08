@@ -19,10 +19,10 @@ This page provides a comprehensive list of my past and upcoming talks, which wil
   <h1 style="color:#000080; margin: 0;">My Schedule</h1> 
 </div>
 
-<ol>  
+<!-- <ol>  
+</ol> -->
 
-
-</ol>
+<p style="margin-bottom: 2.5cm;"></p>
 
 <p style="margin-bottom: 1.5cm;"></p>
 
