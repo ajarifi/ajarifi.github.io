@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Junior Researcher, <br>
+JAEA Researcher, <br>
 Advanced Science Research Center, JAEA <br>
 2-4 Shirakata, Tokai village, Ibaraki 319-1195, Japan <br>
 E-mail: arifi.jafar(at)jaea.go.jp (for official use only)<br>
@@ -20,16 +20,6 @@ E-mail: aj.arifi01(at)google.com <br>
 
 <p style="margin-bottom:1.2cm;"></p>
 
-
-<div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong>Southeast Asian Workshop on Nuclear and Hadron Physics</strong> <br>
-  Date: August 19–21, 2025 <br>
-  Location: Universitas Gadjah Mada, Indonesia <br>
-  Website: <a href="https://indico.global/event/13949/">https://indico.global/event/13949/</a>
-</div>
-
-<p style="margin-bottom:0.5cm;"></p>
 
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
