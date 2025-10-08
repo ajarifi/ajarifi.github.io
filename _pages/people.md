@@ -4,279 +4,300 @@ permalink: /collaboration/
 author_profile: false
 ---
 
-<p align="justify">
-On this page, you can find a list of my research collaborators. Additionally, for a broader overview of my academic network, 
-you may want to visit <a href="https://academictree.org/physics/tree.php?pid=871077">Academic Tree</a>. </p>
+<style>
+/* ---------- General styles ---------- */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+  color: #222;
+}
 
-<!-- <p align="justify">
-Please visit <a href="https://photos.app.goo.gl/ECJCxaNPc3HHSGLD6"> Memory (google photos)</a> 
-where I have shared a photo album of my memories with collaborators and from scientific meetings. </p> -->
+p {
+  max-width: 900px;
+  margin: 0 auto 1.5rem auto;
+  padding: 0 1rem;
+  text-align: justify;
+}
 
+/* ---------- Section titles ---------- */
+.section-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  padding: 0.8rem 0;
+  box-shadow: 0 4px 2px -2px rgba(0,0,0,0.3);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
 
-<p style="margin-bottom: 1.5cm;"></p>
+.section-title h1 {
+  color: #000080;
+  font-size: 1.8rem;
+  margin: 0;
+}
 
-<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
-  <h1 style="color:#000080; margin: 0;">Mentors</h1> 
+/* ---------- Grid for cards ---------- */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  max-width: 1100px;
+  margin: 1.5rem auto;
+  padding: 0 1rem;
+}
+
+/* ---------- Card design ---------- */
+.card {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.card .info {
+  padding: 0.8rem;
+}
+
+.card .info h3 {
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+}
+
+.card .info p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* ---------- Spacing between sections ---------- */
+.section-space {
+  margin-bottom: 2rem;
+}
+
+/* ---------- Responsive font sizes ---------- */
+@media (max-width: 600px) {
+  .section-title h1 {
+    font-size: 1.5rem;
+  }
+  .card .info h3 {
+    font-size: 1rem;
+  }
+  .card .info p {
+    font-size: 0.85rem;
+  }
+}
+</style>
+
+<!-- ---------- Page Intro ---------- -->
+<p>
+On this page, you can find a list of my research collaborators. 
+For a broader overview of my academic network, you may visit 
+<a href="https://academictree.org/physics/tree.php?pid=871077">Academic Tree</a>.
+</p>
+
+<div class="section-space"></div>
+
+<!-- ---------- Mentors ---------- -->
+<div class="section-title"><h1>Mentors</h1></div>
+
+<div class="cards-grid">
+  <div class="card">
+    <img src="/images/avatar_p1.png" alt="Prof. Terry Mart">
+    <div class="info">
+      <h3>Prof. Terry<br>Mart</h3>
+      <p>Univ. of Indonesia</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar_p2.png" alt="Prof. Atsushi Hosaka">
+    <div class="info">
+      <h3>Prof. Atsushi<br>Hosaka</h3>
+      <p>RCNP, Osaka U.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar2.png" alt="Prof. Hideko Nagahiro">
+    <div class="info">
+      <h3>Prof. Hideko<br>Nagahiro</h3>
+      <p>Nara Women’s U.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar1.png" alt="Prof. Yongseok Oh">
+    <div class="info">
+      <h3>Prof. Yongseok<br>Oh</h3>
+      <p>Kyungpook Nat. U.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar1.png" alt="Prof. Ho-Meoyng Choi">
+    <div class="info">
+      <h3>Prof. Ho-Meoyng<br>Choi</h3>
+      <p>Kyungpook Nat. U.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar_p3.png" alt="Prof. Chueng-Ryong Ji">
+    <div class="info">
+      <h3>Prof. Chueng-Ryong<br>Ji</h3>
+      <p>North Carolina S. U.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar_p7.png" alt="Prof. Kiyoshi Tanida">
+    <div class="info">
+      <h3>Prof. Kiyoshi<br>Tanida</h3>
+      <p>JAEA</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar1.png" alt="Prof. Kazuo Tsushima">
+    <div class="info">
+      <h3>Prof. Kazuo<br>Tsushima</h3>
+      <p>U. Cruzeiro do Sul</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar_makoto.jpeg" alt="Prof. Makoto Oka">
+    <div class="info">
+      <h3>Prof. Makoto<br>Oka</h3>
+      <p>RIKEN</p>
+    </div>
+  </div>
 </div>
 
-<p style="margin-bottom: 1cm;"></p>
+<div class="section-space"></div>
 
-<div class="w3-row">
-  <div class="w3-third" >
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_p1.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Prof. Terry <br> Mart</b></h3> 
-        <p>Univ. of Indonesia</p> 
-      </div>
-    </div>
-  </div>
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_p2.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Prof. Atsushi Hosaka</b></h3> 
-        <p>RCNP, Osaka U.</p> 
-      </div>
-    </div>
-  </div>
-  
-  <div class="w3-third" >
-    <div class="card"  style="display: block; margin-left: auto; margin-right: auto;" >
-      <img src="/images/avatar2.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Prof. Hideko Nagahiro</b></h3> 
-        <p>Nara women's U. </p> 
-      </div>
-    </div>
-  </div>
-</div>
+<!-- ---------- Colleagues ---------- -->
+<div class="section-title"><h1>Colleagues</h1></div>
 
-<p style="margin-bottom: 1cm;"></p>
+<div class="cards-grid">
+  <div class="card">
+    <img src="/images/avatar1.png" alt="Dr. Samson Clymton">
+    <div class="info">
+      <h3>Dr. Samson<br>Clymton</h3>
+      <p>Inha U.</p>
+    </div>
+  </div>
 
-<div class="w3-row" >
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Prof. Yongseok<br> Oh </b></h3> 
-        <p>Kyungpook Nat. U.</p> 
-      </div>
+  <div class="card">
+    <img src="/images/avatar_daiki.jpeg" alt="Dr. Daiki Suenaga">
+    <div class="info">
+      <h3>Dr. Daiki<br>Suenaga</h3>
+      <p>RIKEN</p>
     </div>
   </div>
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Prof. Ho-Meoyng Choi</b></h3> 
-        <p>Kyungpook Nat. U.</p> 
-      </div>
+
+  <div class="card">
+    <img src="/images/avatar_parada.jpeg" alt="Dr. Parada T. P. Hutauruk">
+    <div class="info">
+      <h3>Dr. Parada T.P.<br>Hutauruk</h3>
+      <p>Pukyong Nat. U.</p>
     </div>
   </div>
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_p3.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Prof. Chueng-Ryong Ji</b></h3> 
-        <p>North Carolina S. U.</p> 
-      </div>
+
+  <div class="card">
+    <img src="/images/avatar_daris.jpeg" alt="Dr. Daris Samart">
+    <div class="info">
+      <h3>Dr. Daris<br>Samart</h3>
+      <p>Khon Kaen U.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar_lucas.jpeg" alt="Dr. Lucas Happ">
+    <div class="info">
+      <h3>Dr. Lucas<br>Happ</h3>
+      <p>RIKEN</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar_shuhei.jpeg" alt="Shuhei Ohno">
+    <div class="info">
+      <h3>Shuhei<br>Ohno</h3>
+      <p>RIKEN</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="/images/avatar1.png" alt="Dr. Kei Suzuki">
+    <div class="info">
+      <h3>Dr. Kei<br>Suzuki</h3>
+      <p>JAEA</p>
     </div>
   </div>
 </div>
 
-<p style="margin-bottom: 1cm;"></p>
+<div class="section-space"></div>
 
-<div class="w3-row" sytle="padding: 10px;">
-  <div class="w3-third" >
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_p7.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Prof. Kiyoshi <br> Tanida </b></h3> 
-        <p>JAEA</p> 
-      </div>
+<!-- ---------- Mentees ---------- -->
+<div class="section-title"><h1>Mentees</h1></div>
+
+<div class="cards-grid">
+  <div class="card">
+    <img src="/images/avatar_s1.jpeg" alt="Muhammad Ridwan">
+    <div class="info">
+      <h3>Muhammad<br>Ridwan</h3>
+      <p>Master, Univ. of Indonesia</p>
     </div>
   </div>
 
-  <div class="w3-third" >
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Prof. Kazuo <br> Tsushima </b></h3> 
-        <p>U. Cruzeiro do Sul</p> 
-      </div>
+  <div class="card">
+    <img src="/images/avatar_s2.jpeg" alt="M. Fauzan Syahbana">
+    <div class="info">
+      <h3>M. Fauzan<br>Syahbana</h3>
+      <p>Bachelor, Univ. of Indonesia</p>
     </div>
   </div>
 
-  <div class="w3-third" >
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_makoto.jpeg" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Prof. Makoto <br> Oka </b></h3> 
-        <p> RIKEN </p> 
-      </div>
-    </div>
-  </div>
-  
-</div>
-
-<p style="margin-bottom: 1cm;"></p>
-
-<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
-  <h1 style="color:#000080; margin: 0;">Colleagues</h1> 
-</div>
-
-<p style="margin-bottom: 1cm;"></p>
-
-<div class="w3-row">
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Dr. Samson <br> Clymton</b></h3> 
-        <p>Inha U.</p> 
-      </div>
-    </div>
-  </div>
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_daiki.jpeg" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Dr. Daiki <br> Suenaga</b></h3> 
-        <p>RIKEN </p> 
-      </div>
-    </div>
-  </div>
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_parada.jpeg" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Dr. Parada T. P.<br> Hutauruk</b></h3> 
-        <p>Pukyong Nat. U. </p> 
-      </div>
-    </div>
-  </div>
-  
-</div>
-
-<p style="margin-bottom: 1cm;"></p>
-
-<div class="w3-row">
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_daris.jpeg" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Dr. Daris <br> Samart</b></h3> 
-        <p>Khon Kaen Univ.</p> 
-      </div>
+  <div class="card">
+    <img src="/images/avatar_nongnaphat.jpeg" alt="Nongnaphat Ponkhuha">
+    <div class="info">
+      <h3>Nongnaphat<br>Ponkhuha (Por)</h3>
+      <p>Master, Khon Kaen U.</p>
     </div>
   </div>
 
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_lucas.jpeg" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Dr. Lucas <br> Happ</b></h3> 
-        <p>RIKEN</p> 
-      </div>
-    </div>
-  </div>
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_shuhei.jpeg" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Shuhei <br> Ohno </b></h3> 
-        <p>RIKEN</p> 
-      </div>
-    </div>
-  </div>
-  
-</div>
-
-<div class="w3-row">
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Dr. Kei <br> Suzuki</b></h3> 
-        <p>JAEA</p> 
-      </div>
+  <div class="card">
+    <img src="/images/avatar1.png" alt="Rayn Rasyid Harjapradipta">
+    <div class="info">
+      <h3>Rayn Rasyid<br>Harjapradipta</h3>
+      <p>Bachelor, Univ. of Indonesia</p>
     </div>
   </div>
 
-  
-</div>
-
-<p style="margin-bottom: 1cm;"></p>
-
-<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
-  <h1 style="color:#000080; margin: 0;">Mentee</h1> 
-</div>
-
-<p style="margin-bottom: 1cm;"></p>
-
-<div class="w3-row">
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_s1.jpeg" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Muhammad <br>Ridwan </b></h3> 
-        <p>Master, <br> Univ. of Indonesia</p> 
-      </div>
+  <div class="card">
+    <img src="/images/avatar2.png" alt="Nantana Monkata">
+    <div class="info">
+      <h3>Nantana<br>Monkata (Apple)</h3>
+      <p>Master, Khon Kaen U.</p>
     </div>
   </div>
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_s2.jpeg" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>M. Fauzan <br> Syahbana</b></h3> 
-        <p> Bachelor, <br> Univ. of Indonesia</p> 
-      </div>
-    </div>
-  </div>
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_nongnaphat.jpeg" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Nongnaphat <br> Ponkhuha (Por)</b></h3> 
-        <p> Master, <br> Khon Kaen Univ.</p> 
-      </div>
-    </div>
-  </div>
-  
-</div>
-
-<p style="margin-bottom: 1cm;"></p>
-
-<div class="w3-row">
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Rayn Rasyid <br>Harjapradipta </b></h3> 
-        <p>Bachelor, <br> Univ. of Indonesia</p> 
-      </div>
-    </div>
-  </div>
-  
-  <div class="w3-third">
-    <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar2.png" alt="Avatar" style="width: 100%;">
-      <div class="containerw">
-        <h3><b>Nantana <br> Monkata (Apple)</b></h3> 
-        <p> Master, <br> Khon Kaen Univ.</p> 
-      </div>
-    </div>
-  </div>
-
-
 </div>
