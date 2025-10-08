@@ -8,9 +8,9 @@ author_profile: false
 On this page, you can find a list of my research collaborators. Additionally, for a broader overview of my academic network, 
 you may want to visit <a href="https://academictree.org/physics/tree.php?pid=871077">Academic Tree</a>. </p>
 
-<p align="justify">
+<!-- <p align="justify">
 Please visit <a href="https://photos.app.goo.gl/ECJCxaNPc3HHSGLD6"> Memory (google photos)</a> 
-where I have shared a photo album of my memories with collaborators and from scientific meetings. </p>
+where I have shared a photo album of my memories with collaborators and from scientific meetings. </p> -->
 
 
 <p style="margin-bottom: 1.5cm;"></p>
@@ -44,7 +44,7 @@ where I have shared a photo album of my memories with collaborators and from sci
   
   <div class="w3-third" >
     <div class="card"  style="display: block; margin-left: auto; margin-right: auto;" >
-      <img src="/images/avatar_p6.png" alt="Avatar" style="width: 100%;">
+      <img src="/images/avatar2.png" alt="Avatar" style="width: 100%;">
       <div class="containerw">
         <h3><b>Prof. Hideko Nagahiro</b></h3> 
         <p>Nara women's U. </p> 
@@ -58,7 +58,7 @@ where I have shared a photo album of my memories with collaborators and from sci
 <div class="w3-row" >
   <div class="w3-third">
     <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_p5.png" alt="Avatar" style="width: 100%;">
+      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
       <div class="containerw">
         <h3><b>Prof. Yongseok<br> Oh </b></h3> 
         <p>Kyungpook Nat. U.</p> 
@@ -68,7 +68,7 @@ where I have shared a photo album of my memories with collaborators and from sci
   
   <div class="w3-third">
     <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_p4.png" alt="Avatar" style="width: 100%;">
+      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
       <div class="containerw">
         <h3><b>Prof. Ho-Meoyng Choi</b></h3> 
         <p>Kyungpook Nat. U.</p> 
@@ -133,7 +133,7 @@ where I have shared a photo album of my memories with collaborators and from sci
 <div class="w3-row">
   <div class="w3-third">
     <div class="card" style="display: block; margin-left: auto; margin-right: auto;">
-      <img src="/images/avatar_c1.png" alt="Avatar" style="width: 100%;">
+      <img src="/images/avatar1.png" alt="Avatar" style="width: 100%;">
       <div class="containerw">
         <h3><b>Dr. Samson <br> Clymton</b></h3> 
         <p>Inha U.</p> 
