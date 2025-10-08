@@ -68,10 +68,12 @@ p {
 
 .card img {
   width: 100%;
-  height: auto;
+  aspect-ratio: 1 / 1;       /* forces square shape */
+  object-fit: cover;
   display: block;
 }
 
+  
 .card .info {
   padding: 0.8rem;
 }
@@ -166,7 +168,7 @@ For a broader overview of my academic network, you may visit
   <div class="card">
     <img src="/images/avatar_p3.png" alt="Prof. Chueng-Ryong Ji">
     <div class="info">
-      <h3>Prof. Chueng-Ryong<br>Ji</h3>
+      <h3>Prof. Chueng-Ryong Ji</h3>
       <p>NCSU</p>
     </div>
   </div>
