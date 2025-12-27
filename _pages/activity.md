@@ -21,7 +21,7 @@ This page showcases my scientific activities, including seminars, workshops, and
       <button class="btn--article"> Workshop </button>&nbsp;<br>
       <b>Date & time</b>: April 29 - May 02, 2026  <br>
       <b>Place</b>: JAEA Tokai Mirai Base, Ibaraki, Japan <br>
-      <b>Link</b>: <a href="https://indico2.riken.jp/event/5301/">[Indico page]</a>  &nbsp; <br>
+      <b>Link</b>: <a href="https://indico2.riken.jp/event/5301/">[Indico page]</a>  &nbsp; (helper) <br>
   </li>
   
 </ol>
@@ -41,7 +41,7 @@ This page showcases my scientific activities, including seminars, workshops, and
       <button class="btn--article"> Workshop </button>&nbsp;<br>
       <b>Date & time</b>: 19-21 August 2024 <br>
       <b>Place</b>: UGM, Yogyakarta, Indonesia <br>
-      <b>Link</b>: <a href="https://indico.global/event/13949/">[Indico page]</a>  &nbsp; <br>
+      <b>Link</b>: <a href="https://indico.global/event/13949/">[Indico page]</a>  &nbsp; (co-chair) <br>
   </li>
   
   <li style="margin-bottom: 25px;">
@@ -49,7 +49,7 @@ This page showcases my scientific activities, including seminars, workshops, and
       <button class="btn--article"> RIKEN Workshop </button>&nbsp;<br>
       <b>Date & time</b>: 9-10 August 2024<br>
       <b>Place</b>: RIKEN (hybrid) <br>
-      <b>Link</b>: <a href="http://duniahadron.com/2024/05/01/quarkhadron2024/">[Web]</a>  &nbsp; <br>
+      <b>Link</b>: <a href="http://duniahadron.com/2024/05/01/quarkhadron2024/">[Web]</a>  &nbsp; (chair) <br>
   </li>
   
   <li style="margin-bottom: 25px;">
