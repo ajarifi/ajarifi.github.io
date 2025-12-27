@@ -39,7 +39,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>A Brief History and Outlook of Hadronic Physics in Indonesia</b><br> 
       <button class="btn--article">Special Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025)    <br> 
-      Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021).</a></i> Contribution to: SEA-NHP 2025 </div>
+      Published in: [<a href="https://arxiv.org/abs/2512.17219"> ArXiv: 2512.17219 </a>]. Contribution to: SEA-NHP 2025 </div>
       
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Heavy quarkonia in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Aug 28, 2025)<br>
