@@ -66,6 +66,7 @@ My research is mainly focused on hadron physics, with a particular interest in h
 
 <ol>
     <li><a href="https://inspirehep.net/authors/1005542">Atsushi Hosaka</a> (Ph.D. Advisor)</li>
+    <li><a href="https://inspirehep.net/authors/2628622">Chalis Setyadi</a></li>
     <li><a href="https://inspirehep.net/authors/1004349">Chueng-Ryong Ji</a></li>
     <li><a href="https://inspirehep.net/authors/1298440">Daiki Suenaga</a></li>
     <li><a href="https://inspirehep.net/authors/1036613">Daris Samart</a></li>
