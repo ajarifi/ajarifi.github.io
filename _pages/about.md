@@ -42,7 +42,7 @@ E-mail: aj.arifi01(at)gmail.com <br>
 
 <h2 style="color:#000080">  Personal </h2>
 
-<p align="justify"> Greetings! I am a theoretical physicist with expertise in nuclear hadron physics. I earned my undergraduate degree in the physics department of Universitas Indonesia, working under the guidance of Prof. Terry Mart. Subsequently, I moved to Osaka University to pursue a Ph.D. in physics, where I had the privilege of working with Prof. Atsushi Hosaka to study heavy baryon decays in the quark model. I also had the opportunity to complete an internship at JAEA for six months to work with Belle experimentalists. Though my graduation coincided with the Covid-19 pandemic, I was fortunate enough to secure a position at APCTP. There I have been conducting research on the light-front quark model, with the guidance of Prof. Chueng-Ryong Ji and other professors. Currently I am working at RIKEN. </p>
+<p align="justify"> I am a theoretical physicist working in nuclear and hadron physics. I earned my Bachelor’s degree from the Department of Physics at Universitas Indonesia in 2015 and completed my Ph.D. in physics at Osaka University in 2020. During my doctoral studies, I also undertook a six-month internship at the Japan Atomic Energy Agency (JAEA), which provided valuable exposure to experimental research environments. Following my Ph.D., I joined the Asia Pacific Center for Theoretical Physics (APCTP), South Korea, as a Young Scientist Training (YST) Fellow. I later worked at RIKEN, Japan, as a Special Postdoctoral Researcher (SPDR). Currently, I am working at Advanced Science Research Center (ASRC), JAEA. </p>
  
 <center><img src="images/cover.png" alt="cover" width="100%"></center> 
 
