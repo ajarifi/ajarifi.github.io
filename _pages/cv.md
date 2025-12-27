@@ -75,14 +75,15 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 **Research Grants**
 
-| Year      | Grant                                              | Amount                                |
+| Year      | Research Grant                                     | Amount                                |
 |-----------|----------------------------------------------------|---------------------------------------|
-| 2025-2026 | PUTI Q1 Universitas Indonesia grant                | 100,000,000 IDR                       |
-| 2025-2027 | RCNP Core-net grant                                | 700,000 JPY                           |
-| 2025      | JAEA grant                                         | 500,000 JPY                           |
-| 2024      | Additional RIKEN SPDR grant                        | 500,000 JPY                           |
-| 2023-2025 | RIKEN SPDR grant                                   | 1,000,000 JPY/year                    |
-| 2021-2023 | APCTP YST grant                                    | 5,000,000 KRW/year                    |
+| 2026      | APCTP program category 2                           | 5,000,000 KRW                         |
+| 2025-2026 | PUTI Q1 Universitas Indonesia                      | 100,000,000 IDR                       |
+| 2025-2027 | RCNP Core-net                                      | ~500,000 JPY                          |
+| 2025      | JAEA postdoctoral program                          | 500,000 JPY                           |
+| 2024      | Additional RIKEN SPDR program                      | 500,000 JPY                           |
+| 2023-2025 | RIKEN SPDR program                                 | 1,000,000 JPY/year                    |
+| 2021-2023 | APCTP YST program                                  | 5,000,000 KRW/year                    |
 
 
 **Scholarships**
