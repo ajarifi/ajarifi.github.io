@@ -37,6 +37,10 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
   <div class="filterDiv article proceeding" style="width:100%"><h2>2025</h2></div>
 
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b>A Brief History and Outlook of Hadronic Physics in Indonesia</b><br> 
+      <button class="btn--article">Special Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025)    <br> 
+      Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021).</a></i> Contribution to: SEA-NHP 2025 </div>
+      
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Heavy quarkonia in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Aug 28, 2025)<br>
       Published in: [<a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145  </a>]. Contribution to: HADRON 2025.</div>
@@ -125,8 +129,8 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.094006"> Phys.Rev.D 105, 094006 (2022) </a>,</i> [<a href="https://arxiv.org/abs/2201.10427"> ArXiv: 2201.10427 </a>].  </div>
 
   <div class="filterDiv article proceeding" style="width:100%"><h2>2021</h2></div>
-  <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
-      <button class="btn--article-blue">Proceeding</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
+      <button class="btn--article">Special Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
       Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021).</a></i> Contribution to: APFB 2020 </div>
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Relativistic corrections to decays of heavy baryons in the quark model</b><br> 
