@@ -12,9 +12,19 @@ redirect_from:
 
 <h2> 2025 </h2>
 
+
+* <button class="btn--article-blue">Workshop </button> (2025, 12, 17) <br> 
+  Attend IPC workshop in the University of Osaka to talk about Career and life as an alumni. 
+
+* <button class="btn--article-blue">Conference </button> (2025, 9, 8-12) <br> 
+  First time to visit Vietnam to attend APFB 2025.
+
+* <button class="btn--article-blue">Workshop </button> (2025, 8, 19-21) <br> 
+  Help organizing the SEA-NHP 2025 at UGM, Yogyakarta.
+
 * <button class="btn--article">Job</button> (2025, 04, 01)<br>
   Moving from Wako to Ibaraki: Working at JAEA, Tokai-mura.<br>
-  Joining as a postdoctoral fellow at ASRC.
+  Joining as a postdoctoral fellow at ASRC. 
   
 * <button class="btn--article-black">Milestone</button> (2025, 01, 30) <br>
   My h-index reaches 10.
