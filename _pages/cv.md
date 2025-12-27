@@ -131,6 +131,9 @@ See: <a href="https://ajarifi.github.io/student/">My students</a>
   Osaka university, Oct 2017\
   <i> Making sure that the conference is sucessfully held. </i> <a href="/files/ISASC.pdf">(Abstract book)</a> 
 
+**Personal Blog**  
+- [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life.
+
 <h2 style="color:#900C3F"> Society </h2>
 
 * The Physical Society of Japan
