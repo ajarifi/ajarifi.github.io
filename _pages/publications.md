@@ -43,7 +43,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
       Published in: [<a href="https://arxiv.org/abs/2512.24072"> ArXiv: 2512.24072 </a>]. </div>
 
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Kaon T-even transverse-momentum-dependent distributions and form factors in a self-consistent light-front quark model</b><br>
-      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F">  Y. Choi, <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Dec 25, 2025)<br> 
+      <button class="btn--article">Article</button>&nbsp; Y. Choi, <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Dec 25, 2025)<br> 
       Published in: [<a href="https://arxiv.org/abs/2512.21642"> ArXiv: 2512.21642 </a>]. </div>
 
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>A Brief History and Outlook of Hadronic Physics in Indonesia</b><br> 
