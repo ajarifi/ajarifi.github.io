@@ -37,18 +37,27 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
   <div class="filterDiv article proceeding" style="width:100%"><h2>2025</h2></div>
 
+
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b>Landau-Zener-Stückelberg-Majorana dynamics of magnetized quarkonia</b><br>
+      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b> and K. Suzuki (Dec 30, 2025)<br> 
+      Published in: [<a href="https://arxiv.org/abs/2512.24072"> ArXiv: 2512.24072 </a>]. </div>
+
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b>Kaon T-even transverse-momentum-dependent distributions and form factors in a self-consistent light-front quark model</b><br>
+      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F">  Y. Choi, <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Dec 25, 2025)<br> 
+      Published in: [<a href="https://arxiv.org/abs/2512.21642"> ArXiv: 2512.21642 </a>]. </div>
+
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>A Brief History and Outlook of Hadronic Physics in Indonesia</b><br> 
-      <button class="btn--article">Special Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025)    <br> 
+      <button class="btn--article">S. Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
       Published in: [<a href="https://arxiv.org/abs/2512.17219"> ArXiv: 2512.17219 </a>]. Contribution to: SEA-NHP 2025 </div>
       
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Heavy quarkonia in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Aug 28, 2025)<br>
       Published in: [<a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145  </a>]. Contribution to: HADRON 2025.</div>
 
-  <div style="margin-bottom: 25px;" class="filterDiv article"><b>Structure of heavy quarkonia under strong magnetic field</b><br>
+  <div style="margin-bottom: 25px;" class="filterDiv article"><b>Structure of heavy quarkonia in a strong magnetic field</b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b> and K. Suzuki (Jul 26, 2025)<br> 
-      Published in: [<a href="https://arxiv.org/abs/2507.18894"> ArXiv: 2507.18894 </a>]. </div>
-  
+      Published in: <i> <a href="https://doi.org/10.1103/pwsl-xrq5"> Phys. Rev. D112, 094013 (2025)</a>,</i> [<a href="https://arxiv.org/abs/2507.18894"> ArXiv: 2507.18894 </a>]. </div>
+
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>M1 radiative transition of light mesons in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Jul 4, 2025)<br>
       Published in: [<a href="https://arxiv.org/abs/2507.03437"> ArXiv: 2507.03437 </a>]. Contribution to: IPS 2025.</div>
@@ -130,7 +139,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 
   <div class="filterDiv article proceeding" style="width:100%"><h2>2021</h2></div>
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
-      <button class="btn--article">Special Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
+      <button class="btn--article">S. Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
       Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021).</a></i> Contribution to: APFB 2020 </div>
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Relativistic corrections to decays of heavy baryons in the quark model</b><br> 
