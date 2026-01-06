@@ -47,7 +47,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
       Published in: [<a href="https://arxiv.org/abs/2512.21642"> ArXiv: 2512.21642 </a>]. </div>
 
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>A Brief History and Outlook of Hadronic Physics in Indonesia</b><br> 
-      <button class="btn--article-orange">S. Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
+      <button class="btn--article-black">S. Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
       Published in: [<a href="https://arxiv.org/abs/2512.17219"> ArXiv: 2512.17219 </a>]. Contribution to: SEA-NHP 2025 </div>
       
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Heavy quarkonia in the light-front quark model</b><br> 
@@ -140,7 +140,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 <div class="filterDiv article proceeding" style="width:100%"><h2>2021</h2></div>
   
   <div style="margin-bottom: 25px;" class="filterDiv proceeding"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
-      <button class="btn--article-orange">S. Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
+      <button class="btn--article-black">S. Issue</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
       Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021).</a></i> Contribution to: APFB 2020 </div>
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Relativistic corrections to decays of heavy baryons in the quark model</b><br> 
@@ -150,7 +150,7 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
   <div class="filterDiv article thesis" style="width:100%"><h2>2020</h2></div>
 
   <div style="margin-bottom: 25px;" class="filterDiv thesis"><b>Study of heavy baryons from three-body decays</b><br> 
-      <button class="btn--article-black">Ph.D. Thesis</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, (Sep 25, 2020)<br> 
+      <button class="btn--article-orange">Ph.D. Thesis</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, (Sep 25, 2020)<br> 
       Graduated from: <i> <a href="https://japanlinkcenter.org/jalc/linkSakiAnnaiOto/mRRidirect/index?doi=10.18910/77474"> Osaka University.</a></i> </div>
   
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Roper-like resonances with various flavor contents and their two-pion emission decays</b><br> 
