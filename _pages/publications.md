@@ -76,12 +76,7 @@ body {
   opacity: 1;
   transform: translateY(0);
 }
-
-/* subtle hover */
-.filterDiv:hover {
-  background-color: #fafafa;
-}
-
+  
 /* ===== YEAR HEADERS (keep simple, no box) ===== */
 .filterDiv h2 {
   font-size: 18px;
@@ -117,16 +112,6 @@ body {
 .filterDiv i,
 .filterDiv small {
   color: #666;
-}
-
-/* ===== LINKS ===== */
-.filterDiv a {
-  color: #000080;
-  text-decoration: none;
-}
-
-.filterDiv a:hover {
-  text-decoration: underline;
 }
 
 /* ===== TAGS BASE ===== */
