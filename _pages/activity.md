@@ -13,7 +13,7 @@ details {
 }
 
 summary {
-  font-size: 1.8em;
+  font-size: 1.6em;
   font-weight: bold;
   color: #000080;
   cursor: pointer;
