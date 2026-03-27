@@ -34,7 +34,7 @@ ol li {
 </style>
 
 <p align="justify"> 
-This page provides a comprehensive list of my past and upcoming talks, helping you stay up-to-date with my research activities.
+I am happy to accept invitations for talks, subject to time, budget, and family considerations.
 </p>
 
 <p style="margin-bottom: 1.5cm;"></p>
