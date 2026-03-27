@@ -364,44 +364,37 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 
 </div>
 
-
 <script>
 function filterSelection(c) {
   let x = document.getElementsByClassName("filterDiv");
   if (c === "all") c = "";
-
-  let counter = 1;
 
   for (let i = 0; i < x.length; i++) {
     x[i].classList.remove("show");
 
     if (x[i].className.indexOf(c) > -1) {
       x[i].classList.add("show");
-
-      // Skip year headers (they contain <h2>)
-      if (!x[i].querySelector("h2")) {
-        let num = x[i].querySelector(".pub-number");
-        if (num) {
-          num.innerHTML = counter + ".";
-          counter++;
-        }
-      }
     }
   }
 }
 
-/* Default */
-filterSelection("all");
+/* Run after DOM is ready */
+document.addEventListener("DOMContentLoaded", function () {
+  filterSelection("all");
 
-/* Active button highlight */
-let btnContainer = document.getElementById("myBtnContainer");
-let btns = btnContainer.getElementsByClassName("btnz");
+  let btnContainer = document.getElementById("myBtnContainer");
+  let btns = btnContainer.getElementsByClassName("btnz");
 
-for (let i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function () {
-    let current = document.getElementsByClassName("active");
-    current[0].classList.remove("active");
-    this.classList.add("active");
-  });
-}
+  for (let i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function () {
+
+      let current = document.getElementsByClassName("active");
+      if (current.length > 0) {
+        current[0].classList.remove("active");
+      }
+
+      this.classList.add("active");
+    });
+  }
+});
 </script>
