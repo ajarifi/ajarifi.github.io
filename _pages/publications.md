@@ -227,7 +227,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
       
   <div class="filterDiv proceeding"><b>Heavy quarkonia in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart (Aug 28, 2025)<br>
-      Published in: <a href="https://pos.sissa.it/500/158">PoS HADRON2025, 158 (2026)</a> &middot; e-Print: <a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145 </a> [hep-ph] <br>
+      Published in: <a href="https://pos.sissa.it/500/158">PoS Hadron 2025, 158 (2026)</a> &middot; e-Print: <a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145 </a> [hep-ph] <br>
       Contribution to: <a href="https://hadron2025.rcnp.osaka-u.ac.jp/">HADRON 2025 </a>(Osaka, Japan)</div>
 
   <div class="filterDiv article"><b>Structure of heavy quarkonia in a strong magnetic field</b><br>
@@ -236,8 +236,8 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 
   <div class="filterDiv proceeding"><b>M1 radiative transition of light mesons in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart (Jul 4, 2025)<br>
-      Published in: <a href="https://iopscience.iop.org/article/10.1088/1742-6596/3139/1/012065"> J.Phys.Conf.Ser. 3139, 012065 (2025)</a> &middot; e-Print: <a href="https://arxiv.org/abs/2507.03437"> ArXiv: 2507.03437 </a> <br> 
-       Contribution to: IPS 2025.</div>
+      Published in: <a href="https://iopscience.iop.org/article/10.1088/1742-6596/3139/1/012065"> J.Phys.Conf.Ser. 3139, 012065 (2025)</a> &middot; e-Print: <a href="https://arxiv.org/abs/2507.03437"> ArXiv: 2507.03437 </a> [hep-ph] <br> 
+       Contribution to: IPS 2025 (Jakarta, Indonesia)</div>
   
   <div class="filterDiv article"><b>Beyond leading twist: ρ meson decay constants and distribution amplitudes in a self-consistent light-front quark model</b><br>
       <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Jun 04, 2025)<br> 
