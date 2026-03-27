@@ -91,8 +91,7 @@ Please feel free to reach out if you would like to involve me in organizing semi
   <li>
     <b>Artificial-Neural Network and Polarized-Target Technology for Probing Nucleon Structure</b><br> 
     <button class="btn--article-blue">APCTP Seminar</button> 
-    <a href="https://ajarifi.github.io/seminar/9akbar.html">[Abstract]</a>
-    <a href="/files/akbar.jpg">[Poster]</a> <br>
+    <a href="https://ajarifi.github.io/seminar/9akbar.html">[Abstract]</a> <br>
     <b>Speaker</b>: Zulkaida Akbar (University of Virginia, USA)<br>
     <b>Date & time</b>: 10:30 am KST, Oct 17, 2022<br>
     <b>Place</b>: Online (Zoom)
@@ -142,8 +141,7 @@ Please feel free to reach out if you would like to involve me in organizing semi
   <li style="margin-bottom: 25px;"><b>Molecular picture of the Omega(2012)</b><br> 
       <button class="btn--article-blue"> APCTP Seminar </button>&nbsp; 
       <a href="https://ajarifi.github.io/seminar/4ikeno.html">[Abstract]</a> &nbsp; 
-      <a href="/files/Ikeno.jpg">[Poster]</a>  &nbsp; 
-       <br> <br>
+      <a href="/files/Ikeno.jpg">[Poster]</a> <br>
       <b>Speaker</b>: Natsumi Ikeno (Tottori U., Japan)<br>
       <b>Date & time</b>: 2 pm KST, Sept 28, 2021<br>
       <b>Place</b>: Online (Zoom)
