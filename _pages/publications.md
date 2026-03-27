@@ -6,58 +6,66 @@ author_profile: false
 
 <style>
 
-/* ===== Filter Buttons (Tabs Style) ===== */
+/* ===== GENERAL TEXT ===== */
+body {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #222;
+}
+
+/* ===== FILTER TABS ===== */
 #myBtnContainer {
   margin-bottom: 20px;
-  border-bottom: 2px solid #ddd;
+  border-bottom: 1px solid #ddd;
 }
 
 .btnz {
   border: none;
   outline: none;
-  padding: 10px 18px;
+  padding: 8px 16px;
   cursor: pointer;
-  background-color: #f5f5f5;
+  background-color: transparent;
   margin-right: 5px;
-  border-radius: 8px 8px 0 0;
   font-size: 14px;
+  color: #444;
+  border-bottom: 2px solid transparent;
   transition: all 0.2s ease;
 }
 
 .btnz:hover {
-  background-color: #e0e0e0;
+  color: #000080;
 }
 
 .btnz.active {
-  background-color: #000080;
-  color: white;
-  font-weight: bold;
-  border-bottom: 2px solid white;
+  color: #000080;
+  font-weight: 600;
+  border-bottom: 2px solid #000080;
 }
 
-/* ===== Container ===== */
+/* ===== CONTAINER ===== */
 .containerz {
-  width: 100%;
+  display: block;
 }
 
-/* ===== Publication Cards ===== */
-
+/* ===== PUBLICATION ITEM (INSPIRE STYLE) ===== */
 .filterDiv {
   display: none;
   width: 100%;
   box-sizing: border-box;
 
-  border-left: 3px solid #000080;
-  padding: 12px;
-  margin-bottom: 20px;
+  padding: 10px 0;
+  margin-bottom: 10px;
 
-  background: white;
-  border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  border: none;
+  border-bottom: 1px solid #e5e5e5;
+
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
 
   opacity: 0;
-  transform: translateY(5px);
-  transition: all 0.25s ease;
+  transform: translateY(3px);
+  transition: all 0.2s ease;
 }
 
 .filterDiv.show {
@@ -66,45 +74,102 @@ author_profile: false
   transform: translateY(0);
 }
 
+/* subtle hover */
 .filterDiv:hover {
   background-color: #fafafa;
 }
 
-/* ===== Year Headers (clean, no box) ===== */
-.yearHeader {
-  margin-top: 30px;
-  margin-bottom: 10px;
-}
-
-.yearHeader h2 {
+/* ===== YEAR HEADERS (keep simple, no box) ===== */
+.filterDiv h2 {
   font-size: 18px;
   font-weight: 600;
   color: #000080;
-  margin: 0;
-  padding-bottom: 4px;
-  border-bottom: 2px solid #eee;
+
+  margin-top: 25px;
+  margin-bottom: 10px;
+
+  border: none;
+  padding: 0;
 }
 
-/* ===== Title styling ===== */
-
+/* ===== TITLE ===== */
 .filterDiv b {
-  font-size: inherit;   /* SAME as parent */
-  font-weight: 600;     /* still slightly emphasized */
+  font-size: 16px;
+  font-weight: 600;
+  color: #111;
 }
 
-/* ===== Buttons ===== */
+/* ===== META TEXT ===== */
+.filterDiv {
+  font-size: 15px;
+  color: #333;
+}
+
+/* authors highlight */
+.filterDiv b[style] {
+  color: #900C3F;
+}
+
+/* secondary text */
+.filterDiv i,
+.filterDiv small {
+  color: #666;
+}
+
+/* ===== LINKS ===== */
+.filterDiv a {
+  color: #000080;
+  text-decoration: none;
+}
+
+.filterDiv a:hover {
+  text-decoration: underline;
+}
+
+/* ===== TAGS (Article / Proceeding / Thesis) ===== */
 .btn--article,
 .btn--article-blue,
 .btn--article-black,
 .btn--article-orange,
 .btn--article-red {
-  font-size: 12px;
-  padding: 3px 8px;
-  border-radius: 5px;
-  border: none;
-  margin-right: 5px;
+  font-size: 11px;
+  padding: 2px 6px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  background: transparent;
+  color: #444;
+  margin-right: 6px;
 }
 
+/* optional subtle variations */
+.btn--article-blue { border-color: #999; }
+.btn--article-black { border-color: #777; }
+.btn--article-orange { border-color: #aaa; }
+.btn--article-red { border-color: #bbb; }
+
+/* ===== NUMBERING ===== */
+.pub-number {
+  display: inline-block;
+  width: 28px;
+  color: #999;
+  font-size: 14px;
+}
+
+/* ===== STICKY HEADER ===== */
+h1 {
+  font-weight: 600;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+  .filterDiv {
+    font-size: 14px;
+  }
+
+  .filterDiv b {
+    font-size: 15px;
+  }
+}
 </style>
 
 
