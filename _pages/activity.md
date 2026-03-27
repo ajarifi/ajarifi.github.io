@@ -83,7 +83,7 @@ Please feel free to reach out if you would like to involve me in organizing semi
   
   <li>
     <b>International Workshop on Quark Structure of Hadrons</b><br> 
-    <button class="btn--article">RIKEN Workshop</button> <b>Link</b>: <a href="http://duniahadron.com/2024/05/01/quarkhadron2024/">[Web]</a> (chair)<br>
+    <button class="btn--article">RIKEN Workshop</button> <b>Link</b>: <a href="https://indico2.riken.jp/event/4881/">[Indico page]</a> (chair)<br>
     <b>Date & time</b>: 9–10 August 2024<br>
     <b>Place</b>: RIKEN (hybrid)
   </li>
