@@ -209,7 +209,27 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 <p style="margin-bottom:1cm;"></p>
 
 <div class="containerz">
+
+  <div class="filterDiv article">
+  <b>Polarization-dependent mass modifications of ϕ meson with finite momentum in nuclear matter</b><br>
+  <button class="btn--article">Article</button> <b>A. J. Arifi</b>, P. Gubler, and K. Tsushima (Mar 16, 2026)<br>
+    e-Print: <a href="https://arxiv.org/abs/2603.15971"> 2603.15971</a> [hep-ph]</div>
+    
+  <div class="filterDiv proceeding"><b>Exploring meson structure through the light-front quark model</b><br> 
+      <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b> (April, 2026) <br> 
+      Published in: <i>Mod. Phys. Lett. A (in press)</i> <br> 
+      Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
+
+  <div class="filterDiv proceeding"><b>Electromagnetic structure of $B_c$ and heavy quarkonia in the light-front quark model</b><br> 
+      <button class="btn--article-black">S. Issue</button>&nbsp; R. R. Harjapradipta, M. Ridwan, <b> A. J. Arifi</b>,  T. Mart (Mar 14, 2026) <br> 
+      Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; e-Print: <a href="https://arxiv.org/abs/2603.13819"> 2603.13819 </a> [hep-ph] <br> 
+      Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
  
+  <div class="filterDiv article">
+  <b>Quarkonium spectra with magnetically-induced anisotropic confinement</b><br>
+  <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Mar 13, 2026)<br>
+    e-Print: <a href="https://arxiv.org/abs/2603.12589"> 2603.12589 </a> [hep-ph]</div>
+
   <div class="filterDiv article">
   <b>Landau-Zener-Stückelberg-Majorana dynamics of magnetized quarkonia</b><br>
   <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Dec 30, 2025)<br>
