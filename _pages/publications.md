@@ -201,7 +201,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 
 <div id="myBtnContainer">
   <button class="btnz active" onclick="filterSelection('all')">All</button>
-  <button class="btnz" onclick="filterSelection('article')">Journal Articles</button>
+  <button class="btnz" onclick="filterSelection('article')">Articles</button>
   <button class="btnz" onclick="filterSelection('proceeding')">Proceedings</button>
   <button class="btnz" onclick="filterSelection('thesis')">Thesis</button>
 </div>
