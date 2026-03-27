@@ -61,7 +61,7 @@ body {
 
   border: 1px solid #e0e0e0;   /* subtle box */
   background: #ffffff;
-  border-radius: 4px;          /* very slight rounding */
+  border-radius: 2px;          /* very slight rounding */
 
   box-shadow: none;
 
@@ -209,10 +209,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 <p style="margin-bottom:1cm;"></p>
 
 <div class="containerz">
-
-<!-- ===== 2025 ===== -->
-<div class="yearHeader"><h2>2025</h2></div>
-
+ 
 <div class="filterDiv article">
 <b>Landau-Zener-Stückelberg-Majorana dynamics of magnetized quarkonia</b><br>
 <button class="btn--article">Article</button>
@@ -225,19 +222,14 @@ Published in: <a href="https://arxiv.org/abs/2512.24072">ArXiv: 2512.24072</a>
 <button class="btn--article">Article</button>
 Y. Choi, <b style="color:#900C3F">A. J. Arifi</b> et al. (Dec 25, 2025)
 </div>
-
-<!-- ===== 2024 ===== -->
-<div class="yearHeader"><h2>2024</h2></div>
+ 
 
 <div class="filterDiv article">
 <b>Heavy-quark spin symmetry violation effects...</b><br>
 <button class="btn--article">Article</button>
 N. Monkata et al.
 </div>
-
-<!-- ===== 2023 ===== -->
-<div class="yearHeader"><h2>2023</h2></div>
-
+ 
 <div class="filterDiv article">
 <b>Pseudoscalar meson decay constants...</b><br>
 <button class="btn--article">Article</button>
