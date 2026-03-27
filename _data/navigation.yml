@@ -9,11 +9,11 @@ main:
   - title: "Research"
     url: /portfolio/
     
-  - title: "Collaboration"
-    url: /collaboration/
+  #- title: "Collaboration"
+  #  url: /collaboration/
 
-  - title: "Student"
-    url: /student/
+  #- title: "Student"
+  #  url: /student/
   
   - title: "Publication"
     url: /publications/
