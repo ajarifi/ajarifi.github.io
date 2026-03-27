@@ -33,8 +33,9 @@ ol li {
 }
 </style>
 
-<p align="justify"> 
-This page showcases my scientific activities, including seminars, workshops, and conferences in which I am involved in the organization.
+<p align="justify">
+I enjoy being involved in organizing scientific events. 
+Please feel free to reach out if you would like to involve me in organizing seminars, workshops, or related activities.
 </p>
 
 <p style="margin-bottom:1.5cm;"></p>
@@ -51,6 +52,25 @@ This page showcases my scientific activities, including seminars, workshops, and
       <b>Place</b>: JAEA Tokai Mirai Base, Ibaraki, Japan<br>
       <b>Link</b>: <a href="https://indico2.riken.jp/event/5301/">[Indico page]</a> (Visa support)
     </li>
+
+    
+    <li>
+      <b>International Workshop on Origin of Mass and Matter in the Universe</b><br> 
+      <button class="btn--article">Workshop</button><br>
+      <b>Date & time</b>: July 21-24, 2026<br>
+      <b>Place</b>: APCTP, South Korea<br>
+      <b>Link</b>: <a href="https://indico.global/event/16936/">[Indico page]</a> (Organizer)
+    </li>
+
+    
+    <li>
+      <b>2nd Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
+      <button class="btn--article">Workshop</button><br>
+      <b>Date & time</b>: Early December, 2026<br>
+      <b>Place</b>: Khon Kaen University, Thailand<br> (Organizer)
+      <b>Link</b>: (To be announced)
+    </li>
+    
   </ol>
 
 </details>
@@ -62,7 +82,7 @@ This page showcases my scientific activities, including seminars, workshops, and
   <ol reversed>
 
   <li>
-    <b>Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
+    <b>1st Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
     <button class="btn--article">Workshop</button><br>
     <b>Date & time</b>: 19–21 August 2024<br>
     <b>Place</b>: UGM, Yogyakarta, Indonesia<br>
