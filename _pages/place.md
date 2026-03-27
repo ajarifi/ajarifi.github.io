@@ -52,27 +52,6 @@ For seminar or workshop invitations, or to arrange a visit to my current institu
 
 Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
 
-<!-- Indonesia -->
-<details open>
-  <summary>🇮🇩 Indonesia</summary>
-
-  <h3>Research Center</h3>
-  <ul class="checklist">
-    <li>National Research and Innovation Agency (BRIN)</li>
-  </ul>
-
-  <h3>University</h3>
-  <ul class="checklist">
-    <li>University of Indonesia (UI)</li>
-    <li>University of Gajah Mada (UGM)</li>
-    <li>Bandung Institute of Technology (ITB)</li>
-    <li>IPB University</li>
-    <li>Sepuluh Nopember Institute of Technology (ITS)</li>
-    <li>Padjadjaran University (UNPAD)</li>
-    <li>State University of Jakarta (UNJ)</li>
-    <li>Universitas Islam Negeri (UIN) Yogyakarta</li>
-  </ul>
-</details>
 
 <!-- Japan -->
 <details open>
@@ -112,6 +91,28 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
     <li>Okayama University</li>
     <li>Utsunomiya University</li>
     <li>Waseda University</li>
+  </ul>
+</details>
+
+<!-- Indonesia -->
+<details open>
+  <summary>🇮🇩 Indonesia</summary>
+
+  <h3>Research Center</h3>
+  <ul class="checklist">
+    <li>National Research and Innovation Agency (BRIN)</li>
+  </ul>
+
+  <h3>University</h3>
+  <ul class="checklist">
+    <li>University of Indonesia (UI)</li>
+    <li>University of Gajah Mada (UGM)</li>
+    <li>Bandung Institute of Technology (ITB)</li>
+    <li>IPB University</li>
+    <li>Sepuluh Nopember Institute of Technology (ITS)</li>
+    <li>Padjadjaran University (UNPAD)</li>
+    <li>State University of Jakarta (UNJ)</li>
+    <li>Universitas Islam Negeri (UIN) Yogyakarta</li>
   </ul>
 </details>
 
