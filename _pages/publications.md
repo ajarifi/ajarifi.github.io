@@ -184,9 +184,7 @@ h1 {
 
 
 <p align="justify"> 
-I’m particularly motivated by discussions and collaborations, which continuously inspire my research, 
-and I’m driven by a curiosity to explore every corner of hadron physics and connect with diverse research communities.
-You can also find my publication list on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>. 
+I’m driven by discussions and collaborations, and by a curiosity to explore all corners of hadron physics and engage with diverse communities.
 </p>
  
 <p style="margin-bottom:1.2cm;"></p>
@@ -196,6 +194,12 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
 
 <p style="margin-bottom:1.5cm;"></p>
 
+<p align="justify"> 
+You can also find my publication list on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>. 
+</p>
+
+<p style="margin-bottom:1.2cm;"></p>
+ 
 <div id="myBtnContainer">
   <button class="btnz active" onclick="filterSelection('all')">All</button>
   <button class="btnz" onclick="filterSelection('article')">Articles</button>
