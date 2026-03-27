@@ -39,7 +39,6 @@ summary::-webkit-details-marker {
 }
 </style>
 
-<p style="margin-bottom: 1.5cm;"></p>
 <p>
 I aim to visit a wide range of universities and research institutions, subject to available resources and funding, in order to foster collaboration. 
 For seminar or workshop invitations, or to arrange a visit to my current institute, please feel free to contact me.
