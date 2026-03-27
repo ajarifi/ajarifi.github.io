@@ -103,8 +103,9 @@ body {
   color: #333;
 }
 
+/* authors highlight */
 .filterDiv b[style] {
-  color: #003366;  /* deep navy blue */
+  color: #1f4e9e;  /* blue */
 }
   
 /* secondary text */
