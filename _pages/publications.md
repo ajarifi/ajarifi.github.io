@@ -250,7 +250,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
   
 
   <div class="filterDiv article"><b> In-medium electromagnetic form factors of pseudoscalar mesons from the quark model </b><br>
-      <button class="btn--article">Article</button>  <b style="color:#900C3F"> A. J. Arifi</b>,  P. T. P. Hutauruk, and K. Tsushima  (Dec, 2024)<br> 
+      <button class="btn--article">Article</button>  <b> A. J. Arifi</b>,  P. T. P. Hutauruk, and K. Tsushima  (Dec, 2024)<br> 
       Published in: <i> <a href="https://doi.org/10.1103/PhysRevD.111.074004"> Phys. Rev. D 111, 074004 (2025)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2412.09883"> Arxiv:2412.09883 </a> [hep-ph] <br>
   </div>
   
