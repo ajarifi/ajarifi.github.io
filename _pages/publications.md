@@ -49,21 +49,20 @@ body {
 .containerz {
   display: block;
 }
-
-/* ===== PUBLICATION ITEM (INSPIRE STYLE) ===== */
+  
+/* ===== PUBLICATION ITEM (INSPIRE BOXED STYLE) ===== */
 .filterDiv {
   display: none;
   width: 100%;
   box-sizing: border-box;
 
-  padding: 10px 0;
-  margin-bottom: 10px;
+  padding: 12px 14px;
+  margin-bottom: 12px;
 
-  border: none;
-  border-bottom: 1px solid #e5e5e5;
+  border: 1px solid #e0e0e0;   /* subtle box */
+  background: #ffffff;
+  border-radius: 4px;          /* very slight rounding */
 
-  background: transparent;
-  border-radius: 0;
   box-shadow: none;
 
   opacity: 0;
