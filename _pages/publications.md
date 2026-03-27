@@ -252,7 +252,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 
   <div class="filterDiv article"><b> In-medium electromagnetic form factors of pseudoscalar mesons from the quark model </b><br>
       <button class="btn--article">Article</button>  <b style="color:#900C3F"> A. J. Arifi</b>,  P. T. P. Hutauruk, and K. Tsushima  (Dec, 2024)<br> 
-      Published in: <i> <a href="https://doi.org/10.1103/PhysRevD.111.074004"> Phys. Rev. D 111, 074004 (2025)</a>,</i> [<a href="https://arxiv.org/abs/2412.09883"> Arxiv:2412.09883 </a>]. <br>
+      Published in: <i> <a href="https://doi.org/10.1103/PhysRevD.111.074004"> Phys. Rev. D 111, 074004 (2025)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2412.09883"> Arxiv:2412.09883 </a> [hep-ph] <br>
   </div>
   
 
@@ -272,7 +272,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
   
   <div class="filterDiv proceeding"><b>The properties of radially excited charmonia in the light front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart, (Jan, 2024)<br>
-      Published in: <i> <a href="https://doi.org/10.1051/itmconf/20246101016">ITM Web Conf. 61, 01016 (2024).</a></i> 
+      Published in: <i> <a href="https://doi.org/10.1051/itmconf/20246101016">ITM Web Conf. 61, 01016 (2024)</a></i> 
     <br> Contribution to: ISCPMS 2024 (Bali, Indonesia)</div>
 
   <div class="filterDiv proceeding"><b> Distribution amplitude and decay constant of 1S and 2S state light mesons in the light-front quark model </b><br> 
@@ -309,7 +309,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 
   <div class="filterDiv proceeding"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
       <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
-      Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021).</a></i> <br>
+      Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021)</a></i> <br>
     Contribution to: APFB 2020 (Kanazawa, Japan) </div>
   
   <div class="filterDiv article"><b>Relativistic corrections to decays of heavy baryons in the quark model</b><br> 
@@ -322,7 +322,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
   
   <div class="filterDiv article"><b>Roper-like resonances with various flavor contents and their two-pion emission decays</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida (Jun 16, 2020)<br> 
-      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.111502"> Phys.Rev.D 101, 111502(R) (2020)</a>,</i> &middot; e-Print: <a href="https://arxiv.org/abs/2004.07423"> ArXiv: 2102.03754 </a> [hep-ph] </div> 
+      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.111502"> Phys.Rev.D 101, 111502(R) (2020)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2004.07423"> ArXiv: 2102.03754 </a> [hep-ph] </div> 
   
   <div class="filterDiv article"><b>Three-body decay of Λ<sub>c</sub>(2765) and determination of its spin-parity</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida (May 21, 2020)<br> 
