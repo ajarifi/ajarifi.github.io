@@ -106,15 +106,9 @@ author_profile: false
 
 
 <p align="justify"> 
-This page contains a collection of my publications, including journal articles, proceedings, and thesis work. 
 You can also access my full publication list on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>. 
-Use the tabs below to filter publications by type.
 </p>
-
-<p align="justify">
-My research focuses on hadron physics, with particular interest in quark structure, electromagnetic properties, and strong interaction dynamics.
-</p>
-
+ 
 <p style="margin-bottom:1.2cm;"></p>
 
 <div id="chart_div" style="display: block; width: 100%; transform: scale(1.2);"></div>
@@ -130,8 +124,6 @@ My research focuses on hadron physics, with particular interest in quark structu
 <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
   <h1 style="color:#000080; margin: 0;">My Publications</h1> 
 </div>
-
-<p><b>Filter by publication type:</b></p>
 
 <div id="myBtnContainer">
   <button class="btnz active" onclick="filterSelection('all')">All</button>
