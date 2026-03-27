@@ -19,6 +19,7 @@ body {
   border-bottom: 1px solid #ddd;
 }
 
+
 .btnz {
   border: none;
   outline: none;
@@ -33,15 +34,17 @@ body {
 }
 
 .btnz:hover {
-  color: #000080;
+  background-color: #f0f0f0;
+  color: #000000;
 }
 
 .btnz.active {
-  color: #000080;
+  background-color: #000000;   /* black background */
+  color: #ffffff;              /* white text */
   font-weight: 600;
-  border-bottom: 2px solid #000080;
+  border-bottom: 2px solid #000000;
 }
-
+  
 /* ===== CONTAINER ===== */
 .containerz {
   display: block;
