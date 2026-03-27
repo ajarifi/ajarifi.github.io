@@ -49,18 +49,8 @@ summary::-webkit-details-marker {
 
 Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
 
-<!-- China -->
-<details>
-  <summary>🇨🇳 China</summary>
-
-  <h3>Research Center</h3>
-  <ul class="checklist">
-    <li>Institute of High Energy Physics (IHEP), CAS</li>
-  </ul>
-</details>
-
 <!-- Indonesia -->
-<details>
+<details open>
   <summary>🇮🇩 Indonesia</summary>
 
   <h3>Research Center</h3>
@@ -78,16 +68,6 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
     <li>Padjadjaran University (UNPAD)</li>
     <li>State University of Jakarta (UNJ)</li>
     <li>Universitas Islam Negeri (UIN) Yogyakarta</li>
-  </ul>
-</details>
-
-<!-- Italy -->
-<details>
-  <summary>🇮🇹 Italy</summary>
-
-  <h3>University</h3>
-  <ul class="checklist">
-    <li>Genova University</li>
   </ul>
 </details>
 
@@ -132,18 +112,9 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
   </ul>
 </details>
 
-<!-- Philippines -->
-<details>
-  <summary>🇵🇭 Philippines</summary>
-
-  <h3>University</h3>
-  <ul class="checklist">
-    <li>University of Santo Tomas</li>
-  </ul>
-</details>
 
 <!-- South Korea -->
-<details>
+<details open>
   <summary>🇰🇷 South Korea</summary>
 
   <h3>Research Center</h3>
@@ -159,6 +130,38 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
     <li>Soongsil University</li>
     <li>Pukyong National University (PKNU)</li>
     <li>Yonsei University</li>
+  </ul>
+</details>
+
+
+<!-- Italy -->
+<details>
+  <summary>🇮🇹 Italy</summary>
+
+  <h3>University</h3>
+  <ul class="checklist">
+    <li>Genova University</li>
+  </ul>
+</details>
+
+
+<!-- Philippines -->
+<details>
+  <summary>🇵🇭 Philippines</summary>
+
+  <h3>University</h3>
+  <ul class="checklist">
+    <li>University of Santo Tomas</li>
+  </ul>
+</details>
+
+<!-- China -->
+<details>
+  <summary>🇨🇳 China</summary>
+
+  <h3>Research Center</h3>
+  <ul class="checklist">
+    <li>Institute of High Energy Physics (IHEP), CAS</li>
   </ul>
 </details>
 
