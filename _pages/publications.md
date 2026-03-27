@@ -214,7 +214,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 <b>Landau-Zener-Stückelberg-Majorana dynamics of magnetized quarkonia</b><br>
 <button class="btn--article">Article</button>
 <b>A. J. Arifi</b> and K. Suzuki (Dec 30, 2025)<br>
-Published in: <a href="https://arxiv.org/abs/2512.24072">ArXiv: 2512.24072</a>
+Published in: <i> <a href="https://doi.org/10.1103/xc28-3v8r"> Phys. Rev. D113, 054047 (2026)</a>,</i> &middot; e-Print: <a href="https://arxiv.org/abs/2512.24072">ArXiv: 2512.24072</a>
 </div>
 
 <div class="filterDiv article">
@@ -236,7 +236,6 @@ N. Monkata et al.
 <b style="color:#900C3F">A. J. Arifi</b>
 </div>
 
-<!-- KEEP ADDING YOUR OTHER ENTRIES SAME FORMAT -->
 
 </div>
 
