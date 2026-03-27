@@ -68,7 +68,7 @@ This page provides a comprehensive list of my past and upcoming talks, helping y
   </details>
 
   <!-- 2024 -->
-  <details>
+  <details open>
     <summary>2024</summary>
     <ol>
 <li style="margin-bottom: 25px;"><b> 第23回高エネルギーQCD核子構造勉強会 </b><br> 
@@ -120,7 +120,7 @@ This page provides a comprehensive list of my past and upcoming talks, helping y
   </details>
 
   <!-- 2023 -->
-  <details>
+  <details open>
     <summary>2023</summary>
     <ol>
  <li style="margin-bottom: 25px;"><b> SNP School 2023 </b><br> 
