@@ -4,8 +4,106 @@ permalink: /publications/
 author_profile: false
 ---
 
-This page contains a collection of my publications, including journal articles and proceedings. 
-In addition, you can access my articles on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>.
+<style>
+
+/* ===== Filter Buttons (Tabs Style) ===== */
+#myBtnContainer {
+  margin-bottom: 20px;
+  border-bottom: 2px solid #ddd;
+}
+
+.btnz {
+  border: none;
+  outline: none;
+  padding: 10px 18px;
+  cursor: pointer;
+  background-color: #f5f5f5;
+  margin-right: 5px;
+  border-radius: 8px 8px 0 0;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.btnz:hover {
+  background-color: #e0e0e0;
+}
+
+.btnz.active {
+  background-color: #000080;
+  color: white;
+  font-weight: bold;
+  border-bottom: 2px solid white;
+}
+
+/* ===== Container ===== */
+.containerz {
+  display: block;
+}
+
+/* ===== Publication Cards ===== */
+.filterDiv {
+  display: none;
+  border-left: 3px solid #000080;
+  padding: 12px;
+  margin-bottom: 20px;
+  background: white;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+
+  opacity: 0;
+  transform: translateY(5px);
+  transition: all 0.25s ease;
+}
+
+.filterDiv.show {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.filterDiv:hover {
+  background-color: #fafafa;
+}
+
+/* ===== Year Headers ===== */
+.filterDiv h2 {
+  border-left: none;
+  padding-left: 0;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #000080;
+}
+
+/* ===== Title styling ===== */
+.filterDiv b {
+  font-size: 15px;
+}
+
+/* ===== Button styles ===== */
+.btn--article,
+.btn--article-blue,
+.btn--article-black,
+.btn--article-orange,
+.btn--article-red {
+  font-size: 12px;
+  padding: 3px 8px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 5px;
+}
+
+</style>
+
+
+<p align="justify"> 
+This page contains a collection of my publications, including journal articles, proceedings, and thesis work. 
+You can also access my full publication list on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>. 
+Use the tabs below to filter publications by type.
+</p>
+
+<p align="justify">
+My research focuses on hadron physics, with particular interest in quark structure, electromagnetic properties, and strong interaction dynamics.
+</p>
 
 <p style="margin-bottom:1.2cm;"></p>
 
@@ -14,26 +112,40 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
 <p style="margin-bottom:1cm;"></p>
 
 <blockquote>
-    "Though challenging, I aim to publish work that fosters new collaborations."
+    "I aim to produce research that not only advances the field but also fosters meaningful collaborations."
 </blockquote>
 
 <p style="margin-bottom:1cm;"></p>
 
 <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
-  <h1 style="color:#000080; margin: 0;">My publications</h1> 
+  <h1 style="color:#000080; margin: 0;">My Publications</h1> 
 </div>
 
+<p><b>Filter by publication type:</b></p>
+
 <div id="myBtnContainer">
-  <button class="btnz active" onclick="filterSelection('all')"> Show all</button>
-  <button class="btnz" onclick="filterSelection('article')"> Article</button>
-  <button class="btnz" onclick="filterSelection('proceeding')"> Proceeding</button>
-  <button class="btnz" onclick="filterSelection('thesis')"> Thesis</button>
+  <button class="btnz active" onclick="filterSelection('all')">All</button>
+  <button class="btnz" onclick="filterSelection('article')">Journal Articles</button>
+  <button class="btnz" onclick="filterSelection('proceeding')">Proceedings</button>
+  <button class="btnz" onclick="filterSelection('thesis')">Thesis</button>
 </div>
 
 <p style="margin-bottom:1cm;"></p>
 
-
 <div class="containerz">
+
+  <!-- ===== 2025 ===== -->
+  <div class="filterDiv article proceeding thesis" style="width:100%">
+    <h2>2025</h2>
+  </div>
+
+  <div class="filterDiv article">
+    <b>Landau-Zener-Stückelberg-Majorana dynamics of magnetized quarkonia</b><br>
+    <button class="btn--article">Article</button>
+    <b style="color:#900C3F"> A. J. Arifi</b> and K. Suzuki (Dec 30, 2025)<br> 
+    Published in: <a href="https://arxiv.org/abs/2512.24072">ArXiv: 2512.24072</a>
+  </div>
+
 
   <div class="filterDiv article proceeding" style="width:100%"><h2>2025</h2></div>
 
@@ -197,4 +309,35 @@ In addition, you can access my articles on <a href="https://inspirehep.net/autho
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Phys.Rev. D 92, 094019 (2015).</a> </i> <br> 
       <small><i>(*) Student helper</i></small>
   </div>
+
 </div>
+
+
+<script>
+function filterSelection(c) {
+  let x = document.getElementsByClassName("filterDiv");
+  if (c === "all") c = "";
+
+  for (let i = 0; i < x.length; i++) {
+    x[i].classList.remove("show");
+    if (x[i].className.indexOf(c) > -1) {
+      x[i].classList.add("show");
+    }
+  }
+}
+
+/* Default */
+filterSelection("all");
+
+/* Active button highlight */
+let btnContainer = document.getElementById("myBtnContainer");
+let btns = btnContainer.getElementsByClassName("btnz");
+
+for (let i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function () {
+    let current = document.getElementsByClassName("active");
+    current[0].classList.remove("active");
+    this.classList.add("active");
+  });
+}
+</script>
