@@ -41,6 +41,7 @@ author_profile: false
 }
 
 /* ===== Publication Cards ===== */
+
 .filterDiv {
   display: none;
   width: 100%;
@@ -85,8 +86,10 @@ author_profile: false
 }
 
 /* ===== Title styling ===== */
+
 .filterDiv b {
-  font-size: 15px;
+  font-size: inherit;   /* SAME as parent */
+  font-weight: 600;     /* still slightly emphasized */
 }
 
 /* ===== Buttons ===== */
