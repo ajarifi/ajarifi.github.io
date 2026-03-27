@@ -214,7 +214,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
   <b>Landau-Zener-Stückelberg-Majorana dynamics of magnetized quarkonia</b><br>
   <button class="btn--article">Article</button>
   <b>A. J. Arifi</b> and K. Suzuki (Dec 30, 2025)<br>
-  Published in: <i> <a href="https://doi.org/10.1103/xc28-3v8r"> Phys. Rev. D113, 054047 (2026)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2512.24072">ArXiv: 2512.24072</a> [hep-ph]
+  Published in: <i> <a href="https://doi.org/10.1103/xc28-3v8r"> Phys. Rev. D 113, 054047 (2026)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2512.24072">ArXiv: 2512.24072</a> [hep-ph]
   </div>
 
   <div class="filterDiv article"><b>Kaon T-even transverse-momentum-dependent distributions and form factors in a self-consistent light-front quark model</b><br>
@@ -233,7 +233,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 
   <div class="filterDiv article"><b>Structure of heavy quarkonia in a strong magnetic field</b><br>
       <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b> and K. Suzuki (Jul 26, 2025)<br> 
-      Published in: <i> <a href="https://doi.org/10.1103/pwsl-xrq5"> Phys. Rev. D112, 094013 (2025)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2507.18894"> ArXiv: 2507.18894 </a> [hep-ph] </div>
+      Published in: <i> <a href="https://doi.org/10.1103/pwsl-xrq5"> Phys. Rev. D 112, 094013 (2025)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2507.18894"> ArXiv: 2507.18894 </a> [hep-ph] </div>
 
   <div class="filterDiv proceeding"><b>M1 radiative transition of light mesons in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart, (Jul 4, 2025)<br>
@@ -241,12 +241,11 @@ You can also access my full publication list on <a href="https://inspirehep.net/
   
   <div class="filterDiv article"><b>Beyond leading twist: ρ meson decay constants and distribution amplitudes in a self-consistent light-front quark model</b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Jun 04, 2025)<br> 
-      Published in:<i> <a href="https://doi.org/10.1103/hhk8-g2bj"> Phys. Rev. D112, 033009 (2025)</a>,</i> [<a href="https://arxiv.org/abs/2506.02844"> ArXiv: 2506.02844 </a>].  </div>
+      Published in:<i> <a href="https://doi.org/10.1103/hhk8-g2bj"> Phys. Rev. D 112, 033009 (2025)</a>,</i> [<a href="https://arxiv.org/abs/2506.02844"> ArXiv: 2506.02844 </a>].  </div>
  
   <div class="filterDiv article"><b> Heavy-quark spin symmetry violation effects in charmed baryon production </b><br>
-      <button class="btn--article">Article</button> N. Monkata, P. Sawasdipol, N. Ponkhuha, R. Suntharawirat, <b style="color:#900C3F"> A. J. Arifi (*)</b>, D. Samart (Dec, 2024)<br> 
-      Published in: [<a href="https://arxiv.org/abs/2412.18280"> Arxiv:2412.18280 </a>]. <br>
-      <small><i>(*) Advisor.</i></small>
+      <button class="btn--article">Article</button> N. Monkata, P. Sawasdipol, N. Ponkhuha, R. Suntharawirat, <b> A. J. Arifi</b>, D. Samart (Dec, 2024)<br> 
+      Published in:  <i> <a href="https://doi.org/10.48048/tis.2026.11487"> Trends in Sci. 23, 11487 (2026)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2412.18280"> Arxiv:2412.18280 </a> [hep-ph]
   </div>
   
 
