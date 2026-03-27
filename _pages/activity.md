@@ -52,23 +52,20 @@ Please feel free to reach out if you would like to involve me in organizing semi
       <b>Place</b>: JAEA Tokai Mirai Base, Ibaraki, Japan<br>
       <b>Link</b>: <a href="https://indico2.riken.jp/event/5301/">[Indico page]</a> (Visa support)
     </li>
-  
-  <li>
-    <b>International Workshop on Origin of Mass and Matter in the Universe</b><br> 
-    <button class="btn--article">Workshop</button><br>
-    <b>Date & time</b>: July 21-24, 2026<br>
-    <b>Place</b>: APCTP, South Korea<br>
-    <b>Link</b>: <a href="https://indico.global/event/16936/">[Indico page]</a> (Organizer)
-  </li>
-
-  
-  <li>
-    <b>2nd Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
-    <button class="btn--article">Workshop</button><br>
-    <b>Date & time</b>: Early December, 2026<br>
-    <b>Place</b>: Khon Kaen University, Thailand<br> (Organizer)
-    <b>Link</b>: (To be announced)
-  </li>
+    <li>
+      <b>International Workshop on Origin of Mass and Matter in the Universe</b><br> 
+      <button class="btn--article">Workshop</button><br>
+      <b>Date & time</b>: July 21-24, 2026<br>
+      <b>Place</b>: APCTP, South Korea<br>
+      <b>Link</b>: <a href="https://indico.global/event/16936/">[Indico page]</a> (Organizer)
+    </li>
+    <li>
+      <b>2nd Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
+      <button class="btn--article">Workshop</button><br>
+      <b>Date & time</b>: Early December, 2026<br>
+      <b>Place</b>: Khon Kaen University, Thailand<br> (Organizer)
+      <b>Link</b>: (To be announced)
+    </li>
   
   </ol>
 
