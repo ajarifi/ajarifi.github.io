@@ -41,14 +41,34 @@ This page provides a comprehensive list of my past and upcoming talks, helping y
 
 <!-- Schedule -->
 <details open>
-  <summary>📅 My Schedule</summary>
-  <p style="margin-top:10px;">(No upcoming talks scheduled at the moment.)</p>
+  <summary>📅 My Schedule (2026)</summary>
+    <ol>
+
+      <li><b>2nd Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
+      <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Organizer</span>, 
+      <a href="https://indico.global/event/13949/">Khon Kaen University, Thailand</a> (Dec 1–5, 2026)</li>
+
+      <li><b>New Perspectives on exotic and heavy hadrons</b><br> 
+      <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Organizer</span>, 
+      <a href="https://n-ext.inha.ac.kr/event/899/">Inha University, South Korea</a> (Aug 25–28, 2026)</li>
+      
+      <li><b>International Workshop on Origin of Mass and Matter in the Universe</b><br> 
+      <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Organizer</span>, 
+      <a href="https://indico.global/event/16936/">APCTP, South Korea</a> (July 21–24, 2026)</li>
+      
+      <li><b>Reimei workshop on in-medium modification of vector mesons @Yonsei</b><br> 
+      <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Invited Speaker</span>, 
+      <a href="https://indico.cern.ch/event/1624606/">Yonsei University, South Korea</a> (March 8–10, 2026)</li>
+    </ol>
 </details>
 
 <!-- Talks -->
 <details>
   <summary>🎤 My Past Talks</summary>
-
+  <p style="margin-top:20px;margin-bottom: 20px;">
+  Browse my past talks, including conferences, workshops, and seminars.
+  </p>
+  
   <!-- 2025 -->
   <details open>
     <summary>2025</summary>
@@ -57,7 +77,7 @@ This page provides a comprehensive list of my past and upcoming talks, helping y
       <button class="btn--article">Conference</button> <span style="color:#900C3F">Speaker</span>, 
       <a href="https://indico.rcnp.osaka-u.ac.jp/event/2537/">Ho Chi Minh, Vietnam</a> (Sept 8–12, 2025)</li>
 
-      <li><b>Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
+      <li><b>1st Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Speaker</span>, 
       <a href="https://indico.global/event/13949/">Yogyakarta, Indonesia</a> (Aug 19–21, 2025)</li>
 
