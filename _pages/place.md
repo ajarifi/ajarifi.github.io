@@ -1,5 +1,5 @@
 ---
-title: "Visited places"
+title: "Research Visits"
 permalink: /place/
 author_profile: false
 ---
