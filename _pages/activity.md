@@ -49,7 +49,7 @@ This page showcases my scientific activities, including seminars, workshops, and
       <button class="btn--article">Workshop</button><br>
       <b>Date & time</b>: April 29 - May 02, 2026<br>
       <b>Place</b>: JAEA Tokai Mirai Base, Ibaraki, Japan<br>
-      <b>Link</b>: <a href="https://indico2.riken.jp/event/5301/">[Indico page]</a> (helper)
+      <b>Link</b>: <a href="https://indico2.riken.jp/event/5301/">[Indico page]</a> (Visa support)
     </li>
   </ol>
 
