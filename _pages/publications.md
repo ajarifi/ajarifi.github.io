@@ -184,8 +184,8 @@ h1 {
 
 
 <p align="justify"> 
-You can also access my full publication list on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>. 
 I’m particularly motivated by discussions and collaborations, which continuously energize and inspire my research.
+You can also access my full publication list on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>. 
 </p>
  
 <p style="margin-bottom:1.2cm;"></p>
