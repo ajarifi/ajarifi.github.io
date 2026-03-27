@@ -188,16 +188,30 @@ function filterSelection(c) {
   let x = document.getElementsByClassName("filterDiv");
   if (c === "all") c = "";
 
+  let counter = 1;
+
   for (let i = 0; i < x.length; i++) {
     x[i].classList.remove("show");
+
     if (x[i].className.indexOf(c) > -1) {
       x[i].classList.add("show");
+
+      // Skip year headers (they contain <h2>)
+      if (!x[i].querySelector("h2")) {
+        let num = x[i].querySelector(".pub-number");
+        if (num) {
+          num.innerHTML = counter + ".";
+          counter++;
+        }
+      }
     }
   }
 }
 
+/* Default */
 filterSelection("all");
 
+/* Active button highlight */
 let btnContainer = document.getElementById("myBtnContainer");
 let btns = btnContainer.getElementsByClassName("btnz");
 
