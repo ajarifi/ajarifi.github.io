@@ -62,7 +62,7 @@ Please feel free to reach out if you would like to involve me in organizing semi
     <li>
       <b>2nd Southeast Asian Workshop on Nuclear and Hadron Physics</b><br> 
       <button class="btn--article">Workshop</button><br>
-      <b>Date & time</b>: Early December, 2026<br>
+      <b>Date & time</b>: December 1-5, 2026<br>
       <b>Place</b>: Khon Kaen University, Thailand<br> 
       <b>Link</b>: (To be announced)
     </li>
