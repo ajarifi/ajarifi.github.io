@@ -340,7 +340,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.114007"> Phys.Rev.D 98, 114007 (2018)</a>,</i> [<a href="https://arxiv.org/abs/1809.10290"> ArXiv: 1809.10290 </a>] </div>  
 
   <div class="filterDiv article"><b>Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with consideration of Σ<sub>c</sub>(2455)π and Σ<sub>c</sub>(2520)π in intermediate states </b><br> 
-      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (Jun 23, 2017)<br> 
+      <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (Jun 23, 2017)<br> 
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.95.114018"> Phys.Rev.D 95, 114018 (2017)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/1704.00464"> ArXiv: 1704.00464 </a> [hep-ph] </div>
   
   <div class="filterDiv proceeding"><b>Spin 3/2 nucleon resonances in kaon photoproduction </b><br> 
