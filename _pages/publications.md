@@ -223,11 +223,13 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 
   <div class="filterDiv proceeding"><b>A Brief History and Outlook of Hadronic Physics in Indonesia</b><br> 
       <button class="btn--article-blue">S. Issue</button>&nbsp; <b> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
-      Published in: Mod. Phys. Lett. A (in press) &middot; Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> &middot; e-Print: <a href="https://arxiv.org/abs/2512.17219"> ArXiv: 2512.17219 </a> [hep-ph] </div>
+      Published in: Mod. Phys. Lett. A (in press)  &middot; e-Print: <a href="https://arxiv.org/abs/2512.17219"> ArXiv: 2512.17219 </a> [hep-ph] <br> 
+      Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> </div>
       
   <div class="filterDiv proceeding"><b>Heavy quarkonia in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Aug 28, 2025)<br>
-      Published in: PoS HADRON2025, 158 (2026) &middot; Contribution to: HADRON 2025 &middot; e-Print: <a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145 </a> [hep-ph]</div>
+      Published in: PoS HADRON2025, 158 (2026) &middot; e-Print: <a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145 </a> [hep-ph] <br>
+      Contribution to: HADRON 2025 </div>
 
   <div style="margin-bottom: 25px;" class="filterDiv article"><b>Structure of heavy quarkonia in a strong magnetic field</b><br>
       <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b> and K. Suzuki (Jul 26, 2025)<br> 
