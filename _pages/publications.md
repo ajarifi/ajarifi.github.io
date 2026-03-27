@@ -129,7 +129,7 @@ body {
   text-decoration: underline;
 }
 
-/* ===== TAGS (Article / Proceeding / Thesis) ===== */
+/* ===== TAGS BASE ===== */
 .btn--article,
 .btn--article-blue,
 .btn--article-black,
@@ -138,17 +138,45 @@ body {
   font-size: 11px;
   padding: 2px 6px;
   border-radius: 3px;
-  border: 1px solid #ccc;
   background: transparent;
-  color: #444;
   margin-right: 6px;
+  font-weight: 500;
 }
 
-/* optional subtle variations */
-.btn--article-blue { border-color: #999; }
-.btn--article-black { border-color: #777; }
-.btn--article-orange { border-color: #aaa; }
-.btn--article-red { border-color: #bbb; }
+/* ===== ARTICLE (GREEN) ===== */
+.btn--article {
+  color: #1b7f3b;
+  border: 1px solid #1b7f3b;
+  background-color: rgba(27, 127, 59, 0.08);
+}
+
+/* ===== PROCEEDING (BLUE) ===== */
+.btn--article-blue {
+  color: #1f4e9e;
+  border: 1px solid #1f4e9e;
+  background-color: rgba(31, 78, 158, 0.08);
+}
+
+/* ===== THESIS (BLACK) ===== */
+.btn--article-orange {
+  color: #000000;
+  border: 1px solid #000000;
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+/* ===== SPECIAL ISSUE / OTHER ===== */
+.btn--article-black {
+  color: #555;
+  border: 1px solid #999;
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+/* ===== NEWS ===== */
+.btn--article-red {
+  color: #b22222;
+  border: 1px solid #b22222;
+  background-color: rgba(178, 34, 34, 0.08);
+}
 
 /* ===== NUMBERING ===== */
 .pub-number {
