@@ -222,7 +222,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
       e-Print: <a href="https://arxiv.org/abs/2512.21642"> ArXiv: 2512.21642 </a> [hep-ph] </div>
 
   <div class="filterDiv proceeding"><b>A Brief History and Outlook of Hadronic Physics in Indonesia</b><br> 
-      <button class="btn--article-blue">S. Issue</button>&nbsp; <b> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
+      <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
       Published in: Mod. Phys. Lett. A (in press)  &middot; e-Print: <a href="https://arxiv.org/abs/2512.17219"> ArXiv: 2512.17219 </a> [hep-ph] <br> 
       Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
       
@@ -267,29 +267,29 @@ You can also access my full publication list on <a href="https://inspirehep.net/
   </div>
   
   <div class="filterDiv article"><b> Structure of heavy mesons in the light-front quark model </b><br>
-      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, L. Happ, S. Ohno, and M. Oka (Jan, 2024)<br> 
+      <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, L. Happ, S. Ohno, and M. Oka (Jan, 2024)<br> 
       Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.110.014020"> Phys.Rev.D 110, 014020 (2024)</a></i> &middot; e-Print:<a href="https://arxiv.org/abs/2401.07933"> ArXiv: 2401.07933 </a> [hep-ph]  </div>
   
   <div class="filterDiv proceeding"><b>The properties of radially excited charmonia in the light front quark model</b><br> 
-      <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Jan, 2024)<br>
+      <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart, (Jan, 2024)<br>
       Published in: <i> <a href="https://doi.org/10.1051/itmconf/20246101016">ITM Web Conf. 61, 01016 (2024).</a></i> 
     <br> Contribution to: ISCPMS 2024</div>
 
   <div class="filterDiv proceeding"><b> Distribution amplitude and decay constant of 1S and 2S state light mesons in the light-front quark model </b><br> 
-      <button class="btn--article-blue">Proceeding</button>&nbsp; M. F. Syahbana, <b style="color:#900C3F"> A. J. Arifi</b>, and T. Mart, (Jan, 2024)<br>
+      <button class="btn--article-blue">Proceeding</button>&nbsp; M. F. Syahbana, <b> A. J. Arifi</b>, and T. Mart, (Jan, 2024)<br>
       Published in: <i> <a href="https://doi.org/10.1051/itmconf/20246101014">ITM Web Conf. 61, 01014 (2024)</a></i> 
     <br> Contribution to: ISCPMS 2024</div>
    
   
   <div class="filterDiv article"><b> Pseudoscalar meson decay constants and distribution amplitudes up to 
       twist 4 in the light-front quark model </b><br>
-      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (June, 2023)<br> 
+      <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (June, 2023)<br> 
       Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.108.013006"> Phys.Rev.D 108, 013006 (2023) </a>
       </i> &middot; e-Print: <a href="https://arxiv.org/abs/2306.08536"> ArXiv: 2306.08536 </a> [hep-ph] 
   </div>
   
   <div class="filterDiv article"><b> In-medium properties of the light and heavy-light mesons in a light-front quark model </b><br>
-      <button class="btn--article">Article</button>&nbsp; <b style="color:#900C3F"> A. J. Arifi</b>, P.T.P. Hutauruk, and K. Tsushima (Feb 23, 2023)<br> 
+      <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, P.T.P. Hutauruk, and K. Tsushima (Feb 23, 2023)<br> 
       Published in:  <i> <a href="https://doi.org/10.1103/PhysRevD.107.114010"> Phys.Rev.D 107, 114010 (2023) </a> </i> &middot; e-Print: <a href="https://arxiv.org/abs/2302.12382"> ArXiv: 2302.12382 </a> [hep-ph]
   </div>
   
