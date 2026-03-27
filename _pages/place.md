@@ -103,12 +103,12 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
     <li>Spring-8</li>
     <li>RCNP Cyclotron Facility</li>
     <li>ELPH</li>
-    <li>Belle</li>
+    <li>KEK-Belle</li>
   </ul>
 
   <h3>Research Center</h3>
   <ul class="checklist">
-    <li>RIKEN Wako</li>
+    <li>RIKEN Nishina Center</li>
     <li>Research Center for Nuclear Physics (RCNP)</li>
     <li>Yukawa Institute for Theoretical Physics (YITP)</li>
     <li>Japan Atomic Energy Agency (JAEA)</li>
@@ -158,6 +158,7 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
     <li>Inha University</li>
     <li>Soongsil University</li>
     <li>Pukyong National University (PKNU)</li>
+    <li>Yonsei University</li>
   </ul>
 </details>
 
