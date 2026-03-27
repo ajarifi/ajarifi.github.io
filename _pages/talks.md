@@ -49,7 +49,7 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
       <a href="https://indico.global/event/13949/">Khon Kaen University, Thailand</a> (Dec 1–5, 2026)</li>
 
       <li><b>New Perspectives on exotic and heavy hadrons</b><br> 
-      <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Organizer</span>, 
+      <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Invited Speaker</span>, 
       <a href="https://n-ext.inha.ac.kr/event/899/">Inha University, South Korea</a> (Aug 25–28, 2026)</li>
       
       <li><b>International Workshop on Origin of Mass and Matter in the Universe</b><br> 
