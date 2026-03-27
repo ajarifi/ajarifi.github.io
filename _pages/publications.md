@@ -103,11 +103,10 @@ body {
   color: #333;
 }
 
-/* authors highlight */
 .filterDiv b[style] {
-  color: #900C3F;
+  color: #003366;  /* deep navy blue */
 }
-
+  
 /* secondary text */
 .filterDiv i,
 .filterDiv small {
@@ -222,7 +221,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 <div class="filterDiv article">
 <b>Landau-Zener-Stückelberg-Majorana dynamics of magnetized quarkonia</b><br>
 <button class="btn--article">Article</button>
-<b style="color:#900C3F">A. J. Arifi</b> and K. Suzuki (Dec 30, 2025)<br>
+<b>A. J. Arifi</b> and K. Suzuki (Dec 30, 2025)<br>
 Published in: <a href="https://arxiv.org/abs/2512.24072">ArXiv: 2512.24072</a>
 </div>
 
