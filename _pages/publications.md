@@ -273,12 +273,12 @@ You can also access my full publication list on <a href="https://inspirehep.net/
   <div class="filterDiv proceeding"><b>The properties of radially excited charmonia in the light front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart, (Jan, 2024)<br>
       Published in: <i> <a href="https://doi.org/10.1051/itmconf/20246101016">ITM Web Conf. 61, 01016 (2024).</a></i> 
-    <br> Contribution to: ISCPMS 2024</div>
+    <br> Contribution to: ISCPMS 2024 (Bali, Indonesia)</div>
 
   <div class="filterDiv proceeding"><b> Distribution amplitude and decay constant of 1S and 2S state light mesons in the light-front quark model </b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. F. Syahbana, <b> A. J. Arifi</b>, and T. Mart, (Jan, 2024)<br>
       Published in: <i> <a href="https://doi.org/10.1051/itmconf/20246101014">ITM Web Conf. 61, 01014 (2024)</a></i> 
-    <br> Contribution to: ISCPMS 2024</div>
+    <br> Contribution to: ISCPMS 2024 (Bali, Indonesia)</div>
    
   
   <div class="filterDiv article"><b> Pseudoscalar meson decay constants and distribution amplitudes up to 
@@ -310,7 +310,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
   <div class="filterDiv proceeding"><b>Two-pion emission decay of Roper-like heavy baryons</b><br> 
       <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b>, H. Nagahiro, A. Hosaka, and K. Tanida, (Jun 22, 2021)    <br> 
       Published in: <i> <a href="https://link.springer.com/article/10.1007/s00601-021-01625-0">Few Body Syst. 62, 36 (2021).</a></i> <br>
-    Contribution to: APFB 2020 </div>
+    Contribution to: APFB 2020 (Kanazawa, Japan) </div>
   
   <div class="filterDiv article"><b>Relativistic corrections to decays of heavy baryons in the quark model</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, D. Suenaga, and A. Hosaka (May 10, 2021)<br> 
@@ -331,13 +331,13 @@ You can also access my full publication list on <a href="https://inspirehep.net/
 
   <div class="filterDiv proceeding"><b>A systematic study of charmed baryon decays</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; <b> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (2019)<br> 
-      Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.26.022031">JPS Conf.Proc. 26. 022031 (2019).</a></i> <br> 
-    Contribution to: QNP 2018 </div>    
+      Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.26.022031">JPS Conf.Proc. 26. 022031 (2019)</a></i> <br> 
+    Contribution to: QNP 2018 (Tsukuba, Japan) </div>    
 
   <div class="filterDiv article"><b>Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with the inclusion of a direct two-pion coupling</b><br> 
       <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (Dec 12, 2018)<br> 
       <button class="btn--article-red">News</button>&nbsp; One of our figures is selected in <a href="https://journals.aps.org/prd/kaleidoscope/prd/98/11/114007">Kaleidoscope.</a><br>
-      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.114007"> Phys.Rev.D 98, 114007 (2018)</a>,</i> [<a href="https://arxiv.org/abs/1809.10290"> ArXiv: 1809.10290 </a>] </div>  
+      Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.114007"> Phys.Rev.D 98, 114007 (2018)</a></i> &middot; e-Print:<a href="https://arxiv.org/abs/1809.10290"> ArXiv: 1809.10290 </a> [hep-ph] </div>  
 
   <div class="filterDiv article"><b>Three-body decay of Λ<sub>c</sub>(2595) and Λ<sub>c</sub>(2625) with consideration of Σ<sub>c</sub>(2455)π and Σ<sub>c</sub>(2520)π in intermediate states </b><br> 
       <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b>, H. Nagahiro, and A. Hosaka, (Jun 23, 2017)<br> 
