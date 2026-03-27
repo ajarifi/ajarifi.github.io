@@ -24,7 +24,7 @@ main:
   - title: "Activity"
     url: /activity/
     
-  - title: "Visited place"
+  - title: "Visit"
     url: /place/ 
   
   # - title: "Teaching"
