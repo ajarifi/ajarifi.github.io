@@ -101,11 +101,6 @@ body {
   font-size: 15px;
   color: #333;
 }
-
-/* authors highlight */
-.filterDiv b[style] {
-  color: #1f4e9e;  /* blue */
-}
   
 /* secondary text */
 .filterDiv i,
