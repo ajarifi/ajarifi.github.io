@@ -240,7 +240,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
       <button class="btn--article">Article</button>&nbsp; Y. Choi, <b> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Dec 25, 2025)<br> 
       e-Print: <a href="https://arxiv.org/abs/2512.21642"> 2512.21642 </a> [hep-ph] </div>
 
-  <div class="filterDiv proceeding"><b>A Brief History and Outlook of Hadronic Physics in Indonesia</b><br> 
+  <div class="filterDiv proceeding"><b>A brief history and outlook of hadronic physics in Indonesia</b><br> 
       <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
       Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; e-Print: <a href="https://arxiv.org/abs/2512.17219"> 2512.17219 </a> [hep-ph] <br> 
       Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
