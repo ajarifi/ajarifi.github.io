@@ -185,17 +185,13 @@ h1 {
 
 <p align="justify"> 
 You can also access my full publication list on <a href="https://inspirehep.net/authors/1410710">InspireHEP</a>. 
+I’m particularly motivated by discussions and collaborations, which continuously energize and inspire my research.
 </p>
  
 <p style="margin-bottom:1.2cm;"></p>
 
 <div id="chart_div" style="display: block; width: 100%; transform: scale(1.2);"></div>
 
-<p style="margin-bottom:1cm;"></p>
-
-<blockquote>
-    "I aim to produce research that not only advances the field but also fosters meaningful collaborations."
-</blockquote>
 
 <p style="margin-bottom:1.5cm;"></p>
 
