@@ -227,7 +227,7 @@ You can also access my full publication list on <a href="https://inspirehep.net/
       
   <div class="filterDiv proceeding"><b>Heavy quarkonia in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart (Aug 28, 2025)<br>
-      Published in: <a href="https://pos.sissa.it/500/158">PoS Hadron 2025, 158 (2026)</a> &middot; e-Print: <a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145 </a> [hep-ph] <br>
+      Published in: <i><a href="https://pos.sissa.it/500/158">PoS Hadron 2025, 158 (2026)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2508.21145"> ArXiv: 2508.21145 </a> [hep-ph] <br>
       Contribution to: <a href="https://hadron2025.rcnp.osaka-u.ac.jp/">HADRON 2025 </a>(Osaka, Japan)</div>
 
   <div class="filterDiv article"><b>Structure of heavy quarkonia in a strong magnetic field</b><br>
