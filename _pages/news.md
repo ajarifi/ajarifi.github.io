@@ -7,6 +7,8 @@ redirect_from:
   - "/nmp.html"
 ---
 
+<p>I challenge myself and keep progressing, even if slowly.</p>
+
 ![](/images/tree-top.png)
 
 <h2> 2026 </h2>
