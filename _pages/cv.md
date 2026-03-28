@@ -103,7 +103,7 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
   <i> 1. Physical Review D </i> <br>
 
 * <b>Conference Referee/Editor</b>, Part of editors/referees for conference proceedings.\
-  <i> 1. 11th International Conference on Theoretical and Applied Physics (ICTAP), Indonesia, 2021 </i> \
+  <i> 1. 11th International Conference on Theoretical and Applied Physics, Indonesia, 2021 </i> \
   <i> 2. Southeast asian workshop on nuclear and hadron physics (SEA-NHP), Indonesia, 2025 </i> 
 
 **Organization** 
