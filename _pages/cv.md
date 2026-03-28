@@ -111,15 +111,15 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
   <i> Responsible for the activity of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
 
 **Seminars** 
-* <b>Host</b>, APCTP seminar series <a href="https://ajarifi.github.io/activity/">(Details)</a>\
+* <b>Host</b>, APCTP seminar series <a href="https://ajarifi.github.io/activity/">(Details)</a>
 
 **Workshops** 
-* <b>Co-Chair</b>, Southeast asian workshop on nuclear and hadron physics (SEA-NHP),\
+* <b>Co-Chair</b>, Southeast asian workshop on nuclear and hadron physics (SEA-NHP), \
   Yogyakarta, Aug 2025 <a href="https://indico.global/event/13949/">(Indico)</a>\
-* <b>Chair</b>, International Workshop on Quark Structure of Hadron,\
+* <b>Chair</b>, International Workshop on Quark Structure of Hadron, \
   RIKEN, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a>\
-* <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC),\
-  Osaka university, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a> \
+* <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
+  Osaka university, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a> 
 
 **Personal Blog**  
 - [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life.
