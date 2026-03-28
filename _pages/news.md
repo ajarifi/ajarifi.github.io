@@ -7,9 +7,11 @@ redirect_from:
   - "/nmp.html"
 ---
 
-<p>I challenge myself and keep progressing, even if slowly.</p>
 
 ![](/images/tree-top.jpg)
+
+<p style="text-align: center;"> I always challenge myself and keep progressing, even if slowly.</p>
+<p style="margin-bottom:1.2cm;"></p>
 
 <h2> 2026 </h2>
 
@@ -108,5 +110,9 @@ redirect_from:
   
 * <button class="btn--article-black">Milestone</button> (2015, 09, 07)  <br>
   First time to join an international conference (HYP 2015, Tohoku, Japan).
+
+<p style="margin-bottom:1.2cm;"></p>
+
+<p style="text-align: center;">There is always a first time—and that’s where everything begins.</p>
 
   ![](/images/tree-bottom.jpg)
