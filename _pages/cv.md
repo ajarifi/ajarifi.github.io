@@ -99,22 +99,20 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 See: <a href="https://ajarifi.github.io/student/">My students</a>
 
-<b> Master students</b> 
-* <i> 2 students (Khon Kaen University, Thailand)</i>
-* <i> 1 student (University of Indonesia, Indonesia)</i> 
-
-<b> Bachelor students</b> 
-* <i> 2 students (University of Indonesia, Indonesia)</i> 
+<b> Master students</b>  
 
 
 <h2 style="color:#900C3F"> Community Service </h2>
 
-**Peer Review** 
+**Peer Review/Editorial** 
 * <b>Journal Referee</b>, Peer-reviewing papers for journal publications.\
   <i> 1. Physical Review D </i> <br>
 
 * <b>Conference Referee</b>, Peer-reviewing papers for conference proceedings.\
   <i> 1. 11th International Conference on Theoretical and Applied Physics, 2021 </i>
+
+* <b>Conference Editor</b>, Part of editor's team for conference proceedings.\
+  <i> 1. Southeast asian workshop on nuclear and hadron physics (SEA-NHP) 2025 </i>
 
 **Organization** 
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017\
@@ -143,8 +141,8 @@ See: <a href="https://ajarifi.github.io/student/">My students</a>
 
 <h2 style="color:#900C3F"> Programming skill</h2>
 
-* Python (Main)
-* Julia (Secondary)
+* Julia (Main-1)
+* Python (Main-2)
 * Mathematica (Sometimes)
 * Fortran (In the past)
 
@@ -155,4 +153,4 @@ See: <a href="https://ajarifi.github.io/student/">My students</a>
 * Japanese (Intermediate)\
   <i> Passed JLPT - N2 (2024): <a href="https://www.jlpt.jp/e/about/levelsummary.html"> (Description)</a> </i>
 * Korean (Beginner)\
-  <i> Passed TOPIK I - level 2 (2022): <a href="/files/Topik.png">(Certificate)</a> <a href="https://en.wikipedia.org/wiki/Test_of_Proficiency_in_Korean"> (Description)</a> </i>
+  <i> Passed TOPIK I - level 2 (2022): <a href="https://en.wikipedia.org/wiki/Test_of_Proficiency_in_Korean"> (Description)</a> </i>
