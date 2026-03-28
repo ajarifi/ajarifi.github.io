@@ -6,8 +6,8 @@ redirect_from:
   - "/nmp.html"
 ---
 
-![](/images/tree-top.jpg)
-<hr style="border: none; border-top: 1px solid #ddd; margin-top:-0.6cm;">
+<img src="/images/tree-top.jpg" style="position: sticky; box-shadow: 0 4px 2px -2px gray;">
+<!-- <hr style="border: none; border-top: 1px solid #ddd; margin-top:-0.6cm;"> -->
 
 <p style="margin-bottom:1.2cm;"></p>
 
