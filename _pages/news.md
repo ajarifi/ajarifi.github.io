@@ -1,12 +1,10 @@
 ---
-title: "News"
 permalink: /news/
 author_profile: false
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
-
 
 ![](/images/tree-top.jpg)
 
