@@ -10,7 +10,7 @@ redirect_from:
 
 <h2> 2026 </h2>
 
-* <button class="btn--article-black">Milestone</button> (2026, 4, 01) <br> 
+* <button class="btn--article-black">Milestone</button> (2026, 04, 01) <br> 
   First time to sucessfully get a Japanese competitive fund (Wakate-Kakenhi).
   
 <h2> 2025 </h2>
