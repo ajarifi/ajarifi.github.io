@@ -7,9 +7,8 @@ redirect_from:
 ---
 
 ![](/images/tree-top.jpg)
-<hr style="border: none; border-top: 1px solid #ddd; margin-top:-0.2cm;">
+<hr style="border: none; border-top: 1px solid #ddd; margin-top:-0.4cm;">
 
-<p style="text-align: center;"> I always challenge myself and keep progressing, even if slowly.</p>
 <p style="margin-bottom:1.2cm;"></p>
 
 <h2> 2026 </h2>
@@ -113,5 +112,5 @@ redirect_from:
 <p style="margin-bottom:1.2cm;"></p>
 
 <p style="text-align: center;">There is always a first time—and that’s where everything begins.</p>
-<hr style="border: none; border-top: 1px solid #ddd; margin-bottom:-0.2cm;">
+<hr style="border: none; border-top: 1px solid #ddd; margin-bottom:-0.1cm;">
 <img src="/images/tree-bottom.jpg" alt="tree-bottom" style="margin-bottom: -4.2cm;">
