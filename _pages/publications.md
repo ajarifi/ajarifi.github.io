@@ -6,12 +6,6 @@ author_profile: false
 
 <style>
 
-/* ===== GENERAL TEXT ===== */
-body {
-  font-size: 16px;
-  line-height: 1.6;
-  color: #222;
-}
 
 /* ===== FILTER TABS ===== */
 #myBtnContainer {
@@ -384,6 +378,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
   </div>
 
 </div>
+
 
 <script>
 function filterSelection(c) {
