@@ -81,7 +81,7 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 | 2026      | APCTP program category 4                           | 4,000,000 KRW                         |
 | 2026      | APCTP program category 2                           | 5,000,000 KRW                         |
 | 2025-2026 | PUTI Q1 Universitas Indonesia                      | ~100,000,000 IDR                      |
-| 2025-2027 | RCNP Core-net                                      | ~500,000 JPY                          |
+| 2025-2027 | RCNP Core-net                                      | ~420,000 JPY                          |
 | 2025      | JAEA postdoctoral program                          | 500,000 JPY                           |
 | 2024      | Additional RIKEN SPDR program                      | 500,000 JPY                           |
 | 2023-2025 | RIKEN SPDR program                                 | 1,000,000 JPY/year                    |
