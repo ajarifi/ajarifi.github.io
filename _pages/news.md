@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ![](/images/tree-top.jpg)
+<hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
 
 <p style="text-align: center;"> I always challenge myself and keep progressing, even if slowly.</p>
 <p style="margin-bottom:1.2cm;"></p>
@@ -112,5 +113,5 @@ redirect_from:
 <p style="margin-bottom:1.2cm;"></p>
 
 <p style="text-align: center;">There is always a first time—and that’s where everything begins.</p>
-
-  ![](/images/tree-bottom.jpg)
+<hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
+<img src="/images/tree-bottom.jpg" alt="tree-bottom" style="margin-bottom: -50px;">
