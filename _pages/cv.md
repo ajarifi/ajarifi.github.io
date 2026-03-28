@@ -115,9 +115,9 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 **Workshops** 
 * <b>Co-Chair</b>, Southeast asian workshop on nuclear and hadron physics (SEA-NHP), \
-  Yogyakarta, Aug 2025 <a href="https://indico.global/event/13949/">(Indico)</a> \
+  Yogyakarta, Aug 2025 <a href="https://indico.global/event/13949/">(Indico)</a> 
 * <b>Chair</b>, International Workshop on Quark Structure of Hadron, \
-  RIKEN, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a> \
+  RIKEN, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a> 
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
   Osaka university, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a> 
 
