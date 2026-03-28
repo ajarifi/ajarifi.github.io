@@ -114,4 +114,4 @@ redirect_from:
 
 <hr style="border: none; border-top: 1px solid #ddd;">
 
-<img src="/images/tree-bottom.jpg" alt="tree-bottom" style="margin-bottom: -4.2cm;">
+<img src="/images/tree-bottom.jpg" alt="tree-bottom" style="margin-bottom: -4.2cm; margin-top:-0.2cm;">
