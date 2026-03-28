@@ -93,26 +93,16 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 | 2017-2020 | Japanese government MEXT scholarship               | Doctor                                |
 | 2015-2017 | Japanese government MEXT scholarship               | Master                                |
 | 2012-2015 | Tanoto Foundation scholarship                      | Bachelor                              |
-
-
-<h2 style="color:#900C3F"> Mentoring Experience</h2>
-
-See: <a href="https://ajarifi.github.io/student/">My students</a>
-
-<b> Master students</b>  
-
-
+ 
 <h2 style="color:#900C3F"> Community Service </h2>
 
 **Peer Review/Editorial** 
 * <b>Journal Referee</b>, Peer-reviewing papers for journal publications.\
   <i> 1. Physical Review D </i> <br>
 
-* <b>Conference Referee</b>, Peer-reviewing papers for conference proceedings.\
-  <i> 1. 11th International Conference on Theoretical and Applied Physics, 2021 </i>
-
-* <b>Conference Editor</b>, Part of editor's team for conference proceedings.\
-  <i> 1. Southeast asian workshop on nuclear and hadron physics (SEA-NHP) 2025 </i>
+* <b>Conference Referee/Editor</b>, Part of editors/referees for conference proceedings.\
+  <i> 1. 11th International Conference on Theoretical and Applied Physics (ICTAP), Indonesia, 2021 </i> 
+  <i> 2. Southeast asian workshop on nuclear and hadron physics (SEA-NHP), Indonesia, 2025 </i> 
 
 **Organization** 
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017\
