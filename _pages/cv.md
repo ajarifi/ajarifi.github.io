@@ -77,8 +77,10 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 | Year      | Research Grant                                     | Amount                                |
 |-----------|----------------------------------------------------|---------------------------------------|
+| 2026-2029 | Kakenhi-Wakate                                     | 3,200,000 JPY                         |
+| 2026      | APCTP program category 4                           | 4,000,000 KRW                         |
 | 2026      | APCTP program category 2                           | 5,000,000 KRW                         |
-| 2025-2026 | PUTI Q1 Universitas Indonesia                      | ~100,000,000 IDR                       |
+| 2025-2026 | PUTI Q1 Universitas Indonesia                      | ~100,000,000 IDR                      |
 | 2025-2027 | RCNP Core-net                                      | ~500,000 JPY                          |
 | 2025      | JAEA postdoctoral program                          | 500,000 JPY                           |
 | 2024      | Additional RIKEN SPDR program                      | 500,000 JPY                           |
@@ -101,7 +103,7 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
   <i> 1. Physical Review D </i> <br>
 
 * <b>Conference Referee/Editor</b>, Part of editors/referees for conference proceedings.\
-  <i> 1. 11th International Conference on Theoretical and Applied Physics (ICTAP), Indonesia, 2021 </i> 
+  <i> 1. 11th International Conference on Theoretical and Applied Physics (ICTAP), Indonesia, 2021 </i> \
   <i> 2. Southeast asian workshop on nuclear and hadron physics (SEA-NHP), Indonesia, 2025 </i> 
 
 **Organization** 
@@ -109,16 +111,15 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
   <i> Responsible for the activity of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
 
 **Seminars** 
-* <b>Host</b>, APCTP seminar series\
-  <i> Organizing and hosting online seminar in APCTP. <a href="https://ajarifi.github.io/activity/">(Details)</a> </i>
+* <b>Host</b>, APCTP seminar series <a href="https://ajarifi.github.io/activity/">(Details)</a>\
 
 **Workshops** 
+* <b>Co-Chair</b>, Southeast asian workshop on nuclear and hadron physics (SEA-NHP),\
+  Yogyakarta, Aug 2025 <a href="https://indico.global/event/13949/">(Indico)</a>\
 * <b>Chair</b>, International Workshop on Quark Structure of Hadron,\
-  RIKEN, Aug 2024\
-  <i> Organizing an international workshop in RIKEN. <a href="https://ajarifi.github.io/activity/">(Details)</a> </i>
+  RIKEN, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a>\
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC),\
-  Osaka university, Oct 2017\
-  <i> Making sure that the conference is sucessfully held. </i> <a href="/files/ISASC.pdf">(Abstract book)</a> 
+  Osaka university, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a> \
 
 **Personal Blog**  
 - [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life.
