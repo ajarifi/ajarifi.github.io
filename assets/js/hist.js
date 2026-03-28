@@ -49,8 +49,14 @@ function drawBasic() {
 
   var options = {
     legend: 'none',
-    bar: {groupWidth: "100%"},
+    bar: { groupWidth: "100%" },
     colors: ['#77C3EC'],
+  
+    vAxis: {
+      textPosition: 'none',   // removes numbers (labels)
+      gridlines: { color: 'transparent' }, // removes gridlines
+      baselineColor: 'transparent' // removes axis line
+    }
   };
 
   var chart = new google.visualization.ColumnChart(
