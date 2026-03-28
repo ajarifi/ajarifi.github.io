@@ -7,6 +7,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
+![](/images/tree-top.png)
 
 <h2> 2026 </h2>
 
@@ -105,3 +106,5 @@ redirect_from:
   
 * <button class="btn--article-black">Milestone</button> (2015, 09, 07)  <br>
   First time to join an international conference (HYP 2015, Tohoku, Japan).
+
+  ![](/images/tree-bottom.png)
