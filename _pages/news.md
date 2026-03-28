@@ -6,7 +6,10 @@ redirect_from:
   - "/nmp.html"
 ---
 
-<img src="/images/tree-top.jpg" style="position: sticky; top: 0; box-shadow: 0 4px 2px -2px gray; z-index: 1000;">
+
+<div style="display: flex; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1;"> 
+  <img src="/images/tree-top.jpg">
+</div>
 <!-- <hr style="border: none; border-top: 1px solid #ddd; margin-top:-0.6cm;"> -->
 
 <p style="margin-bottom:1.2cm;"></p>
