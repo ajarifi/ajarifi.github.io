@@ -50,9 +50,9 @@ Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and h
 
 <h2 style="color:#900C3F"> Summary of Publications </h2>
 
-See: <a href="https://ajarifi.github.io/publications/">My publications</a> (as of 2025)
-* I have published a couple of articles about hadron physics in Physical Review D
-* I have worked with around 20 different co-authors
+See: <a href="https://ajarifi.github.io/publications/">My publications</a> 
+* I have published articles about hadrons mainly in Physical Review D
+* I have worked with many different co-authors and several students
 
 <h2 style="color:#900C3F"> Summary of Presentations </h2>
 
@@ -99,7 +99,7 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 <h2 style="color:#900C3F"> Community Service </h2>
 
 **Student Mentorships** 
-* <b>Co-supervisor</b>, Providing advice/guidance to students.
+* <b>Co-supervisor</b>, Providing advice/guidance to students. (A couple of students so far)
 
 **Peer Review/Editorial** 
 * <b>Journal Referee</b>, Peer-reviewing papers for journal publications. \
