@@ -99,15 +99,15 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 <h2 style="color:#900C3F"> Community Service </h2>
 
 **Peer Review/Editorial** 
-* <b>Journal Referee</b>, Peer-reviewing papers for journal publications.\
+* <b>Journal Referee</b>, Peer-reviewing papers for journal publications. \
   <i> 1. Physical Review D </i> <br>
 
-* <b>Conference Referee/Editor</b>, Part of editors/referees for conference proceedings.\
+* <b>Conference Referee/Editor</b>, Part of editors/referees for conference proceedings. \
   <i> 1. 11th International Conference on Theoretical and Applied Physics, Indonesia, 2021 </i> \
   <i> 2. Southeast asian workshop on nuclear and hadron physics (SEA-NHP), Indonesia, 2025 </i> 
 
 **Organization** 
-* <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017\
+* <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017 \
   <i> Responsible for the activity of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
 
 **Seminars** 
@@ -115,9 +115,9 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 **Workshops** 
 * <b>Co-Chair</b>, Southeast asian workshop on nuclear and hadron physics (SEA-NHP), \
-  Yogyakarta, Aug 2025 <a href="https://indico.global/event/13949/">(Indico)</a>\
+  Yogyakarta, Aug 2025 <a href="https://indico.global/event/13949/">(Indico)</a> \
 * <b>Chair</b>, International Workshop on Quark Structure of Hadron, \
-  RIKEN, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a>\
+  RIKEN, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a> \
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
   Osaka university, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a> 
 
