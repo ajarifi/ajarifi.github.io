@@ -112,6 +112,6 @@ redirect_from:
 <p style="margin-bottom:1.2cm;"></p>
 
 
-<hr style="border: none; border-top: 1px solid #ddd; margin-bottom:-0.05cm;">
+<hr style="border: none; border-top: 1px solid #ddd;">
 
 <img src="/images/tree-bottom.jpg" alt="tree-bottom" style="margin-bottom: -4.2cm;">
