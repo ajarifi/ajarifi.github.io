@@ -68,6 +68,9 @@ redirect_from:
 * <button class="btn--article-black">Milestone</button> (2021, 05, 27)  <br>
   First time to host a seminar in APCTP.
 
+* <button class="btn--article-red">Award</button> (2021, 03, 05) <br>
+  Selected as the 2nd best presenter in APFB 2020, Kanazawa, Japan.
+
 * <button class="btn--article">Job</button> (2021, 03, 01)<br>
   Moving to South Korea: Working as a postdoc in APCTP, Pohang, Korea.
 
@@ -86,7 +89,7 @@ redirect_from:
 
 <h2> 2018 </h2>
 
-* <button class="btn--article-red">News</button> (2018, 08, 03) <br>
+* <button class="btn--article-red">Award</button> (2018, 08, 03) <br>
   Selected as the best presenter in Strangeness Nuclear Physics School (SNP 2018).
 
 <h2> 2017 </h2>
