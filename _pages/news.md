@@ -21,7 +21,7 @@ redirect_from:
 * <button class="btn--article-blue">Workshop </button> (2025, 12, 17) <br> 
   Attend IPC workshop in the University of Osaka to talk about career and life as an alumni. 
 
-* <button class="btn--article-blue">Workshop </button> (2025, 8, 19-21) <br> 
+* <button class="btn--article-blue">Workshop </button> (2025, 08, 19-21) <br> 
   Help organize 1st SEA-NHP 2025 in Yogyakarta, Indonesia.
 
 * <button class="btn--article">Job</button> (2025, 04, 01)<br>
@@ -30,18 +30,18 @@ redirect_from:
 
 <h2> 2024 </h2>
 
-* <button class="btn--article-blue">Workshop </button> (2023, 9, 22-27) <br> 
+* <button class="btn--article-blue">Workshop </button> (2023, 09, 22-27) <br> 
   First time to visit China and join FB2023 in Beijing, China.
 
 * <button class="btn--article-black">Milestone</button> (2024, 08, 26)<br>
   Passed the Japanese Language Proficiency Test (JLPT): N2 (Upper intermediate level).
 
-* <button class="btn--article-blue">Workshop </button> (2024, 8, 9-10) <br> 
+* <button class="btn--article-blue">Workshop </button> (2024, 08, 9-10) <br> 
   First time to organize a hadron workshop in RIKEN, Japan.
   
 <h2> 2023 </h2>
 
-* <button class="btn--article-blue">Workshop </button> (2023, 6, 5-9)  <br> 
+* <button class="btn--article-blue">Workshop </button> (2023, 06, 5-9)  <br> 
   First time to visit Europe and join Hadron 2023 in Geneva, Italy. 
   
 * <button class="btn--article">Job</button> (2023, 04, 01)<br>
