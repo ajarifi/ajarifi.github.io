@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-JAEA Researcher, <br>
+
+Ph.D. Researcher, ![](https://komarev.com/ghpvc/?username=ajarifi&abbreviated=true) <br>
 Advanced Science Research Center, JAEA <br>
 2-4 Shirakata, Tokai village, Ibaraki 319-1195, Japan <br>
 E-mail: arifi.jafar(at)jaea.go.jp (for official use only)<br>
@@ -92,5 +93,4 @@ My research is mainly focused on hadron physics, with a particular interest in h
 
 <h3 style="color:#900C3F"> Visitor statistics </h3>
 
-![](https://komarev.com/ghpvc/?username=ajarifi&abbreviated=true)
 <a href="https://clustrmaps.com/site/1bzly" sytle="width: 80%;"><img src="//www.clustrmaps.com/map_v2.png?d=t5qTXct6rWdQ5_VQosfOCAWuxy1RnvKVTV1op0MieMM&cl=ffffff" /></a>
