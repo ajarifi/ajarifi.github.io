@@ -92,4 +92,5 @@ My research is mainly focused on hadron physics, with a particular interest in h
 
 <h3 style="color:#900C3F"> Visitor statistics </h3>
 
+![](https://komarev.com/ghpvc/?username=ajarifi&abbreviated=true)
 <a href="https://clustrmaps.com/site/1bzly" sytle="width: 80%;"><img src="//www.clustrmaps.com/map_v2.png?d=t5qTXct6rWdQ5_VQosfOCAWuxy1RnvKVTV1op0MieMM&cl=ffffff" /></a>
