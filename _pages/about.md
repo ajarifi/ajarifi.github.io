@@ -16,18 +16,6 @@ E-mail: aj.arifi01(at)gmail.com <br>
 <!--  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fajarifi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visitor+%28today%2Ftotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
-<!-- <a href="https://clustrmaps.com/site/1bzly" sytle="width: 80%;"><img src="//www.clustrmaps.com/map_v2.png?d=t5qTXct6rWdQ5_VQosfOCAWuxy1RnvKVTV1op0MieMM&cl=ffffff" /></a> -->
-
-<p style="margin-bottom:1.2cm;"></p>
-
-
-<div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong>Quarks and Compact Stars (QCS 2026)</strong> <br>
-  Date: April 29 - May 02, 2026 <br>
-  Location: JAEA Tokai Mirai Base, Ibaraki, Japan <br>
-  Website: <a href="https://indico2.riken.jp/event/5301/">https://indico2.riken.jp/event/5301/</a>
-</div>
 
 
 <p style="margin-bottom:1.2cm;"></p>
@@ -102,3 +90,6 @@ My research is mainly focused on hadron physics, with a particular interest in h
     <li><a href="https://physics.ui.ac.id/?lang=id">Physics Department, University of Indonesia</a>, Indonesia</li>
 </ol>
 
+<h3 style="color:#900C3F"> Visitor statistics </h3>
+
+<a href="https://clustrmaps.com/site/1bzly" sytle="width: 80%;"><img src="//www.clustrmaps.com/map_v2.png?d=t5qTXct6rWdQ5_VQosfOCAWuxy1RnvKVTV1op0MieMM&cl=ffffff" /></a>
