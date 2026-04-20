@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Researcher, <br>
+Ph.D. Researcher, ![](https://komarev.com/ghpvc/?username=ajarifi&abbreviated=true) <br>
 Advanced Science Research Center, JAEA <br>
 2-4 Shirakata, Tokai village, Ibaraki 319-1195, Japan <br>
 E-mail: arifi.jafar(at)jaea.go.jp (for official use only)<br>
