@@ -14,8 +14,8 @@ redirect_from:
 
 <h2 style="color:#900C3F"> Bio </h2>  
 
-<p align="justify"> 
-Dr. Ahmad Jafar Arifi earned his PhD from Osaka University, Japan, in 2020 and his Bachelor's degree from the University of Indonesia in 2015. He completed an internship at the Japan Atomic Energy Agency (JAEA) and joined the Asia Pacific Center for Theoretical Physics (APCTP) in South Korea as a Young Scientist Fellow. Currently, he is engaged in research on Few-body Systems at RIKEN, Japan. His research primarily focuses on hadron spectroscopy and structure, utilizing various data-driven hadron models.
+<p align="justify"> Dr. Ahmad Jafar Arifi earned his Ph.D. in physics from Osaka University, Japan, in 2020, and his Bachelor’s degree from Universitas Indonesia in 2015. During his doctoral studies, he completed a six-month internship at the Japan Atomic Energy Agency (JAEA), gaining valuable exposure to experimental research environments. He then joined the Asia Pacific Center for Theoretical Physics (APCTP), South Korea, as a Young Scientist Training (YST) Fellow, and later worked at RIKEN, Japan, as a Special Postdoctoral Researcher (SPDR).
+Currently, he is a researcher at the Advanced Science Research Center (ASRC), JAEA. His research focuses on hadron spectroscopy, reactions, and structure, as well as hadrons in medium, employing various data-driven hadronic models and approaches.
 </p>
 
 <h2 style="color:#900C3F"> Mission </h2>  
