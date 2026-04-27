@@ -37,7 +37,7 @@ Currently, he is a researcher at the Advanced Science Research Center (ASRC), JA
 <h2 style="color:#900C3F"> Work experience </h2>
 
 * <b>Advanced Science Research Center (ASRC), JAEA,</b> Japan\
-  Apr 2025 - Present : Postdoctoral Fellow (Tenure Track)
+  Apr 2025 - Present : Postdoctoral Reseracher (Tenure Track)
 * <b>Few-body Systems in Physics Lab, RIKEN,</b> Japan\
   Apr 2023 - Mar 2025 : Special Postdoctoral Researcher (SPDR)
 * <b>Asia Pacific Center for Theoretical Physics (APCTP),</b> South Korea\
