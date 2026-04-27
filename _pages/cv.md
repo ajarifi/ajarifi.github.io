@@ -20,7 +20,7 @@ Currently, he is a researcher at the Advanced Science Research Center (ASRC), JA
 
 <h2 style="color:#900C3F"> Mission </h2>  
 
-<p align="justify"> My mission is to foster the growth of physics communities in the Southeast Asian region. In physics, my primary objective is to build a broad understanding of hadron physics from multiple perspectives. Specifically, I aim to develop various quark models that explain the diverse properties of hadrons and nuclei, ultimately connecting this knowledge to QCD. To achieve this, I am dedicated to collaborating with new researchers and exploring different methods. </p>
+<p align="justify"> My mission is to foster the growth of hadron physics communities in the Southeast Asian region. In physics, my primary objective is to build a broad understanding of hadron physics from multiple perspectives. Specifically, I aim to develop various quark models that explain the diverse properties of hadrons and nuclei, ultimately connecting this knowledge to QCD. To achieve this, I am dedicated to collaborating with new researchers and exploring different methods. </p>
 
 <h2 style="color:#900C3F"> Education </h2>
 
