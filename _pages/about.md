@@ -91,6 +91,9 @@ My research focuses on hadron physics, with particular interests in hadron spect
     <li><a href="https://physics.ui.ac.id/?lang=id">Physics Department, University of Indonesia</a>, Indonesia</li>
 </ol>
 
-<h3 style="color:#900C3F"> Visitor statistics </h3>
 
+
+<!--  
+<h3 style="color:#900C3F"> Visitor statistics </h3>
 <a href="https://clustrmaps.com/site/1bzly" sytle="width: 80%;"><img src="//www.clustrmaps.com/map_v2.png?d=t5qTXct6rWdQ5_VQosfOCAWuxy1RnvKVTV1op0MieMM&cl=ffffff" /></a>
+-->
