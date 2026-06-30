@@ -50,7 +50,7 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
 
       <li><b>Fundamental Problems in Subatomic Physics 2026</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Speaker</span>, 
-      <a href="https://indico.global/event/17511//">Novotel Cairns Oasis Resort, Cairns, Australia</a> (September 23–27, 2026)</li>
+      <a href="https://indico.global/event/17511//">Cairns, Australia</a> (Sep 23–27, 2026)</li>
       
       <li><b>New Perspectives on exotic and heavy hadrons</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Invited Speaker</span>, 
