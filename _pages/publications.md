@@ -204,10 +204,6 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
 <p style="margin-bottom:1cm;"></p>
 
 <div class="containerz">
-  <div class="filterDiv article">
-  <b>Hadronic exceptional points</b><br>
-  <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Jun 30, 2026)<br>
-    e-Print: <a href="https://arxiv.org/abs/2606.xxxxx"> 2606.xxxxx </a> [hep-ph]</div>
 
   <div class="filterDiv article">
   <b>Polarization-dependent mass modifications of ϕ meson with finite momentum in nuclear matter</b><br>
