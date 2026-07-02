@@ -59,6 +59,10 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
       <li><b>International Workshop on Origin of Mass and Matter in the Universe</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Organizer</span>, 
       <a href="https://indico.global/event/16936/">APCTP, South Korea</a> (July 21–24, 2026)</li>
+
+      <li><b>89th OMEG workshop</b><br>
+      <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Speaker</span>, 
+      <a href="https://indico.global/event/18062/">Busan, South Korea</a> (July 18–20, 2026)</li>
       
       <li><b>Reimei workshop on in-medium modification of vector mesons @Yonsei</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Invited Speaker</span>, 
