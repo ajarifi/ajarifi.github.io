@@ -69,6 +69,25 @@ author_profile: false
   opacity: 1;
   transform: translateY(0);
 }
+
+.pub-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 4px;
+}
+
+.pub-title b {
+    flex: 1;
+}
+
+.pub-number {
+    color: #999;
+    font-size: 14px;
+    font-weight: 500;
+    white-space: nowrap;
+}
   
 /* ===== YEAR HEADERS (keep simple, no box) ===== */
 .filterDiv h2 {
@@ -379,7 +398,11 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
       Published in: <i> <a href="https://journals.jps.jp/doi/10.7566/JPSCP.10.042001">JPS Conf. Proc. 10, 042001 (2016)</a> <br>
       </i> Contribution to: <a href="https://www.rcnp.osaka-u.ac.jp/~nstar15/">NSTAR 2015 </a> (Osaka, Japan) </div>
 
-  <div class="filterDiv article"><b> Nucleon resonances with spin-3/2 and -5/2 in the isobar model for kaon photoproduction </b> <br> 
+  <div class="filterDiv article">
+      <div class="pub-title">
+        <b>Nucleon resonances with spin-3/2 and -5/2 in the isobar model for kaon photoproduction</b>
+        <span class="pub-number">#1</span>
+      </div> 
       <button class="btn--article">Article</button>&nbsp; T.Mart, S.Clymton, and <b> A. J. Arifi</b> (Nov 18, 2015)<br>
       Published in: <i> <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.094019">Phys. Rev. D 92, 094019 (2015)</a> </i>
   </div>
