@@ -204,56 +204,57 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
 <p style="margin-bottom:1cm;"></p>
 
 <div class="containerz">
-  
+
   <div class="filterDiv article">
   <b>Hadronic exceptional points</b><br>
   <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Jun 30, 2026)<br>
-    e-Print: <a href="https://arxiv.org/abs/2606.31697"> 2606.31697 </a> [hep-ph]</div>
+  e-Print: <a href="https://arxiv.org/abs/2606.31697"> 2606.31697 </a> [hep-ph]</div>
   
   <div class="filterDiv article">
   <b>Polarization-dependent mass modifications of ϕ meson with finite momentum in nuclear matter</b><br>
   <button class="btn--article">Article</button> <b>A. J. Arifi</b>, P. Gubler, and K. Tsushima (Mar 16, 2026)<br>
-    e-Print: <a href="https://arxiv.org/abs/2603.15971"> 2603.15971</a> [hep-ph]</div>
+  e-Print: <a href="https://arxiv.org/abs/2603.15971"> 2603.15971</a> [hep-ph]</div>
     
   <div class="filterDiv proceeding"><b>Exploring meson structure through the light-front quark model</b><br> 
-      <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b> (April, 2026) <br> 
-      Published in: <i>Mod. Phys. Lett. A (in press)</i> <br> 
-      Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
+  <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b> (April, 2026) <br> 
+  Published in: <i>Mod. Phys. Lett. A (in press)</i> <br> 
+  Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
 
   <div class="filterDiv proceeding"><b>Electromagnetic structure of $B_c$ and heavy quarkonia in the light-front quark model</b><br> 
-      <button class="btn--article-black">S. Issue</button>&nbsp; R. R. Harjapradipta, M. Ridwan, <b> A. J. Arifi</b>,  T. Mart (Mar 14, 2026) <br> 
-      Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; e-Print: <a href="https://arxiv.org/abs/2603.13819"> 2603.13819 </a> [hep-ph] <br> 
-      Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
+  <button class="btn--article-black">S. Issue</button>&nbsp; R. R. Harjapradipta, M. Ridwan, <b> A. J. Arifi</b>,  T. Mart (Mar 14, 2026) <br> 
+  Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; e-Print: <a href="https://arxiv.org/abs/2603.13819"> 2603.13819 </a> [hep-ph] <br> 
+  Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
  
   <div class="filterDiv article">
   <b>Quarkonium spectra with magnetically-induced anisotropic confinement</b><br>
   <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Mar 13, 2026)<br>
-     Published in: <i> <a href="#"> Phys. Rev. D (accepted) </a></i> &middot; 
-    e-Print: <a href="https://arxiv.org/abs/2603.12589"> 2603.12589 </a> [hep-ph]</div>
+  Published in: <i> <a href="#"> Phys. Rev. D (accepted) </a></i> &middot; 
+  e-Print: <a href="https://arxiv.org/abs/2603.12589"> 2603.12589 </a> [hep-ph]</div>
 
   <div class="filterDiv article">
   <b>Landau-Zener-Stückelberg-Majorana dynamics of magnetized quarkonia</b><br>
   <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Dec 30, 2025)<br>
   Published in: <i> <a href="https://doi.org/10.1103/xc28-3v8r"> Phys. Rev. D 113, 054047 (2026)</a></i> &middot; 
-    e-Print: <a href="https://arxiv.org/abs/2512.24072"> 2512.24072</a> [hep-ph]</div>
+  e-Print: <a href="https://arxiv.org/abs/2512.24072"> 2512.24072</a> [hep-ph]</div>
 
   <div class="filterDiv article"><b>Kaon T-even transverse-momentum-dependent distributions and form factors in a self-consistent light-front quark model</b><br>
-      <button class="btn--article">Article</button>&nbsp; Y. Choi, <b> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Dec 25, 2025)<br> 
-      e-Print: <a href="https://arxiv.org/abs/2512.21642"> 2512.21642 </a> [hep-ph] </div>
+  <button class="btn--article">Article</button>&nbsp; Y. Choi, <b> A. J. Arifi</b>, H.M. Choi, and C.R. Ji (Dec 25, 2025)<br> 
+  e-Print: <a href="https://arxiv.org/abs/2512.21642"> 2512.21642 </a> [hep-ph] </div>
 
   <div class="filterDiv proceeding"><b>A brief history and outlook of hadronic physics in Indonesia</b><br> 
-      <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
-      Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; e-Print: <a href="https://arxiv.org/abs/2512.17219"> 2512.17219 </a> [hep-ph] <br> 
-      Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
+  <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
+  Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; e-Print: <a href="https://arxiv.org/abs/2512.17219"> 2512.17219 </a> [hep-ph] <br> 
+  Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
       
   <div class="filterDiv proceeding"><b>Heavy quarkonia in the light-front quark model</b><br> 
-      <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart (Aug 28, 2025)<br>
-      Published in: <i><a href="https://pos.sissa.it/500/158">PoS Hadron 2025, 158 (2026)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2508.21145"> 2508.21145 </a> [hep-ph] <br>
-      Contribution to: <a href="https://hadron2025.rcnp.osaka-u.ac.jp/">HADRON 2025 </a>(Osaka, Japan)</div>
+  <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart (Aug 28, 2025)<br>
+  Published in: <i><a href="https://pos.sissa.it/500/158">PoS Hadron 2025, 158 (2026)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2508.21145"> 2508.21145 </a> [hep-ph] <br>
+  Contribution to: <a href="https://hadron2025.rcnp.osaka-u.ac.jp/">HADRON 2025 </a>(Osaka, Japan)</div>
 
   <div class="filterDiv article"><b>Structure of heavy quarkonia in a strong magnetic field</b><br>
-      <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b> and K. Suzuki (Jul 26, 2025)<br> 
-      Published in: <i> <a href="https://doi.org/10.1103/pwsl-xrq5"> Phys. Rev. D 112, 094013 (2025)</a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2507.18894"> 2507.18894 </a> [hep-ph] </div>
+  <button class="btn--article">Article</button>&nbsp; <b> A. J. Arifi</b> and K. Suzuki (Jul 26, 2025)<br> 
+  Published in: <i> <a href="https://doi.org/10.1103/pwsl-xrq5"> Phys. Rev. D 112, 094013 (2025)</a></i> &middot; 
+  e-Print: <a href="https://arxiv.org/abs/2507.18894"> 2507.18894 </a> [hep-ph] </div>
 
   <div class="filterDiv proceeding"><b>M1 radiative transition of light mesons in the light-front quark model</b><br> 
       <button class="btn--article-blue">Proceeding</button>&nbsp; M. Ridwan, <b> A. J. Arifi</b>, and T. Mart (Jul 4, 2025)<br>
