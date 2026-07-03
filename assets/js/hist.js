@@ -48,6 +48,7 @@ function drawBasic() {
   ]);
 
   var options = {
+    width: '100%',
     legend: 'none',
     bar: { groupWidth: "100%" },
     colors: ['#77C3EC'],
