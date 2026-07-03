@@ -170,14 +170,6 @@ author_profile: false
   background-color: rgba(178, 34, 34, 0.08);
 }
 
-/* ===== NUMBERING ===== */
-.pub-number {
-  display: inline-block;
-  width: 28px;
-  color: #999;
-  font-size: 14px;
-}
-
 /* ===== STICKY HEADER ===== */
 h1 {
   font-weight: 600;
