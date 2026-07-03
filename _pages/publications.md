@@ -183,7 +183,7 @@ I’m driven by discussions and collaborations, and by a curiosity to explore al
  
 <p style="margin-bottom:1.2cm;"></p>
 
-<div id="chart_div" style="display: block; width: 100%;"></div>
+<div id="chart_div" style="display: block; width: 100%;transform: scale(1);"></div>
 
 
 <p style="margin-bottom:1.5cm;"></p>
