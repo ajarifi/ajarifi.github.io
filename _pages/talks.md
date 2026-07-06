@@ -64,6 +64,10 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Speaker</span>, 
       <a href="https://indico.global/event/18062/">Busan, South Korea</a> (July 18–20, 2026)</li>
       
+      <li><b>JAEA Hadron workshop</b><br>
+      <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Speaker</span>, 
+       Tokai, Japan (July 15–17, 2026)</li>
+      
       <li><b>Reimei workshop on in-medium modification of vector mesons @Yonsei</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Invited Speaker</span>, 
       <a href="https://indico.cern.ch/event/1624606/">Yonsei University, South Korea</a> (March 8–10, 2026)</li>
