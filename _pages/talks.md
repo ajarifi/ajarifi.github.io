@@ -49,8 +49,8 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
       <a href="https://indico.global/event/13949/">Khon Kaen University, Thailand</a> (Dec 1–5, 2026)</li>
 
       
-   <li style="margin-bottom: 25px;"><b> Zhejiang university visit</b><br> 
-    <button class="btn--article-black">Seminar</button>&nbsp; Hangzhou, China (Oct 11-17, 2026) <br> </li>   
+      <li style="margin-bottom: 25px;"><b> Zhejiang university visit</b><br> 
+      <button class="btn--article-black">Seminar</button>&nbsp; Hangzhou, China (Oct 11-17, 2026) <br> </li>   
 
       <li><b>Fundamental Problems in Subatomic Physics 2026</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Speaker</span>, 
