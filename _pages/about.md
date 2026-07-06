@@ -66,7 +66,7 @@ My research focuses on hadron physics, with particular interests in hadron spect
     <li><a href="https://inspirehep.net/authors/986596">Kiyoshi Tanida</a></li>
     <li><a href="https://inspirehep.net/authors/1876537">Lucas Happ</a></li>
     <li><a href="https://inspirehep.net/authors/995042">Makoto Oka</a></li>
-    <li><a href="https://inspirehep.net/authors/2691822">Muhammad Ridwan</a></li>
+    <li><a href="https://inspirehep.net/authors/2862236">Muhammad Ridwan</a></li>
     <li><a href="https://inspirehep.net/authors/2759286">Muhammad Fauzan Syahbana</a></li>
     <li><a href="https://inspirehep.net/authors/2862615">Nantana Monkata</a></li>
     <li><a href="https://inspirehep.net/authors/2807713">Nongnaphat Ponkhuha</a></li>
@@ -78,6 +78,7 @@ My research focuses on hadron physics, with particular interests in hadron spect
     <li><a href="https://inspirehep.net/authors/1705246">Samson Clymton</a></li>
     <li><a href="https://orcid.org/0009-0001-5222-9726">Shuhei Ohno</a></li>
     <li><a href="https://inspirehep.net/authors/998691">Terry Mart</a> (B.S. Advisor)</li>
+    <li><a href="#">Yongwoo Choi</a></li>
     <li><a href="https://inspirehep.net/authors/995116">Yongseok Oh</a></li>
 </ol>
 
