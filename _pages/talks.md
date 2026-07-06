@@ -48,6 +48,10 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Organizer</span>, 
       <a href="https://indico.global/event/13949/">Khon Kaen University, Thailand</a> (Dec 1–5, 2026)</li>
 
+      
+   <li style="margin-bottom: 25px;"><b> Zhejiang university visit</b><br> 
+    <button class="btn--article-black">Seminar</button>&nbsp; Hangzhou, China (Oct 11-17, 2026) <br> </li>   
+
       <li><b>Fundamental Problems in Subatomic Physics 2026</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Speaker</span>, 
       <a href="https://indico.global/event/17511//">Cairns, Australia</a> (Sep 23–27, 2026)</li>
@@ -70,7 +74,7 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
       
       <li><b>Reimei workshop on in-medium modification of vector mesons @Yonsei</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Invited Speaker</span>, 
-      <a href="https://indico.cern.ch/event/1624606/">Yonsei University, South Korea</a> (March 8–10, 2026)</li>
+      <a href="https://indico.cern.ch/event/1624606/">Yonsei University, South Korea</a> (Mar 8–10, 2026)</li>
     </ol>
 </details>
 
@@ -104,13 +108,13 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
     <summary>2024</summary>
     <ol>
 <li style="margin-bottom: 25px;"><b> 第23回高エネルギーQCD核子構造勉強会 </b><br> 
-    <button class="btn--article-blue"> Workshop</button>&nbsp; Participant, <a href="https://indico.itp.ac.cn/event/247/overview" > RIKEN, Japan</a> (December 23, 2024) <br> </li> 
+    <button class="btn--article-blue"> Workshop</button>&nbsp; Participant, <a href="https://indico.itp.ac.cn/event/247/overview" > RIKEN, Japan</a> (Dec 23, 2024) <br> </li> 
      
  <li style="margin-bottom: 25px;"><b> East Asian Workshop on Exotic Hadrons 2024 </b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.itp.ac.cn/event/247/overview" > Nanjing, China</a> (December 8-11, 2024) <br> </li> 
   
  <li style="margin-bottom: 25px;"><b> Research Center for Accelerator and Radioisotope Science (RARIS) Workshop </b><br> 
-     <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.lns.tohoku.ac.jp/event/281/overview" >Tohoku University, Japan </a> (November 20-21, 2024) <br> </li> 
+     <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, <a href="https://indico.lns.tohoku.ac.jp/event/281/overview" >Tohoku University, Japan </a> (Nov 20-21, 2024) <br> </li> 
 
   <li style="margin-bottom: 25px;"><b> RIKEN-Tohoku University Joint Workshop </b><br> 
      <button class="btn--article-blue"> Workshop</button>&nbsp; <span style="color:#900C3F">Speaker</span>, RIKEN, Japan (November 12-13, 2024) <br> </li> 
