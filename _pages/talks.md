@@ -90,11 +90,19 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
       <li><b>Quarks and Compact Stars (QCS 2026)</b><br>
       <button class="btn--article-blue">Workshop</button> Organizer, 
         <a href="https://indico2.riken.jp/event/5301/">Tokai</a>, Japan (Apr 29 - May 02, 2026)</li>
+
+
+      <li><b>Workshop on Synergy in Hadron Physics at Belle II and J-PARC</b><br> 
+      <button class="btn--article-blue">Workshop</button> Participant, 
+      <a href="https://kds.kek.jp/event/58816/">KEK, Tsukuba, Japan</a> (Mar 13, 2026)</li>
+    </ol>
        
       <li><b>Reimei workshop on in-medium modification of vector mesons @Yonsei</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Invited Speaker</span>, 
       <a href="https://indico.cern.ch/event/1624606/">Yonsei University, South Korea</a> (Mar 8–10, 2026)</li>
     </ol>
+
+    
 </details>
  
 <!-- Talks -->
