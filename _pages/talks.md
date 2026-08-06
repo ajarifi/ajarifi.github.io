@@ -52,6 +52,12 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
       <li style="margin-bottom: 25px;"><b> Zhejiang university visit</b><br> 
       <button class="btn--article-black">Visit</button>&nbsp; Hangzhou, China (Oct 11-17, 2026) <br> </li>   
 
+
+     <li><b>HIC/HEQCD-NS joint meeting</b><br> 
+      <button class="btn--article-black">Seminar</button>&nbsp; <span style="color:#900C3F">Speaker</span>, 
+      Tokyo, Japan. [Sep/Oct 2026(TBA)] <br> </li> 
+
+
       <li><b>Fundamental Problems in Subatomic Physics 2026</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Speaker</span>, 
       <a href="https://indico.global/event/17511//">Cairns, Australia</a> (Sep 23–27, 2026)</li>
