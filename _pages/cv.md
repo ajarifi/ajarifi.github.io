@@ -144,7 +144,7 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 * Indonesian (Native)
 * English (Fluent)
-* Japanese (Intermediate)\
+* Japanese (Advanced level)\
   <i> Passed JLPT - N2 (2024): <a href="https://www.jlpt.jp/e/about/levelsummary.html"> (Description)</a> </i>
-* Korean (Beginner)\
+* Korean (Beginner level)\
   <i> Passed TOPIK I - level 2 (2022): <a href="https://en.wikipedia.org/wiki/Test_of_Proficiency_in_Korean"> (Description)</a> </i>
