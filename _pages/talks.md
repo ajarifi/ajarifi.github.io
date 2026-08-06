@@ -96,7 +96,7 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
       <a href="https://indico.cern.ch/event/1624606/">Yonsei University, South Korea</a> (Mar 8–10, 2026)</li>
 
      <li><b> 8th KEK-JAEA Joint Seminar</b><br> 
-      <button class="btn--article-black">Colloquium</button>&nbsp; Participant. 
+      <button class="btn--article-black">Seminar</button>&nbsp; Participant. 
       KEK, Tsukuba, Japan. (Jan 29, 2026) <br> 
      </li> 
      
