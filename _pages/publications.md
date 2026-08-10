@@ -231,7 +231,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
         <span class="pub-number">#36</span>
     </div>   
   <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Jun 30, 2026)<br>
-  <i> <a href="#"> Phys. Rev. D (accepted) </a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2606.31697"> 2606.31697 </a> [hep-ph]</div>
+  e-Print: <a href="https://arxiv.org/abs/2606.31697"> 2606.31697 </a> [hep-ph]</div>
   
   <div class="filterDiv article">
       <div class="pub-title">
@@ -239,7 +239,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
         <span class="pub-number">#35</span>
     </div>   
   <button class="btn--article">Article</button> <b>A. J. Arifi</b>, P. Gubler, and K. Tsushima (Mar 16, 2026)<br>
-  e-Print: <a href="https://arxiv.org/abs/2603.15971"> 2603.15971</a> [hep-ph]</div>
+  <i> <a href="#"> Phys. Rev. D (accepted) </a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2603.15971"> 2603.15971</a> [hep-ph]</div>
     
   <div class="filterDiv proceeding">
     <div class="pub-title">
