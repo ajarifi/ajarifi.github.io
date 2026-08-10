@@ -216,13 +216,22 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
 
 <div class="containerz">
 
+  <div class="filterDiv proceeding">
+        <div class="pub-title">
+            <b>Preface: Status and future perspectives on nuclear and hadron structure - Selected publications from the SEA-NHP 2025</b>
+            <span class="pub-number">#37</span>
+        </div>  
+  <button class="btn--article-black">S. Issue</button>&nbsp; P. T. P. Hutauruk, <b> A. J. Arifi</b>, and C. Setyadi (July 31, 2026) <br> 
+  Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; 
+  Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
+  
   <div class="filterDiv article">
     <div class="pub-title">
         <b>Hadronic exceptional points</b>
         <span class="pub-number">#36</span>
     </div>   
   <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Jun 30, 2026)<br>
-  e-Print: <a href="https://arxiv.org/abs/2606.31697"> 2606.31697 </a> [hep-ph]</div>
+  <i> <a href="#"> Phys. Rev. D (accepted) </a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2606.31697"> 2606.31697 </a> [hep-ph]</div>
   
   <div class="filterDiv article">
       <div class="pub-title">
@@ -256,7 +265,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
         <span class="pub-number">#32</span>
     </div> 
   <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Mar 13, 2026)<br>
-  Published in: <i> <a href="#"> Phys. Rev. D (accepted) </a></i> &middot; 
+  Published in: <i> <a href="#"> Phys. Rev. D 114, 014067 (2026) </a></i> &middot; 
   e-Print: <a href="https://arxiv.org/abs/2603.12589"> 2603.12589 </a> [hep-ph]</div>
 
   <div class="filterDiv article">
