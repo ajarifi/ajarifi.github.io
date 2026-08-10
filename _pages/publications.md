@@ -216,6 +216,15 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
 
 <div class="containerz">
 
+
+  <div class="filterDiv article">
+    <div class="pub-title">
+        <b>Antique.jl: A Julia package on analytical solutions of quantum mechanical equations</b>
+        <span class="pub-number">#38</span>
+    </div>   
+  <button class="btn--article">Article</button> S. Ohno, <b>A. J. Arifi</b> and L. Happ<br>
+  Repository: <a href="https://github.com/ohno/Antique.jl"> Github </a> </div>
+
   <div class="filterDiv proceeding">
         <div class="pub-title">
             <b>Preface: Status and future perspectives on nuclear and hadron structure - Selected publications from the SEA-NHP 2025</b>
