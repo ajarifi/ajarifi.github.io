@@ -223,7 +223,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
         <span class="pub-number">#38</span>
     </div>   
   <button class="btn--article">Article</button> S. Ohno, <b>A. J. Arifi</b>, and L. Happ (2026)<br> 
-  Published in: <a href="https://github.com/ohno/Antique.jl"> github.com/ohno/Antique.jl </a> </div>
+  Repo: <a href="https://github.com/ohno/Antique.jl"> github.com/ohno/Antique.jl </a> </div>
 
   <div class="filterDiv proceeding">
         <div class="pub-title">
