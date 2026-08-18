@@ -1,6 +1,6 @@
 ---
-title: "Activity"
-permalink: /activity/
+title: "Activities"
+permalink: /activities/
 author_profile: false
 ---
 
