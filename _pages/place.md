@@ -54,7 +54,7 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
 
 
 <!-- Japan -->
-<details open>
+<details>
   <summary>🇯🇵 Japan</summary>
 
   <h3>Experimental Facility</h3>
@@ -95,7 +95,7 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
 </details>
 
 <!-- Indonesia -->
-<details open>
+<details>
   <summary>🇮🇩 Indonesia</summary>
 
   <h3>Research Center</h3>
@@ -118,7 +118,7 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
 
 
 <!-- South Korea -->
-<details open>
+<details>
   <summary>🇰🇷 South Korea</summary>
 
   <h3>Research Center</h3>
