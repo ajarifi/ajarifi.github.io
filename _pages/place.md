@@ -53,6 +53,29 @@ For seminar or workshop invitations, or to arrange a visit to my current institu
 Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
 
 
+<!-- Indonesia -->
+<details>
+  <summary>🇮🇩 Indonesia</summary>
+
+  <h3>Research Center</h3>
+  <ul class="checklist">
+    <li>National Research and Innovation Agency (BRIN)</li>
+  </ul>
+
+  <h3>University</h3>
+  <ul class="checklist">
+    <li>University of Indonesia (UI)</li>
+    <li>University of Gajah Mada (UGM)</li>
+    <li>Bandung Institute of Technology (ITB)</li>
+    <li>IPB University</li>
+    <li>Sepuluh Nopember Institute of Technology (ITS)</li>
+    <li>Padjadjaran University (UNPAD)</li>
+    <li>State University of Jakarta (UNJ)</li>
+    <li>Universitas Islam Negeri (UIN) Yogyakarta</li>
+  </ul>
+</details>
+
+
 <!-- Japan -->
 <details>
   <summary>🇯🇵 Japan</summary>
@@ -94,29 +117,6 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
   </ul>
 </details>
 
-<!-- Indonesia -->
-<details>
-  <summary>🇮🇩 Indonesia</summary>
-
-  <h3>Research Center</h3>
-  <ul class="checklist">
-    <li>National Research and Innovation Agency (BRIN)</li>
-  </ul>
-
-  <h3>University</h3>
-  <ul class="checklist">
-    <li>University of Indonesia (UI)</li>
-    <li>University of Gajah Mada (UGM)</li>
-    <li>Bandung Institute of Technology (ITB)</li>
-    <li>IPB University</li>
-    <li>Sepuluh Nopember Institute of Technology (ITS)</li>
-    <li>Padjadjaran University (UNPAD)</li>
-    <li>State University of Jakarta (UNJ)</li>
-    <li>Universitas Islam Negeri (UIN) Yogyakarta</li>
-  </ul>
-</details>
-
-
 <!-- South Korea -->
 <details>
   <summary>🇰🇷 South Korea</summary>
@@ -137,6 +137,17 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
   </ul>
 </details>
 
+<!-- China -->
+<details>
+  <summary>🇨🇳 China</summary>
+
+  <h3>Conferences</h3>
+  <ul class="checklist">
+    <li>Beijing, organized by Institute of High Energy Physics (IHEP)</li>
+    <li>Nanjing, organized by Southeast University</li>    
+  </ul>
+</details>
+
 
 <!-- Philippines -->
 <details>
@@ -145,16 +156,6 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
   <h3>University</h3>
   <ul class="checklist">
     <li>University of Santo Tomas</li>
-  </ul>
-</details>
-
-<!-- China -->
-<details>
-  <summary>🇨🇳 China</summary>
-
-  <h3>Research Center</h3>
-  <ul class="checklist">
-    <li>Institute of High Energy Physics (IHEP), CAS</li>
   </ul>
 </details>
 
