@@ -9,6 +9,8 @@ author_profile: false
 </div> -->
 <!-- <p style="margin-bottom:1.2cm;"></p> -->
 
+(To be updated)
+
 <p align="justify"> 
 My research interest is primarily focused on the study of quantum chromodynamics (QCD) and its application to hadron physics. 
 QCD is the fundamental theory of the strong interaction that describes the behavior of quarks and gluons, 
