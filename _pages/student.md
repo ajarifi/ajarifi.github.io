@@ -1,6 +1,6 @@
 ---
 title: "Students"
-permalink: /student/
+permalink: /students/
 author_profile: false
 ---
 
