@@ -9,23 +9,23 @@ main:
   - title: "Research"
     url: /portfolio/
     
-  #- title: "Collaboration"
-  #  url: /collaboration/
+  #- title: "Collaborations"
+  #  url: /collaborations/
 
-  #- title: "Student"
-  #  url: /student/
+  #- title: "Students"
+  #  url: /students/
   
-  - title: "Publication"
+  - title: "Publications"
     url: /publications/
     
-  - title: "Talk"
+  - title: "Talks"
     url: /talks/ 
     
-  - title: "Activity"
-    url: /activity/
+  - title: "Activities"
+    url: /activities/
     
-  - title: "Visit"
-    url: /place/ 
+  - title: "Visits"
+    url: /visits/ 
   
   # - title: "Teaching"
   #   url: /teaching/
