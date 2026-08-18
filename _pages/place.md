@@ -1,5 +1,5 @@
 ---
-title: "Research Visits"
+title: "Visits"
 permalink: /visits/
 author_profile: false
 ---
