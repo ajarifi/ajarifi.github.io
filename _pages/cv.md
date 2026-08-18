@@ -1,13 +1,14 @@
 ---
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
   
-<div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
+<!-- <div style="display: flex; align-items: center; background-color: white; position: sticky; top: 0px; padding: 10px 0px; box-shadow: 0 4px 2px -2px gray; z-index: 1; height: 70px;"> 
   <h1 style="color:#000080; margin: 0;">Curriculum Vitae</h1> 
-</div>
+</div> -->
 
   
 <p style="margin-bottom:1.2cm;"></p>
