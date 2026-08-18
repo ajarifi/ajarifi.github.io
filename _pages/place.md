@@ -138,17 +138,6 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
 </details>
 
 
-<!-- Italy -->
-<details>
-  <summary>🇮🇹 Italy</summary>
-
-  <h3>University</h3>
-  <ul class="checklist">
-    <li>Genova University</li>
-  </ul>
-</details>
-
-
 <!-- Philippines -->
 <details>
   <summary>🇵🇭 Philippines</summary>
@@ -188,3 +177,15 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
     <li>Van Lang University</li>
   </ul>
 </details>
+
+
+<!-- Italy -->
+<details>
+  <summary>🇮🇹 Italy</summary>
+
+  <h3>University</h3>
+  <ul class="checklist">
+    <li>Genova University</li>
+  </ul>
+</details>
+
