@@ -1,6 +1,6 @@
 ---
 title: "Research Visits"
-permalink: /place/
+permalink: /visits/
 author_profile: false
 ---
 
