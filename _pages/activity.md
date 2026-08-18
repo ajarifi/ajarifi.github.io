@@ -42,7 +42,7 @@ Please feel free to reach out if you would like to involve me in organizing semi
 
 <!-- Upcoming -->
 <details open>
-  <summary>📅 Upcoming Activities</summary>
+  <summary>📅 Upcoming Activities (2026) </summary>
 
   <ol>
 
