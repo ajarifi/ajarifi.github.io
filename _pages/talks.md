@@ -81,7 +81,7 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
        Tokai, Japan (June 5, 2026)</li>
        
       <li><b>Quarks and Compact Stars (QCS 2026)</b><br>
-      <button class="btn--article-blue">Workshop</button> Organizer, 
+      <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Organizer</span>, 
         <a href="https://indico2.riken.jp/event/5301/">Tokai</a>, Japan (Apr 29 - May 02, 2026)</li>
 
       <li><b>Workshop on Synergy in Hadron Physics at Belle II and J-PARC</b><br> 
