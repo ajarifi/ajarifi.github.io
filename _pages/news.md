@@ -14,7 +14,7 @@ People are growing and so am I. This page tracks my latest updates and key miles
   
 <p style="margin-bottom:1.2cm;"></p>
 
-<img src="/images/tree-top.jpg"  style="display: flex; position: sticky; box-shadow: 0 4px 2px -2px gray; z-index: 1;">
+<!-- <img src="/images/tree-top.jpg"  style="display: flex; position: sticky; box-shadow: 0 4px 2px -2px gray; z-index: 1;"> -->
 <!-- <hr style="border: none; border-top: 1px solid #ddd; margin-top:-0.6cm;"> -->
 
 <p style="margin-bottom:1.2cm;"></p>
