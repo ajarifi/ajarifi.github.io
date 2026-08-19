@@ -10,8 +10,11 @@ redirect_from:
   <h1 style="color:#000080; margin: 0;">Curriculum Vitae</h1> 
 </div> -->
 
+
+<p align="justify">
 I believe a career is built on meaningful impact rather than a long list of publications and metrics. This CV tells the story of my journey, my skills, and my purpose as a researcher. <br>
 (to be updated)
+</p>
   
 <p style="margin-bottom:1.2cm;"></p>
 
