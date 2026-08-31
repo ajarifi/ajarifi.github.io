@@ -72,8 +72,8 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 <h2 style="color:#900C3F"> Awards </h2>
 
-* <b>The 2nd best contributor,</b> APFB2020 conference, Japan, 2021
-* <b>The best presenter,</b> SNP school, Japan, 2018
+* <b>The 2nd best contributor,</b> APFB2020 conference, Japan, 2021 (APFB-ANPhA prize)
+* <b>The best presenter,</b> SNP school, Japan, 2018 (SNP-ANPhA prize)
 * <b>Gold Medalist,</b> National Physics Olympiad, Indonesia, 2014
 
 
