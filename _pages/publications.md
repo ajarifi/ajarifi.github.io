@@ -231,7 +231,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
             <span class="pub-number">#37</span>
         </div>  
   <button class="btn--article-black">S. Issue</button>&nbsp; P. T. P. Hutauruk, <b> A. J. Arifi</b>, and C. Setyadi (July 31, 2026) <br> 
-  Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; 
+  Published in: <i><a href="https://doi.org/10.1142/S0217732326020037">Mod. Phys. Lett. A 41, 2602003 (2026) </a></i> &middot; 
   Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
   
   <div class="filterDiv article">
@@ -248,7 +248,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
         <span class="pub-number">#35</span>
     </div>   
   <button class="btn--article">Article</button> <b>A. J. Arifi</b>, P. Gubler, and K. Tsushima (Mar 16, 2026)<br>
-  <i> <a href="#"> Phys. Rev. D (accepted) </a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2603.15971"> 2603.15971</a> [hep-ph]</div>
+  Published in: <i> <a href="https://doi.org/10.1103/wlvt-szn4 "> Phys. Rev. D 114, 034041 (2026) </a></i> &middot; e-Print: <a href="https://arxiv.org/abs/2603.15971"> 2603.15971</a> [hep-ph]</div>
     
   <div class="filterDiv proceeding">
     <div class="pub-title">
@@ -256,7 +256,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
         <span class="pub-number">#34</span>
     </div> 
   <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b> (April, 2026) <br> 
-  Published in: <i>Mod. Phys. Lett. A (in press)</i> <br> 
+  Published in: <i><a href="https://doi.org/10.1142/S0217732326420046">Mod. Phys. Lett. A 41, 2642004 (2026) </a></i> <br> 
   Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
 
   <div class="filterDiv proceeding">
@@ -265,7 +265,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
         <span class="pub-number">#33</span>
     </div> 
   <button class="btn--article-black">S. Issue</button>&nbsp; R. R. Harjapradipta, M. Ridwan, <b> A. J. Arifi</b>,  T. Mart (Mar 14, 2026) <br> 
-  Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; e-Print: <a href="https://arxiv.org/abs/2603.13819"> 2603.13819 </a> [hep-ph] <br> 
+  Published in: <i><a href="https://doi.org/10.1142/S0217732326420034"> Mod. Phys. Lett. A 41, 2642003 (2026)</a></i>  &middot; e-Print: <a href="https://arxiv.org/abs/2603.13819"> 2603.13819 </a> [hep-ph] <br> 
   Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
  
   <div class="filterDiv article">
@@ -274,7 +274,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
         <span class="pub-number">#32</span>
     </div> 
   <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Mar 13, 2026)<br>
-  Published in: <i> <a href="#"> Phys. Rev. D 114, 014067 (2026) </a></i> &middot; 
+  Published in: <i> <a href="https://doi.org/10.1103/pzm6-jgnt"> Phys. Rev. D 114, 014067 (2026) </a></i> &middot; 
   e-Print: <a href="https://arxiv.org/abs/2603.12589"> 2603.12589 </a> [hep-ph]</div>
 
   <div class="filterDiv article">
@@ -300,7 +300,8 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
             <span class="pub-number">#29</span>
         </div>  
   <button class="btn--article-black">S. Issue</button>&nbsp; <b> A. J. Arifi</b>, P. T. P. Hutauruk, T. Mart, and C. Setyadi (Dec 19, 2025) <br> 
-  Published in: <i>Mod. Phys. Lett. A (in press)</i>  &middot; e-Print: <a href="https://arxiv.org/abs/2512.17219"> 2512.17219 </a> [hep-ph] <br> 
+  Published in: <i><a href="https://doi.org/10.1142/S0217732326420010">Mod. Phys. Lett. A 41, 2642001 (2026) </a></i>  &middot; 
+  e-Print: <a href="https://arxiv.org/abs/2512.17219"> 2512.17219 </a> [hep-ph] <br> 
   Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
       
   <div class="filterDiv proceeding">
