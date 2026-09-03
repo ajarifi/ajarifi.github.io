@@ -12,8 +12,7 @@ redirect_from:
 
 
 <p align="justify">
-I believe a career is built on meaningful impact rather than a long list of publications and metrics. This CV tells the story of my journey, my skills, and my purpose as a researcher. <br>
-(to be updated)
+I believe a career is built on meaningful impact rather than a long list of publications and metrics. This CV tells the story of my journey, my skills, and my purpose as a researcher.
 </p>
   
 <p style="margin-bottom:1.2cm;"></p>
@@ -24,9 +23,9 @@ I believe a career is built on meaningful impact rather than a long list of publ
 Currently, he is a researcher at the Advanced Science Research Center (ASRC), JAEA. His research focuses on hadron spectroscopy, reactions, and structure, as well as hadrons in medium, employing various data-driven hadronic models and approaches.
 </p>
 
-<h2 style="color:#900C3F"> Mission </h2>  
+<h2 style="color:#900C3F"> Purpose </h2>  
 
-<p align="justify"> My mission is to foster the growth of hadron physics communities in the Southeast Asian region. In physics, my primary objective is to build a broad understanding of hadron physics from multiple perspectives. Specifically, I aim to develop various quark models that explain the diverse properties of hadrons and nuclei, ultimately connecting this knowledge to QCD. To achieve this, I am dedicated to collaborating with new researchers and exploring different methods. </p>
+<p align="justify"> My purpose is to foster the growth of hadron physics communities in the Southeast Asian region. In physics, my primary objective is to build a broad understanding of hadron physics from multiple perspectives. Specifically, I aim to develop various quark models that explain the diverse properties of hadrons and nuclei, ultimately connecting this knowledge to QCD. To achieve this, I am dedicated to collaborating with new researchers and exploring different methods. </p>
 
 <h2 style="color:#900C3F"> Education </h2>
 
