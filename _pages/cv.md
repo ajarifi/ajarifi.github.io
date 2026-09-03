@@ -28,6 +28,7 @@ Currently, he is a researcher at the Advanced Science Research Center (ASRC), JA
 <p align="justify"> My purpose is to foster the growth of hadron physics communities in the Southeast Asian region. In physics, my primary objective is to build a broad understanding of hadron physics from multiple perspectives. Specifically, I aim to develop various quark models that explain the diverse properties of hadrons and nuclei, ultimately connecting this knowledge to QCD. To achieve this, I am dedicated to collaborating with new researchers and exploring different methods. </p>
 
 <h2 style="color:#900C3F"> Education </h2>
+I graduated from leading universities in Indonesia and Japan, where I developed a strong foundation in theoretical physics.
 
 * <b>Ph.D, Osaka University,</b> Japan, Sept 2020\
   Thesis: Study of heavy baryons from three-body decays\
@@ -40,6 +41,8 @@ Currently, he is a researcher at the Advanced Science Research Center (ASRC), JA
   Advisor: <a href="https://inspirehep.net/authors/998691">Prof. Terry Mart</a>
 
 <h2 style="color:#900C3F"> Work experience </h2>
+I have gained research experience in Japan and South Korea, with the freedom to pursue my interests, 
+collaborate widely, and broaden my scientific perspective.
 
 * <b>Advanced Science Research Center (ASRC), JAEA,</b> Japan\
   Apr 2025 - Present : Postdoctoral Reseracher (Tenure Track)
@@ -70,6 +73,7 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 
 <h2 style="color:#900C3F"> Awards </h2>
+I am grateful to have received several awards recognizing my technical expertise in physics, presentation skills, and achievements in scientific research.
 
 * <b>The 2nd best contributor,</b> APFB2020 conference, Japan, 2021 (APFB-ANPhA prize)
 * <b>The best presenter,</b> SNP school, Japan, 2018 (SNP-ANPhA prize)
@@ -77,6 +81,8 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 
 <h2 style="color:#900C3F"> Research Funds </h2>
+My academic journey has been supported by scholarships and my research by various competitive and internal grants, 
+motivating me to make meaningful and useful contributions to science and society.
 
 **Research Grants**
 
@@ -102,6 +108,7 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 | 2012-2015 | Tanoto Foundation scholarship                      | Bachelor                              |
  
 <h2 style="color:#900C3F"> Community Service </h2>
+Beyond publishing research, I value building the scientific community, mentoring the next generation, and promoting science through collaboration and outreach.
 
 **Student Mentorships** 
 * <b>Co-supervisor</b>, Providing advice/guidance to students. (A couple of students so far)
@@ -132,7 +139,9 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 **Personal Blog**  
 - [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life.
 
+
 <h2 style="color:#900C3F"> Society </h2>
+I value being part of and contributing to the scientific community.
 
 * The Physical Society of Japan
 * The Korean Physical Society
@@ -140,12 +149,17 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 
 <h2 style="color:#900C3F"> Programming skill</h2>
 
+I mainly use Julia and Python in my research, with additional experience in Mathematica and Fortran.
+
 * Julia (Main-1)
 * Python (Main-2)
 * Mathematica (Sometimes)
 * Fortran (In the past)
 
 <h2 style="color:#900C3F"> Language </h2>
+
+I am eager to learn new languages, particularly those spoken in the country where I live, 
+to deepen my understanding of the local culture and community.
 
 * Indonesian (Native)
 * English (Fluent)
