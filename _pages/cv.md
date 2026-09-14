@@ -86,10 +86,10 @@ I am grateful to have received several awards recognizing my technical expertise
 
  
 <h2 style="color:#900C3F"> Community Service </h2>
-Beyond publishing research, I value building the scientific community, mentoring the next generation, and promoting science through collaboration and outreach.
+Beyond publishing research, I enjoy mentoring the next generation, and promoting science through collaboration and outreach.
 
 **Student Mentorships** <br>
-* <b>Co-supervisor</b>, Providing advice/guidance to students. (A couple of students so far)
+* <b>Co-supervisor</b>, Providing advice/guidance to students. 
 
 **Peer Review/Editorial** <br>
 * <b>Journal Referee</b>, Peer-reviewing papers for journal publications. \
@@ -100,8 +100,7 @@ Beyond publishing research, I value building the scientific community, mentoring
   <i> 2. Southeast asian workshop on nuclear and hadron physics (SEA-NHP), Indonesia, 2025 </i> 
 
 **Personal Blog**  
-- [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life.
-
+- [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life. 
 
 <h2 style="color:#900C3F"> Leadership & activities </h2>
 I see leadership and scientific activities as opportunities to give back, strengthen the community, and help it grow by bringing people together. <br>
@@ -117,7 +116,6 @@ I see leadership and scientific activities as opportunities to give back, streng
   Osaka university, Japan, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a>
 
 See: <a href="https://ajarifi.github.io/activity/">My activities</a> <br>
-
 
 <h2 style="color:#900C3F"> Academic Societies </h2>
 I value being part of and contributing to the scientific community.
