@@ -71,6 +71,11 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 * I have joined many SNP (Strangenss Nuclear Physics) schools 
 * I have also given seminars at various institutes
 
+<h2 style="color:#900C3F"> Research Grants </h2>
+My research has been supported by various scholarships and grants, 
+motivating me to make meaningful and useful contributions to science and society. <br>
+
+See: <a href="https://ajarifi.github.io/grants/">My grants</a> 
 
 <h2 style="color:#900C3F"> Awards </h2>
 I am grateful to have received several awards recognizing my technical expertise in physics, presentation skills, and achievements in scientific research.
@@ -79,33 +84,6 @@ I am grateful to have received several awards recognizing my technical expertise
 * <b>The best presenter,</b> SNP school, Japan, 2018 (SNP-ANPhA prize)
 * <b>Gold Medalist,</b> National Physics Olympiad, Indonesia, 2014
 
-
-<h2 style="color:#900C3F"> Research Funds </h2>
-My academic journey has been supported by scholarships and my research by various competitive and internal grants, 
-motivating me to make meaningful and useful contributions to science and society.
-
-**Research Grants**
-
-| Year         | Research Grant                                  | Amount                                |
-|--------------|-------------------------------------------------|---------------------------------------|
-| 2026-2028    | Kakenhi-Wakate                                  | ~3,400,000 JPY                        |
-| 2026-2026    | APCTP program category 4                        | ~4,000,000 KRW                        |
-| 2026-2026    | APCTP program category 2                        | ~5,000,000 KRW                        |
-| 2025-2026    | PUTI Q1 Universitas Indonesia                   | ~100,000,000 IDR                      |
-| 2025-2027    | RCNP Core-net                                   | ~420,000 JPY                          |
-| 2025-2026    | JAEA postdoctoral program                       | ~500,000 JPY                          |
-| 2024-2025    | Additional RIKEN SPDR program                   | ~500,000 JPY                          |
-| 2023-2025    | RIKEN SPDR program                              | ~1,000,000 JPY/year                   |
-| 2021-2023    | APCTP YST program                               | ~5,000,000 KRW/year                   |
-
-
-**Scholarships**
-
-| Year      | Scholarship                                        | Level                                 |
-|-----------|----------------------------------------------------|---------------------------------------|
-| 2017-2020 | Japanese government MEXT scholarship               | Doctor                                |
-| 2015-2017 | Japanese government MEXT scholarship               | Master                                |
-| 2012-2015 | Tanoto Foundation scholarship                      | Bachelor                              |
  
 <h2 style="color:#900C3F"> Community Service </h2>
 Beyond publishing research, I value building the scientific community, mentoring the next generation, and promoting science through collaboration and outreach.
