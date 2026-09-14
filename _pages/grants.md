@@ -12,25 +12,18 @@ motivating me to make meaningful and useful contributions to science and society
 
 
 <ol>
-  <li>
-    <b>KAKENHI Grant-in-Aid for Early-Career Scientists (Wakate)</b><br>
-    <button class="btn--article">Grant</button>
-    <b>Period</b>: 2026–2028 (3 years)<br>
-    <b>Amount</b>: ~3,400,000 JPY
+  <li> KAKENHI Grant-in-Aid for Early-Career Scientists. Japan Society for the Promotion of Science (JSPS). <br>
+    <button class="btn--article">Grant</button> <span style="color:#900C3F">Principal Investigator</span>, 2026-2028 (3 years), ~3,400,000 JPY
   </li>
 
   <li>
-    <b>APCTP Program Category 4</b><br>
-    <button class="btn--article">Grant</button>
-    <b>Period</b>: 2026 (1 year)<br>
-    <b>Amount</b>: ~4,000,000 KRW
+    <b>(co-PI, 2026)</b> APCTP Program Category 4<br>
+    <button class="btn--article">Grant</button> Amount: ~4,000,000 KRW
   </li>
 
   <li>
-    <b>APCTP Program Category 2</b><br>
-    <button class="btn--article">Grant</button>
-    <b>Period</b>: 2026 (1 year)<br>
-    <b>Amount</b>: ~5,000,000 KRW
+    <b>(PI,2026) APCTP Program Category 2</b><br>
+    <button class="btn--article">Grant</button> Amount: ~5,000,000 KRW
   </li>
 
   <li>
@@ -77,21 +70,21 @@ motivating me to make meaningful and useful contributions to science and society
 
   <li>
     <b>Japanese Government (MEXT) Scholarship</b><br>
-    <button class="btn--article">Scholarship</button>
+    <button class="btn--articl-bluee">Scholarship</button>
     <b>Period</b>: 2017–2020 (3 years)<br>
     <b>Level</b>: Doctoral
   </li>
 
   <li>
     <b>Japanese Government (MEXT) Scholarship</b><br>
-    <button class="btn--article">Scholarship</button>
+    <button class="btn--article-blue">Scholarship</button>
     <b>Period</b>: 2015–2017 (2 years)<br>
     <b>Level</b>: Master's
   </li>
 
   <li>
     <b>Tanoto Foundation Scholarship</b><br>
-    <button class="btn--article">Scholarship</button>
+    <button class="btn--article-blue">Scholarship</button>
     <b>Period</b>: 2012–2015 (3 years)<br>
     <b>Level</b>: Bachelor's
   </li>
