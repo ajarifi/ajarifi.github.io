@@ -101,11 +101,11 @@ My research has been supported by various scholarships and grants, motivating me
         </li>
       
         <li> <b>A. J. Arifi. Japanese Government (MEXT) Scholarship, Master's program </b><br>
-          <button class="btn--article-blue">Scholarship</button> <span style="color:#900C3F">Student</span>, Osaka University,Japan, 2015–2017 (2 years).
+          <button class="btn--article-blue">Scholarship</button> <span style="color:#900C3F">Student</span>, Osaka University, Japan, 2015–2017 (2 years).
         </li>
       
         <li> <b>A. J. Arifi. Tanoto Foundation Scholarship, Bachelor's program</b> <br>
-          <button class="btn--article-blue">Scholarship</button> <span style="color:#900C3F">Student</span>, Universitas Indonesia. Indonesia, 2012–2015 (3 years).
+          <button class="btn--article-blue">Scholarship</button> <span style="color:#900C3F">Student</span>, Universitas Indonesia, Indonesia, 2012–2015 (3 years).
         </li>
       </ol>
   </details>
