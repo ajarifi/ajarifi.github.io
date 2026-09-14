@@ -85,8 +85,8 @@ I am grateful to have received several awards recognizing my technical expertise
 * <b>Gold Medalist,</b> National Physics Olympiad, Indonesia, 2014
 
  
-<h2 style="color:#900C3F"> Community Service </h2>
-Beyond publishing research, I enjoy mentoring the next generation, and promoting science through collaboration and outreach.
+<h2 style="color:#900C3F"> Community service </h2>
+Beyond publishing research, I try to support students, contribute to peer review, and promote science whenever my time allows.
 
 **Student Mentorships** <br>
 * <b>Co-supervisor</b>, Providing advice/guidance to students. 
@@ -117,7 +117,7 @@ I see leadership and scientific activities as opportunities to give back, streng
 
 See: <a href="https://ajarifi.github.io/activities/">My activities</a> <br>
 
-<h2 style="color:#900C3F"> Academic Societies </h2>
+<h2 style="color:#900C3F"> Academic societies </h2>
 I value being part of and contributing to the scientific community.
 
 * The Physical Society of Japan
