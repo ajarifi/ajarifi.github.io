@@ -99,22 +99,25 @@ Beyond publishing research, I value building the scientific community, mentoring
   <i> 1. 11th International Conference on Theoretical and Applied Physics, Indonesia, 2021 </i> \
   <i> 2. Southeast asian workshop on nuclear and hadron physics (SEA-NHP), Indonesia, 2025 </i> 
 
-**Organization** <br>
+**Personal Blog**  
+- [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life.
+
+
+<h2 style="color:#900C3F"> Leadership & activities </h2>
+
+**Leadership** <br>
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017 \
   <i> Responsible for the activity of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
 
-**Seminars & Workshops** <br>
-I enjoy organizing scientific or social events.
-
-See: <a href="https://ajarifi.github.io/activity/">My activities</a> <br>
+**Activities** <br>
+I enjoy organizing scientific events, such as seminar and workshops.
 
 * <b>Chair</b>, International Workshop on Quark Structure of Hadron, \
   RIKEN, Japan, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a> 
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
-  Osaka university, Japan, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a> 
+  Osaka university, Japan, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a>
 
-**Personal Blog**  
-- [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life.
+See: <a href="https://ajarifi.github.io/activity/">My activities</a> <br>
 
 
 <h2 style="color:#900C3F"> Society </h2>
