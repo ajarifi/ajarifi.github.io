@@ -109,7 +109,7 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
   </p>
   
   <!-- 2025 -->
-  <details open>
+  <details>
     <summary>2025</summary>
     <ol>
       <li><b>The 9th Asia-Pacific Conference on Few-Body Problems in Physics</b><br> 
