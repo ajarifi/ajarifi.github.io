@@ -128,7 +128,7 @@ I value being part of and contributing to the scientific community.
 
 <h2 style="color:#900C3F"> Programming skills</h2>
 
-I mainly use Julia and Python in my research, with additional experience in Mathematica and Fortran.
+I mainly use Julia and Python for numerical calculations and visualization, with additional experience in Mathematica and Fortran.
 
 * Julia
 * Python 
