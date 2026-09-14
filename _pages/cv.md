@@ -115,7 +115,7 @@ I see leadership and scientific activities as opportunities to give back, streng
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
   Osaka university, Japan, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a>
 
-See: <a href="https://ajarifi.github.io/activity/">My activities</a> <br>
+See: <a href="https://ajarifi.github.io/activities/">My activities</a> <br>
 
 <h2 style="color:#900C3F"> Academic Societies </h2>
 I value being part of and contributing to the scientific community.
