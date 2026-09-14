@@ -12,18 +12,16 @@ motivating me to make meaningful and useful contributions to science and society
 
 
 <ol>
-  <li> KAKENHI Grant-in-Aid for Early-Career Scientists. Japan Society for the Promotion of Science (JSPS). <br>
-    <button class="btn--article">Competitive</button> <span style="color:#900C3F">Principal Investigator</span>, 2026-2028 (3 years), ~3,400,000 JPY
+  <li> **A. J. Arifi.** KAKENHI Early-Career Scientists. Japan Society for the Promotion of Science (JSPS). <br>
+    <button class="btn--article">Competitive</button> <span style="color:#900C3F">Principal Investigator</span>, Japan, 2026-2028 (3 years), 3.400.000 JPY
   </li>
 
-  <li>
-    <b>(co-PI, 2026)</b> APCTP Program Category 4<br>
-    <button class="btn--article">Competitive</button> Amount: ~4,000,000 KRW
+  <li> D. Samart, **A. J. Arifi,** H. Son. APCTP Program Category 4: 2nd Southeast asean workshop on nuclear and hadron physics (SEA-NHP)<br>
+    <button class="btn--article">Competitive</button> <span style="color:#900C3F">Co-Principal Investigator</span>, South Korea, 2026 (1 year), 4.000.000 KRW
   </li>
 
-  <li>
-    <b>(PI,2026) APCTP Program Category 2</b><br>
-    <button class="btn--article">Competitive</button> Amount: ~5,000,000 KRW
+  <li> **A. J. Arifi,** P. Gubler. K. Tsushima, M. Cheoun. APCTP Program Category 2: International workshop on origin of mass and matter in the universe<br>
+    <button class="btn--article">Competitive</button>  <span style="color:#900C3F">Principal Investigator</span>, South Korea, 2026 (1 year), 5,000,000 KRW
   </li>
 
   <li>
@@ -70,7 +68,7 @@ motivating me to make meaningful and useful contributions to science and society
 
   <li>
     <b>Japanese Government (MEXT) Scholarship</b><br>
-    <button class="btn--articl-bluee">Scholarship</button>
+    <button class="btn--articl-blue">Scholarship</button>
     <b>Period</b>: 2017–2020 (3 years)<br>
     <b>Level</b>: Doctoral
   </li>
