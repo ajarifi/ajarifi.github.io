@@ -20,7 +20,7 @@ motivating me to make meaningful and useful contributions to science and society
     <button class="btn--article">Competitive</button> <span style="color:#900C3F">Co-Principal Investigator</span>, South Korea, 2026 (1 year), 4.000.000 KRW
   </li>
 
-  <li> <b>A. J. Arifi</b>. APCTP Program Category 2: International workshop on origin of mass and matter in the universe<br>
+  <li> <b>A. J. Arifi</b>, et. al. APCTP Program Category 2: International workshop on origin of mass and matter in the universe<br>
     <button class="btn--article">Competitive</button>  <span style="color:#900C3F">Principal Investigator</span>, South Korea, 2026 (1 year), 5.000.000 KRW
   </li>
 
@@ -28,39 +28,24 @@ motivating me to make meaningful and useful contributions to science and society
     <button class="btn--article">Competitive</button> <span style="color:#900C3F">Project member</span>, Indonesia, 2025–2026 (1 year),  100.000.000 IDR
   </li>
 
-  <li>
-    <b>RCNP COREnet Program</b><br>
-    <button class="btn--article">Competitive</button>
-    <b>Period</b>: 2025–2027 (2 years)<br>
-    <b>Amount</b>: ~420,000 JPY
+  <li> <b>A. J. Arifi</b>, et. al. COREnet Program, Research Center for Nuclear Physics (RCNP)<br>
+    <button class="btn--article">Competitive</button>  <span style="color:#900C3F">Principal Investigator</span>, Japan, 2025–2027 (2 years), 420,000 JPY.
   </li>
 
-  <li>
-    <b>JAEA Postdoctoral Program</b><br>
-    <button class="btn--article-black">Internal</button>
-    <b>Period</b>: 2025–2026 (1 year)<br>
-    <b>Amount</b>: ~500,000 JPY
+  <li><b>A. J. Arifi.</b> JAEA Postdoctoral Program <br>
+    <button class="btn--article-black">Internal</button>  <span style="color:#900C3F">Principal Investigator</span>, Japan, 2025–2026 (1 year), 500,000 JPY
   </li>
 
-  <li>
-    <b>Additional RIKEN SPDR Program</b><br>
-    <button class="btn--article">Competitive</button>
-    <b>Period</b>: 2024–2025 (1 year)<br>
-    <b>Amount</b>: ~500,000 JPY
+  <li> <b>A. J. Arifi.</b> Additional SPDR Funds, RIKEN<br>
+    <button class="btn--article">Competitive</button> <span style="color:#900C3F">Principal Investigator</span>, Japan, 2024–2025 (1 year), 500,000 JPY
   </li>
 
-  <li>
-    <b>RIKEN SPDR Program</b><br>
-    <button class="btn--article-black">Internal</button>
-    <b>Period</b>: 2023–2026 (3 years)<br>
-    <b>Amount</b>: ~1,000,000 JPY/year
+  <li> <b>A. J. Arifi.</b>  Special postdoctoral researcher (SPDR) program, RIKEN<br>
+    <button class="btn--article-black">Internal</button>  <span style="color:#900C3F">Principal Investigator</span>, Japan,  2023–2026 (3 years), 1,000,000 JPY/year
   </li>
 
-  <li>
-    <b>APCTP Young Scientist Training (YST) Program</b><br>
-    <button class="btn--article-black">Internal</button>
-    <b>Period</b>: 2021–2023 (2 years)<br>
-    <b>Amount</b>: ~5,000,000 KRW/year
+  <li> <b>A. J. Arifi.</b> Young Scientist Training (YST) Program, APCTP <br>
+    <button class="btn--article-black">Internal</button> <span style="color:#900C3F">Principal Investigator</span>, South Korea, 2021–2023 (2 years), 5,000,000 KRW/year
   </li>
 
   <li>
