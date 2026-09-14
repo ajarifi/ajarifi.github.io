@@ -12,23 +12,20 @@ motivating me to make meaningful and useful contributions to science and society
 
 
 <ol>
-  <li> **A. J. Arifi.** KAKENHI Early-Career Scientists. Japan Society for the Promotion of Science (JSPS). <br>
+  <li> <b>A. J. Arifi.</b> KAKENHI Early-Career Scientists. Japan Society for the Promotion of Science (JSPS). <br>
     <button class="btn--article">Competitive</button> <span style="color:#900C3F">Principal Investigator</span>, Japan, 2026-2028 (3 years), 3.400.000 JPY
   </li>
 
-  <li> D. Samart, **A. J. Arifi,** H. Son. APCTP Program Category 4: 2nd Southeast asean workshop on nuclear and hadron physics (SEA-NHP)<br>
+  <li> D. Samart, et.al. APCTP Program Category 4: 2nd Southeast asean workshop on nuclear and hadron physics (SEA-NHP)<br>
     <button class="btn--article">Competitive</button> <span style="color:#900C3F">Co-Principal Investigator</span>, South Korea, 2026 (1 year), 4.000.000 KRW
   </li>
 
-  <li> **A. J. Arifi,** P. Gubler. K. Tsushima, M. Cheoun. APCTP Program Category 2: International workshop on origin of mass and matter in the universe<br>
-    <button class="btn--article">Competitive</button>  <span style="color:#900C3F">Principal Investigator</span>, South Korea, 2026 (1 year), 5,000,000 KRW
+  <li> <b>A. J. Arifi</b>. APCTP Program Category 2: International workshop on origin of mass and matter in the universe<br>
+    <button class="btn--article">Competitive</button>  <span style="color:#900C3F">Principal Investigator</span>, South Korea, 2026 (1 year), 5.000.000 KRW
   </li>
 
-  <li>
-    <b>PUTI Q1, Universitas Indonesia</b><br>
-    <button class="btn--article">Competitive</button>
-    <b>Period</b>: 2025–2026 (1 year)<br>
-    <b>Amount</b>: ~100,000,000 IDR
+  <li> T. Mart, et. al. PUTI Q1, Universitas Indonesia<br>
+    <button class="btn--article">Competitive</button> <span style="color:#900C3F">Project member</span>, Indonesia, 2025–2026 (1 year),  100.000.000 IDR
   </li>
 
   <li>
