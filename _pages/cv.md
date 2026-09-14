@@ -105,13 +105,13 @@ Beyond publishing research, I try to support students, contribute to peer review
 <h2 style="color:#900C3F"> Leadership & activities </h2>
 I see leadership and scientific activities as opportunities to give back, strengthen the community, and help it grow by bringing people together. <br>
 
-* <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017 \
-  <i> Responsible for the activities of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
 * <b>Chair</b>, International Workshop on Quark Structure of Hadron, \
   RIKEN, Japan, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a> 
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
   Osaka university, Japan, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a>
-
+* <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017 \
+  <i> Responsible for the activities of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
+  
 See: <a href="https://ajarifi.github.io/activities/">My activities</a> <br>
 
 <h2 style="color:#900C3F"> Academic societies </h2>
