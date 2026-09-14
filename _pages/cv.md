@@ -40,7 +40,7 @@ I graduated from leading universities in Indonesia and Japan, where I developed 
   Thesis: Spin-3/2 nucleon resonances in kaon photoproduction\
   Advisor: <a href="https://inspirehep.net/authors/998691">Prof. Terry Mart</a>
 
-<h2 style="color:#900C3F"> Work experience </h2>
+<h2 style="color:#900C3F"> Work experiences </h2>
 I have gained research experience in Japan and South Korea, with the freedom to pursue my interests, 
 collaborate widely, and broaden my scientific perspective.
 
@@ -56,13 +56,13 @@ collaborate widely, and broaden my scientific perspective.
   Oct 2019 - Mar 2020: Intern
 
 
-<h2 style="color:#900C3F"> Summary of Publications </h2>
+<h2 style="color:#900C3F"> Publications </h2>
 
 See: <a href="https://ajarifi.github.io/publications/">My publications</a> 
 * I have published articles about hadrons mainly in Physical Review D
 * I have worked with many different co-authors and several students
 
-<h2 style="color:#900C3F"> Summary of Presentations </h2>
+<h2 style="color:#900C3F"> Presentations </h2>
 
 See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 * I actively participate in many workshops and conferences
@@ -103,16 +103,15 @@ Beyond publishing research, I value building the scientific community, mentoring
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017 \
   <i> Responsible for the activity of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
 
-**Seminars** 
-* <b>Host</b>, APCTP seminar series <a href="https://ajarifi.github.io/activity/">(Details)</a>
+**Seminars & Workshops**
+I enjoy organizing scientific or social events.
 
-**Workshops** 
-* <b>Co-Chair</b>, Southeast asian workshop on nuclear and hadron physics (SEA-NHP), \
-  Yogyakarta, Aug 2025 <a href="https://indico.global/event/13949/">(Indico)</a> 
+See: <a href="https://ajarifi.github.io/activity/">My activities</a> <br>
+
 * <b>Chair</b>, International Workshop on Quark Structure of Hadron, \
-  RIKEN, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a> 
+  RIKEN, Japan, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a> 
 * <b>Supervisor</b>, The 1st Indonesian Student Association Scientific Conference (ISASC), \
-  Osaka university, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a> 
+  Osaka university, Japan, Oct 2017 <a href="/files/ISASC.pdf">(Abstract book)</a> 
 
 **Personal Blog**  
 - [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life.
