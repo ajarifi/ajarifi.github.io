@@ -15,16 +15,16 @@ motivating me to make meaningful and useful contributions to science and society
 
   <b> 2026 </b>
   
-  <li> <b>A. J. Arifi.</b> KAKENHI Early-Career Scientists. Japan Society for the Promotion of Science (JSPS). <br>
+  <li> <b>A. J. Arifi.</b> KAKENHI Early-Career Scientists. Japan Society for the Promotion of Science. <br>
     <button class="btn--article">Competitive</button> <span style="color:#900C3F">Principal Investigator</span>, Japan, 2026-2028 (3 years), 3.400.000 JPY
   </li>
 
   <li> D. Samart, et.al. APCTP Program Category 4: 2nd Southeast asean workshop on nuclear and hadron physics (SEA-NHP)<br>
-    <button class="btn--article">Competitive</button> <span style="color:#900C3F">Co-Principal Investigator</span>, South Korea, 2026 (1 year), 4.000.000 KRW
+    <button class="btn--article">Workshop fund</button> <span style="color:#900C3F">Co-Principal Investigator</span>, South Korea, 2026 (1 year), 4.000.000 KRW
   </li>
 
   <li> <b>A. J. Arifi</b>, et. al. APCTP Program Category 2: International workshop on origin of mass and matter in the universe<br>
-    <button class="btn--article">Competitive</button>  <span style="color:#900C3F">Principal Investigator</span>, South Korea, 2026 (1 year), 5.000.000 KRW
+    <button class="btn--article">Workshop fund</button>  <span style="color:#900C3F">Principal Investigator</span>, South Korea, 2026 (1 year), 5.000.000 KRW
   </li>
 
   <b> 2025 </b>
