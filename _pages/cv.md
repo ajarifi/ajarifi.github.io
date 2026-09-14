@@ -104,7 +104,7 @@ Beyond publishing research, I value building the scientific community, mentoring
 
 
 <h2 style="color:#900C3F"> Leadership & activities </h2>
-I see leadership and scientific activities as opportunities to give back, strengthen the community, and help it grow by bringing people together.
+I see leadership and scientific activities as opportunities to give back, strengthen the community, and help it grow by bringing people together. <br>
 
 **Leadership** <br>
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017 \
