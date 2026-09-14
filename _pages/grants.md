@@ -13,57 +13,57 @@ motivating me to make meaningful and useful contributions to science and society
 
 <ol>
   <li> KAKENHI Grant-in-Aid for Early-Career Scientists. Japan Society for the Promotion of Science (JSPS). <br>
-    <button class="btn--article">Grant</button> <span style="color:#900C3F">Principal Investigator</span>, 2026-2028 (3 years), ~3,400,000 JPY
+    <button class="btn--article">Competitive</button> <span style="color:#900C3F">Principal Investigator</span>, 2026-2028 (3 years), ~3,400,000 JPY
   </li>
 
   <li>
     <b>(co-PI, 2026)</b> APCTP Program Category 4<br>
-    <button class="btn--article">Grant</button> Amount: ~4,000,000 KRW
+    <button class="btn--article">Competitive</button> Amount: ~4,000,000 KRW
   </li>
 
   <li>
     <b>(PI,2026) APCTP Program Category 2</b><br>
-    <button class="btn--article">Grant</button> Amount: ~5,000,000 KRW
+    <button class="btn--article">Competitive</button> Amount: ~5,000,000 KRW
   </li>
 
   <li>
     <b>PUTI Q1, Universitas Indonesia</b><br>
-    <button class="btn--article">Grant</button>
+    <button class="btn--article">Competitive</button>
     <b>Period</b>: 2025–2026 (1 year)<br>
     <b>Amount</b>: ~100,000,000 IDR
   </li>
 
   <li>
     <b>RCNP COREnet Program</b><br>
-    <button class="btn--article">Grant</button>
+    <button class="btn--article">Competitive</button>
     <b>Period</b>: 2025–2027 (2 years)<br>
     <b>Amount</b>: ~420,000 JPY
   </li>
 
   <li>
     <b>JAEA Postdoctoral Program</b><br>
-    <button class="btn--article">Grant</button>
+    <button class="btn--article-black">Internal</button>
     <b>Period</b>: 2025–2026 (1 year)<br>
     <b>Amount</b>: ~500,000 JPY
   </li>
 
   <li>
     <b>Additional RIKEN SPDR Program</b><br>
-    <button class="btn--article">Grant</button>
+    <button class="btn--article">Competitive</button>
     <b>Period</b>: 2024–2025 (1 year)<br>
     <b>Amount</b>: ~500,000 JPY
   </li>
 
   <li>
     <b>RIKEN SPDR Program</b><br>
-    <button class="btn--article">Grant</button>
+    <button class="btn--article-black">Internal</button>
     <b>Period</b>: 2023–2026 (3 years)<br>
     <b>Amount</b>: ~1,000,000 JPY/year
   </li>
 
   <li>
     <b>APCTP Young Scientist Training (YST) Program</b><br>
-    <button class="btn--article">Grant</button>
+    <button class="btn--article-black">Internal</button>
     <b>Period</b>: 2021–2023 (2 years)<br>
     <b>Amount</b>: ~5,000,000 KRW/year
   </li>
