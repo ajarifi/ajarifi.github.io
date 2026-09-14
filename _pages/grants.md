@@ -36,8 +36,7 @@ ol li {
 
 
 <p align="justify">
-My academic journey has been supported by scholarships and my research by various competitive and internal grants, 
-motivating me to make meaningful and useful contributions to science and society.
+My research has been supported by various scholarships and grants, motivating me to contribute meaningfully to science and society.
 </p>
 
 <p style="margin-bottom: 1.5cm;"></p>
