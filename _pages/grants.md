@@ -83,14 +83,14 @@ motivating me to make meaningful and useful contributions to science and society
 
 <ol reversed>
   <li> <b>A. J. Arifi.</b> Japanese Government (MEXT) Scholarship, Doctoral program<br>
-    <button class="btn--article-blue">Scholarship</button> Japan. 2017–2020 (3 years).
+    <button class="btn--article-blue">Scholarship</button> <span style="color:#900C3F">Student</span>,  Japan. 2017–2020 (3 years).
   </li>
 
   <li> <b>A. J. Arifi.</b> Japanese Government (MEXT) Scholarship, Master's program<br>
-    <button class="btn--article-blue">Scholarship</button> Japan, 2015–2017 (2 years).
+    <button class="btn--article-blue">Scholarship</button> <span style="color:#900C3F">Student</span>, Japan, 2015–2017 (2 years).
   </li>
 
   <li> <b>A. J. Arifi.</b> Tanoto Foundation Scholarship, Bachelor's program <br>
-    <button class="btn--article-blue">Scholarship</button> Indonesia, 2012–2015 (3 years).
+    <button class="btn--article-blue">Scholarship</button> <span style="color:#900C3F">Student</span>, Indonesia, 2012–2015 (3 years).
   </li>
 </ol>
