@@ -9,27 +9,91 @@ author_profile: false
 My academic journey has been supported by scholarships and my research by various competitive and internal grants, 
 motivating me to make meaningful and useful contributions to science and society.
 </p>
-  
-**Research Grants**
-
-| Year         | Research Grant                                  | Amount                                |
-|--------------|-------------------------------------------------|---------------------------------------|
-| 2026-2028    | Kakenhi-Wakate                                  | ~3,400,000 JPY                        |
-| 2026-2026    | APCTP program category 4                        | ~4,000,000 KRW                        |
-| 2026-2026    | APCTP program category 2                        | ~5,000,000 KRW                        |
-| 2025-2026    | PUTI Q1 Universitas Indonesia                   | ~100,000,000 IDR                      |
-| 2025-2027    | RCNP Core-net                                   | ~420,000 JPY                          |
-| 2025-2026    | JAEA postdoctoral program                       | ~500,000 JPY                          |
-| 2024-2025    | Additional RIKEN SPDR program                   | ~500,000 JPY                          |
-| 2023-2025    | RIKEN SPDR program                              | ~1,000,000 JPY/year                   |
-| 2021-2023    | APCTP YST program                               | ~5,000,000 KRW/year                   |
 
 
-**Scholarships**
+<ol>
+  <li>
+    <b>KAKENHI Grant-in-Aid for Early-Career Scientists (Wakate)</b><br>
+    <button class="btn--article">Grant</button>
+    <b>Period</b>: 2026–2028 (3 years)<br>
+    <b>Amount</b>: ~3,400,000 JPY
+  </li>
 
-| Year      | Scholarship                                        | Level                                 |
-|-----------|----------------------------------------------------|---------------------------------------|
-| 2017-2020 | Japanese government MEXT scholarship               | Doctor                                |
-| 2015-2017 | Japanese government MEXT scholarship               | Master                                |
-| 2012-2015 | Tanoto Foundation scholarship                      | Bachelor                              |
+  <li>
+    <b>APCTP Program Category 4</b><br>
+    <button class="btn--article">Grant</button>
+    <b>Period</b>: 2026 (1 year)<br>
+    <b>Amount</b>: ~4,000,000 KRW
+  </li>
+
+  <li>
+    <b>APCTP Program Category 2</b><br>
+    <button class="btn--article">Grant</button>
+    <b>Period</b>: 2026 (1 year)<br>
+    <b>Amount</b>: ~5,000,000 KRW
+  </li>
+
+  <li>
+    <b>PUTI Q1, Universitas Indonesia</b><br>
+    <button class="btn--article">Grant</button>
+    <b>Period</b>: 2025–2026 (1 year)<br>
+    <b>Amount</b>: ~100,000,000 IDR
+  </li>
+
+  <li>
+    <b>RCNP COREnet Program</b><br>
+    <button class="btn--article">Grant</button>
+    <b>Period</b>: 2025–2027 (2 years)<br>
+    <b>Amount</b>: ~420,000 JPY
+  </li>
+
+  <li>
+    <b>JAEA Postdoctoral Program</b><br>
+    <button class="btn--article">Grant</button>
+    <b>Period</b>: 2025–2026 (1 year)<br>
+    <b>Amount</b>: ~500,000 JPY
+  </li>
+
+  <li>
+    <b>Additional RIKEN SPDR Program</b><br>
+    <button class="btn--article">Grant</button>
+    <b>Period</b>: 2024–2025 (1 year)<br>
+    <b>Amount</b>: ~500,000 JPY
+  </li>
+
+  <li>
+    <b>RIKEN SPDR Program</b><br>
+    <button class="btn--article">Grant</button>
+    <b>Period</b>: 2023–2026 (3 years)<br>
+    <b>Amount</b>: ~1,000,000 JPY/year
+  </li>
+
+  <li>
+    <b>APCTP Young Scientist Training (YST) Program</b><br>
+    <button class="btn--article">Grant</button>
+    <b>Period</b>: 2021–2023 (2 years)<br>
+    <b>Amount</b>: ~5,000,000 KRW/year
+  </li>
+
+  <li>
+    <b>Japanese Government (MEXT) Scholarship</b><br>
+    <button class="btn--article">Scholarship</button>
+    <b>Period</b>: 2017–2020 (3 years)<br>
+    <b>Level</b>: Doctoral
+  </li>
+
+  <li>
+    <b>Japanese Government (MEXT) Scholarship</b><br>
+    <button class="btn--article">Scholarship</button>
+    <b>Period</b>: 2015–2017 (2 years)<br>
+    <b>Level</b>: Master's
+  </li>
+
+  <li>
+    <b>Tanoto Foundation Scholarship</b><br>
+    <button class="btn--article">Scholarship</button>
+    <b>Period</b>: 2012–2015 (3 years)<br>
+    <b>Level</b>: Bachelor's
+  </li>
+</ol>
  
