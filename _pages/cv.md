@@ -88,10 +88,10 @@ I am grateful to have received several awards recognizing my technical expertise
 <h2 style="color:#900C3F"> Community Service </h2>
 Beyond publishing research, I value building the scientific community, mentoring the next generation, and promoting science through collaboration and outreach.
 
-**Student Mentorships** 
+**Student Mentorships** <br>
 * <b>Co-supervisor</b>, Providing advice/guidance to students. (A couple of students so far)
 
-**Peer Review/Editorial** 
+**Peer Review/Editorial** <br>
 * <b>Journal Referee</b>, Peer-reviewing papers for journal publications. \
   <i> 1. Physical Review D </i> <br>
 
@@ -99,11 +99,11 @@ Beyond publishing research, I value building the scientific community, mentoring
   <i> 1. 11th International Conference on Theoretical and Applied Physics, Indonesia, 2021 </i> \
   <i> 2. Southeast asian workshop on nuclear and hadron physics (SEA-NHP), Indonesia, 2025 </i> 
 
-**Organization** 
+**Organization** <br>
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017 \
   <i> Responsible for the activity of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
 
-**Seminars & Workshops**
+**Seminars & Workshops** <br>
 I enjoy organizing scientific or social events.
 
 See: <a href="https://ajarifi.github.io/activity/">My activities</a> <br>
