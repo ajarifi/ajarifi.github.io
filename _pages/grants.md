@@ -48,25 +48,16 @@ motivating me to make meaningful and useful contributions to science and society
     <button class="btn--article-black">Internal</button> <span style="color:#900C3F">Principal Investigator</span>, South Korea, 2021–2023 (2 years), 5,000,000 KRW/year
   </li>
 
-  <li>
-    <b>Japanese Government (MEXT) Scholarship</b><br>
-    <button class="btn--articl-blue">Scholarship</button>
-    <b>Period</b>: 2017–2020 (3 years)<br>
-    <b>Level</b>: Doctoral
+  <li> <b>A. J. Arifi.</b> Japanese Government (MEXT) Scholarship, Doctoral program<br>
+    <button class="btn--article-blue">Scholarship</button> Japan. 2017–2020 (3 years).
   </li>
 
-  <li>
-    <b>Japanese Government (MEXT) Scholarship</b><br>
-    <button class="btn--article-blue">Scholarship</button>
-    <b>Period</b>: 2015–2017 (2 years)<br>
-    <b>Level</b>: Master's
+  <li> <b>A. J. Arifi.</b> Japanese Government (MEXT) Scholarship, Master's program<br>
+    <button class="btn--article-blue">Scholarship</button> Japan, 2015–2017 (2 years).
   </li>
 
-  <li>
-    <b>Tanoto Foundation Scholarship</b><br>
-    <button class="btn--article-blue">Scholarship</button>
-    <b>Period</b>: 2012–2015 (3 years)<br>
-    <b>Level</b>: Bachelor's
+  <li> <b>A. J. Arifi.</b> Tanoto Foundation Scholarship, Bachelor's program <br>
+    <button class="btn--article-blue">Scholarship</button> Indonesia, 2012–2015 (3 years).
   </li>
 </ol>
  
