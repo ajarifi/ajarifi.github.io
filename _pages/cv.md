@@ -88,9 +88,6 @@ I am grateful to have received several awards recognizing my technical expertise
 <h2 style="color:#900C3F"> Community service </h2>
 Beyond publishing research, I try to support students, contribute to peer review, and promote science whenever my time allows.
 
-**Student Mentorships** <br>
-* <b>Co-supervisor</b>, Providing advice/guidance to students. 
-
 **Peer Review/Editorial** <br>
 * <b>Journal Referee</b>, Peer-reviewing papers for journal publications. \
   <i> 1. Physical Review D </i> <br>
@@ -101,6 +98,12 @@ Beyond publishing research, I try to support students, contribute to peer review
 
 **Personal Blog**  
 - [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life. 
+
+<h2 style="color:#900C3F">Student Mentorships </h2>
+
+I enjoy mentoring students and believe that every student is different. I encourage them to learn by themselves first, while offering help when needed. 
+
+See: <a href="https://ajarifi.github.io/students/"> Students </a> <br>
 
 <h2 style="color:#900C3F"> Leadership & activities </h2>
 I see leadership and scientific activities as opportunities to give back, strengthen the community, and help it grow by bringing people together. <br>
