@@ -128,10 +128,10 @@ I value being part of and contributing to the scientific community.
 
 I mainly use Julia and Python in my research, with additional experience in Mathematica and Fortran.
 
-* Julia (Main-1)
-* Python (Main-2)
-* Mathematica (Sometimes)
-* Fortran (In the past)
+* Julia
+* Python 
+* Mathematica
+* Fortran 
 
 <h2 style="color:#900C3F"> Language </h2>
 
