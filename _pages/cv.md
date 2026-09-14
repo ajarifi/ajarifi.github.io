@@ -106,11 +106,13 @@ Beyond publishing research, I value building the scientific community, mentoring
 <h2 style="color:#900C3F"> Leadership & activities </h2>
 
 **Leadership** <br>
+I value leadership as an opportunity to support the community.
+
 * <b> President</b>, Indonesian student association in Osaka & Nara, 2016-2017 \
-  <i> Responsible for the activity of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
+  <i> Responsible for the activities of the association for one year. </i> <a href="/files/LPJ_PPION17.pdf">(Report)</a>
 
 **Activities** <br>
-I enjoy organizing scientific events, such as seminar and workshops.
+I enjoy organizing scientific events, such as seminars and workshops.
 
 * <b>Chair</b>, International Workshop on Quark Structure of Hadron, \
   RIKEN, Japan, Aug 2024 <a href="https://indico2.riken.jp/event/4881/">(Indico)</a> 
@@ -120,14 +122,14 @@ I enjoy organizing scientific events, such as seminar and workshops.
 See: <a href="https://ajarifi.github.io/activity/">My activities</a> <br>
 
 
-<h2 style="color:#900C3F"> Society </h2>
+<h2 style="color:#900C3F"> Academic Societies </h2>
 I value being part of and contributing to the scientific community.
 
 * The Physical Society of Japan
 * The Korean Physical Society
 * Physical Society of Indonesia
 
-<h2 style="color:#900C3F"> Programming skill</h2>
+<h2 style="color:#900C3F"> Programming skills</h2>
 
 I mainly use Julia and Python in my research, with additional experience in Mathematica and Fortran.
 
@@ -136,7 +138,7 @@ I mainly use Julia and Python in my research, with additional experience in Math
 * Mathematica
 * Fortran 
 
-<h2 style="color:#900C3F"> Language </h2>
+<h2 style="color:#900C3F"> Languages </h2>
 
 I am eager to learn new languages, particularly those spoken in the country where I live, 
 to deepen my understanding of the local culture and community.
