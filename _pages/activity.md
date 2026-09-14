@@ -74,6 +74,9 @@ Please feel free to reach out if you would like to involve me in organizing semi
 <!-- Past -->
 <details>
   <summary>📚 Past Activities</summary>
+  <p style="margin-top:20px;margin-bottom: 20px;">
+  Browse my past activities including organizing workshops and seminars.
+  </p>
 
   <!-- 2025 -->
   <details>
