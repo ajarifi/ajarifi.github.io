@@ -74,8 +74,8 @@ My research focuses on hadron physics, with particular interests in hadron spect
     <li><a href="https://inspirehep.net/authors/1705246">Samson Clymton</a></li>
     <li><a href="https://orcid.org/0009-0001-5222-9726">Shuhei Ohno</a></li>
     <li><a href="https://inspirehep.net/authors/998691">Terry Mart</a> (B.S. Advisor)</li>
-    <li><a href="#">Yongwoo Choi</a></li>
     <li><a href="https://inspirehep.net/authors/995116">Yongseok Oh</a></li>
+    <li><a href="#">Yongwoo Choi</a></li>
 </ol>
 
 <h3 style="color:#900C3F"> Past and present institutions</h3>
