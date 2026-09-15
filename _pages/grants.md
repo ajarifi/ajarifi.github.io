@@ -46,8 +46,8 @@ My research has been supported by various scholarships and grants, motivating me
     <summary>Recent grants</summary>
       <ol reversed>
         
-        <li> <b>A. J. Arifi. KAKENHI Early-Career Scientists. JSPS. </b> <br>
-          <button class="btn--article">Competitive grant</button> <span style="color:#900C3F">Principal Investigator</span>, Japan, 2026-2028 (3 years), 3.400.000 JPY
+        <li> <b>A. J. Arifi. KAKENHI Grant-in-aid Early-Career Scientists. JSPS. </b> <br>
+          <button class="btn--article">Competitive grant</button> <span style="color:#900C3F">Principal Investigator</span>, Japan, 2026-2029 (3 years), 3.400.000 JPY
         </li>
       
         <li> <b>D. Samart, et.al. APCTP Program Category 4: 2nd Southeast asean workshop on nuclear and hadron physics (SEA-NHP). </b> <br>
