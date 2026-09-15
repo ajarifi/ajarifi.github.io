@@ -71,7 +71,7 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 * I have joined many SNP (Strangenss Nuclear Physics) schools 
 * I have also given seminars at various institutes
 
-<h2 style="color:#900C3F"> Research Grants </h2>
+<h2 style="color:#900C3F"> Research grants </h2>
 My research has been supported by various scholarships and grants, 
 motivating me to make meaningful and useful contributions to science and society. <br>
 
@@ -99,11 +99,15 @@ Beyond publishing research, I try to support students, contribute to peer review
 **Personal Blog**  
 - [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life. 
 
-<h2 style="color:#900C3F">Student Mentorships </h2>
+<h2 style="color:#900C3F">Student mentorships </h2>
 
 I enjoy mentoring students and believe that every student is different. I encourage them to learn by themselves first, while offering help when needed. 
 
-See: <a href="https://ajarifi.github.io/students/"> Students </a> <br>
+* Co-supervising a couple of students from Indonesia and Thailand.
+* Giving a career talk in International physics course (IPC) program 2025, Osaka University.
+* Hosting a summer intern for a few weeks at Japan atomic energy agency.
+
+See: <a href="https://ajarifi.github.io/students/"> Mentorships </a> <br>
 
 <h2 style="color:#900C3F"> Leadership & activities </h2>
 I see leadership and scientific activities as opportunities to give back, strengthen the community, and help it grow by bringing people together. <br>
