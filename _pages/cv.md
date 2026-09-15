@@ -75,6 +75,11 @@ See: <a href="https://ajarifi.github.io/talks/">My talks</a>
 My research has been supported by various scholarships and grants, 
 motivating me to make meaningful and useful contributions to science and society. <br>
 
+* KAKENHI Early-Career Scientists (Wakate), 2026-2029
+* RCNP Core-net, 2025-2027
+* APCTP program category 2, 2026
+* RIKEN SPDR research grant, 2023-2026
+
 See: <a href="https://ajarifi.github.io/grants/">My grants</a> 
 
 <h2 style="color:#900C3F"> Awards </h2>
@@ -86,18 +91,12 @@ I am grateful to have received several awards recognizing my technical expertise
 
  
 <h2 style="color:#900C3F"> Community service </h2>
-Beyond publishing research, I try to support students, contribute to peer review, and promote science whenever my time allows.
+Beyond publishing research, I try to contribute to peer review and promote science whenever my time allows.
 
-**Peer Review/Editorial** <br>
-* <b>Journal Referee</b>, Peer-reviewing papers for journal publications. \
-  <i> 1. Physical Review D </i> <br>
-
-* <b>Conference Referee/Editor</b>, Part of editors/referees for conference proceedings. \
-  <i> 1. 11th International Conference on Theoretical and Applied Physics, Indonesia, 2021 </i> \
-  <i> 2. Southeast asian workshop on nuclear and hadron physics (SEA-NHP), Indonesia, 2025 </i> 
-
-**Personal Blog**  
-- [hadronid.github.io](https://hadronid.github.io/) — Personal blog on hadron physics and academic life. 
+* <b>Journal referee</b> — Reviewing manuscripts for scientific journals (Physical Review D).
+* <b>Conference proceedings referee</b> — Reviewing manuscripts for conference proceedings (ICTAP 2021).
+* <b>Special issue editor</b> — Serving as an editor for a journal special issue (SEA-NHP 2025).
+* <b>Personal blog</b> [hadronid.github.io](https://hadronid.github.io/) — Sharing topics on hadron physics and academic life.
 
 <h2 style="color:#900C3F">Student mentorships </h2>
 
