@@ -14,9 +14,6 @@ Advanced Science Research Center, JAEA <br>
 E-mail: arifi.jafar(at)jaea.go.jp (for official use only)<br>
 E-mail: aj.arifi01(at)gmail.com <br>
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fajarifi.github.io%2F&label=visitors+%28today%2Ftotal%29&icon=github&color=%23cfe2ff&message=&style=flat&tz=Japan)
-
-
 
 <p style="margin-bottom:1.2cm;"></p>
 
