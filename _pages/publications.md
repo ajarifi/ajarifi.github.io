@@ -222,7 +222,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
         <b>Antique.jl: A Julia package on analytical solutions of quantum mechanical equations</b>
         <span class="pub-number">#38</span>
     </div>   
-  <button class="btn--article">Article</button> S. Ohno, <b>A. J. Arifi</b>, and L. Happ (2026)<br> 
+  <button class="btn--article">Article</button> S. Ohno, <b>A. J. Arifi</b>, and L. Happ (Aug, 2026)<br> 
   Repo: <a href="https://github.com/ohno/Antique.jl"> github.com/ohno/Antique.jl </a> </div>
 
   <div class="filterDiv proceeding">
@@ -230,7 +230,7 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
             <b>Preface: Status and future perspectives on nuclear and hadron structure - Selected publications from the SEA-NHP 2025</b>
             <span class="pub-number">#37</span>
         </div>  
-  <button class="btn--article-black">S. Issue</button>&nbsp; P. T. P. Hutauruk, <b> A. J. Arifi</b>, and C. Setyadi (July 31, 2026) <br> 
+  <button class="btn--article-black">S. Issue</button>&nbsp; P. T. P. Hutauruk, <b> A. J. Arifi</b>, and C. Setyadi (Jul 31, 2026) <br> 
   Published in: <i><a href="https://doi.org/10.1142/S0217732326020037">Mod. Phys. Lett. A 41, 2602003 (2026) </a></i> &middot; 
   Contribution to: <a href="https://indico.global/event/13949/"> SEA-NHP 2025 </a> (Yogyakarta, Indonesia)</div>
   
