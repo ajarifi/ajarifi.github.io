@@ -88,7 +88,7 @@ My research has been supported by various scholarships and grants, motivating me
           Period: 2024–2025 (1 year). Amount: 500.000 JPY.
         </li>
         
-        <li> <b>Special postdoctoral researcher (SPDR) grant, RIKEN. </b> <br>
+        <li> <b>RIKEN Special postdoctoral researcher (SPDR) grant. </b> <br>
           <button class="btn--article-black">Internal grant</button> A. J. Arifi (PI). RIKEN, Japan. <br> 
           Period: 2023–2026 (3 years). Amount: 1.000.000 JPY/year.
         </li>
