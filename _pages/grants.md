@@ -46,23 +46,23 @@ My research has been supported by various scholarships and grants, motivating me
     <summary>Recent grants</summary>
       <ol reversed>
         
-        <li> <b>KAKENHI Grant-in-aid Early-Career Scientists. JSPS. </b> <br>
-          <button class="btn--article">Competitive grant</button> A. J. Arifi. (PI), Japan. <br> 
+        <li> <b>KAKENHI Grant-in-aid Early-Career Scientists. </b> <br>
+          <button class="btn--article">Competitive grant</button> A. J. Arifi (PI). JSPS, Japan. <br> 
           Period: 2026-2029 (3 years). Amount: 3.400.000 JPY.
         </li>
       
         <li> <b>APCTP Program Category 4: 2nd Southeast asean workshop on nuclear and hadron physics (SEA-NHP). </b> <br>
-          <button class="btn--article-blue">Workshop grant</button> D. Samart, et.al. (Co-PI), South Korea. <br>
+          <button class="btn--article-blue">Workshop grant</button> D. Samart, et.al (Co-PI). APCTP, South Korea. <br>
           Period: 2026 (1 year). Amount: 4.000.000 KRW.
         </li>
       
         <li> <b>APCTP Program Category 2: International workshop on origin of mass and matter in the universe. </b> <br>
-          <button class="btn--article-blue">Workshop grant</button> A. J. Arifi, et. al. (PI), South Korea. <br>
+          <button class="btn--article-blue">Workshop grant</button> A. J. Arifi, et. al (PI). APCTP, South Korea. <br>
           Period: 2026 (1 year). Amount: 5.000.000 KRW.
         </li>
 
-        <li> <b>COREnet Program, Research Center for Nuclear Physics (RCNP)</b> <br>
-          <button class="btn--article">Competitive grant</button>  A. J. Arifi, et. al. (PI), Japan. <br>
+        <li> <b>RCNP COREnet Program</b> <br>
+          <button class="btn--article">Competitive grant</button>  A. J. Arifi, et. al (PI). RCNP, Japan. <br>
           Period: 2025–2027 (2 years). Amount: 420.000 JPY.
         </li>
         
@@ -73,28 +73,28 @@ My research has been supported by various scholarships and grants, motivating me
     <summary>Past grants</summary>
       <ol reversed>
         
-        <li> <b> PUTI Q1, Universitas Indonesia. </b> <br>
-          <button class="btn--article">Competitive grant</button> T. Mart, et. al. (Member), Indonesia. <br>
+        <li> <b> PUTI Q1 Universitas Indonesia. </b> <br>
+          <button class="btn--article">Competitive grant</button> T. Mart, et. al, (Member). Universitas Indonesia, Indonesia. <br>
           Period: 2025–2026 (1 year).  Amount: 100.000.000 IDR.
         </li>
             
-        <li><b>Postdoctoral research grant. Japan atomic energy agency </b>  <br>
-          <button class="btn--article-black">Internal grant</button>  A. J. Arifi. (PI), Japan. <br>
+        <li><b>JAEA postdoctoral research grant</b>  <br>
+          <button class="btn--article-black">Internal grant</button>  A. J. Arifi (PI). JAEA, Japan. <br>
           Period: 2025–2026 (1 year). Amount: 500.000 JPY.
         </li> 
         
-        <li> <b>Additional SPDR grant, RIKEN. </b>  <br>
-          <button class="btn--article">Competitive grant</button> A. J. Arifi. (PI), Japan. <br>
+        <li> <b>Additional RIKEN SPDR grant. </b>  <br>
+          <button class="btn--article">Competitive grant</button> A. J. Arifi (PI). RIKEN, Japan. <br>
           Period: 2024–2025 (1 year). Amount: 500.000 JPY.
         </li>
         
         <li> <b>Special postdoctoral researcher (SPDR) grant, RIKEN. </b> <br>
-          <button class="btn--article-black">Internal grant</button> A. J. Arifi. (PI), Japan. <br> 
+          <button class="btn--article-black">Internal grant</button> A. J. Arifi (PI). RIKEN, Japan. <br> 
           Period: 2023–2026 (3 years). Amount: 1.000.000 JPY/year.
         </li>
       
-        <li> <b>Young Scientist Training (YST) Program, APCTP. </b>  <br>
-          <button class="btn--article-black">Internal grant</button> A. J. Arifi. (PI), South Korea. <br>
+        <li> <b>APCTP Young Scientist Training Program. </b>  <br>
+          <button class="btn--article-black">Internal grant</button> A. J. Arifi, (PI). APCTP, South Korea. <br>
           Period: 2021–2023 (2 years). Amount: 5.000.000 KRW/year.
         </li>
         
