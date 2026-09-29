@@ -185,6 +185,15 @@ Credit: <a href="https://www.fla-shop.com/visited-countries/">Fla-shop.com</a>
   </ul>
 </details>
 
+<!-- Australia -->
+<details>
+  <summary>🇦🇺 Australia</summary>
+
+  <h3>Conferences</h3>
+  <ul class="checklist">
+    <li>Cairns, organized by University of Adelaide</li>
+  </ul>
+</details>
 
 <!-- Italy -->
 <details>
