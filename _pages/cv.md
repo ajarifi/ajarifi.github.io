@@ -157,6 +157,6 @@ I hold several licenses and qualifications that support my professional activiti
 <h2 style="color:#900C3F"> Others </h2>
 
 * <a href="https://www.slow-science.com/index.html">Slow Science movement</a> (signed, 2026)
-* Katsuta Marathon 10 km finisher, 2025
+* Katsuta Marathon 10 km finisher, 2026
 
   
