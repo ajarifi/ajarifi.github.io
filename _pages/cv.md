@@ -151,8 +151,8 @@ to deepen my understanding of the local culture and community.
 I hold several licenses and qualifications that support my professional activities.
 
 * Japanese Driver’s License, 2025
-* Japanese language proficiency test (JLPT), N2, 2024 (Advanced level)
-* Korean language proficiency test (TOPIK I), level 2, 2022 (Conversational)
+* Japanese language proficiency test (JLPT), N2, 2024
+* Korean language proficiency test (TOPIK I), level 2, 2022
 
 <h2 style="color:#900C3F"> Others </h2>
 
