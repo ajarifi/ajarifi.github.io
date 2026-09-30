@@ -143,7 +143,20 @@ to deepen my understanding of the local culture and community.
 
 * Indonesian (Native)
 * English (Fluent)
-* Japanese (Advanced level)\
-  <i> Passed JLPT - N2 (2024): <a href="https://www.jlpt.jp/e/about/levelsummary.html"> (Description)</a> </i>
-* Korean (Beginner level)\
-  <i> Passed TOPIK I - level 2 (2022): <a href="https://en.wikipedia.org/wiki/Test_of_Proficiency_in_Korean"> (Description)</a> </i>
+* Japanese (Advanced level)
+* Korean (Conversational)
+
+<h2 style="color:#900C3F"> Licenses </h2>
+
+I hold several licenses and qualifications that support my professional activities.
+
+* Japanese Driver’s License, 2025
+* Japanese language proficiency test (JLPT), N2, 2024 (Advanced level)
+* Korean language proficiency test (TOPIK I), level 2, 2022 (Conversational)
+
+<h2 style="color:#900C3F"> Others </h2>
+
+* <a href="https://www.slow-science.com/index.html">Slow Science movement</a> (signed, 2026)
+* Katsuta Marathon 10 km finisher, 2025
+
+  
