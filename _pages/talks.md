@@ -50,7 +50,7 @@ I am happy to accept invitations for talks, subject to time, budget, and family 
  
      <li><b>HIC/HEQCD-NS joint meeting</b><br> 
       <button class="btn--article-black">Seminar</button>&nbsp; <span style="color:#900C3F">Speaker</span>, 
-      Tokyo, Japan. [Nov/Dec 2026(TBA)] <br> </li> 
+      University of Tokyo, Japan. (Nov 14, 2026) <br> </li> 
 
       <li><b>Fundamental Problems in Subatomic Physics 2026</b><br> 
       <button class="btn--article-blue">Workshop</button> <span style="color:#900C3F">Speaker</span>, 
