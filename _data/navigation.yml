@@ -29,8 +29,10 @@ main:
     
   - title: "Visits"
     url: /visits/ 
+    
   - title: "Life in Tokai”
-  　url: /tokai-mura/
+    url: /tokai-mura/   
+   
   # - title: "Teaching"
   #   url: /teaching/
   
