@@ -1,5 +1,5 @@
 ---
-title: "東海村生活"
+title: "Life in Tokai"
 permalink: /tokai-mura/
 author_profile: false
 ---
