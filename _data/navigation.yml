@@ -28,10 +28,7 @@ main:
     url: /activities/
     
   - title: "Visits"
-    url: /visits/ 
-    
-  - title: "Life in Tokai”
-    url: /tokai/   
+    url: /visits/   
    
   # - title: "Teaching"
   #   url: /teaching/
