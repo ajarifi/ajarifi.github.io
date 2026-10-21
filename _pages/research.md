@@ -121,7 +121,7 @@ author_profile: false
 
 
 <section class="rq-saga" id="extreme-fields" data-saga="extreme-fields" aria-labelledby="h-extreme-fields">
-<div class="rq-saga-head"><span class="rq-saga-index">04</span><span class="rq-status">Ongoing</span></div>
+<div class="rq-saga-head"><span class="rq-saga-index">04</span><span class="rq-status">Published</span></div>
 <h2 id="h-extreme-fields">Extreme Fields</h2><p class="rq-kicker">Magnetic fields · exceptional points</p>
 <div class="rq-copy"><p><strong>The central question:</strong> How do hadronic bound states respond to intense external fields and unconventional interactions?</p>
 <p>I investigate heavy quarkonia in strong magnetic fields using theoretical Hamiltonians and numerical bound-state calculations. These studies explore spectral shifts, wave-function deformation, spin mixing, anisotropic confinement, and non-Hermitian phenomena such as exceptional points.</p>
