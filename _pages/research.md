@@ -24,7 +24,9 @@ author_profile: false
 <header class="rq-hero">
 <div class="rq-eyebrow">Research interests · Quantum Chromodynamics</div>
   
-<h1>The QCD Grand Line</h1>
+<h1 style="font-size: clamp(1.5rem, 4vw, 2.6rem); white-space: nowrap; letter-spacing: -0.5px;">
+  The QCD Grand Line
+</h1>
 <p>A journey through the fascinating world of QCD, exploring the fundamental nature of strongly interacting matter. Each <strong>saga</strong> is a major research direction; each <strong>arc</strong> explores a focused scientific question.</p> 
 <p class="rq-sub">I develop theoretical descriptions of strongly interacting systems and connect their predictions with experiments and lattice QCD.</p>
 <a class="rq-jump" href="#spectroscopy">Explore the research sagas ↓</a>
