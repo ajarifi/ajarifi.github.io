@@ -29,7 +29,8 @@ main:
     
   - title: "Visits"
     url: /visits/ 
-  
+  - title: "東海村生活”
+  　url: /tokai-mura/
   # - title: "Teaching"
   #   url: /teaching/
   
