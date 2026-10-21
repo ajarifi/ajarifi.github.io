@@ -1,5 +1,4 @@
 ---
-title: "Research Interests"
 permalink: /research/
 author_profile: false
 ---
@@ -17,36 +16,70 @@ author_profile: false
 @media(max-width:760px){.research-quest .rq-layout{grid-template-columns:1fr}.research-quest .rq-side{position:relative;top:auto;padding:4px 0;display:flex;overflow-x:auto;gap:4px;scrollbar-width:thin}.research-quest .rq-side-title{display:none}.research-quest .rq-side a{white-space:nowrap;border-left:0;border-bottom:2px solid var(--rq-border);font-size:.8rem;flex:none}.research-quest .rq-side .rq-small{display:none}.research-quest .rq-hero{border-radius:12px}.research-quest .rq-saga{scroll-margin-top:20px}}
 @media(prefers-reduced-motion:reduce){.research-quest *, .research-quest *:before, .research-quest *:after{transition:none!important;scroll-behavior:auto!important}}
 </style>
+
+
 <div class="research-quest" id="research-top">
+
+  
 <header class="rq-hero">
 <div class="rq-eyebrow">Research interests · Quantum Chromodynamics</div>
+  
 <h1>The QCD Grand Line</h1>
-<p>A journey through hadron spectroscopy, relativistic structure, nuclear matter, extreme fields, and the quantum vacuum. Each <strong>saga</strong> is a major research direction; each <strong>arc</strong> explores a focused scientific question.</p>
+<p>A journey through the fascinating world of QCD, exploring the fundamental nature of strongly interacting matter. Each <strong>saga</strong> is a major research direction; each <strong>arc</strong> explores a focused scientific question.</p> 
 <p class="rq-sub">I develop theoretical descriptions of strongly interacting systems and connect their predictions with experiments and lattice QCD.</p>
 <a class="rq-jump" href="#spectroscopy">Explore the research sagas ↓</a>
 </header>
+
+  
 <div class="rq-progress" aria-hidden="true"><div class="rq-progress-fill"></div></div>
-<div class="rq-layout"><nav class="rq-side" aria-label="Research saga navigation"><p class="rq-side-title">Choose a saga</p><a href="#spectroscopy" data-nav="spectroscopy"><span class="rq-small">SAGA 01</span>Hadron Spectroscopy</a><a href="#light-front" data-nav="light-front"><span class="rq-small">SAGA 02</span>Light-Front Structure</a><a href="#nuclear-matter" data-nav="nuclear-matter"><span class="rq-small">SAGA 03</span>Nuclear Matter</a><a href="#extreme-fields" data-nav="extreme-fields"><span class="rq-small">SAGA 04</span>Extreme Fields</a><a href="#quantum-vacuum" data-nav="quantum-vacuum"><span class="rq-small">SAGA 05</span>Quantum Vacuum</a></nav><main class="rq-main">
+
+<div class="rq-layout">
+  <nav class="rq-side" aria-label="Research saga navigation">
+    <p class="rq-side-title">Choose a saga</p>
+    <a href="#spectroscopy" data-nav="spectroscopy"><span class="rq-small">SAGA 01</span>Hadron Spectroscopy</a>
+    <a href="#light-front" data-nav="light-front"><span class="rq-small">SAGA 02</span>Light-Front Structure</a>
+    <a href="#nuclear-matter" data-nav="nuclear-matter"><span class="rq-small">SAGA 03</span>Nuclear Matter</a>
+    <a href="#extreme-fields" data-nav="extreme-fields"><span class="rq-small">SAGA 04</span>Extreme Fields</a>
+  </nav>
+  
+<main class="rq-main">
+
 <section class="rq-saga" id="spectroscopy" data-saga="spectroscopy" aria-labelledby="h-spectroscopy">
-<div class="rq-saga-head"><span class="rq-saga-index">01 / 05</span><span class="rq-status">Published</span></div>
-<h2 id="h-spectroscopy">Hadron Spectroscopy</h2><p class="rq-kicker">Resonances · production · decays</p>
+  
+<div class="rq-saga-head"><span class="rq-saga-index">01 </span> <span class="rq-status">Published</span></div>
+<h2 id="h-spectroscopy">Hadron Spectroscopy</h2> 
+<p class="rq-kicker">Resonances · production · decays</p>
+
 <div class="rq-copy"><p><strong>The central question:</strong> How are hadronic resonances formed, and what can their production and decays tell us about their internal structure?</p>
 <p>My work investigates hadron resonances using quark models, effective interactions, and analyses of multi-body decays. In particular, angular distributions and Dalitz plots offer valuable information about resonance properties, including their spin and parity.</p>
+
 <h3>Research arcs</h3>
 <ul>
 <li><strong>Heavy-baryon decay arc:</strong> Relativistic effects in hadronic decay processes.</li>
 <li><strong>Three-body decay arc:</strong> Using sequential decays and angular correlations to identify excited baryons.</li>
 <li><strong>Roper-like resonance arc:</strong> Excitations and two-pion emission across different flavor sectors.</li>
 </ul>
-</div><details class="rq-pubs"><summary>Selected publications <span aria-hidden="true">↗</span></summary><div class="rq-pub-body"><ol>
-<li><strong>Relativistic corrections to decays of heavy baryons in the quark model.</strong> A. J. Arifi, D. Suenaga, and A. Hosaka. <em>Phys. Rev. D</em> <strong>103</strong>, 094003 (2021). <a href="https://doi.org/10.1103/PhysRevD.103.094003">Journal</a> · <a href="https://arxiv.org/abs/2102.03754">arXiv:2102.03754</a></li>
-<li><strong>Roper-like resonances with various flavor contents and their two-pion emission decays.</strong> A. J. Arifi, H. Nagahiro, A. Hosaka, and K. Tanida. <em>Phys. Rev. D</em> <strong>101</strong>, 111502(R) (2020). <a href="https://doi.org/10.1103/PhysRevD.101.111502">Journal</a> · <a href="https://arxiv.org/abs/2004.07423">arXiv:2004.07423</a></li>
-<li><strong>Three-body decay of Λ<sub>c</sub>(2765) and determination of its spin-parity.</strong> A. J. Arifi, H. Nagahiro, A. Hosaka, and K. Tanida. <em>Phys. Rev. D</em> <strong>101</strong>, 094023 (2020). <a href="https://doi.org/10.1103/PhysRevD.101.094023">Journal</a> · <a href="https://arxiv.org/abs/2003.08202">arXiv:2003.08202</a></li>
+</div>
+
+<details class="rq-pubs"><summary>Selected publications <span aria-hidden="true">↗</span></summary><div class="rq-pub-body">
+  <ol>
+    <li><strong>Relativistic corrections to decays of heavy baryons in the quark model.</strong> A. J. Arifi, D. Suenaga, and A. Hosaka. 
+      <em>Phys. Rev. D</em> <strong>103</strong>, 094003 (2021). <a href="https://doi.org/10.1103/PhysRevD.103.094003">Journal</a> · 
+      <a href="https://arxiv.org/abs/2102.03754">arXiv:2102.03754</a></li>
+    <li><strong>Roper-like resonances with various flavor contents and their two-pion emission decays.</strong> A. J. Arifi, H. Nagahiro, A. Hosaka, and K. Tanida. 
+      <em>Phys. Rev. D</em> <strong>101</strong>, 111502(R) (2020). <a href="https://doi.org/10.1103/PhysRevD.101.111502">Journal</a> · 
+      <a href="https://arxiv.org/abs/2004.07423">arXiv:2004.07423</a></li>
+    <li><strong>Three-body decay of Λ<sub>c</sub>(2765) and determination of its spin-parity.</strong> A. J. Arifi, H. Nagahiro, A. Hosaka, and K. Tanida. 
+      <em>Phys. Rev. D</em> <strong>101</strong>, 094023 (2020). <a href="https://doi.org/10.1103/PhysRevD.101.094023">Journal</a> · 
+      <a href="https://arxiv.org/abs/2003.08202">arXiv:2003.08202</a></li>
 </ol>
-</div></details>
+</div>
+</details>
 </section>
+
+
 <section class="rq-saga" id="light-front" data-saga="light-front" aria-labelledby="h-light-front">
-<div class="rq-saga-head"><span class="rq-saga-index">02 / 05</span><span class="rq-status">Published</span></div>
+<div class="rq-saga-head"><span class="rq-saga-index">02</span><span class="rq-status">Published</span></div>
 <h2 id="h-light-front">Light-Front Structure</h2><p class="rq-kicker">Wave functions · distribution amplitudes</p>
 <div class="rq-copy"><p><strong>The central question:</strong> How do quarks share momentum and organize themselves inside hadrons?</p>
 <p>I use the <strong>light-front quark model (LFQM)</strong> to study hadrons in a relativistic framework. Light-front wave functions connect spectroscopy to observables such as decay constants, distribution amplitudes, and form factors. An important part of this research is testing whether physical predictions remain consistent across different current components, polarization choices, and reference frames.</p>
@@ -65,8 +98,10 @@ author_profile: false
 </ol>
 </div></details>
 </section>
+
+
 <section class="rq-saga" id="nuclear-matter" data-saga="nuclear-matter" aria-labelledby="h-nuclear-matter">
-<div class="rq-saga-head"><span class="rq-saga-index">03 / 05</span><span class="rq-status">Published</span></div>
+<div class="rq-saga-head"><span class="rq-saga-index">03 </span><span class="rq-status">Published</span></div>
 <h2 id="h-nuclear-matter">Nuclear Matter</h2><p class="rq-kicker">In-medium hadrons · QMC</p>
 <div class="rq-copy"><p><strong>The central question:</strong> How does the surrounding nuclear environment change the properties of hadrons?</p>
 <p>Hadrons embedded in nuclear matter can have properties different from those in vacuum. I study these changes by combining the <strong>quark–meson coupling (QMC) model</strong>, light-front methods, and effective hadronic interactions. The aim is to understand in-medium modifications of masses, decay properties, and internal structure, and to connect predictions with experimental measurements.</p>
@@ -76,13 +111,17 @@ author_profile: false
 <li><strong>Quark–meson coupling arc:</strong> How the nuclear environment influences constituent quarks.</li>
 <li><strong>Phi-meson arc:</strong> Medium-dependent mass and width, including polarization effects.</li>
 </ul>
-</div><details class="rq-pubs"><summary>Selected publications <span aria-hidden="true">↗</span></summary><div class="rq-pub-body"><ol>
+</div>
+  
+  <details class="rq-pubs"><summary>Selected publications <span aria-hidden="true">↗</span></summary><div class="rq-pub-body"><ol>
 <li><strong>In-medium properties of the light and heavy-light mesons in a light-front quark model.</strong> A. J. Arifi, P. T. P. Parada, and K. Tsushima. <em>Phys. Rev. D</em> <strong>107</strong>, 114010 (2023). <a href="https://doi.org/10.1103/PhysRevD.107.114010">Journal</a> · <a href="https://arxiv.org/abs/2302.12382">arXiv:2302.12382</a></li>
 </ol>
 </div></details>
 </section>
+
+
 <section class="rq-saga" id="extreme-fields" data-saga="extreme-fields" aria-labelledby="h-extreme-fields">
-<div class="rq-saga-head"><span class="rq-saga-index">04 / 05</span><span class="rq-status">Ongoing</span></div>
+<div class="rq-saga-head"><span class="rq-saga-index">04</span><span class="rq-status">Ongoing</span></div>
 <h2 id="h-extreme-fields">Extreme Fields</h2><p class="rq-kicker">Magnetic fields · exceptional points</p>
 <div class="rq-copy"><p><strong>The central question:</strong> How do hadronic bound states respond to intense external fields and unconventional interactions?</p>
 <p>I investigate heavy quarkonia in strong magnetic fields using theoretical Hamiltonians and numerical bound-state calculations. These studies explore spectral shifts, wave-function deformation, spin mixing, anisotropic confinement, and non-Hermitian phenomena such as exceptional points.</p>
@@ -91,27 +130,18 @@ author_profile: false
 <li><strong>Quarkonia in magnetic fields:</strong> Mass spectra, state mixing, and wave-function structure.</li>
 <li><strong>Anisotropic confinement:</strong> Direction-dependent modifications of the confining interaction.</li>
 <li><strong>Hadronic exceptional points:</strong> Non-Hermitian spectral degeneracies and level attraction.</li>
-<li><strong>Glasma and hadrons:</strong> Exploring the response of hadrons to time-dependent color backgrounds.</li>
 </ul>
-<p><em>Selected results and ongoing projects will be added here.</em></p>
 </div>
+<details class="rq-pubs"><summary>Selected publications <span aria-hidden="true">↗</span></summary><div class="rq-pub-body"><ol>
+<li><strong>Structure of heavy quarkonia in a strong magnetic field.</strong> A. J. Arifi, and K. Suzuki. <em>Phys. Rev. D</em> <strong>112</strong>, 094013 (2025). <a href="https://doi.org/10.1103/pwsl-xrq5">Journal</a> · <a href="https://arxiv.org/abs/2507.18894">arXiv:2507.18894</a></li>
+</ol>
+</div></details>
 </section>
-<section class="rq-saga" id="quantum-vacuum" data-saga="quantum-vacuum" aria-labelledby="h-quantum-vacuum">
-<div class="rq-saga-head"><span class="rq-saga-index">05 / 05</span><span class="rq-status">Ongoing</span></div>
-<h2 id="h-quantum-vacuum">Quantum Vacuum</h2><p class="rq-kicker">Schwinger effect · complex fields</p>
-<div class="rq-copy"><p><strong>The central question:</strong> What new quantum phenomena emerge when electromagnetic backgrounds are extended beyond conventional real fields?</p>
-<p>This research direction explores the <strong>Schwinger effect</strong>, in which a strong electric field can produce particle–antiparticle pairs from the quantum vacuum. I am particularly interested in the role of real, imaginary, and complex magnetic fields and in the relation between proper-time calculations, Landau levels, and worldline instantons.</p>
-<h3>Research arcs</h3>
-<ul>
-<li><strong>Schwinger effect arc:</strong> Pair production in electric and magnetic backgrounds.</li>
-<li><strong>Complex Landau-level arc:</strong> Spectral structure under imaginary magnetic fields.</li>
-<li><strong>Worldline instanton arc:</strong> Semiclassical descriptions of vacuum pair production.</li>
-<li><strong>Non-Hermitian lattice arc:</strong> Effective imaginary gauge fields in lattice models.</li>
-</ul>
-<p><em>This saga represents current and developing research.</em></p>
-</div>
-</section>
+
+
 <footer class="rq-end"><strong>The journey continues.</strong><p>Across these themes, the goal remains the same: understanding strongly interacting matter from its internal constituents to its behavior under extraordinary conditions.</p><a href="#research-top">↑ Back to top</a></footer></main></div></div>
+
+
 <script>
 (function(){
   function init(){
