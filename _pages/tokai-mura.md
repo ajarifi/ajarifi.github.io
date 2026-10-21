@@ -1,6 +1,6 @@
 ---
 title: "Life in Tokai"
-permalink: /tokai-mura/
+permalink: /tokai/
 author_profile: false
 ---
 
