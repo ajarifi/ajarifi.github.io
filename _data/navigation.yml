@@ -29,7 +29,10 @@ main:
     
   - title: "Visits"
     url: /visits/   
-   
+    
+  - title: "Tokai"
+    url: /tokai/   
+    
   # - title: "Teaching"
   #   url: /teaching/
   
