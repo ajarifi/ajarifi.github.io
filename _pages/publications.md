@@ -217,6 +217,26 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
 <div class="containerz">
 
 
+
+  <div class="filterDiv article">
+    <div class="pub-title">
+        <b>Non-Hermitian Schwinger effect in an imaginary magnetic field</b>
+        <span class="pub-number">#40</span>
+    </div>   
+  <button class="btn--article">Article</button> <b>A. J. Arifi</b> and K. Suzuki (Oct 26, 2026)<br>
+  e-Print: <a href="https://arxiv.org/abs/2610.36080"> 2610.36080  </a> [hep-th]</div>
+  
+
+  <div class="filterDiv article">
+    <div class="pub-title">
+        <b>Medium modification of pseudoscalar meson structure: Distribution amplitudes and parton distribution functions</b>
+        <span class="pub-number">#39</span>
+    </div>   
+  <button class="btn--article">Article</button> M. Ridwan, P. T. P. Hutauruk, <b>A. J. Arifi</b>, and K. Tsushima (Oct 06, 2026)<br>
+  e-Print: <a href="https://arxiv.org/abs/2610.08360"> 2610.08360 </a> [hep-ph]</div>
+
+
+
   <div class="filterDiv article">
     <div class="pub-title">
         <b>Antique.jl: A Julia package on analytical solutions of quantum mechanical equations</b>
