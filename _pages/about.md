@@ -29,7 +29,7 @@ E-mail: aj.arifi01(at)gmail.com <br>
 
 <p align="justify"> I am a theoretical physicist working in nuclear and hadron physics. I earned my Bachelor’s degree from the Department of Physics at Universitas Indonesia in 2015 and completed my Ph.D. in physics at Osaka University in 2020. During my doctoral studies, I also undertook a six-month internship at the Japan Atomic Energy Agency (JAEA), which provided valuable exposure to experimental research environments. Following my Ph.D., I joined the Asia Pacific Center for Theoretical Physics (APCTP), South Korea, as a Young Scientist Training (YST) Fellow. I later worked at RIKEN, Japan, as a Special Postdoctoral Researcher (SPDR). Currently, I am working at Advanced Science Research Center (ASRC), JAEA. </p>
  
-<center><img src="images/cover.png" alt="cover" width="100%"></center> 
+<!-- <center><img src="images/cover.png" alt="cover" width="100%"></center>  -->
 
 
 <h2 style="color:#000080">  My research </h2>
