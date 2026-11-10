@@ -12,8 +12,8 @@ main:
   #- title: "Collaborations"
   #  url: /collaborations/
 
-  #- title: "Students"
-  #  url: /students/
+  - title: "Menthorship"
+    url: /mentorship/
   
   - title: "Publications"
     url: /publications/

@@ -106,7 +106,7 @@ I enjoy mentoring students and believe that every student is different. I encour
 * Giving a career talk in International physics course (IPC) program 2025, Osaka University.
 * Hosting a summer intern for a few weeks at Japan atomic energy agency.
 
-See: <a href="https://ajarifi.github.io/students/"> Mentorships </a> <br>
+See: <a href="https://ajarifi.github.io/mentorship/"> Mentorships </a> <br>
 
 <h2 style="color:#900C3F"> Leadership & activities </h2>
 I see leadership and scientific activities as opportunities to give back, strengthen the community, and help it grow by bringing people together. <br>
