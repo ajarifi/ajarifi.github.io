@@ -236,7 +236,6 @@ You can also find my publication list on <a href="https://inspirehep.net/authors
   e-Print: <a href="https://arxiv.org/abs/2610.08360"> 2610.08360 </a> [hep-ph]</div>
 
 
-
   <div class="filterDiv article">
     <div class="pub-title">
         <b>Antique.jl: A Julia package on analytical solutions of quantum mechanical equations</b>
