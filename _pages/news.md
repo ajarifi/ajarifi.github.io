@@ -7,6 +7,85 @@ redirect_from:
   - "/nmp.html"
 ---
 
+<style>
+/* Collapsible */
+details {
+  margin-bottom: 1.2cm;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+summary {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: #000080;
+  cursor: pointer;
+}
+
+summary:hover {
+  color: #1a4fbf;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+/* List spacing */
+ol li {
+  margin-bottom: 20px;
+}
+
+
+/* ===== TAGS BASE ===== */
+.btn--article,
+.btn--article-blue,
+.btn--article-black,
+.btn--article-orange,
+.btn--article-red {
+  font-size: 11px;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: transparent;
+  margin-right: 6px;
+  font-weight: 500;
+}
+
+/* ===== ARTICLE (GREEN) ===== */
+.btn--article {
+  color: #1b7f3b;
+  border: 1px solid #1b7f3b;
+  background-color: rgba(27, 127, 59, 0.08);
+}
+
+/* ===== PROCEEDING (BLUE) ===== */
+.btn--article-blue {
+  color: #1f4e9e;
+  border: 1px solid #1f4e9e;
+  background-color: rgba(31, 78, 158, 0.08);
+}
+
+/* ===== THESIS (BLACK) ===== */
+.btn--article-orange {
+  color: #000000;
+  border: 1px solid #000000;
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+/* ===== SPECIAL ISSUE / OTHER ===== */
+.btn--article-black {
+  color: #555;
+  border: 1px solid #999;
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+/* ===== NEWS ===== */
+.btn--article-red {
+  color: #b22222;
+  border: 1px solid #b22222;
+  background-color: rgba(178, 34, 34, 0.08);
+}
+
+</style>
 
 <p align="justify">
 People are growing and so am I. This page tracks my latest updates and key milestones.
@@ -21,9 +100,19 @@ People are growing and so am I. This page tracks my latest updates and key miles
 
 <h2> 2026 </h2>
 
+
+* <button class="btn--article-black">Milestone</button> (2026, 11, 01) <br> 
+  Give a speech in Japanese in Tokai-mura speech show.
+
+* <button class="btn--article-blue">Workshop </button> (2026, 07, 21-24) <br> 
+  First time to organize a workshop in APCTP, South Korea.
+
 * <button class="btn--article-black">Milestone</button> (2026, 04, 01) <br> 
   First time to sucessfully get a Japanese competitive fund (Wakate-Kakenhi).
-  
+
+* <button class="btn--article-black">Milestone</button> (2026, 01, 25) <br> 
+  First time to finish 10 km marathon in Katsuta marathon.
+
 <h2> 2025 </h2>
 
 * <button class="btn--article-black">Milestone</button> (2025, 12, 20) <br> 
