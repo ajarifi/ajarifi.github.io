@@ -2,13 +2,13 @@
 main:
   - title: "CV"
     url: /cv/
-    
-  - title: "News"
-    url: /news/
-    
+
+  #- title: "News"
+  #  url: /news/
+
   - title: "Research"
     url: /research/
-    
+
   #- title: "Collaborations"
   #  url: /collaborations/
 
@@ -17,21 +17,21 @@ main:
   
   - title: "Publications"
     url: /publications/
-    
+  
   - title: "Grants"
     url: /grants/
-    
+  
   - title: "Talks"
     url: /talks/ 
-    
+  
   - title: "Activities"
     url: /activities/
+  
+  #- title: "Visits"
+  #  url: /visits/   
     
-  - title: "Visits"
-    url: /visits/   
-    
-  - title: "Tokai-mura"
-    url: /tokai/   
+  #- title: "Tokai-mura"
+  #  url: /tokai/   
     
   # - title: "Teaching"
   #   url: /teaching/
